@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:32:23.707647Z",
+  "generated_at": "2026-09-24T21:37:27.071574Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,12 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-usulsuz-vatandaslikta-26-tutuklama-3914931",
       "source": "Habertürk",
       "published_at": "2026-09-24T21:23:01Z"
+    },
+    {
+      "title": "TEM Otoyolu'nda 3 aracın karıştığı zincirleme kaza kamerada",
+      "link": "https://www.trthaber.com/haber/turkiye/tem-otoyolunda-3-aracin-karistigi-zincirleme-kaza-kamerada-958057.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-24T21:20:00Z"
     },
     {
       "title": "CHP'ye geçeceği öne sürülen Yeni Partili vekilden yanıt",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/thy-nin-suleymaniye-ucuslari-yeniden-basliyor-3914875",
       "source": "Habertürk",
       "published_at": "2026-09-24T15:14:56Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Türkiye ekonomisine yönelik bir risk söz konusu değil",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkiye-ekonomisine-yonelik-bir-risk-soz-konusu-degil-958031.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T15:12:00Z"
     }
   ]
 }
