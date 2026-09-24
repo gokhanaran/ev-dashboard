@@ -48,8 +48,58 @@
       .day{padding:8px}.newsItem{padding:11px 2px}.newsItem .n{font-size:17px}#note{font-size:20px}
     }
   </style>
+
+  <style id="dakboard-inspired-style">
+    html,body{background:#080b10}
+    body{position:relative;isolation:isolate}
+    .bg-layer{
+      position:fixed;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;
+      opacity:0;transition:opacity 1.8s ease;z-index:0;pointer-events:none;
+      transform:scale(1.015);
+    }
+    .bg-layer.active{opacity:1}
+    .bg-shade{
+      position:fixed;inset:0;z-index:1;pointer-events:none;
+      background:
+        linear-gradient(90deg,rgba(3,8,14,.58) 0%,rgba(3,8,14,.28) 47%,rgba(3,8,14,.48) 100%),
+        linear-gradient(180deg,rgba(0,0,0,.22) 0%,rgba(0,0,0,.12) 50%,rgba(0,0,0,.38) 100%);
+    }
+    .grid{position:relative;z-index:2}
+    .card{
+      background:linear-gradient(180deg,rgba(10,17,25,.58),rgba(8,14,21,.42));
+      border:1px solid rgba(255,255,255,.13);
+      box-shadow:0 12px 34px rgba(0,0,0,.24),inset 0 1px 0 rgba(255,255,255,.035);
+      backdrop-filter:blur(15px) saturate(115%);
+      -webkit-backdrop-filter:blur(15px) saturate(115%);
+    }
+    .clock{
+      background:linear-gradient(180deg,rgba(8,14,21,.46),rgba(8,14,21,.32));
+    }
+    #time{
+      color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.5);
+      font-weight:700;
+    }
+    #date,.small,.day .d{color:rgba(238,246,255,.72)}
+    .title h2,.newsItem .n,#weatherText,#note,.day .t{ text-shadow:0 1px 8px rgba(0,0,0,.32) }
+    .day{
+      background:rgba(7,13,20,.22);
+      border-color:rgba(255,255,255,.12);
+      backdrop-filter:blur(8px);
+      -webkit-backdrop-filter:blur(8px);
+    }
+    .newsItem{border-bottom-color:rgba(255,255,255,.12)}
+    .note{background:rgba(8,14,21,.54)}
+    .status{z-index:3;color:rgba(255,255,255,.36)}
+    @media (max-width:900px){
+      .card{backdrop-filter:blur(11px) saturate(110%);-webkit-backdrop-filter:blur(11px) saturate(110%)}
+    }
+  </style>
+
 </head>
 <body>
+  <img id="bgA" class="bg-layer" alt="" aria-hidden="true">
+  <img id="bgB" class="bg-layer" alt="" aria-hidden="true">
+  <div class="bg-shade" aria-hidden="true"></div>
   <main class="grid">
     <section class="card clock">
       <div id="time">--:--</div>
@@ -82,6 +132,38 @@
 
 <script>
 const $ = s => document.querySelector(s);
+
+const bgLayers=[$("#bgA"),$("#bgB")];
+let activeBg=-1;
+let bgAttempt=0;
+
+function setBackgroundImage(img,url,fallbackUrl){
+  img.onload=()=>{
+    bgLayers.forEach((el,i)=>el.classList.toggle("active",i===bgLayers.indexOf(img)));
+    activeBg=bgLayers.indexOf(img);
+  };
+  img.onerror=()=>{
+    if(fallbackUrl && img.src!==fallbackUrl){
+      img.onerror=null;
+      img.src=fallbackUrl;
+    }
+  };
+  img.src=url;
+}
+
+function rotateBackground(){
+  const minute=Math.floor(Date.now()/60000);
+  const next=activeBg===0?1:0;
+  const target=bgLayers[next<0?0:next];
+  const scenic="https://loremflickr.com/1920/1080/nature,landscape?lock="+minute;
+  const fallback="https://picsum.photos/seed/ev-dashboard-"+minute+"/1920/1080";
+  setBackgroundImage(target,scenic,fallback);
+  bgAttempt++;
+}
+
+rotateBackground();
+setInterval(rotateBackground,60*1000);
+
 const weatherCodes = {
   0:"Açık",1:"Çoğunlukla açık",2:"Parçalı bulutlu",3:"Kapalı",
   45:"Sisli",48:"Kırağılı sis",51:"Hafif çisenti",53:"Çisenti",55:"Yoğun çisenti",
