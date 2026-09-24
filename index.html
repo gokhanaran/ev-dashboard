@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: server-rss-news-json-20260924 -->
+  <!-- build: no-forced-page-reload-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -302,7 +302,7 @@ document.querySelector(".note").addEventListener("click",()=>{
 loadWeather(); loadNews();
 setInterval(loadWeather,10*60*1000);
 setInterval(loadNews,5*60*1000);
-setInterval(()=>location.reload(),6*60*60*1000);
+
 </script>
 </body>
 </html>
