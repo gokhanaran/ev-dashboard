@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:56:12.149952Z",
+  "generated_at": "2026-09-24T18:01:15.892157Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump’ın kararına mahkeme engeli: Beyaz Saray’da kriz çıktı",
+      "link": "https://www.sozcu.com.tr/trump-in-kararina-mahkeme-engeli-beyaz-saray-da-kriz-cikti-p363261",
+      "source": "Sözcü",
+      "published_at": "2026-09-24T17:55:24Z"
+    },
     {
       "title": "Dua Lipa'nın 740 parçadan oluşan elbisesi gündem oldu",
       "link": "https://www.sozcu.com.tr/dua-lipa-nin-740-parcadan-olusan-elbisesi-gundem-oldu-p363260",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/fransa-milli-futbol-takimi-kocaeliye-geldi-958013.html",
       "source": "TRT Haber",
       "published_at": "2026-09-24T13:14:00Z"
-    },
-    {
-      "title": "Organları ters doğmuştu! Tıp tarihine geçti",
-      "link": "https://www.haberturk.com/saglik/organlari-ters-dogan-omer-ameliyatla-sagligina-kavustu-haberler-3914836",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T13:03:04Z"
     }
   ]
 }
