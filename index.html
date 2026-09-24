@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: bg-v4-jsfix-20260924 -->
+  <!-- build: news-scroll-24h-newest-first-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -33,11 +33,15 @@
     .day{padding:12px;border:1px solid var(--line);border-radius:16px;text-align:center}
     .day .d{font-size:14px;color:var(--muted);margin-bottom:7px}
     .day .t{font-size:20px;font-weight:700}
-    .news{grid-column:2;grid-row:1 / span 2;overflow:hidden}
+    .news{grid-column:2;grid-row:1 / span 2;overflow:hidden;display:flex;flex-direction:column;min-height:0}
     .title{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
     .title h2{margin:0;font-size:24px}
     .small{font-size:13px;color:var(--muted)}
-    #newsList{display:flex;flex-direction:column;gap:0}
+    #newsList{display:flex;flex-direction:column;gap:0;overflow-y:auto;min-height:0;flex:1;padding-right:8px;scrollbar-width:thin;scrollbar-color:rgba(255,255,255,.35) rgba(255,255,255,.08)}
+    #newsList::-webkit-scrollbar{width:8px}
+    #newsList::-webkit-scrollbar-track{background:rgba(255,255,255,.06);border-radius:10px}
+    #newsList::-webkit-scrollbar-thumb{background:rgba(255,255,255,.30);border-radius:10px}
+    #newsList::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,.45)}
     .newsItem{padding:15px 4px;border-bottom:1px solid var(--line)}
     .newsItem:last-child{border-bottom:none}
     .newsItem .n{font-size:20px;line-height:1.28}
@@ -239,7 +243,7 @@ async function loadWeather(){
 async function loadNews(){
   const feed="https://feeds.bbci.co.uk/turkce/rss.xml";
   const endpoints=[
-    "https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed),
+    "https://api.rss2json.com/v1/api.json?count=100&rss_url="+encodeURIComponent(feed),
     "https://api.allorigins.win/raw?url="+encodeURIComponent(feed)
   ];
   let items=[];
@@ -249,10 +253,15 @@ async function loadNews(){
       if(!r.ok) throw new Error("HTTP "+r.status);
       const ct=r.headers.get("content-type")||"";
       if(ct.includes("json")){
-        const j=await r.json(); items=(j.items||[]).slice(0,8);
+        const j=await r.json();
+        items=(j.items||[]).map(it=>({
+          title:it.title||"",
+          pubDate:it.pubDate||it.published||""
+        }));
       }else{
-        const txt=await r.text(); const x=new DOMParser().parseFromString(txt,"text/xml");
-        items=[...x.querySelectorAll("item")].slice(0,8).map(i=>({
+        const txt=await r.text();
+        const x=new DOMParser().parseFromString(txt,"text/xml");
+        items=[...x.querySelectorAll("item")].map(i=>({
           title:i.querySelector("title")?.textContent||"",
           pubDate:i.querySelector("pubDate")?.textContent||""
         }));
@@ -260,13 +269,25 @@ async function loadNews(){
       if(items.length) break;
     }catch(e){}
   }
+
   if(!items.length){
     $("#newsUpdated").textContent="RSS alınamadı";
     $("#newsList").innerHTML='<div class="newsItem"><div class="n">Haber akışı şu anda yüklenemedi.</div><div class="meta">Bir sonraki otomatik denemede tekrar kontrol edilecek.</div></div>';
     return;
   }
-  $("#newsList").innerHTML=items.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.pubDate?new Date(it.pubDate).toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
-  $("#newsUpdated").textContent="BBC Türkçe · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+
+  const now=Date.now();
+  const cutoff=now-(24*60*60*1000);
+
+  items=items
+    .map(it=>({...it,ts:Date.parse(it.pubDate||"")||0}))
+    .filter(it=>!it.ts || it.ts>=cutoff)
+    .sort((a,b)=>b.ts-a.ts);
+
+  $("#newsList").innerHTML=items.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.ts?new Date(it.ts).toLocaleString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
+
+  $("#newsUpdated").textContent="BBC Türkçe · Son 24 saat · "+items.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+  $("#newsList").scrollTop=0;
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
 
