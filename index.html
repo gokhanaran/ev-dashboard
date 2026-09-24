@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: direct-trt-plus-google-24h-20260924 -->
+  <!-- build: direct-aa-rss-24h-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -242,12 +242,9 @@ async function loadWeather(){
 
 async function loadNews(){
   const feeds=[
-    {url:"https://www.trthaber.com/sondakika_articles.rss",source:"TRT Haber"},
-    {url:"https://www.trthaber.com/gundem_articles.rss",source:"TRT Haber"},
-    {url:"https://www.trthaber.com/turkiye_articles.rss",source:"TRT Haber"},
-    {url:"https://www.trthaber.com/dunya_articles.rss",source:"TRT Haber"},
-    {url:"https://www.trthaber.com/ekonomi_articles.rss",source:"TRT Haber"},
-    {url:"https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",source:"Google News"}
+    {url:"https://www.aa.com.tr/tr/rss/default?cat=guncel",source:"Anadolu Ajansı"},
+    {url:"https://www.aa.com.tr/tr/rss/default?cat=ekonomi",source:"Anadolu Ajansı"},
+    {url:"https://news.google.com/rss/search?q="+encodeURIComponent("site:aa.com.tr when:1d")+"&hl=tr&gl=TR&ceid=TR:tr",source:"Anadolu Ajansı"}
   ];
 
   const endpointsFor=feed=>[
