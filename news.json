@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:01:15.892157Z",
+  "generated_at": "2026-09-24T18:06:19.518718Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara Büyükşehir Belediye Meclisi'nde CHP'den 30 istifa",
+      "link": "https://www.sozcu.com.tr/abb-meclisi-nde-chp-den-30-istifa-iddiasi-p363252",
+      "source": "Sözcü",
+      "published_at": "2026-09-24T18:01:51Z"
+    },
+    {
+      "title": "CHP Sözcüsü: Özel yalan söylüyor",
+      "link": "https://www.haberturk.com/gundem/chp-sozcusu-ozel-yalan-soyluyor-3914905",
+      "source": "Habertürk",
+      "published_at": "2026-09-24T18:00:03Z"
+    },
+    {
+      "title": "'Sınır Ötesi Kapan' bilançosunu açıkladı",
+      "link": "https://www.haberturk.com/gundem/icisleri-bakani-ciftci-44-ulkeden-714-firari-suclu-getirildi-3914904",
+      "source": "Habertürk",
+      "published_at": "2026-09-24T17:59:00Z"
+    },
     {
       "title": "Trump’ın kararına mahkeme engeli: Beyaz Saray’da kriz çıktı",
       "link": "https://www.sozcu.com.tr/trump-in-kararina-mahkeme-engeli-beyaz-saray-da-kriz-cikti-p363261",
@@ -142,12 +160,6 @@
       "link": "https://www.trthaber.com/haber/dunya/bae-iran-hava-yolu-sirketlerinin-ucuslarini-askiya-aldi-958036.html",
       "source": "TRT Haber",
       "published_at": "2026-09-24T17:02:00Z"
-    },
-    {
-      "title": "Ankara Büyükşehir Belediye Meclisi'nde CHP'den 30 istifa",
-      "link": "https://www.sozcu.com.tr/abb-meclisi-nde-chp-den-30-istifa-iddiasi-p363252",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T17:01:51Z"
     },
     {
       "title": "Rusya'nın askeri üretimi konusunda uyardı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/omer-celik-soykirim-sebekesinin-aciklamalari-hesap-verme-korkusundan-958014.html",
       "source": "TRT Haber",
       "published_at": "2026-09-24T13:16:00Z"
-    },
-    {
-      "title": "YENİ Parti'nin ismine itiraz AYM'de",
-      "link": "https://www.haberturk.com/gundem/son-dakika-yeni-parti-nin-ismine-itiraz-aym-de-3914823",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T13:14:18Z"
-    },
-    {
-      "title": "Fransa Milli Futbol Takımı, Kocaeli'ye geldi",
-      "link": "https://www.trthaber.com/haber/turkiye/fransa-milli-futbol-takimi-kocaeliye-geldi-958013.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T13:14:00Z"
     }
   ]
 }
