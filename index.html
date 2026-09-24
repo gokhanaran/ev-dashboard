@@ -67,13 +67,13 @@
     }
     .grid{position:relative;z-index:2}
     .card{
-      background:linear-gradient(180deg,rgba(8,14,21,.30),rgba(8,14,21,.18));
+      background:linear-gradient(180deg,rgba(8,14,21,.24),rgba(8,14,21,.12));
       border:1px solid rgba(255,255,255,.13);
       box-shadow:0 12px 34px rgba(0,0,0,.24),inset 0 1px 0 rgba(255,255,255,.035);
       backdrop-filter:blur(3px) saturate(108%);\n      -webkit-backdrop-filter:blur(3px) saturate(108%);
     }
     .clock{
-      background:linear-gradient(180deg,rgba(8,14,21,.26),rgba(8,14,21,.14));
+      background:linear-gradient(180deg,rgba(8,14,21,.20),rgba(8,14,21,.10));
     }
     #time{
       color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.5);
@@ -82,15 +82,32 @@
     #date,.small,.day .d{color:rgba(238,246,255,.72)}
     .title h2,.newsItem .n,#weatherText,#note,.day .t{ text-shadow:0 1px 8px rgba(0,0,0,.32) }
     .day{
-      background:rgba(7,13,20,.12);
+      background:rgba(7,13,20,.08);
       border-color:rgba(255,255,255,.12);
       backdrop-filter:blur(8px);
       -webkit-backdrop-filter:blur(8px);
     }
     .newsItem{border-bottom-color:rgba(255,255,255,.12)}
-    .note{background:rgba(8,14,21,.24)}
+    .note{background:rgba(8,14,21,.18)}
     .status{z-index:3;color:rgba(255,255,255,.36)}
     @media (max-width:900px){\n      .card{backdrop-filter:blur(2px) saturate(105%);-webkit-backdrop-filter:blur(2px) saturate(105%)}\n    }
+  
+    .weatherMain{justify-content:flex-start}
+    .currentIcon{width:76px;height:76px;display:flex;align-items:center;justify-content:center;margin-left:auto}
+    .wxIcon{width:56px;height:56px;display:block}
+    .wxIcon svg{width:100%;height:100%;stroke:#fff;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;
+      filter:drop-shadow(0 2px 5px rgba(0,0,0,.28))}
+    .forecast .day{padding:10px 8px 12px}
+    .day .d{display:inline-block;padding:5px 12px;border-radius:999px;background:rgba(255,255,255,.24);
+      color:#fff;font-size:13px;font-weight:700;letter-spacing:.02em;margin-bottom:9px}
+    .day .wxIcon{width:42px;height:42px;margin:0 auto 4px}
+    .day .rain{display:flex;align-items:center;justify-content:center;gap:4px;font-size:12px;color:#fff;margin:2px 0 8px}
+    .dropIcon{width:12px;height:12px;display:inline-block}
+    .dropIcon svg{width:100%;height:100%;fill:#fff;stroke:none}
+    .day .temps{display:flex;justify-content:center;gap:14px;font-size:18px}
+    .day .temps .max{font-weight:700}
+    .day .temps .min{font-weight:500;color:rgba(255,255,255,.85)}
+
   </style>
 
 </head>
@@ -112,6 +129,7 @@
           <div id="weatherText">Yükleniyor…</div>
           <div class="small" id="weatherExtra"></div>
         </div>
+        <div class="currentIcon" id="currentWeatherIcon"></div>
       </div>
       <div class="forecast" id="forecast"></div>
     </section>
@@ -160,6 +178,28 @@ setInterval(()=>{
   showBackground(bgIndex);
 },60*1000);
 
+
+function weatherIconSvg(code){
+  const sun='<svg viewBox="0 0 64 64"><circle cx="32" cy="32" r="10"/><path d="M32 6v8M32 50v8M6 32h8M50 32h8M13.6 13.6l5.7 5.7M44.7 44.7l5.7 5.7M50.4 13.6l-5.7 5.7M19.3 44.7l-5.7 5.7"/></svg>';
+  const cloud='<svg viewBox="0 0 64 64"><path d="M18 46h28a11 11 0 0 0 1-22 16 16 0 0 0-30-2 12 12 0 0 0 1 24z"/></svg>';
+  const partly='<svg viewBox="0 0 64 64"><circle cx="24" cy="23" r="9"/><path d="M24 5v6M24 35v6M6 23h6M36 23h6M11 10l4 4M33 32l4 4M37 10l-4 4"/><path d="M22 48h25a10 10 0 0 0 1-20 14 14 0 0 0-26 5 9 9 0 0 0 0 15z"/></svg>';
+  const rain='<svg viewBox="0 0 64 64"><path d="M18 37h28a11 11 0 0 0 1-22 16 16 0 0 0-30-2 12 12 0 0 0 1 24z"/><path d="M22 45v7M32 45v10M42 45v7"/></svg>';
+  const storm='<svg viewBox="0 0 64 64"><path d="M18 35h28a11 11 0 0 0 1-22 16 16 0 0 0-30-2 12 12 0 0 0 1 24z"/><path d="M34 39l-7 10h7l-4 10 12-14h-7l5-6"/></svg>';
+  const snow='<svg viewBox="0 0 64 64"><path d="M18 36h28a11 11 0 0 0 1-22 16 16 0 0 0-30-2 12 12 0 0 0 1 24z"/><path d="M24 47h.1M32 53h.1M41 47h.1"/></svg>';
+  const fog='<svg viewBox="0 0 64 64"><path d="M16 28h32M12 36h40M18 44h28"/></svg>';
+  if(code===0) return sun;
+  if(code===1||code===2) return partly;
+  if(code===3) return cloud;
+  if(code===45||code===48) return fog;
+  if([51,53,55,61,63,65,80,81,82].includes(code)) return rain;
+  if([71,73,75].includes(code)) return snow;
+  if(code===95) return storm;
+  return partly;
+}
+function dropSvg(){
+  return '<svg viewBox="0 0 24 24"><path d="M12 2C9 7 5 11 5 15a7 7 0 0 0 14 0c0-4-4-8-7-13z"/></svg>';
+}
+
 const weatherCodes = {
   0:"Açık",1:"Çoğunlukla açık",2:"Parçalı bulutlu",3:"Kapalı",
   45:"Sisli",48:"Kırağılı sis",51:"Hafif çisenti",53:"Çisenti",55:"Yoğun çisenti",
@@ -178,13 +218,13 @@ async function loadWeather(){
     const url="https://api.open-meteo.com/v1/forecast?latitude=40.99&longitude=28.65&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,precipitation_probability&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FIstanbul&forecast_days=4";
     const r=await fetch(url,{cache:"no-store"}); const j=await r.json();
     $("#temp").textContent=Math.round(j.current.temperature_2m)+"°";
-    $("#weatherText").textContent=weatherCodes[j.current.weather_code]||"Hava durumu";
+    $("#weatherText").textContent=weatherCodes[j.current.weather_code]||"Hava durumu";\n    $("#currentWeatherIcon").innerHTML=`<span class="wxIcon">${weatherIconSvg(j.current.weather_code)}</span>`;
     $("#weatherExtra").textContent=`Hissedilen ${Math.round(j.current.apparent_temperature)}° · Nem %${j.current.relative_humidity_2m} · Yağış %${j.current.precipitation_probability??0}`;
     $("#weatherUpdated").textContent=new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
     const days=["Paz","Pzt","Sal","Çar","Per","Cum","Cmt"];
     $("#forecast").innerHTML=j.daily.time.map((d,i)=>{
       const dt=new Date(d+"T12:00:00");
-      return `<div class="day"><div class="d">${i===0?"Bugün":days[dt.getDay()]}</div><div class="t">${Math.round(j.daily.temperature_2m_max[i])}° / ${Math.round(j.daily.temperature_2m_min[i])}°</div><div class="small">☔ %${j.daily.precipitation_probability_max[i]??0}</div></div>`;
+      return `<div class="day"><div class="d">${i===0?"Bugün":days[dt.getDay()]}</div><span class="wxIcon">${weatherIconSvg(j.daily.weather_code[i])}</span><div class="rain"><span class="dropIcon">${dropSvg()}</span>%${j.daily.precipitation_probability_max[i]??0}</div><div class="temps"><span class="max">${Math.round(j.daily.temperature_2m_max[i])}°</span><span class="min">${Math.round(j.daily.temperature_2m_min[i])}°</span></div></div>`;
     }).join("");
   }catch(e){ $("#weatherText").textContent="Hava verisi alınamadı"; }
 }
