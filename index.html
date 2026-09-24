@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: news-compact-orange-time-20260924 -->
+  <!-- build: news-48h-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -288,18 +288,18 @@ async function loadNews(){
   }
 
   const now=Date.now();
-  const cutoff=now-(24*60*60*1000);
+  const cutoff=now-(48*60*60*1000);
 
   const parsed=items
     .map(it=>({...it,ts:Date.parse(it.pubDate||"")||0}))
     .sort((a,b)=>b.ts-a.ts);
 
-  const last24=parsed.filter(it=>it.ts && it.ts>=cutoff);
-  const visible=last24.length ? last24 : parsed;
+  const last48=parsed.filter(it=>it.ts && it.ts>=cutoff);
+  const visible=last48.length ? last48 : parsed;
 
   $("#newsList").innerHTML=visible.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.ts?new Date(it.ts).toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
 
-  $("#newsUpdated").textContent="BBC Türkçe · "+(last24.length?"Son 24 saat":"Güncel")+" · "+visible.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+  $("#newsUpdated").textContent="BBC Türkçe · "+(last48.length?"Son 48 saat":"Güncel")+" · "+visible.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
   $("#newsList").scrollTop=0;
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
