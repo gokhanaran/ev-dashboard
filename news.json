@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:42:30.634273Z",
+  "generated_at": "2026-09-24T21:47:34.746504Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "İlk grup pilot ülkelerini açıkladı",
+      "link": "https://www.haberturk.com/gundem/bakan-kurum-ilk-grup-pilot-ulkelerini-acikladi-3914939",
+      "source": "Habertürk",
+      "published_at": "2026-09-24T21:40:09Z"
+    },
+    {
       "title": "Usulsüz vatandaşlıkta 26 tutuklama",
       "link": "https://www.haberturk.com/gundem/son-dakika-usulsuz-vatandaslikta-26-tutuklama-3914931",
       "source": "Habertürk",
       "published_at": "2026-09-24T21:33:44Z"
+    },
+    {
+      "title": "Perseverance keşif aracı Mars'ta eski sıcak su izleri buldu",
+      "link": "https://www.trthaber.com/haber/dunya/perseverance-kesif-araci-marsta-eski-sicak-su-izleri-buldu-958058.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-24T21:33:00Z"
     },
     {
       "title": "Altın Koza’da genç sinemacılar için Akademi zamanı",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/fenerbahceden-yasa-disi-bahis-firmalarina-suc-duyurusu-p363237",
       "source": "Sözcü",
       "published_at": "2026-09-24T15:27:14Z"
-    },
-    {
-      "title": "Fon soruşturmasında yeni gelişme: 2 özel jet ve 1 lüks yata el konuldu",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-2-ozel-jet-ve-1-luks-yata-el-konuldu-958032.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T15:23:00Z"
-    },
-    {
-      "title": "THY'nin Süleymaniye uçuşları yeniden başlıyor",
-      "link": "https://www.haberturk.com/ekonomi/thy-nin-suleymaniye-ucuslari-yeniden-basliyor-3914875",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T15:14:56Z"
     }
   ]
 }
