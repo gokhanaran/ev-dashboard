@@ -67,14 +67,13 @@
     }
     .grid{position:relative;z-index:2}
     .card{
-      background:linear-gradient(180deg,rgba(8,14,21,.44),rgba(8,14,21,.30));
+      background:linear-gradient(180deg,rgba(8,14,21,.30),rgba(8,14,21,.18));
       border:1px solid rgba(255,255,255,.13);
       box-shadow:0 12px 34px rgba(0,0,0,.24),inset 0 1px 0 rgba(255,255,255,.035);
-      backdrop-filter:blur(15px) saturate(115%);
-      -webkit-backdrop-filter:blur(15px) saturate(115%);
+      backdrop-filter:blur(3px) saturate(108%);\n      -webkit-backdrop-filter:blur(3px) saturate(108%);
     }
     .clock{
-      background:linear-gradient(180deg,rgba(8,14,21,.38),rgba(8,14,21,.24));
+      background:linear-gradient(180deg,rgba(8,14,21,.26),rgba(8,14,21,.14));
     }
     #time{
       color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.5);
@@ -83,17 +82,15 @@
     #date,.small,.day .d{color:rgba(238,246,255,.72)}
     .title h2,.newsItem .n,#weatherText,#note,.day .t{ text-shadow:0 1px 8px rgba(0,0,0,.32) }
     .day{
-      background:rgba(7,13,20,.18);
+      background:rgba(7,13,20,.12);
       border-color:rgba(255,255,255,.12);
       backdrop-filter:blur(8px);
       -webkit-backdrop-filter:blur(8px);
     }
     .newsItem{border-bottom-color:rgba(255,255,255,.12)}
-    .note{background:rgba(8,14,21,.40)}
+    .note{background:rgba(8,14,21,.24)}
     .status{z-index:3;color:rgba(255,255,255,.36)}
-    @media (max-width:900px){
-      .card{backdrop-filter:blur(11px) saturate(110%);-webkit-backdrop-filter:blur(11px) saturate(110%)}
-    }
+    @media (max-width:900px){\n      .card{backdrop-filter:blur(2px) saturate(105%);-webkit-backdrop-filter:blur(2px) saturate(105%)}\n    }
   </style>
 
 </head>
