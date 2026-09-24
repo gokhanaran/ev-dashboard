@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0f14" />
+  <title>Ev Dashboard</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
+      --muted:#98a4b3; --accent:#75b9ff; --line:#22303d; --warn:#ffd166;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;width:100%;height:100%;background:var(--bg);color:var(--text);
+      font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;overflow:hidden}
+    body{padding:22px}
+    .grid{height:100%;display:grid;grid-template-columns:0.95fr 1.35fr;grid-template-rows:auto 1fr auto;gap:16px}
+    .card{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);
+      border-radius:22px;padding:20px;box-shadow:0 12px 30px rgba(0,0,0,.2)}
+    .clock{grid-column:1;grid-row:1;display:flex;align-items:flex-end;justify-content:space-between}
+    #time{font-size:72px;font-weight:750;line-height:.9;letter-spacing:-4px}
+    #date{font-size:21px;color:var(--muted);text-align:right}
+    .weather{grid-column:1;grid-row:2}
+    .weatherMain{display:flex;align-items:center;gap:18px;margin-top:8px}
+    #temp{font-size:64px;font-weight:700;letter-spacing:-3px}
+    #weatherText{font-size:24px}
+    .forecast{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:22px}
+    .day{padding:12px;border:1px solid var(--line);border-radius:16px;text-align:center}
+    .day .d{font-size:14px;color:var(--muted);margin-bottom:7px}
+    .day .t{font-size:20px;font-weight:700}
+    .news{grid-column:2;grid-row:1 / span 2;overflow:hidden}
+    .title{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+    .title h2{margin:0;font-size:24px}
+    .small{font-size:13px;color:var(--muted)}
+    #newsList{display:flex;flex-direction:column;gap:0}
+    .newsItem{padding:15px 4px;border-bottom:1px solid var(--line)}
+    .newsItem:last-child{border-bottom:none}
+    .newsItem .n{font-size:20px;line-height:1.28}
+    .newsItem .meta{font-size:12px;color:var(--muted);margin-top:6px}
+    .note{grid-column:1 / span 2;grid-row:3;display:grid;grid-template-columns:auto 1fr;align-items:center;gap:18px}
+    .noteLabel{font-size:15px;color:var(--warn);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+    #note{font-size:24px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .status{position:fixed;right:12px;bottom:7px;color:#536170;font-size:10px}
+    @media (max-width:900px){
+      body{padding:14px}.grid{grid-template-columns:1fr 1.3fr;gap:12px}
+      .card{padding:15px;border-radius:16px}#time{font-size:56px}.forecast{gap:6px}
+      .day{padding:8px}.newsItem{padding:11px 2px}.newsItem .n{font-size:17px}#note{font-size:20px}
+    }
+  </style>
+</head>
+<body>
+  <main class="grid">
+    <section class="card clock">
+      <div id="time">--:--</div>
+      <div id="date">--</div>
+    </section>
+
+    <section class="card weather">
+      <div class="title"><h2>Yakuplu · Hava</h2><span class="small" id="weatherUpdated"></span></div>
+      <div class="weatherMain">
+        <div id="temp">--°</div>
+        <div>
+          <div id="weatherText">Yükleniyor…</div>
+          <div class="small" id="weatherExtra"></div>
+        </div>
+      </div>
+      <div class="forecast" id="forecast"></div>
+    </section>
+
+    <section class="card news">
+      <div class="title"><h2>Gündem</h2><span class="small" id="newsUpdated">RSS yükleniyor…</span></div>
+      <div id="newsList"></div>
+    </section>
+
+    <section class="card note" title="Notu değiştirmek için dokun">
+      <div class="noteLabel">Not</div>
+      <div id="note">Eve hoş geldin.</div>
+    </section>
+  </main>
+  <div class="status" id="status"></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const weatherCodes = {
+  0:"Açık",1:"Çoğunlukla açık",2:"Parçalı bulutlu",3:"Kapalı",
+  45:"Sisli",48:"Kırağılı sis",51:"Hafif çisenti",53:"Çisenti",55:"Yoğun çisenti",
+  61:"Hafif yağmur",63:"Yağmur",65:"Kuvvetli yağmur",71:"Hafif kar",73:"Kar",75:"Yoğun kar",
+  80:"Sağanak",81:"Sağanak",82:"Kuvvetli sağanak",95:"Gök gürültülü"
+};
+function tick(){
+  const now=new Date();
+  $("#time").textContent=now.toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+  $("#date").textContent=now.toLocaleDateString("tr-TR",{weekday:"long",day:"numeric",month:"long"});
+}
+tick(); setInterval(tick,1000);
+
+async function loadWeather(){
+  try{
+    const url="https://api.open-meteo.com/v1/forecast?latitude=40.99&longitude=28.65&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,precipitation_probability&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FIstanbul&forecast_days=4";
+    const r=await fetch(url,{cache:"no-store"}); const j=await r.json();
+    $("#temp").textContent=Math.round(j.current.temperature_2m)+"°";
+    $("#weatherText").textContent=weatherCodes[j.current.weather_code]||"Hava durumu";
+    $("#weatherExtra").textContent=`Hissedilen ${Math.round(j.current.apparent_temperature)}° · Nem %${j.current.relative_humidity_2m} · Yağış %${j.current.precipitation_probability??0}`;
+    $("#weatherUpdated").textContent=new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+    const days=["Paz","Pzt","Sal","Çar","Per","Cum","Cmt"];
+    $("#forecast").innerHTML=j.daily.time.map((d,i)=>{
+      const dt=new Date(d+"T12:00:00");
+      return `<div class="day"><div class="d">${i===0?"Bugün":days[dt.getDay()]}</div><div class="t">${Math.round(j.daily.temperature_2m_max[i])}° / ${Math.round(j.daily.temperature_2m_min[i])}°</div><div class="small">☔ %${j.daily.precipitation_probability_max[i]??0}</div></div>`;
+    }).join("");
+  }catch(e){ $("#weatherText").textContent="Hava verisi alınamadı"; }
+}
+
+async function loadNews(){
+  const feed="https://feeds.bbci.co.uk/turkce/rss.xml";
+  const endpoints=[
+    "https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed),
+    "https://api.allorigins.win/raw?url="+encodeURIComponent(feed)
+  ];
+  let items=[];
+  for(const ep of endpoints){
+    try{
+      const r=await fetch(ep,{cache:"no-store"});
+      if(!r.ok) throw new Error("HTTP "+r.status);
+      const ct=r.headers.get("content-type")||"";
+      if(ct.includes("json")){
+        const j=await r.json(); items=(j.items||[]).slice(0,8);
+      }else{
+        const txt=await r.text(); const x=new DOMParser().parseFromString(txt,"text/xml");
+        items=[...x.querySelectorAll("item")].slice(0,8).map(i=>({
+          title:i.querySelector("title")?.textContent||"",
+          pubDate:i.querySelector("pubDate")?.textContent||""
+        }));
+      }
+      if(items.length) break;
+    }catch(e){}
+  }
+  if(!items.length){
+    $("#newsUpdated").textContent="RSS alınamadı";
+    $("#newsList").innerHTML='<div class="newsItem"><div class="n">Haber akışı şu anda yüklenemedi.</div><div class="meta">Bir sonraki otomatik denemede tekrar kontrol edilecek.</div></div>';
+    return;
+  }
+  $("#newsList").innerHTML=items.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.pubDate?new Date(it.pubDate).toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
+  $("#newsUpdated").textContent="BBC Türkçe · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+}
+function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
+
+const noteKey="evDashboardNote";
+$("#note").textContent=localStorage.getItem(noteKey)||"Eve hoş geldin.";
+document.querySelector(".note").addEventListener("click",()=>{
+  const v=prompt("Not:",$("#note").textContent);
+  if(v!==null){ localStorage.setItem(noteKey,v.trim()||" "); $("#note").textContent=v.trim()||" "; }
+});
+
+loadWeather(); loadNews();
+setInterval(loadWeather,10*60*1000);
+setInterval(loadNews,5*60*1000);
+setInterval(()=>location.reload(),6*60*60*1000);
+</script>
+</body>
+</html>
