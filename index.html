@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: news-scroll-24h-newest-first-20260924 -->
+  <!-- build: rss-fallback-fix-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -243,17 +243,22 @@ async function loadWeather(){
 async function loadNews(){
   const feed="https://feeds.bbci.co.uk/turkce/rss.xml";
   const endpoints=[
-    "https://api.rss2json.com/v1/api.json?count=100&rss_url="+encodeURIComponent(feed),
-    "https://api.allorigins.win/raw?url="+encodeURIComponent(feed)
+    {type:"json",url:"https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed)},
+    {type:"xml",url:"https://api.allorigins.win/raw?url="+encodeURIComponent(feed)},
+    {type:"xml",url:"https://corsproxy.io/?url="+encodeURIComponent(feed)}
   ];
+
   let items=[];
+  let lastError="";
+
   for(const ep of endpoints){
     try{
-      const r=await fetch(ep,{cache:"no-store"});
+      const r=await fetch(ep.url,{cache:"no-store"});
       if(!r.ok) throw new Error("HTTP "+r.status);
-      const ct=r.headers.get("content-type")||"";
-      if(ct.includes("json")){
+
+      if(ep.type==="json"){
         const j=await r.json();
+        if(j.status && j.status!=="ok") throw new Error(j.message||"RSS JSON error");
         items=(j.items||[]).map(it=>({
           title:it.title||"",
           pubDate:it.pubDate||it.published||""
@@ -261,32 +266,40 @@ async function loadNews(){
       }else{
         const txt=await r.text();
         const x=new DOMParser().parseFromString(txt,"text/xml");
+        if(x.querySelector("parsererror")) throw new Error("XML parse error");
         items=[...x.querySelectorAll("item")].map(i=>({
           title:i.querySelector("title")?.textContent||"",
           pubDate:i.querySelector("pubDate")?.textContent||""
         }));
       }
+
       if(items.length) break;
-    }catch(e){}
+    }catch(e){
+      lastError=e?.message||String(e);
+      items=[];
+    }
   }
 
   if(!items.length){
     $("#newsUpdated").textContent="RSS alınamadı";
-    $("#newsList").innerHTML='<div class="newsItem"><div class="n">Haber akışı şu anda yüklenemedi.</div><div class="meta">Bir sonraki otomatik denemede tekrar kontrol edilecek.</div></div>';
+    $("#newsList").innerHTML='<div class="newsItem"><div class="n">Haber akışı şu anda yüklenemedi.</div><div class="meta">5 dakika sonra otomatik tekrar denenecek.</div></div>';
+    $("#status").textContent="RSS hata: "+lastError;
     return;
   }
 
   const now=Date.now();
   const cutoff=now-(24*60*60*1000);
 
-  items=items
+  const parsed=items
     .map(it=>({...it,ts:Date.parse(it.pubDate||"")||0}))
-    .filter(it=>!it.ts || it.ts>=cutoff)
     .sort((a,b)=>b.ts-a.ts);
 
-  $("#newsList").innerHTML=items.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.ts?new Date(it.ts).toLocaleString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
+  const last24=parsed.filter(it=>it.ts && it.ts>=cutoff);
+  const visible=last24.length ? last24 : parsed;
 
-  $("#newsUpdated").textContent="BBC Türkçe · Son 24 saat · "+items.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+  $("#newsList").innerHTML=visible.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title||"")}</div><div class="meta">${it.ts?new Date(it.ts).toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"}):"BBC Türkçe"}</div></div>`).join("");
+
+  $("#newsUpdated").textContent="BBC Türkçe · "+(last24.length?"Son 24 saat":"Güncel")+" · "+visible.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
   $("#newsList").scrollTop=0;
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
