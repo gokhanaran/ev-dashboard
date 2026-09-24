@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:21:29.776496Z",
+  "generated_at": "2026-09-24T18:26:33.608885Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 24
+      "items": 25
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika... Mehmet Şimşek'ten istifa iddiaları sonrası açıklama",
+      "link": "https://www.sozcu.com.tr/mehmet-simsek-ten-istifa-iddialari-sonrasi-aciklama-p363264",
+      "source": "Sözcü",
+      "published_at": "2026-09-24T18:24:57Z"
+    },
+    {
+      "title": "BM Genel Kurulu’nda Netanyahu’ya şok protesto",
+      "link": "https://www.sozcu.com.tr/benyamin-netanyahu-ya-sok-protesto-p363265",
+      "source": "Sözcü",
+      "published_at": "2026-09-24T18:23:48Z"
+    },
+    {
+      "title": "Milli boksör Havvanur Kethüda Avrupa şampiyonu!",
+      "link": "https://www.haberturk.com/spor/son-dakika-milli-boksor-havvanur-kethuda-avrupa-sampiyonu-3914896",
+      "source": "Habertürk",
+      "published_at": "2026-09-24T18:21:00Z"
+    },
     {
       "title": "Vincenzo Montella ayrılık sorusunu yanıtladı! 'Direkt sorabilirdin alınmazdım'",
       "link": "https://www.sozcu.com.tr/vincenzo-montella-ayrilik-sorusunu-yanitladi-direkt-sorabilirdin-alinmazdim-p363262",
@@ -166,12 +184,6 @@
       "link": "https://www.haberturk.com/spor/adrien-rabiot-uluslar-ligi-ni-kazanmak-istiyoruz-3914898",
       "source": "Habertürk",
       "published_at": "2026-09-24T17:12:20Z"
-    },
-    {
-      "title": "Milli boksör Havvanur Kethüda Avrupa şampiyonu!",
-      "link": "https://www.haberturk.com/spor/son-dakika-milli-boksor-havvanur-kethuda-avrupa-sampiyonu-3914896",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T17:07:52Z"
     },
     {
       "title": "BAE, İran hava yolu şirketlerinin uçuşlarını askıya aldı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/omer-celikten-israile-yonelik-sert-mesaj-hukuk-onunde-hesap-verecekler-3914845",
       "source": "Habertürk",
       "published_at": "2026-09-24T13:22:56Z"
-    },
-    {
-      "title": "Setlere ara veren Halit Ergenç konser konser geziyor: Yine rap konserinde",
-      "link": "https://www.sozcu.com.tr/setlere-ara-veren-halit-ergenc-konser-konser-geziyor-yine-rap-konserinde-p363196",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T13:21:47Z"
-    },
-    {
-      "title": "İnsanları oyuncak gibi gören 4 devasa yaratık",
-      "link": "https://www.sozcu.com.tr/insanlari-oyuncak-gibi-goren-4-devasa-yaratik-p363194",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T13:18:37Z"
     }
   ]
 }
