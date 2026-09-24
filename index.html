@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: bg-v3-weather-icons-cachebust-20260924 -->
+  <!-- build: bg-v4-jsfix-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -73,7 +73,8 @@
       background:linear-gradient(180deg,rgba(8,14,21,.24),rgba(8,14,21,.12));
       border:1px solid rgba(255,255,255,.13);
       box-shadow:0 12px 34px rgba(0,0,0,.24),inset 0 1px 0 rgba(255,255,255,.035);
-      backdrop-filter:blur(3px) saturate(108%);\n      -webkit-backdrop-filter:blur(3px) saturate(108%);
+      backdrop-filter:blur(1px) saturate(104%);
+      -webkit-backdrop-filter:blur(1px) saturate(104%);
     }
     .clock{
       background:linear-gradient(180deg,rgba(8,14,21,.20),rgba(8,14,21,.10));
@@ -87,13 +88,15 @@
     .day{
       background:rgba(7,13,20,.08);
       border-color:rgba(255,255,255,.12);
-      backdrop-filter:blur(8px);
-      -webkit-backdrop-filter:blur(8px);
+      backdrop-filter:blur(1px);
+      -webkit-backdrop-filter:blur(1px);
     }
     .newsItem{border-bottom-color:rgba(255,255,255,.12)}
     .note{background:rgba(8,14,21,.18)}
     .status{z-index:3;color:rgba(255,255,255,.36)}
-    @media (max-width:900px){\n      .card{backdrop-filter:blur(2px) saturate(105%);-webkit-backdrop-filter:blur(2px) saturate(105%)}\n    }
+    @media (max-width:900px){
+      .card{backdrop-filter:blur(.5px) saturate(102%);-webkit-backdrop-filter:blur(.5px) saturate(102%)}
+    }
   
     .weatherMain{justify-content:flex-start}
     .currentIcon{width:76px;height:76px;display:flex;align-items:center;justify-content:center;margin-left:auto}
@@ -221,7 +224,8 @@ async function loadWeather(){
     const url="https://api.open-meteo.com/v1/forecast?latitude=40.99&longitude=28.65&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,precipitation_probability&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Europe%2FIstanbul&forecast_days=4";
     const r=await fetch(url,{cache:"no-store"}); const j=await r.json();
     $("#temp").textContent=Math.round(j.current.temperature_2m)+"°";
-    $("#weatherText").textContent=weatherCodes[j.current.weather_code]||"Hava durumu";\n    $("#currentWeatherIcon").innerHTML=`<span class="wxIcon">${weatherIconSvg(j.current.weather_code)}</span>`;
+    $("#weatherText").textContent=weatherCodes[j.current.weather_code]||"Hava durumu";
+    $("#currentWeatherIcon").innerHTML=`<span class="wxIcon">${weatherIconSvg(j.current.weather_code)}</span>`;
     $("#weatherExtra").textContent=`Hissedilen ${Math.round(j.current.apparent_temperature)}° · Nem %${j.current.relative_humidity_2m} · Yağış %${j.current.precipitation_probability??0}`;
     $("#weatherUpdated").textContent=new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
     const days=["Paz","Pzt","Sal","Çar","Per","Cum","Cmt"];
