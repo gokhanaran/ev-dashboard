@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: news-bbc-aggregate-48h-dates-20260924 -->
+  <!-- build: google-news-general-48h-60max-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -242,14 +242,14 @@ async function loadWeather(){
 
 async function loadNews(){
   const feeds=[
-    "https://feeds.bbci.co.uk/turkce/rss.xml",
-    "https://news.google.com/rss/search?q="+encodeURIComponent("site:bbc.com/turkce when:2d")+"&hl=tr&gl=TR&ceid=TR:tr"
+    "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
+    "https://news.google.com/rss/search?q="+encodeURIComponent("Türkiye when:2d")+"&hl=tr&gl=TR&ceid=TR:tr"
   ];
 
   const endpointsFor=feed=>[
-    {type:"json",url:"https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed)},
     {type:"xml",url:"https://api.allorigins.win/raw?url="+encodeURIComponent(feed)},
-    {type:"xml",url:"https://corsproxy.io/?url="+encodeURIComponent(feed)}
+    {type:"xml",url:"https://corsproxy.io/?url="+encodeURIComponent(feed)},
+    {type:"json",url:"https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed)}
   ];
 
   async function fetchFeed(feed){
@@ -264,7 +264,8 @@ async function loadNews(){
           if(j.status && j.status!=="ok") throw new Error(j.message||"RSS JSON error");
           const arr=(j.items||[]).map(it=>({
             title:it.title||"",
-            pubDate:it.pubDate||it.published||""
+            pubDate:it.pubDate||it.published||"",
+            source:it.author||""
           }));
           if(arr.length) return arr;
         }else{
@@ -273,7 +274,8 @@ async function loadNews(){
           if(x.querySelector("parsererror")) throw new Error("XML parse error");
           const arr=[...x.querySelectorAll("item")].map(i=>({
             title:i.querySelector("title")?.textContent||"",
-            pubDate:i.querySelector("pubDate")?.textContent||""
+            pubDate:i.querySelector("pubDate")?.textContent||"",
+            source:i.querySelector("source")?.textContent||""
           }));
           if(arr.length) return arr;
         }
@@ -300,45 +302,52 @@ async function loadNews(){
     const cutoff=now-(48*60*60*1000);
 
     const normalizeTitle=s=>(s||"")
-      .replace(/\s+-\s+BBC News Türkçe\s*$/i,"")
-      .replace(/\s+-\s+BBC Türkçe\s*$/i,"")
+      .replace(/\s+-\s+[^-]{2,80}$/,"")
+      .trim();
+
+    const normalizeSource=s=>(s||"")
+      .replace(/^Google News$/i,"")
       .trim();
 
     const seen=new Set();
     const parsed=items
       .map(it=>({
         title:normalizeTitle(it.title),
+        source:normalizeSource(it.source),
         ts:Date.parse(it.pubDate||"")||0
       }))
       .filter(it=>it.title && it.ts && it.ts>=cutoff)
       .sort((a,b)=>b.ts-a.ts)
       .filter(it=>{
-        const key=it.title.toLocaleLowerCase("tr-TR").replace(/\s+/g," ").trim();
+        const key=it.title.toLocaleLowerCase("tr-TR")
+          .replace(/[^a-z0-9çğıöşü\s]/gi,"")
+          .replace(/\s+/g," ")
+          .trim();
         if(seen.has(key)) return false;
         seen.add(key);
         return true;
-      });
+      })
+      .slice(0,60);
 
-    const formatNewsTime=ts=>{
-      const d=new Date(ts);
+    const formatNewsTime=it=>{
+      const d=new Date(it.ts);
       const today=new Date();
       const startToday=new Date(today.getFullYear(),today.getMonth(),today.getDate()).getTime();
       const startItem=new Date(d.getFullYear(),d.getMonth(),d.getDate()).getTime();
       const dayDiff=Math.round((startToday-startItem)/86400000);
       const hm=d.toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
-      if(dayDiff===0) return hm;
-      if(dayDiff===1) return "Dün · "+hm;
-      return d.toLocaleDateString("tr-TR",{day:"2-digit",month:"short"})+" · "+hm;
+      const when=dayDiff===0 ? hm : dayDiff===1 ? "Dün · "+hm : d.toLocaleDateString("tr-TR",{day:"2-digit",month:"short"})+" · "+hm;
+      return it.source ? when+" · "+escapeHtml(it.source) : when;
     };
 
-    $("#newsList").innerHTML=parsed.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title)}</div><div class="meta">${formatNewsTime(it.ts)}</div></div>`).join("");
+    $("#newsList").innerHTML=parsed.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title)}</div><div class="meta">${formatNewsTime(it)}</div></div>`).join("");
 
-    $("#newsUpdated").textContent="BBC Türkçe · Son 48 saat · "+parsed.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+    $("#newsUpdated").textContent="Gündem · Son 48 saat · "+parsed.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
     $("#newsList").scrollTop=0;
   }catch(e){
-    $("#newsUpdated").textContent="RSS alınamadı";
+    $("#newsUpdated").textContent="Haber akışı alınamadı";
     $("#newsList").innerHTML='<div class="newsItem"><div class="n">Haber akışı şu anda yüklenemedi.</div><div class="meta">5 dakika sonra otomatik tekrar denenecek.</div></div>';
-    $("#status").textContent="RSS hata: "+(e?.message||String(e));
+    $("#status").textContent="Haber hata: "+(e?.message||String(e));
   }
 }
 function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]))}
