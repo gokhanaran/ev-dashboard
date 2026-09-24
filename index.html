@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: google-news-general-48h-60max-20260924 -->
+  <!-- build: direct-trt-plus-google-24h-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -242,8 +242,12 @@ async function loadWeather(){
 
 async function loadNews(){
   const feeds=[
-    "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
-    "https://news.google.com/rss/search?q="+encodeURIComponent("Türkiye when:2d")+"&hl=tr&gl=TR&ceid=TR:tr"
+    {url:"https://www.trthaber.com/sondakika_articles.rss",source:"TRT Haber"},
+    {url:"https://www.trthaber.com/gundem_articles.rss",source:"TRT Haber"},
+    {url:"https://www.trthaber.com/turkiye_articles.rss",source:"TRT Haber"},
+    {url:"https://www.trthaber.com/dunya_articles.rss",source:"TRT Haber"},
+    {url:"https://www.trthaber.com/ekonomi_articles.rss",source:"TRT Haber"},
+    {url:"https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",source:"Google News"}
   ];
 
   const endpointsFor=feed=>[
@@ -252,9 +256,9 @@ async function loadNews(){
     {type:"json",url:"https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(feed)}
   ];
 
-  async function fetchFeed(feed){
+  async function fetchFeed(def){
     let lastError="";
-    for(const ep of endpointsFor(feed)){
+    for(const ep of endpointsFor(def.url)){
       try{
         const r=await fetch(ep.url,{cache:"no-store"});
         if(!r.ok) throw new Error("HTTP "+r.status);
@@ -265,7 +269,7 @@ async function loadNews(){
           const arr=(j.items||[]).map(it=>({
             title:it.title||"",
             pubDate:it.pubDate||it.published||"",
-            source:it.author||""
+            source:it.author||def.source||""
           }));
           if(arr.length) return arr;
         }else{
@@ -275,7 +279,7 @@ async function loadNews(){
           const arr=[...x.querySelectorAll("item")].map(i=>({
             title:i.querySelector("title")?.textContent||"",
             pubDate:i.querySelector("pubDate")?.textContent||"",
-            source:i.querySelector("source")?.textContent||""
+            source:i.querySelector("source")?.textContent||def.source||""
           }));
           if(arr.length) return arr;
         }
@@ -299,7 +303,7 @@ async function loadNews(){
     if(!items.length) throw new Error(errors.join(" | ")||"RSS alınamadı");
 
     const now=Date.now();
-    const cutoff=now-(48*60*60*1000);
+    const cutoff=now-(24*60*60*1000);
 
     const normalizeTitle=s=>(s||"")
       .replace(/\s+-\s+[^-]{2,80}$/,"")
@@ -316,7 +320,7 @@ async function loadNews(){
         source:normalizeSource(it.source),
         ts:Date.parse(it.pubDate||"")||0
       }))
-      .filter(it=>it.title && it.ts && it.ts>=cutoff)
+      .filter(it=>it.title && it.ts && it.ts>=cutoff && it.ts<=now+(10*60*1000))
       .sort((a,b)=>b.ts-a.ts)
       .filter(it=>{
         const key=it.title.toLocaleLowerCase("tr-TR")
@@ -342,7 +346,7 @@ async function loadNews(){
 
     $("#newsList").innerHTML=parsed.map(it=>`<div class="newsItem"><div class="n">${escapeHtml(it.title)}</div><div class="meta">${formatNewsTime(it)}</div></div>`).join("");
 
-    $("#newsUpdated").textContent="Gündem · Son 48 saat · "+parsed.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
+    $("#newsUpdated").textContent="Gündem · Son 24 saat · "+parsed.length+" haber · "+new Date().toLocaleTimeString("tr-TR",{hour:"2-digit",minute:"2-digit"});
     $("#newsList").scrollTop=0;
   }catch(e){
     $("#newsUpdated").textContent="Haber akışı alınamadı";
