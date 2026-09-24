@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#0b0f14" />
   <title>Ev Dashboard</title>
   <!-- pages-redeploy -->
-  <!-- build: rss-fallback-fix-20260924 -->
+  <!-- build: news-compact-orange-time-20260924 -->
   <style>
     :root{
       --bg:#0b0f14; --panel:#131a22; --panel2:#10161d; --text:#f5f7fa;
@@ -42,10 +42,10 @@
     #newsList::-webkit-scrollbar-track{background:rgba(255,255,255,.06);border-radius:10px}
     #newsList::-webkit-scrollbar-thumb{background:rgba(255,255,255,.30);border-radius:10px}
     #newsList::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,.45)}
-    .newsItem{padding:15px 4px;border-bottom:1px solid var(--line)}
+    .newsItem{padding:9px 4px 8px;border-bottom:1px solid var(--line)}
     .newsItem:last-child{border-bottom:none}
-    .newsItem .n{font-size:20px;line-height:1.28}
-    .newsItem .meta{font-size:12px;color:var(--muted);margin-top:6px}
+    .newsItem .n{font-size:18px;line-height:1.18;font-weight:600}
+    .newsItem .meta{font-size:12px;color:#ff9f1a;margin-top:3px;font-weight:700;text-shadow:0 1px 6px rgba(0,0,0,.45)}
     .note{grid-column:1 / span 2;grid-row:3;display:grid;grid-template-columns:auto 1fr;align-items:center;gap:18px}
     .noteLabel{font-size:15px;color:var(--warn);font-weight:700;text-transform:uppercase;letter-spacing:.08em}
     #note{font-size:24px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -53,7 +53,7 @@
     @media (max-width:900px){
       body{padding:14px}.grid{grid-template-columns:1fr 1.3fr;gap:12px}
       .card{padding:15px;border-radius:16px}#time{font-size:56px}.forecast{gap:6px}
-      .day{padding:8px}.newsItem{padding:11px 2px}.newsItem .n{font-size:17px}#note{font-size:20px}
+      .day{padding:8px}.newsItem{padding:7px 2px 6px}.newsItem .n{font-size:16px;line-height:1.16}#note{font-size:20px}
     }
   </style>
 
