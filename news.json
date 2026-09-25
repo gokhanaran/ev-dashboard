@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:22:29.416192Z",
+  "generated_at": "2026-09-25T17:27:33.221156Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Emeklilerin eyleminde acı olay: Emekli polis kurtarılamadı",
+      "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T17:22:13Z"
+    },
     {
       "title": "\"İran 7 günlük bir plan sundu\"",
       "link": "https://www.haberturk.com/dunya/iran-7-gunluk-bir-plan-sundu-3915145",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbul-havalimaninda-20-kilogram-uyusturucu-ele-gecirildi-958140.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T12:09:00Z"
-    },
-    {
-      "title": "Yapay zekâya göre Türkiye'nin en yaşanamaz 5 ili",
-      "link": "https://www.sozcu.com.tr/yapay-zekaya-gore-turkiye-nin-en-yasanamaz-5-ili-p363496",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T12:08:58Z"
     }
   ]
 }
