@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:30:17.631952Z",
+  "generated_at": "2026-09-25T06:35:20.854905Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "SON DAKİKA.... Üç eski MASAK başkanı ifadeye çağrıldı... Erdoğan ve bakanları sorgulamışlar!",
+      "link": "https://www.sozcu.com.tr/son-dakika-uc-eski-masak-baskani-ifadeye-cagrildi-p363357",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:33:17Z"
+    },
+    {
+      "title": "Suudi Arabistan, Türkiye ve Pakistan genelkurmay başkanlarını 'acil' toplantıya çağırdı",
+      "link": "https://www.sozcu.com.tr/suudi-arabistan-turkiye-ve-pakistan-genelkurmay-baskanlarini-acil-toplantiya-cagirdi-p363324",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:32:27Z"
+    },
+    {
+      "title": "Dolar 49 liraya yaklaştı",
+      "link": "https://www.sozcu.com.tr/dolar-49-liraya-yaklasti-p363364",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:29:06Z"
+    },
+    {
       "title": "Komşu ülkenin cumhurbaşkanı adayı ortalığı karıştırdı",
       "link": "https://www.sozcu.com.tr/komsu-ulkenin-cumhurbaskani-adayi-ortaligi-karistirdi-p363363",
       "source": "Sözcü",
@@ -54,12 +72,6 @@
       "published_at": "2026-09-25T06:25:00Z"
     },
     {
-      "title": "SON DAKİKA.... Üç eski MASAK başkanı ifadeye çağrıldı... Erdoğan ve bakanları sorgulamışlar!",
-      "link": "https://www.sozcu.com.tr/son-dakika-uc-eski-masak-baskani-ifadeye-cagrildi-p363357",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T06:24:06Z"
-    },
-    {
       "title": "Benzine tarihin en büyük zammı geliyor",
       "link": "https://www.sozcu.com.tr/benzine-bir-seferde-tarihin-en-buyuk-zammi-litresi-90-tl-yi-asacak-p363354",
       "source": "Sözcü",
@@ -76,6 +88,12 @@
       "link": "https://www.trthaber.com/haber/turkiye/usulsuz-vatandaslik-operasyonunda-33-supheli-tutuklandi-958079.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T06:20:00Z"
+    },
+    {
+      "title": "12 yıldır firardaydı... Bir çapkınlık sonu oldu!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-12-yildir-firardaydi-bir-capkinlik-sonu-oldu-3914957",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T06:19:54Z"
     },
     {
       "title": "Polise el bombasıyla direndi",
@@ -172,12 +190,6 @@
       "link": "https://www.sozcu.com.tr/50-yil-once-kacip-ulkeye-felaketi-getirdiler-p363349",
       "source": "Sözcü",
       "published_at": "2026-09-25T06:01:04Z"
-    },
-    {
-      "title": "Suudi Arabistan, Türkiye ve Pakistan genelkurmay başkanlarını 'acil' toplantıya çağırdı",
-      "link": "https://www.sozcu.com.tr/suudi-arabistan-turkiye-ve-pakistan-genelkurmay-baskanlarini-acil-toplantiya-cagirdi-p363324",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T05:54:19Z"
     },
     {
       "title": "Önce ağladı sonra dans etti",
@@ -376,12 +388,6 @@
       "link": "https://www.sozcu.com.tr/unlu-sarkici-metin-senturk-acil-ameliyata-alindi-p363321",
       "source": "Sözcü",
       "published_at": "2026-09-25T04:37:05Z"
-    },
-    {
-      "title": "12 yıldır firardaydı... Bir çapkınlık sonu oldu!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-12-yildir-firardaydi-bir-capkinlik-sonu-oldu-3914957",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T04:34:03Z"
     },
     {
       "title": "Süper damat aşkla kazanıyor",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimizin-uefa-uluslar-ligindeki-ilk-rakibi-fransa-958056.html",
       "source": "TRT Haber",
       "published_at": "2026-09-24T21:15:00Z"
-    },
-    {
-      "title": "Bayrampaşa'da kaza yapan otomobil kaldırımdaki yayalara çarptı: 5 yaralı",
-      "link": "https://www.trthaber.com/haber/turkiye/bayrampasada-kaza-yapan-otomobil-kaldirimdaki-yayalara-carpti-5-yarali-958055.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T21:08:00Z"
     }
   ]
 }
