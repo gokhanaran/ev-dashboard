@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:57:10.022101Z",
+  "generated_at": "2026-09-25T17:02:14.093016Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "\"22 şüpheli hakkında adli işlem başlatıldı\"",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-bakan-gurlek-22-supheli-hakkinda-adli-islem-baslatildi-3915146",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T16:58:13Z"
+    },
+    {
+      "title": "TFF'den Galatasaray'a ret!",
+      "link": "https://www.haberturk.com/spor/tff-den-galatasaray-in-ziraat-turkiye-kupasi-statusu-itirazina-ret-3915152",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T16:52:41Z"
+    },
     {
       "title": "Asansör 7’nci kattan zemine çakıldı",
       "link": "https://www.sozcu.com.tr/asansor-7-nci-kattan-zemine-cakildi-p363554",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/omer-celik-sanik-sandalyesinde-olmasi-gereken-netanyahunun-bmde-konusmasi-trajedidir-958139.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T12:04:00Z"
-    },
-    {
-      "title": "Şanlıurfa'daki deprem sonrası bölgedeki illere 10 milyon lira kaynak aktarıldı",
-      "link": "https://www.trthaber.com/haber/turkiye/sanliurfadaki-deprem-sonrasi-bolgedeki-illere-10-milyon-lira-kaynak-aktarildi-958138.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-25T12:04:00Z"
-    },
-    {
-      "title": "Netanyahu konuşurken salonu terk edenleri not aldılar!",
-      "link": "https://www.haberturk.com/dunya/netanyahu-konusurken-salonu-terk-edenleri-not-aldilar-3915076",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T12:03:00Z"
     }
   ]
 }
