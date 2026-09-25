@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-25T20:56:07.351191Z",
+  "generated_at": "2026-09-25T21:01:10.490055Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
     {
       "source": "Habertürk",
       "url": "https://www.haberturk.com/rss",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 25
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Burak Yılmaz Çorum FK'da sahaya indi",
+      "link": "https://www.sozcu.com.tr/burak-yilmaz-corum-fk-da-sahaya-indi-p363588",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T20:58:02Z"
+    },
+    {
+      "title": "Yemen’den seferberlik çağrısı: Bölge ülkelerinden de destek istendi",
+      "link": "https://www.sozcu.com.tr/yemen-den-seferberlik-cagrisi-bolge-ulkelerinden-de-destek-istendi-p363589",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T20:56:38Z"
+    },
     {
       "title": "Milliler Kocaeli'de Fransa'ya mağlup oldu",
       "link": "https://www.haberturk.com/spor/turkiye-fransa-maci-canli-anlatim-turkiye-fransa-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli--3914982",
@@ -618,12 +630,6 @@
       "published_at": "2026-09-25T16:16:00Z"
     },
     {
-      "title": "Okan Buruk PFDK'ya sevk edildi!",
-      "link": "https://www.haberturk.com/spor/galatasaray-teknik-direktoru-okan-buruk-pfdk-sevk-edildi-3915133",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T16:10:20Z"
-    },
-    {
       "title": "Busenaz Sürmeneli Avrupa şampiyonu",
       "link": "https://www.sozcu.com.tr/busenaz-surmeneli-avrupa-sampiyonu-p363551",
       "source": "Sözcü",
@@ -738,22 +744,16 @@
       "published_at": "2026-09-25T15:37:28Z"
     },
     {
+      "title": "Okan Buruk, PFDK'ya sevk edildi",
+      "link": "https://www.sozcu.com.tr/okan-buruk-pfdkye-sevk-edildi-p363543",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T15:35:21Z"
+    },
+    {
       "title": "Trump’la görüştü, koltuğundan oldu: Ülke tarihinin en kısa süre görev yapan bakanı",
       "link": "https://www.sozcu.com.tr/trump-la-gorustu-koltugundan-oldu-ulke-tarihinin-en-kisa-sure-gorev-yapan-bakani-p363542",
       "source": "Sözcü",
       "published_at": "2026-09-25T15:29:28Z"
-    },
-    {
-      "title": "Otomobil durağa daldı: 3 yaralı",
-      "link": "https://www.haberturk.com/gundem/alanya-da-arac-once-yayaya-ardindan-duraktaki-cifte-carpti-3915128",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T15:24:50Z"
-    },
-    {
-      "title": "Heyetler birer birer çıktı: Azerbaycan temsilcisi Netanyahu'yu dinledi",
-      "link": "https://www.sozcu.com.tr/azerbaycan-temsilcisi-netanyahu-konusmasini-dinledi-p363540",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T15:24:40Z"
     }
   ]
 }
