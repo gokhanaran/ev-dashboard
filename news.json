@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:54:34.572250Z",
+  "generated_at": "2026-09-25T23:59:37.725452Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İngiltere Başbakanı Burnham'dan İskoçya açıklaması",
+      "link": "https://www.haberturk.com/dunya/ingiltere-basbakani-burnham-dan-iskocya-aciklamasi-3915204",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T23:54:22Z"
+    },
     {
       "title": "Göbek yağlarına karşı insülin dengesi şart",
       "link": "https://www.sozcu.com.tr/gobek-yaglarina-karsi-insulin-dengesi-sart-p363599",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/iran-7-gunluk-bir-plan-sundu-3915145",
       "source": "Habertürk",
       "published_at": "2026-09-25T17:14:49Z"
-    },
-    {
-      "title": "Milli boksör Hatice Akbaş, Avrupa Şampiyonu!",
-      "link": "https://www.haberturk.com/spor/son-dakika-milli-boksor-hatice-akbas-avrupa-sampiyonu-3915115",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T17:11:56Z"
     }
   ]
 }
