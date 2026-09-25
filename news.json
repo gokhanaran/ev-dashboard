@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:43:02.630383Z",
+  "generated_at": "2026-09-25T01:08:16.262144Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "AKP ve MHP’li eski başkanlara gözaltı",
+      "link": "https://www.sozcu.com.tr/akp-ve-mhp-li-eski-baskanlara-gozalti-p363315",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T01:00:27Z"
+    },
     {
       "title": "Uzaktan çalışma modeline yeni düzenleme",
       "link": "https://www.sozcu.com.tr/uzaktan-calisma-modeline-yeni-duzenleme-p363313",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-2-jet-ile-1-luks-yata-el-konuldu-p363239",
       "source": "Sözcü",
       "published_at": "2026-09-24T16:13:34Z"
-    },
-    {
-      "title": "Ünlü oyuncu baba oldu",
-      "link": "https://www.haberturk.com/magazin/foto/mert-ocal-ve-sude-burcu-nun-kizlari-dunyaya-geldi-3914886",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T16:06:52Z"
     }
   ]
 }
