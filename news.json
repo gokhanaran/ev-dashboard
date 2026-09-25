@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:15:07.441153Z",
+  "generated_at": "2026-09-25T06:20:10.831886Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,40 @@
   ],
   "items": [
     {
+      "title": "SON DAKİKA.... Üç eski MASAK başkanı ifadeye çağrıldı! Erdoğan ve bakanları sorgulamışlar....",
+      "link": "https://www.sozcu.com.tr/son-dakika-uc-eski-masak-baskani-ifadeye-cagrildi-p363357",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:18:41Z"
+    },
+    {
+      "title": "Benzine bir seferde tarihin en büyük zammı: Litresi 90 TL'yi aşacak",
+      "link": "https://www.sozcu.com.tr/benzine-bir-seferde-tarihin-en-buyuk-zammi-litresi-90-tl-yi-asacak-p363354",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:18:07Z"
+    },
+    {
+      "title": "Duyan aracının klimasına mandal takmaya başlıyor",
+      "link": "https://www.sozcu.com.tr/duyan-aracinin-klimasina-mandal-takmaya-basliyor-p363359",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:17:16Z"
+    },
+    {
+      "title": "Vedat Muriqi'in hareketi başına bela olabilir",
+      "link": "https://www.sozcu.com.tr/muriqi-in-hareketi-basina-bela-olabilir-p363353",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T06:14:17Z"
+    },
+    {
       "title": "Son dakika... Merkez Bankası'nın eski iki numarası tutuklandı",
       "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-11-tutuklama-daha-p363337",
       "source": "Sözcü",
       "published_at": "2026-09-25T06:12:38Z"
+    },
+    {
+      "title": "3391 Kilometre filmi konusu ne?",
+      "link": "https://www.haberturk.com/tv-de-ilk-3391-kilometre-filmi-konusu-ne-oyunculari-kimler-3391-kilometre-filmi-nerede-cekildi-3789401",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T06:12:06Z"
     },
     {
       "title": "Askeri casusluk soruşturması: 22 şüpheli hakkında adli işlem",
@@ -52,6 +82,18 @@
       "link": "https://www.sozcu.com.tr/1-milyar-tl-lik-mirasta-ortalik-karisti-yegeninden-julide-kural-a-cagri-p363356",
       "source": "Sözcü",
       "published_at": "2026-09-25T06:10:13Z"
+    },
+    {
+      "title": "Polise el bombasıyla direndi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-polise-el-bombasiyla-direndi-adana-haberleri-3914970",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T06:10:09Z"
+    },
+    {
+      "title": "Fon soruşturmasında yeni tutuklama kararları",
+      "link": "https://www.haberturk.com/ekonomi/sermaye-piyasasi-islemleri-sorusturmalarinda-19-supheli-tutuklandi-3914969",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T06:08:06Z"
     },
     {
       "title": "Ev hanımlığını bıraktı fabrika sahibi oldu: 81 ile gönderiyor",
@@ -712,48 +754,6 @@
       "link": "https://www.haberturk.com/spor/kosova-irlanda-mac-sonucu-iste-kosova-irlanda-maci-ozeti-ve-golleri-uefa-uluslar-ligi-vedat-muric-atti-kosova-kazandi-3914933",
       "source": "Habertürk",
       "published_at": "2026-09-24T20:49:15Z"
-    },
-    {
-      "title": "Kaderine terk edilen gemi yıllar sonra ormana dönüştü",
-      "link": "https://www.sozcu.com.tr/kaderine-terk-edilen-gemi-yillar-sonra-ormana-donustu-p363286",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T20:43:13Z"
-    },
-    {
-      "title": "Burhanettin Duran: Netanyahu'nun alçak sözleri onun katliamlarını görünmez hale getiremez",
-      "link": "https://www.trthaber.com/haber/gundem/burhanettin-duran-netanyahunun-alcak-sozleri-onun-katliamlarini-gorunmez-hale-getiremez-958051.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T20:41:00Z"
-    },
-    {
-      "title": "Anadolu Efes, EuroLeague'de sezonu mağlubiyetle açtı",
-      "link": "https://www.sozcu.com.tr/anadolu-efes-euroleague-de-sezonu-maglubiyetle-acti-p363285",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T20:38:13Z"
-    },
-    {
-      "title": "ABD Senatosu, İran'a saldırıların sona erdirilmesine yönelik karar tasarısını reddetti",
-      "link": "https://www.trthaber.com/haber/dunya/abd-senatosu-irana-saldirilarin-sona-erdirilmesine-yonelik-karar-tasarisini-reddetti-958050.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-24T20:36:00Z"
-    },
-    {
-      "title": "BM kürsüsünde yuhalanan Netanyahu, dünyayı bu cihazla tehdit etti",
-      "link": "https://www.sozcu.com.tr/bm-kursusunde-yuhalanan-netanyahu-dunyayi-bu-cihazla-tehdit-etti-p363283",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T20:35:40Z"
-    },
-    {
-      "title": "Uğur Şahin ve Özlem Türeci'den yeni hamle: Kuracakları şirketin adı belli oldu",
-      "link": "https://www.sozcu.com.tr/ugur-sahin-ve-ozlem-tureci-den-yeni-hamle-kuracaklari-sirketin-adi-belli-oldu-p363278",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T20:08:30Z"
-    },
-    {
-      "title": "Kürsüye gelen Netanyahu'ya BM salonunda büyük şok!",
-      "link": "https://www.sozcu.com.tr/benyamin-netanyahu-ya-sok-protesto-p363265",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T20:06:11Z"
     }
   ]
 }
