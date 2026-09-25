@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:18:03.032230Z",
+  "generated_at": "2026-09-25T12:23:06.497926Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,28 @@
   ],
   "items": [
     {
+      "title": "Emekli eylemde canına kıymak istedi",
+      "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T12:21:08Z"
+    },
+    {
+      "title": "Son dakika: Fon soruşturmasında şüphelilerin mal varlıklarına el konuldu",
+      "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-suphelilerin-mal-varliklarina-el-konuldu-p363498",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T12:20:48Z"
+    },
+    {
+      "title": "Fon soruşturmalarında 45 şüpheli tutuklandı",
+      "link": "https://www.trthaber.com/haber/ekonomi/fon-sorusturmalarinda-45-supheli-tutuklandi-958142.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-25T12:16:00Z"
+    },
+    {
       "title": "Arabanızın tekerleğine pet şişe sıkıştıysa sakın inmeyin",
       "link": "https://www.sozcu.com.tr/arabanizin-tekerlegine-pet-sise-sikistiysa-yandiniz-p363491",
       "source": "Sözcü",
       "published_at": "2026-09-25T12:15:42Z"
-    },
-    {
-      "title": "Emekli eylemde canına kıymak istedi",
-      "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T12:15:33Z"
     },
     {
       "title": "İstanbullular 8 gün boyunca güneş göremeyecek",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/serdal-adali-dan-flas-itiraf-siyah-ile-beyaz-kadar-fark-var-p363430",
       "source": "Sözcü",
       "published_at": "2026-09-25T08:41:30Z"
-    },
-    {
-      "title": "TBF Başkanı Türkoğlu'ndan yeni sezon mesajı!",
-      "link": "https://www.haberturk.com/spor/tbf-baskani-hidayet-turkoglu-ndan-2026-2027-sezonu-mesaji-3915018",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T08:38:20Z"
-    },
-    {
-      "title": "Erdoğan'ın kapalı toplantıda sorduğu soru Pepsi ve Coca Cola yöneticilerini terletti",
-      "link": "https://www.sozcu.com.tr/erdogan-in-kapali-toplantida-sordugu-soru-pepsi-ve-coca-cola-yoneticilerini-terletti-p363428",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T08:37:30Z"
     }
   ]
 }
