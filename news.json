@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:08:16.262144Z",
+  "generated_at": "2026-09-25T01:13:19.967930Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Bodrum'da makilik alan yangını",
+      "link": "https://www.haberturk.com/gundem/bodrum-da-makilik-alanda-yangin-3914946",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T01:00:54Z"
+    },
+    {
       "title": "AKP ve MHP’li eski başkanlara gözaltı",
       "link": "https://www.sozcu.com.tr/akp-ve-mhp-li-eski-baskanlara-gozalti-p363315",
       "source": "Sözcü",
       "published_at": "2026-09-25T01:00:27Z"
+    },
+    {
+      "title": "Down sendromlu Pınar'ın gelinlik hayali gerçek oldu",
+      "link": "https://www.haberturk.com/gundem/hatay-da-down-sendromlu-pinar-in-gelinlik-hayali-gercek-oldu-3914950",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T00:58:09Z"
     },
     {
       "title": "Uzaktan çalışma modeline yeni düzenleme",
@@ -94,12 +106,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/turkiye-fransa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-yayinlanacak-turkiye-fransa-maci-canli-yayin-bilgisi-3914631",
       "source": "Habertürk",
       "published_at": "2026-09-24T22:56:09Z"
-    },
-    {
-      "title": "Bodrum'da makilik alan yangını",
-      "link": "https://www.haberturk.com/gundem/bodrum-da-makilik-alanda-yangin-3914946",
-      "source": "Habertürk",
-      "published_at": "2026-09-24T22:48:54Z"
     },
     {
       "title": "\"Netanyahu'nun açıklamalarını lanetliyoruz\"",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-bm-den-gazzeye-f-35-surecinden-terorsuz-turkiyeye-kadar-onemli-mesajlar-3914881",
       "source": "Habertürk",
       "published_at": "2026-09-24T16:15:57Z"
-    },
-    {
-      "title": "Fon soruşturmasında değeri 1,8 milyar TL’yi aşan 2 jet ve yata el konuldu",
-      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-2-jet-ile-1-luks-yata-el-konuldu-p363239",
-      "source": "Sözcü",
-      "published_at": "2026-09-24T16:13:34Z"
     }
   ]
 }
