@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:07:54.928612Z",
+  "generated_at": "2026-09-25T12:12:58.794780Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
+      "link": "https://www.sozcu.com.tr/101-milyon-kisinin-verisini-satmislar-panelin-kurucularina-operasyon-p363478",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T12:09:33Z"
+    },
+    {
+      "title": "Yapay zekâya göre Türkiye'nin en yaşanamaz 5 ili",
+      "link": "https://www.sozcu.com.tr/yapay-zekaya-gore-turkiye-nin-en-yasanamaz-5-ili-p363496",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T12:08:58Z"
+    },
+    {
+      "title": "Emekli eylemde canına kıymak istedi",
+      "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T12:08:40Z"
+    },
+    {
       "title": "Denizin ortasına 8 kilometrelik iskele yaptılar: Dünyanın en uzunu oldu",
       "link": "https://www.sozcu.com.tr/denizin-ortasina-8-kilometrelik-iskele-yaptilar-dunyanin-en-uzunu-oldu-p363479",
       "source": "Sözcü",
@@ -48,10 +66,22 @@
       "published_at": "2026-09-25T12:04:00Z"
     },
     {
-      "title": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
-      "link": "https://www.sozcu.com.tr/101-milyon-kisinin-verisini-satmislar-panelin-kurucularina-operasyon-p363478",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T12:02:21Z"
+      "title": "Netanyahu konuşurken salonu terk edenleri not aldılar!",
+      "link": "https://www.haberturk.com/dunya/netanyahu-konusurken-salonu-terk-edenleri-not-aldilar-3915076",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T12:03:00Z"
+    },
+    {
+      "title": "Girişimci kadınlar, Antalya’da buluştu",
+      "link": "https://www.haberturk.com/ekonomi/girisimci-kadinlar-antalyada-bulustu-3915077",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T12:01:05Z"
+    },
+    {
+      "title": "Faruk Aksoy'dan yeni roman: Batia",
+      "link": "https://www.haberturk.com/kultur-sanat/faruk-aksoy-dan-yeni-roman-batia-3915025",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T12:00:39Z"
     },
     {
       "title": "İngiltere'de kene alarmı: Şehir merkezlerinde de var",
@@ -636,12 +666,6 @@
       "published_at": "2026-09-25T08:59:00Z"
     },
     {
-      "title": "Faruk Aksoy'dan yeni roman: Batia",
-      "link": "https://www.haberturk.com/kultur-sanat/faruk-aksoy-dan-yeni-roman-batia-3915025",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T08:58:04Z"
-    },
-    {
       "title": "Bulgaristan'da 25 Ekim'de yapılacak cumhurbaşkanı seçimi için kampanya dönemi başladı",
       "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-25-ekimde-yapilacak-cumhurbaskani-secimi-icin-kampanya-donemi-basladi-958109.html",
       "source": "TRT Haber",
@@ -730,30 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/bakan-yumakli-53-milyar-dolarlik-dev-finansman-paketi-icin-imzalar-atildi-958105.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T08:30:00Z"
-    },
-    {
-      "title": "Kiralık sosyal konut başvuruları bugün sona eriyor",
-      "link": "https://www.trthaber.com/haber/turkiye/kiralik-sosyal-konut-basvurulari-bugun-sona-eriyor-958104.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-25T08:29:00Z"
-    },
-    {
-      "title": "12 yıldır firardaydı... Bir çapkınlık sonu oldu!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-12-yildir-firardaydi-bir-capkinlik-sonu-oldu-3914957",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T08:28:41Z"
-    },
-    {
-      "title": "Bir gecede 20 milyon dolar kaybedince Atatürk ayıbından döndüler",
-      "link": "https://www.sozcu.com.tr/bir-gecede-20-milyon-dolar-kaybedince-ataturk-ayibindan-donduler-p363417",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T08:27:32Z"
-    },
-    {
-      "title": "Beykoz'da site ölçeğinde ilk dönüşüm başladı",
-      "link": "https://www.haberturk.com/gundem/beykoz-da-site-olceginde-ilk-donusum-basladi-3915014",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T08:26:46Z"
     }
   ]
 }
