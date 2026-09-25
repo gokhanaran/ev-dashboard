@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-25T21:01:10.490055Z",
+  "generated_at": "2026-09-25T21:06:34.534725Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
     {
       "source": "Habertürk",
       "url": "https://www.haberturk.com/rss",
-      "ok": false,
-      "error": "The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,36 @@
   ],
   "items": [
     {
+      "title": "KREK VR’dan '35 Mayıs' seyirciyle buluşuyor",
+      "link": "https://www.haberturk.com/kultur-sanat/krek-vrdan-35-mayis-seyirciyle-bulusuyor-3915040",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T21:04:44Z"
+    },
+    {
+      "title": "Masterchef ödül oyununu kim kazandı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-odul-oyununu-kim-kazandi-eleme-potasinda-kim-var-25-eylul-masterchef-hangi-takim-kazandi-3915174",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T21:04:22Z"
+    },
+    {
+      "title": "Bergüzar Korel ‘Hatırladıkça’ ile sahnede",
+      "link": "https://www.haberturk.com/kultur-sanat/berguzar-korel-hatirladikca-ile-sahnede-3915051",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T21:04:07Z"
+    },
+    {
+      "title": "\"Avrupa ile çatışmak için hazırlanmıyoruz\"",
+      "link": "https://www.haberturk.com/dunya/avrupa-ile-catismak-icin-hazirlanmiyoruz-3915183",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T21:04:05Z"
+    },
+    {
+      "title": "Mbappe'den Arda Güler'e şok hareket! Takım arkadaşına davranışı çok konuşuldu",
+      "link": "https://www.sozcu.com.tr/arda-gulerin-konsantrasyonunu-bozmak-icin-bagirarak-baski-kurdu-p363590",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T21:02:35Z"
+    },
+    {
       "title": "Burak Yılmaz Çorum FK'da sahaya indi",
       "link": "https://www.sozcu.com.tr/burak-yilmaz-corum-fk-da-sahaya-indi-p363588",
       "source": "Sözcü",
@@ -52,12 +82,6 @@
       "link": "https://www.haberturk.com/spor/turkiye-fransa-maci-canli-anlatim-turkiye-fransa-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli--3914982",
       "source": "Habertürk",
       "published_at": "2026-09-25T20:49:34Z"
-    },
-    {
-      "title": "Masterchef ödül oyununu kim kazandı?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-odul-oyununu-kim-kazandi-eleme-potasinda-kim-var-25-eylul-masterchef-hangi-takim-kazandi-3915174",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T20:49:22Z"
     },
     {
       "title": "Milli Takım Fransa’ya diş geçiremedi",
@@ -630,6 +654,12 @@
       "published_at": "2026-09-25T16:16:00Z"
     },
     {
+      "title": "Okan Buruk PFDK'ya sevk edildi!",
+      "link": "https://www.haberturk.com/spor/galatasaray-teknik-direktoru-okan-buruk-pfdk-sevk-edildi-3915133",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T16:10:20Z"
+    },
+    {
       "title": "Busenaz Sürmeneli Avrupa şampiyonu",
       "link": "https://www.sozcu.com.tr/busenaz-surmeneli-avrupa-sampiyonu-p363551",
       "source": "Sözcü",
@@ -724,36 +754,6 @@
       "link": "https://www.sozcu.com.tr/boksta-bir-altin-madalya-daha-hatice-akbas-avrupa-sampiyonu-oldu-p363546",
       "source": "Sözcü",
       "published_at": "2026-09-25T15:40:30Z"
-    },
-    {
-      "title": "İngiltere bu haberle çalkalanıyor! Manchester City küme düşebilir",
-      "link": "https://www.sozcu.com.tr/ingiltere-bu-haberle-calkalaniyor-manchester-city-kume-dusebilir-p363545",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T15:39:15Z"
-    },
-    {
-      "title": "Miçotakis: Yan yana yaşamak bizim kaderimiz",
-      "link": "https://www.haberturk.com/dunya/micotakis-yan-yana-yasamak-bizim-kaderimiz-3915132",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T15:37:32Z"
-    },
-    {
-      "title": "UEFA'dan Fenerbahçe'ye müjde! Kritik maçta oynayabilecek",
-      "link": "https://www.sozcu.com.tr/uefadan-fenerbahceye-mujde-kritik-macta-oynayabilecek-p363541",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T15:37:28Z"
-    },
-    {
-      "title": "Okan Buruk, PFDK'ya sevk edildi",
-      "link": "https://www.sozcu.com.tr/okan-buruk-pfdkye-sevk-edildi-p363543",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T15:35:21Z"
-    },
-    {
-      "title": "Trump’la görüştü, koltuğundan oldu: Ülke tarihinin en kısa süre görev yapan bakanı",
-      "link": "https://www.sozcu.com.tr/trump-la-gorustu-koltugundan-oldu-ulke-tarihinin-en-kisa-sure-gorev-yapan-bakani-p363542",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T15:29:28Z"
     }
   ]
 }
