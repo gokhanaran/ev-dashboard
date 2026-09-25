@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:47:50.398559Z",
+  "generated_at": "2026-09-25T17:52:54.353310Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Fenerbahçe Azerbaycan'a gidiyor",
+      "link": "https://www.sozcu.com.tr/fenerbahce-azerbaycan-a-gidiyor-p363560",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T17:50:55Z"
+    },
+    {
       "title": "Millilerin ilk 11'i belli oldu",
       "link": "https://www.haberturk.com/spor/a-milli-takim-fransa-karsisinda-turkiye-fransa-muhtemel-11-ler-3914982",
       "source": "Habertürk",
-      "published_at": "2026-09-25T17:40:03Z"
+      "published_at": "2026-09-25T17:44:29Z"
     },
     {
       "title": "Tahkim Kurulu Galatasaray'ın itirazını reddetti",
@@ -52,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/canli-veya-turkiye-fransa-maci-canli-yayin-p363530",
       "source": "Sözcü",
       "published_at": "2026-09-25T17:35:19Z"
+    },
+    {
+      "title": "DMM, Sirkeci ve Haydarpaşa garları ile Venice SimplonOrientExpress trenine ilişkin iddiaları yalandı",
+      "link": "https://www.trthaber.com/haber/gundem/dmm-sirkeci-ve-haydarpasa-garlari-ile-venice-simplon-orient-express-trenine-iliskin-iddialari-yalandi-958166.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-25T17:35:00Z"
     },
     {
       "title": "Hapis cezası iddialarına yanıt",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/cole-tahil-ektiler-72-yildir-bedelini-oduyorlar-p363504",
       "source": "Sözcü",
       "published_at": "2026-09-25T12:32:18Z"
-    },
-    {
-      "title": "Son dakika: Fon soruşturmasında şüphelilerin mal varlıklarına el konuldu",
-      "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-suphelilerin-mal-varliklarina-el-konuldu-p363498",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T12:31:57Z"
-    },
-    {
-      "title": "Bu evden bir kadın ölü çıktı!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bu-evden-bir-kadin-olu-cikti-manisa-haberleri-3915089",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T12:30:03Z"
     }
   ]
 }
