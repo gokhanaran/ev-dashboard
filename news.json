@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:57:47.176401Z",
+  "generated_at": "2026-09-25T12:02:51.135600Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Arabanızın tekerleğine pet şişe sıkıştıysa yandınız",
+      "link": "https://www.sozcu.com.tr/arabanizin-tekerlegine-pet-sise-sikistiysa-yandiniz-p363491",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T11:58:26Z"
+    },
+    {
+      "title": "Balkanlardan geliyor... Sıcaklık düşüyor! Bu hafta hava nasıl olacak?",
+      "link": "https://www.haberturk.com/gundem/hava-durumu-son-dakika-balkanlardan-geliyor-sicaklik-dusuyor-bu-hafta-hava-nasil-olacak-3915073",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T11:57:04Z"
+    },
     {
       "title": "Dünya Kupası'ndan milyonlar kazandı",
       "link": "https://www.haberturk.com/magazin/david-beckham-dunya-kupasi-anlasmalarindan-38-milyon-sterlin-kazandi-3915065",
@@ -232,6 +244,12 @@
       "link": "https://www.haberturk.com/gundem/marmaris-te-iki-saatte-bir-ton-atik-toplandi-3915056",
       "source": "Habertürk",
       "published_at": "2026-09-25T11:06:33Z"
+    },
+    {
+      "title": "24 Eylül Perşembe reyting sonuçları belli oldu: İki dizi arasındaki rekabetin kazananı ortaya çıktı",
+      "link": "https://www.sozcu.com.tr/24-eylul-persembe-reyting-sonuclari-belli-oldu-iki-dizi-arasindaki-rekabetin-kazanani-ortaya-cikti-p363470",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T11:00:07Z"
     },
     {
       "title": "ABD halkını çıldırtan görüntü: ABD askerleri Xi'nin yürüyeceği halıyı dizleriyle temizledi",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/karabuk-te-12-sikke-ele-gecirildi-guncel-haberler-3789439",
       "source": "Habertürk",
       "published_at": "2026-09-25T08:20:04Z"
-    },
-    {
-      "title": "'Hallederiz Buket'in test sonucu belli oldu",
-      "link": "https://www.sozcu.com.tr/hallederiz-buket-in-test-sonucu-belli-oldu-p363420",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T08:18:46Z"
-    },
-    {
-      "title": "28 ilde DEAŞ operasyonu: 83 şüpheli yakalandı",
-      "link": "https://www.trthaber.com/haber/gundem/28-ilde-deas-operasyonu-83-supheli-yakalandi-958100.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-25T08:18:00Z"
-    },
-    {
-      "title": "\"Çin veri sağlıyor, İran ABD'yi vuruyor\"",
-      "link": "https://www.haberturk.com/dunya/cnn-abd-istihbarati-cin-in-sagladigi-verilerin-iran-in-saldiri-kapasitesini-artirdigini-belirtti-3915010",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T08:17:47Z"
     }
   ]
 }
