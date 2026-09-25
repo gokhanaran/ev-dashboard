@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:27:33.221156Z",
+  "generated_at": "2026-09-25T17:32:37.236014Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "DMM'den fon piyasası açıklaması",
+      "link": "https://www.haberturk.com/gundem/fon-piyasasindaki-iddialara-iliskin-dezenformasyon-uyarisi-yapildi-3915156",
+      "source": "Habertürk",
+      "published_at": "2026-09-25T17:22:55Z"
+    },
     {
       "title": "Emeklilerin eyleminde acı olay: Emekli polis kurtarılamadı",
       "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
@@ -112,6 +118,12 @@
       "link": "https://www.haberturk.com/spor/busra-isildar-avrupa-ikincisi-3915149",
       "source": "Habertürk",
       "published_at": "2026-09-25T16:44:09Z"
+    },
+    {
+      "title": "Genelkurmay Başkanı Bayraktaroğlu, Mekke Ortak Savunma Anlaşması kapsamındaki toplantıya katıldı",
+      "link": "https://www.trthaber.com/haber/gundem/genelkurmay-baskani-bayraktaroglu-mekke-ortak-savunma-anlasmasi-kapsamindaki-toplantiya-katildi-958164.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-25T16:44:00Z"
     },
     {
       "title": "Mehmetçik Yemene gidecek mi? Erdoğan ilk sinyali verdi",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbullular-8-gun-boyunca-gunes-goremeyecek-p363497",
       "source": "Sözcü",
       "published_at": "2026-09-25T12:14:41Z"
-    },
-    {
-      "title": "On milyonlarca numara resmen yağmalanmış! Ne kimliğiniz ne de telefon numaranız...",
-      "link": "https://www.sozcu.com.tr/101-milyon-kisinin-verisini-satmislar-panelin-kurucularina-operasyon-p363478",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T12:12:32Z"
-    },
-    {
-      "title": "İstanbul Havalimanı'nda 20 kilogram uyuşturucu ele geçirildi",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-havalimaninda-20-kilogram-uyusturucu-ele-gecirildi-958140.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-25T12:09:00Z"
     }
   ]
 }
