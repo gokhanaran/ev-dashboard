@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:40:56.621591Z",
+  "generated_at": "2026-09-25T20:46:00.114736Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Putin’den o ülkeye olay yaratacak sözler: Siyasi soytarılık",
+      "link": "https://www.sozcu.com.tr/putin-den-o-ulkeye-olay-yaratacak-sozler-siyasi-soytarilik-p363586",
+      "source": "Sözcü",
+      "published_at": "2026-09-25T20:42:07Z"
+    },
     {
       "title": "Canlı | Türkiye-Fransa maçı canlı yayın",
       "link": "https://www.sozcu.com.tr/canli-veya-turkiye-fransa-maci-canli-yayin-p363530",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/deniz-baysal-dan-yurtcu-hamlesi-3915039",
       "source": "Habertürk",
       "published_at": "2026-09-25T15:06:30Z"
-    },
-    {
-      "title": "SGK yazısıyla kıdem tazminatı",
-      "link": "https://www.haberturk.com/ekonomi/sgk-yazisiyla-kidem-tazminati-3915105",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T15:04:42Z"
     }
   ]
 }
