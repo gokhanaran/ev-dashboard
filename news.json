@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:09:42.945826Z",
+  "generated_at": "2026-09-26T00:34:55.943742Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Erdoğan’ın mal varlığını araştıranlar gözaltında!",
+      "link": "https://www.sozcu.com.tr/erdogan-in-mal-varligini-arastiranlar-gozaltinda-p363604",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T00:30:01Z"
+    },
+    {
+      "title": "OpenAI, yapay zeka ajanlarının uygunsuz davranışlarını araştırdığını açıkladı",
+      "link": "https://www.sozcu.com.tr/openai-yapay-zeka-ajanlarinin-uygunsuz-davranislarini-arastirdigini-acikladi-p363607",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T00:29:39Z"
+    },
     {
       "title": "Güvenlikçi sertifikası olmayanlar da okullarda işe alındı",
       "link": "https://www.sozcu.com.tr/guvenlikci-sertifikasi-olmayanlar-da-okullarda-ise-alindi-p363602",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-milli-boksor-busenaz-surmeneliyi-tebrik-etti-958165.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T17:25:00Z"
-    },
-    {
-      "title": "DMM'den fon piyasası açıklaması",
-      "link": "https://www.haberturk.com/gundem/fon-piyasasindaki-iddialara-iliskin-dezenformasyon-uyarisi-yapildi-3915156",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T17:22:55Z"
-    },
-    {
-      "title": "Emeklilerin eyleminde acı olay: Emekli polis kurtarılamadı",
-      "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T17:22:13Z"
     }
   ]
 }
