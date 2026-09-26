@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:46:58.337694Z",
+  "generated_at": "2026-09-26T14:52:02.125574Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Adalet Bakanı Akın Gürlek Fon Soruşturmasında bilançoyu açıkladı",
+      "link": "https://www.sozcu.com.tr/adalet-bakani-akin-gurlek-fon-sorusturmasinda-bilancoyu-acikladi-p363770",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T14:50:20Z"
+    },
+    {
+      "title": "Bakan Gürlek: Vatandaşımızın birikimini korumak için mücadelemiz sürecek",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-vatandasimizin-birikimini-korumak-icin-mucadelemiz-surecek-958241.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-26T14:45:00Z"
+    },
     {
       "title": "Dijital incelemede dikkat çeken yazışma",
       "link": "https://www.haberturk.com/gundem/arda-birincinin-telefonunda-adli-tip-sureciyle-ilgili-mesajlar-cikti-3915303",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-gozler-yogun-veri-gundemine-cevrildi-958215.html",
       "source": "TRT Haber",
       "published_at": "2026-09-26T09:13:00Z"
-    },
-    {
-      "title": "Haftada 2 kez yiyen şifa buluyor",
-      "link": "https://www.sozcu.com.tr/haftada-2-kez-yiyen-sifa-buluyor-p363691",
-      "source": "Sözcü",
-      "published_at": "2026-09-26T09:10:34Z"
-    },
-    {
-      "title": "1898 rakımdaki Deniz Gölü'nde çevre temizliği",
-      "link": "https://www.haberturk.com/gundem/1898-rakimdaki-deniz-golu-nde-temizlik-yaptilar-3915246",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T09:10:29Z"
     }
   ]
 }
