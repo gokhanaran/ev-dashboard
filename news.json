@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:28:25.349162Z",
+  "generated_at": "2026-09-26T04:43:31.490087Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ayfer kaçmaya çalıştı... Kocası tetiğe bastı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-ayfer-kacmaya-calisti-katil-koca-tetige-basti-diyarbakir-haberleri-3915207",
+      "source": "Habertürk",
+      "published_at": "2026-09-26T04:35:57Z"
+    },
     {
       "title": "2023'te Erdoğan'ı desteklemişti... Fatih Erbakan adaylığını açıkladı",
       "link": "https://www.sozcu.com.tr/2023-te-erdogan-i-desteklemisti-fatih-erbakan-adayligini-acikladi-p363616",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/dunya-genelinde-117-milyon-insan-yerinden-edildi-958169.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T18:11:00Z"
-    },
-    {
-      "title": "Tanju Özcan için istenen ceza belli oldu",
-      "link": "https://www.sozcu.com.tr/tanju-ozcan-icin-istenen-ceza-belli-oldu-p363564",
-      "source": "Sözcü",
-      "published_at": "2026-09-25T18:10:06Z"
     }
   ]
 }
