@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:31:43.019562Z",
+  "generated_at": "2026-09-26T10:36:46.132545Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -42,6 +42,12 @@
       "published_at": "2026-09-26T10:30:07Z"
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan'dan Türk Dili Bayramı mesajı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-turk-dili-bayrami-mesaji-3915269",
+      "source": "Habertürk",
+      "published_at": "2026-09-26T10:28:20Z"
+    },
+    {
       "title": "SPK'dan Tera ve OZATD işlemleri için yeni karar: 11 kişi hakkında suç duyurusu",
       "link": "https://www.sozcu.com.tr/spkdan-tera-ve-ozatd-islemleri-icin-yeni-karar-11-kisi-hakkinda-suc-duyurusu-p363668",
       "source": "Sözcü",
@@ -54,10 +60,22 @@
       "published_at": "2026-09-26T10:23:35Z"
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan: Dilimize sahip çıkmak, geleceğimize sahip çıkmaktır",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-dilimize-sahip-cikmak-gelecegimize-sahip-cikmaktir-958223.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-26T10:23:00Z"
+    },
+    {
       "title": "YENİ Parti'den bomba fon iddiası! AKP'li eski Bakan Fatma Betül Sayan Kaya 4 ayda köşeyi döndü",
       "link": "https://www.sozcu.com.tr/bomba-fon-iddiasi-akp-li-eski-bakan-fatma-betul-sayan-kaya-4-ayda-koseyi-dondu-p363705",
       "source": "Sözcü",
       "published_at": "2026-09-26T10:22:40Z"
+    },
+    {
+      "title": "Bill Gates'ten yapay zeka uyarısı: Milyarca kişinin ölümüne yol açabilir",
+      "link": "https://www.trthaber.com/haber/dunya/bill-gatesten-yapay-zeka-uyarisi-milyarca-kisinin-olumune-yol-acabilir-958224.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-26T10:21:00Z"
     },
     {
       "title": "Köyün ortasında kilo kilo çıktı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/zidane-dan-turkiye-nin-oyununa-ovgu-p363598",
       "source": "Sözcü",
       "published_at": "2026-09-26T06:40:24Z"
-    },
-    {
-      "title": "Berhan Şimşek'ten şiddet savunması",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-berhan-simsek-ten-ozlem-sanver-e-siddet-savunmasi-3915209",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T06:39:56Z"
-    },
-    {
-      "title": "Süper Lig'den 6 yıldızın oynadığı milli maça Fenerbahçeli isim damga vurdu",
-      "link": "https://www.sozcu.com.tr/super-ligden-6-yildizin-oynadigi-milli-maca-fenerbahceli-isim-damga-vurdu-p363642",
-      "source": "Sözcü",
-      "published_at": "2026-09-26T06:39:07Z"
-    },
-    {
-      "title": "Evden para ve ziynet eşyası çaldı, 260 yıl hapis cezası olduğu ortaya çıktı",
-      "link": "https://www.trthaber.com/haber/turkiye/evden-para-ve-ziynet-esyasi-caldi-260-yil-hapis-cezasi-oldugu-ortaya-cikti-958196.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-26T06:34:00Z"
     }
   ]
 }
