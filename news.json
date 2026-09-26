@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:46:15.439593Z",
+  "generated_at": "2026-09-26T09:51:18.768923Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Araçların camına para sıkıştırmaya başladılar",
+      "link": "https://www.sozcu.com.tr/araclarin-camina-para-sikistirmaya-basladilar-p363699",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T09:48:35Z"
+    },
+    {
       "title": "Beklenmedik karşılaşma",
       "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-ne-omer-ve-lider-in-karsilasmasi-damga-vurdu-3915251",
       "source": "Habertürk",
-      "published_at": "2026-09-26T09:38:56Z"
+      "published_at": "2026-09-26T09:41:37Z"
     },
     {
       "title": "Türkiye'nin enerjisinde yeşil dönüşüm hız kesmiyor",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/kara-yollarinda-son-durum-958190.html",
       "source": "TRT Haber",
       "published_at": "2026-09-26T05:43:00Z"
-    },
-    {
-      "title": "\"12-13 kilo verdim\"",
-      "link": "https://www.haberturk.com/magazin/bulent-inal-12-13-kilo-verdim-3915179",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T05:39:04Z"
     }
   ]
 }
