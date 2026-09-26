@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:48:34.184980Z",
+  "generated_at": "2026-09-26T04:53:36.927972Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son Dakika... Fenerbahçe'ye FIFA'dan 3 dönem transfer yasağı: Ödeme yapılırsa kalkacak",
+      "link": "https://www.sozcu.com.tr/fifadan-fenerbahceye-3-donem-transfer-yasagi-p363615",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T04:51:39Z"
+    },
     {
       "title": "Buket kokaini de halletmiş!",
       "link": "https://www.sozcu.com.tr/buket-kokaini-de-halletmis-p363618",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/milli-boksor-emrah-yasardan-altin-madalya-958170.html",
       "source": "TRT Haber",
       "published_at": "2026-09-25T18:28:00Z"
-    },
-    {
-      "title": "\"Ukrayna Patriot füzelerinin üretimi için lisans alacak\"",
-      "link": "https://www.haberturk.com/dunya/ukrayna-ya-patriot-fuzeleri-konusunda-olumlu-haber-3915161",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T18:18:50Z"
     }
   ]
 }
