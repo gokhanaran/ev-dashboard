@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:59:37.725452Z",
+  "generated_at": "2026-09-26T00:09:42.945826Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Güvenlikçi sertifikası olmayanlar da okullarda işe alındı",
+      "link": "https://www.sozcu.com.tr/guvenlikci-sertifikasi-olmayanlar-da-okullarda-ise-alindi-p363602",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T00:00:00Z"
+    },
     {
       "title": "İngiltere Başbakanı Burnham'dan İskoçya açıklaması",
       "link": "https://www.haberturk.com/dunya/ingiltere-basbakani-burnham-dan-iskocya-aciklamasi-3915204",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/emekli-eylemde-canina-kiymak-istedi-p363495",
       "source": "Sözcü",
       "published_at": "2026-09-25T17:22:13Z"
-    },
-    {
-      "title": "\"İran 7 günlük bir plan sundu\"",
-      "link": "https://www.haberturk.com/dunya/iran-7-gunluk-bir-plan-sundu-3915145",
-      "source": "Habertürk",
-      "published_at": "2026-09-25T17:14:49Z"
     }
   ]
 }
