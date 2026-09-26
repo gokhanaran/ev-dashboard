@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:26:40.100812Z",
+  "generated_at": "2026-09-26T10:31:43.019562Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Dev madencilik şirketinin yüzde 30'u satıldı: Üretimde şaha kalkacaklar",
+      "link": "https://www.sozcu.com.tr/dev-madencilik-sirketinin-yuzde-30-u-satildi-uretimde-saha-kalkacaklar-p363712",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T10:30:07Z"
+    },
+    {
+      "title": "SPK'dan Tera ve OZATD işlemleri için yeni karar: 11 kişi hakkında suç duyurusu",
+      "link": "https://www.sozcu.com.tr/spkdan-tera-ve-ozatd-islemleri-icin-yeni-karar-11-kisi-hakkinda-suc-duyurusu-p363668",
+      "source": "Sözcü",
+      "published_at": "2026-09-26T10:26:35Z"
+    },
+    {
+      "title": "Mudurnu'da yangın: 2 bin hindi öldü",
+      "link": "https://www.haberturk.com/gundem/mudurnu-da-yangin-2-bin-hindi-oldu-3915268",
+      "source": "Habertürk",
+      "published_at": "2026-09-26T10:23:35Z"
+    },
     {
       "title": "YENİ Parti'den bomba fon iddiası! AKP'li eski Bakan Fatma Betül Sayan Kaya 4 ayda köşeyi döndü",
       "link": "https://www.sozcu.com.tr/bomba-fon-iddiasi-akp-li-eski-bakan-fatma-betul-sayan-kaya-4-ayda-koseyi-dondu-p363705",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/evden-para-ve-ziynet-esyasi-caldi-260-yil-hapis-cezasi-oldugu-ortaya-cikti-958196.html",
       "source": "TRT Haber",
       "published_at": "2026-09-26T06:34:00Z"
-    },
-    {
-      "title": "WSJ: Trump, İran'ın 7 günlük ateşkes teklifini reddetti",
-      "link": "https://www.trthaber.com/haber/dunya/wsj-trump-iranin-7-gunluk-ateskes-teklifini-reddetti-958195.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-26T06:31:00Z"
-    },
-    {
-      "title": "'Fon' soruşturmasında 4 kişi daha tutuklandı",
-      "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-4-kisi-daha-tutuklandi-3915211",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T06:29:47Z"
-    },
-    {
-      "title": "Netanyahu'ya oluşturulan basın takip sistemi ifşa edildi",
-      "link": "https://www.haberturk.com/dunya/israil-lideri-netanyahu-icin-olusturulan-basin-takip-sistemi-ifsa-edildi-3915212",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T06:27:16Z"
     }
   ]
 }
