@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:57:42.870282Z",
+  "generated_at": "2026-09-26T19:07:49.009616Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,13 +39,19 @@
       "title": "Derya Uluğ saçlarını kısalttı",
       "link": "https://www.haberturk.com/magazin/derya-ulug-saclarini-kisaltti-3915344",
       "source": "Habertürk",
-      "published_at": "2026-09-26T18:55:36Z"
+      "published_at": "2026-09-26T18:56:13Z"
     },
     {
       "title": "Bahçeli, Sarallar ve Şahinler ailelerini kabul etti",
       "link": "https://www.haberturk.com/gundem/mhp-genel-merkezinde-gerceklesen-gorusmede-taraflar-bir-araya-geldi-3915327",
       "source": "Habertürk",
       "published_at": "2026-09-26T18:52:04Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, '26 Eylül Türk Dil Bayramı'nı kutladı",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-26-eylul-turk-dil-bayramini-kutladi-958259.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-26T18:52:00Z"
     },
     {
       "title": "\"Cumhurbaşkanımızın verdiği mesajlar büyük yankı uyandırmakta\"",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/besiktasin-aci-gunu-p363741",
       "source": "Sözcü",
       "published_at": "2026-09-26T12:22:34Z"
-    },
-    {
-      "title": "Galatasaray'ın eski yıldızı 33 yaşında futbolu bıraktı",
-      "link": "https://www.sozcu.com.tr/galatasaray-in-eski-yildizi-33-yasinda-futbolu-birakti-p363739",
-      "source": "Sözcü",
-      "published_at": "2026-09-26T12:13:23Z"
     }
   ]
 }
