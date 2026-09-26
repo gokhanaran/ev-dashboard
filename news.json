@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:36:51.273134Z",
+  "generated_at": "2026-09-26T14:41:54.848052Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,18 @@
       "link": "https://www.sozcu.com.tr/yeni-partili-veli-agbaba-hastaneye-kaldirildi-p363761",
       "source": "Sözcü",
       "published_at": "2026-09-26T14:35:56Z"
+    },
+    {
+      "title": "Kadıköy Çizgi Festivali başladı",
+      "link": "https://www.haberturk.com/gundem/kadikoy-cizgi-festivali-basladi-3915304",
+      "source": "Habertürk",
+      "published_at": "2026-09-26T14:35:16Z"
+    },
+    {
+      "title": "Tarım ilaçlarındaki kimyasallar meme kanseri riskini artırabilir",
+      "link": "https://www.haberturk.com/saglik/tarim-ilaclarindaki-kimyasallar-meme-kanseri-riskini-artirabilir-3915301",
+      "source": "Habertürk",
+      "published_at": "2026-09-26T14:35:00Z"
     },
     {
       "title": "THY uçağında korkutan alarm: Havalandıktan 10 dakika sonra geri döndü",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/kiralik-sosyal-konut-projesi-nde-basvuru-sureci-tamamlandi-3915245",
       "source": "Habertürk",
       "published_at": "2026-09-26T09:07:13Z"
-    },
-    {
-      "title": "Yapay zeka, robotik ve uzay teknolojisi yatırımlarının 2026'da iki kattan fazla artması bekleniyor",
-      "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-robotik-ve-uzay-teknolojisi-yatirimlarinin-2026da-iki-kattan-fazla-artmasi-bekleniyor-958214.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-26T09:03:00Z"
-    },
-    {
-      "title": "Ülkedeki tüm satışlar durduruldu: Vatandaşa 'uçak bileti almayın' çağrısı yapıldı",
-      "link": "https://www.sozcu.com.tr/ulkedeki-tum-satislar-durduruldu-vatandasa-ucak-bileti-almayin-cagrisi-yapildi-p363690",
-      "source": "Sözcü",
-      "published_at": "2026-09-26T09:02:34Z"
     }
   ]
 }
