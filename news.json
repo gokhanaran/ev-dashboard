@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:10:52.943287Z",
+  "generated_at": "2026-09-27T21:15:55.661567Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yolcu otobüsü kaza yaptı: Çok sayıda ölü ve yaralı var",
+      "link": "https://www.sozcu.com.tr/yolcu-otobusu-kaza-yapti-cok-sayida-olu-ve-yarali-var-p363985",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T21:10:45Z"
+    },
     {
       "title": "Kloop da Almanya'ya çare olmadı! Evinde sürpriz yenilgi",
       "link": "https://www.sozcu.com.tr/kloop-da-almanya-ya-care-olmadi-evinde-surpriz-yenilgi-p364028",
@@ -192,6 +198,12 @@
       "published_at": "2026-09-27T19:34:00Z"
     },
     {
+      "title": "Mustafa Sandal'dan fon iddialarına yanıt: Benim alnım ak",
+      "link": "https://www.sozcu.com.tr/mustafa-sandal-dan-fon-iddialarina-yanit-p364013",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T19:28:13Z"
+    },
+    {
       "title": "İngiltere Premier Lig'den Pendikspor'a! Arteta'nın ekibinde yer alıyordu",
       "link": "https://www.sozcu.com.tr/ingiltere-premier-lig-den-pendikspor-a-arteta-nin-ekibinde-yer-aliyordu-p364015",
       "source": "Sözcü",
@@ -340,12 +352,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyasi-eylul-2026-en-yuksek-emekli-promosyon-veren-banka-hangisi-ve-ne-kadar-3914636",
       "source": "Habertürk",
       "published_at": "2026-09-27T17:49:52Z"
-    },
-    {
-      "title": "Yolcu otobüsü kaza yaptı: Çok sayıda ölü ve yaralı var",
-      "link": "https://www.sozcu.com.tr/yolcu-otobusu-kaza-yapti-cok-sayida-olu-ve-yarali-var-p363985",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T17:47:00Z"
     },
     {
       "title": "Trump'tan 'Hürmüz Boğazı' açıklaması!",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/daha-17-dizisinde-sasirtan-ayrilik-hikayesi-sona-eren-oyuncu-veda-etti-p363962",
       "source": "Sözcü",
       "published_at": "2026-09-27T13:54:15Z"
-    },
-    {
-      "title": "\"Memleket topraklarına dönmek harika!\"",
-      "link": "https://www.haberturk.com/magazin/prens-harry-ingiltere-deki-yeni-hayatini-degerlendirdi-memleket-topraklarina-donmek-harika-3915435",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T13:51:09Z"
     }
   ]
 }
