@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:36:07.161693Z",
+  "generated_at": "2026-09-27T21:46:12.139993Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Gazeteci Fatih Ergin gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/gazeteci-fatih-ergin-gozaltina-alindigi-iddiasi-p364022",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T21:43:20Z"
+    },
+    {
+      "title": "EGM \"polislerin iş bırakacağı\" iddiasını yalanladı",
+      "link": "https://www.haberturk.com/gundem/egm-polislerin-is-birakacagi-iddiasini-yalanladi-3915486",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:34:53Z"
+    },
+    {
       "title": "Türkiye'nin rakibi İtalya: Mücadele saat 21.45'te başlayacak",
       "link": "https://www.trthaber.com/haber/gundem/turkiyenin-rakibi-italya-mucadele-saat-2145te-baslayacak-958340.html",
       "source": "TRT Haber",
@@ -58,12 +70,6 @@
       "link": "https://www.sozcu.com.tr/kozinoglu-sorusturmasinda-gozaltina-alinmisti-doktor-turgay-tamer-evinde-olu-bulundu-p363961",
       "source": "Sözcü",
       "published_at": "2026-09-27T21:21:38Z"
-    },
-    {
-      "title": "Gazeteci Fatih Ergin gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/gazeteci-fatih-ergin-gozaltina-alindigi-iddiasi-p364022",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T21:20:24Z"
     },
     {
       "title": "İrlandalı futbolcular katil İsrail'i protesto etti",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/metin-keceli-son-yolculuguna-ugurlandi-p363968",
       "source": "Sözcü",
       "published_at": "2026-09-27T14:29:33Z"
-    },
-    {
-      "title": "Şişeleri siyaha boyayıp çatıya dizdiler, sıcak suyu bedavaya getirdiler",
-      "link": "https://www.sozcu.com.tr/siseleri-siyaha-boyayip-catiya-dizdiler-sicak-suyu-bedavaya-getirdiler-p363964",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T14:17:01Z"
     }
   ]
 }
