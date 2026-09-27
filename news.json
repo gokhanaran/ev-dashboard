@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:15:55.661567Z",
+  "generated_at": "2026-09-27T21:20:58.370127Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Gazeteci Fatih Ergin gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/gazeteci-fatih-ergin-gozaltina-alindigi-iddiasi-p364022",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T21:19:15Z"
+    },
+    {
+      "title": "UEFA Uluslar Ligi'nde 2. hafta başladı!",
+      "link": "https://www.haberturk.com/spor/uefa-uluslar-ligi-nde-2-hafta-basladi-3915485",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:14:23Z"
+    },
+    {
+      "title": "DGS ek tercih ne zaman?",
+      "link": "https://www.haberturk.com/bilgi/foto/dgs-ek-tercih-ne-zaman-dgs-ek-tercih-kilavuzu-yayinlandi-mi-bos-kontenjanlar-ve-taban-puanlar-aciklandi-mi-3915469",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:13:30Z"
+    },
+    {
+      "title": "Masterchef kim elendi?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-27-eylul-masterchef-turkiyede-eleme-potasinda-kim-var-hangi-yarismaci-veda-etti-3915480",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:13:11Z"
+    },
+    {
+      "title": "Emekli promosyon kampanyaları yenilendi!",
+      "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyalari-yenilendi-eylul-2026-bankalarin-emekli-maas-promosyon-tutarlari-ve-sartlari-nelerdir-3915484",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:12:07Z"
+    },
     {
       "title": "Yolcu otobüsü kaza yaptı: Çok sayıda ölü ve yaralı var",
       "link": "https://www.sozcu.com.tr/yolcu-otobusu-kaza-yapti-cok-sayida-olu-ve-yarali-var-p363985",
@@ -82,12 +112,6 @@
       "link": "https://www.sozcu.com.tr/mke-fabrikasinda-is-kazasi-1-olu-4-yarali-p364008",
       "source": "Sözcü",
       "published_at": "2026-09-27T20:51:46Z"
-    },
-    {
-      "title": "Gazeteci Fatih Ergin gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/gazeteci-fatih-ergin-gozaltina-alindigi-iddiasi-p364022",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T20:51:44Z"
     },
     {
       "title": "Almanya'ya Yunanistan şoku!",
@@ -148,12 +172,6 @@
       "link": "https://www.haberturk.com/spor/anadolu-efes-95-besiktas-81-mac-sonucu-3915476",
       "source": "Habertürk",
       "published_at": "2026-09-27T20:19:23Z"
-    },
-    {
-      "title": "Masterchef kim elendi?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-27-eylul-masterchef-turkiyede-eleme-potasinda-kim-var-hangi-yarismaci-veda-etti-3915480",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T20:16:45Z"
     },
     {
       "title": "Ferhat Arıcan'dan altın madalya!",
@@ -280,12 +298,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmazdan-terorsuz-turkiye-sureci-ile-ilgili-aciklama-958331.html",
       "source": "TRT Haber",
       "published_at": "2026-09-27T18:35:00Z"
-    },
-    {
-      "title": "DGS ek tercih ne zaman?",
-      "link": "https://www.haberturk.com/bilgi/foto/dgs-ek-tercih-ne-zaman-dgs-ek-tercih-kilavuzu-yayinlandi-mi-bos-kontenjanlar-ve-taban-puanlar-aciklandi-mi-3915469",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T18:31:55Z"
     },
     {
       "title": "Fon soruşturmasında yeni gelişme! Astor Enerji sahibi Feridun Geçgel'in mal varlığına el konuldu",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/nihat-ozbagi-stat-projesi-bedellerini-fenerbahceye-hicbir-yuk-getirmeden-ben-karsilayacagim-3915441",
       "source": "Habertürk",
       "published_at": "2026-09-27T14:03:47Z"
-    },
-    {
-      "title": "Yağız Kaan Erdoğmuş'tan rekor puan",
-      "link": "https://www.haberturk.com/spor/yagiz-kaan-erdogmus-tan-tarihe-gecen-rekor-puan-3915440",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T13:55:01Z"
-    },
-    {
-      "title": "Daha 17 dizisinde şaşırtan ayrılık: Hikayesi sona eren oyuncu veda etti",
-      "link": "https://www.sozcu.com.tr/daha-17-dizisinde-sasirtan-ayrilik-hikayesi-sona-eren-oyuncu-veda-etti-p363962",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T13:54:15Z"
     }
   ]
 }
