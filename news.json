@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:07:40.677482Z",
+  "generated_at": "2026-09-27T18:12:43.611329Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Bolu’da orman yangını",
+      "link": "https://www.haberturk.com/gundem/boluda-orman-yangini-3915466",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T18:05:54Z"
+    },
+    {
       "title": "Türkiye-İtalya maçı öncesi basın toplantısında gergin anlar! Mancini o soruya sinirlendi",
       "link": "https://www.sozcu.com.tr/turkiye-italya-maci-oncesi-basin-toplantisinda-gergin-anlar-mancini-o-soruya-sinirlendi-p363986",
       "source": "Sözcü",
       "published_at": "2026-09-27T18:04:46Z"
+    },
+    {
+      "title": "\"Yüreğim Türkiye için atacak\"",
+      "link": "https://www.haberturk.com/spor/vincenzo-montella-akliniz-kalmasin-yuregim-turkiye-icin-atacak-3915465",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T17:59:42Z"
     },
     {
       "title": "Montella'dan Berke Özer açıklaması! 'Konuşmak doğru değil'",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/ilker-alkun-2-yilligina-goreve-gelmis-bir-yonetime-son-27-yilin-faturasini-kesmeye-calismayin-3915423",
       "source": "Habertürk",
       "published_at": "2026-09-27T10:46:28Z"
-    },
-    {
-      "title": "AKP'nin muhteşem üçlüsü paraları böyle götürdü",
-      "link": "https://www.sozcu.com.tr/bir-istifa-eski-skandallari-hatirlatti-akp-de-pekcan-ve-taskesenlioglu-dosyalari-p363932",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T10:41:25Z"
-    },
-    {
-      "title": "Türkiye'nin mobilya devleri anlaşamadı: Masadan kalktılar",
-      "link": "https://www.sozcu.com.tr/mobilya-devleri-duyurdu-beklenen-birlesme-gerceklesmedi-p363931",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T10:36:28Z"
     }
   ]
 }
