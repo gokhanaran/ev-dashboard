@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:31:04.629342Z",
+  "generated_at": "2026-09-27T21:36:07.161693Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Türkiye'nin rakibi İtalya: Mücadele saat 21.45'te başlayacak",
+      "link": "https://www.trthaber.com/haber/gundem/turkiyenin-rakibi-italya-mucadele-saat-2145te-baslayacak-958340.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-27T21:30:00Z"
+    },
+    {
       "title": "Ronaldo oynamadı, Portekiz Haalandlı Norveç'i yendi",
       "link": "https://www.sozcu.com.tr/ronaldo-oynamadi-portekiz-haalandli-norvec-i-yendi-p364033",
       "source": "Sözcü",
       "published_at": "2026-09-27T21:25:15Z"
+    },
+    {
+      "title": "Fon soruşturmasında yeni karar",
+      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-yeni-karar-3915477",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T21:23:56Z"
     },
     {
       "title": "Kozinoğlu soruşturmasında gözaltına alınmıştı: Doktor Turgay Tamer evinde ölü bulundu",
@@ -52,6 +64,12 @@
       "link": "https://www.sozcu.com.tr/gazeteci-fatih-ergin-gozaltina-alindigi-iddiasi-p364022",
       "source": "Sözcü",
       "published_at": "2026-09-27T21:20:24Z"
+    },
+    {
+      "title": "İrlandalı futbolcular katil İsrail'i protesto etti",
+      "link": "https://www.trthaber.com/haber/dunya/irlandali-futbolcular-katil-israili-protesto-etti-958339.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-27T21:15:00Z"
     },
     {
       "title": "İrlandalı futbolculardan İsrail maçında 'Gazze' protestosu",
@@ -136,12 +154,6 @@
       "link": "https://www.haberturk.com/spor/almanya-yunanistan-mac-sonucu-iste-almanya-yunanistan-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3915481",
       "source": "Habertürk",
       "published_at": "2026-09-27T20:47:44Z"
-    },
-    {
-      "title": "Fon soruşturmasında yeni karar",
-      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-yeni-karar-3915477",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T20:47:06Z"
     },
     {
       "title": "TBMM Başkanı Kurtulmuş: Tarih, bu barbarca politikaların sorumlularını unutmayacak",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/siseleri-siyaha-boyayip-catiya-dizdiler-sicak-suyu-bedavaya-getirdiler-p363964",
       "source": "Sözcü",
       "published_at": "2026-09-27T14:17:01Z"
-    },
-    {
-      "title": "Milli satranççı Yağız Kaan Erdoğmuş tarihe geçti",
-      "link": "https://www.sozcu.com.tr/milli-satrancci-yagiz-kaan-erdogmus-tarihe-gecti-p363963",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T14:14:49Z"
-    },
-    {
-      "title": "Türk savunma sanayiinden Azerbaycan helikopterlerine yeni kabiliyet",
-      "link": "https://www.trthaber.com/haber/savunma/turk-savunma-sanayiinden-azerbaycan-helikopterlerine-yeni-kabiliyet-958311.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-27T14:10:00Z"
     }
   ]
 }
