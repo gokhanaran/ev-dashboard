@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:46:57.194692Z",
+  "generated_at": "2026-09-27T06:52:00.746382Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yıldızlar sahnedeydi! 5 gollü maç nefes kesti",
+      "link": "https://www.sozcu.com.tr/yildizlar-sahnedeydi-5-gollu-mac-nefes-kesti-p363861",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T06:47:07Z"
+    },
     {
       "title": "Tera Portföy Yönetim Kurulu Başkanı Erdin Özel gözaltına alındı",
       "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-yeni-gozaltilar-3915382",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ambulansa-yol-vermeyip-saldiran-surucuye-rekor-ceza-p363789",
       "source": "Sözcü",
       "published_at": "2026-09-26T17:55:40Z"
-    },
-    {
-      "title": "Azerbaycan Grand Prix'sinde kazanan Russell",
-      "link": "https://www.sozcu.com.tr/azerbaycan-grand-prix-sinde-kazanan-russell-p363788",
-      "source": "Sözcü",
-      "published_at": "2026-09-26T17:55:33Z"
     }
   ]
 }
