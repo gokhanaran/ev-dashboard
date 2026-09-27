@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:12:15.945003Z",
+  "generated_at": "2026-09-27T07:17:19.594640Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -58,6 +58,12 @@
       "link": "https://www.haberturk.com/magazin/meryem-uzerli-den-komsusuna-muhtesem-yuzyil-surprizi-3915330",
       "source": "Habertürk",
       "published_at": "2026-09-27T07:00:58Z"
+    },
+    {
+      "title": "JASAT, 11 yıllık cinayeti aydınlattı",
+      "link": "https://www.trthaber.com/haber/gundem/jasat-11-yillik-cinayeti-aydinlatti-958281.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-27T06:58:00Z"
     },
     {
       "title": "ABD'nin BM temsilcisiyle görüştü",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kupasinda-baspehlivanligi-orhan-okulu-kazandi-958256.html",
       "source": "TRT Haber",
       "published_at": "2026-09-26T18:14:00Z"
-    },
-    {
-      "title": "Orgeneral Dalkıran, İngiliz mevkidaşı ile uçuş yaptı",
-      "link": "https://www.haberturk.com/dunya/orgeneral-dalkiran-ingiliz-mevkidasi-ile-ucus-yapti-3915337",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T18:12:54Z"
     }
   ]
 }
