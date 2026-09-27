@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:27:50.393281Z",
+  "generated_at": "2026-09-27T18:32:53.055470Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/turkiye-italya-maci-oncesi-basin-toplantisinda-gergin-anlar-mancini-o-soruya-sinirlendi-p363986",
       "source": "Sözcü",
       "published_at": "2026-09-27T18:22:26Z"
+    },
+    {
+      "title": "İstanbul'da sağanak etkili oldu",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-etkili-oldu-958329.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-27T18:22:00Z"
     },
     {
       "title": "Terörsüz Türkiye kurulu yarın toplanacak",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/antalya-da-deniz-suyu-havadan-sicak-3915422",
       "source": "Habertürk",
       "published_at": "2026-09-27T11:15:28Z"
-    },
-    {
-      "title": "Milyarlık vurgunun merkezinden bakan yardımcısının damadı çıktı",
-      "link": "https://www.sozcu.com.tr/milyarlik-vurgunun-merkezinden-bakan-yardimcisinin-damadi-cikti-p363936",
-      "source": "Sözcü",
-      "published_at": "2026-09-27T11:06:33Z"
     }
   ]
 }
