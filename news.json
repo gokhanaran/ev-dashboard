@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:07:12.221109Z",
+  "generated_at": "2026-09-27T07:12:15.945003Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "\"Akıl hastanesinde saldırıya uğradım\"",
+      "link": "https://www.haberturk.com/genclik-yillarini-anlatan-sylvester-stallone-akil-hastanesinde-kalirken-saldiriya-ugradim-3915385-magazin",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T07:06:52Z"
+    },
+    {
+      "title": "İçişleri: Meral Babacan cinayeti aydınlatıldı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-icisleri-meral-babacan-cinayeti-aydinlatildi-3915380",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T07:06:32Z"
+    },
+    {
       "title": "ABD ve Çin el sıkıştı! Uzlaşma sağlandı",
       "link": "https://www.sozcu.com.tr/abd-ve-cin-el-sikisti-uzlasma-saglandi-p363864",
       "source": "Sözcü",
       "published_at": "2026-09-27T07:04:31Z"
     },
     {
-      "title": "İçişleri: Meral Babacan cinayeti aydınlatıldı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-icisleri-meral-babacan-cinayeti-aydinlatildi-3915380",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T06:55:52Z"
-    },
-    {
       "title": "'Muhteşem Yüzyıl' sürprizi",
       "link": "https://www.haberturk.com/magazin/meryem-uzerli-den-komsusuna-muhtesem-yuzyil-surprizi-3915330",
       "source": "Habertürk",
-      "published_at": "2026-09-27T06:54:00Z"
+      "published_at": "2026-09-27T07:00:58Z"
     },
     {
       "title": "ABD'nin BM temsilcisiyle görüştü",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/orgeneral-dalkiran-ingiliz-mevkidasi-ile-ucus-yapti-3915337",
       "source": "Habertürk",
       "published_at": "2026-09-26T18:12:54Z"
-    },
-    {
-      "title": "Veli Ağbaba hastaneye kaldırıldı",
-      "link": "https://www.haberturk.com/gundem/yeni-parti-milletvekili-veli-agbaba-hastaneye-kaldirildi-3915308",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T18:01:16Z"
     }
   ]
 }
