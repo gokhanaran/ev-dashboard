@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:44:07.714109Z",
+  "generated_at": "2026-09-27T13:49:11.326556Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bakan Fidan'dan BM Genel Kurulu haftasına ilişkin değerlendirme",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-bm-genel-kurulu-haftasina-iliskin-degerlendirme-958310.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-27T13:44:00Z"
+    },
     {
       "title": "Fon skandalından Mustafa Sandal'ın eşi çıktı! 3 ayda çektiği para dumura uğrattı",
       "link": "https://www.sozcu.com.tr/fon-skandalindan-mustafa-sandal-in-esi-cikti-3-ayda-cektigi-para-dumura-ugratti-p363958",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/jasat-11-yillik-cinayeti-aydinlatti-958281.html",
       "source": "TRT Haber",
       "published_at": "2026-09-27T06:58:00Z"
-    },
-    {
-      "title": "ABD'nin BM temsilcisiyle görüştü",
-      "link": "https://www.haberturk.com/dunya/bakan-fidan-bm-genel-kurul-baskani-ve-abd-nin-bm-nezdindeki-temsilcisiyle-gorustu-3915383",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T06:53:35Z"
     }
   ]
 }
