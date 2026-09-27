@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:26:42.016739Z",
+  "generated_at": "2026-09-27T06:31:46.134878Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,40 @@
   ],
   "items": [
     {
+      "title": "İstanbul'da drondaki görüntüleri izleyen polisler fuhuş pazarlığı ile şoke oldu",
+      "link": "https://www.sozcu.com.tr/beyoglu-ndaki-fuhus-pazarligi-dronla-tespit-edildi-p363837",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T06:29:14Z"
+    },
+    {
+      "title": "Dünyanın en çok silah ticareti yapan ülkeleri belli oldu: Türkiye listede ok gibi fırladı",
+      "link": "https://www.sozcu.com.tr/dunyanin-en-cok-silah-ticareti-yapan-ulkeleri-belli-oldu-turkiye-listede-ok-gibi-firladi-p363855",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T06:28:29Z"
+    },
+    {
+      "title": "Aziz Yıldırım'ın çılgın projesi! Galatasaray'dan sonra Fenerbahçe de ada sahibi oluyor",
+      "link": "https://www.sozcu.com.tr/aziz-yildirim-in-cilgin-projesi-galatasaray-dan-sonra-fenerbahce-de-ada-sahibi-oluyor-p363854",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T06:27:51Z"
+    },
+    {
       "title": "SPK'dan 'Kaya' ailesini yakacak adım",
       "link": "https://www.sozcu.com.tr/spk-dan-sayan-ailesini-yakacak-adim-p363844",
       "source": "Sözcü",
       "published_at": "2026-09-27T06:24:25Z"
+    },
+    {
+      "title": "4. Maden Kurtarma Yarışması'nın şampiyonu Türk Altın İşletmeleri",
+      "link": "https://www.haberturk.com/ekonomi/4-maden-kurtarma-yarismasi-nin-sampiyonu-turk-altin-isletmeleri-oldu-3915377",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T06:23:45Z"
+    },
+    {
+      "title": "İmaj değiştirdi",
+      "link": "https://www.haberturk.com/magazin/derya-ulug-saclarini-kisaltti-3915344",
+      "source": "Habertürk",
+      "published_at": "2026-09-27T06:23:33Z"
     },
     {
       "title": "Zehra Çilingiroğlu evleniyor mu? Hülya Avşar'dan dikkat çeken yanıt",
@@ -58,12 +88,6 @@
       "link": "https://www.sozcu.com.tr/tera-portfoy-baskani-erdin-ozel-gozaltinda-p363850",
       "source": "Sözcü",
       "published_at": "2026-09-27T06:20:10Z"
-    },
-    {
-      "title": "İmaj değiştirdi",
-      "link": "https://www.haberturk.com/magazin/derya-ulug-saclarini-kisaltti-3915344",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T06:18:26Z"
     },
     {
       "title": "Fon soruşturmasında yeni gözaltı",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-mct-technic-102-cayirova-belediyespor-79-mac-sonucu-3915332",
       "source": "Habertürk",
       "published_at": "2026-09-26T17:30:29Z"
-    },
-    {
-      "title": "İrlandalı futbolcular, İsrail maçına siyah kol bandıyla çıkmayı planlıyor",
-      "link": "https://www.trthaber.com/haber/dunya/irlandali-futbolcular-israil-macina-siyah-kol-bandiyla-cikmayi-planliyor-958252.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-26T17:29:00Z"
-    },
-    {
-      "title": "'Kitap olmazsa olmazımız'",
-      "link": "https://www.haberturk.com/gundem/bilal-erdogan-sultanbeyli-kitap-fuarinda-kitap-okumanin-onemini-anlatti-3915331",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T17:27:10Z"
-    },
-    {
-      "title": "'Muhteşem Yüzyıl' sürprizi",
-      "link": "https://www.haberturk.com/magazin/meryem-uzerli-den-muhtesem-yuzyil-surprizi-3915330",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T17:25:23Z"
-    },
-    {
-      "title": "Cumhurbaşkanlığı Kupası'nın sahibi Orhan Okulu!",
-      "link": "https://www.haberturk.com/spor/cumhurbaskanligi-kupasi-nin-sahibi-orhan-okulu-3915328",
-      "source": "Habertürk",
-      "published_at": "2026-09-26T17:23:43Z"
     }
   ]
 }
