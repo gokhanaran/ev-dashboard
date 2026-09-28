@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:14:01.722223Z",
+  "generated_at": "2026-09-28T07:19:05.472363Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Altın fiyatlarında kara pazartesi: İşte düşüşün nedenleri...",
+      "link": "https://www.sozcu.com.tr/altin-fiyatlarinda-kara-pazartesi-iste-dususun-nedenleri-p364063",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:18:10Z"
+    },
+    {
       "title": "İstanbul’da sağanak alarmı! Trafik kilitlendi!",
       "link": "https://www.sozcu.com.tr/istanbul-da-yagmur-alarmi-saganak-geliyor-p364096",
       "source": "Sözcü",
@@ -52,6 +58,18 @@
       "link": "https://www.sozcu.com.tr/son-dakika-bakan-yardimcisinin-damadi-hakkinda-yakalama-karari-p364060",
       "source": "Sözcü",
       "published_at": "2026-09-28T07:11:15Z"
+    },
+    {
+      "title": "23 yaşında 317 suç kaydı var!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-adanada-23-yasinda-317-suctan-aranan-firari-hukumlu-yakalandi-3915549",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T07:09:23Z"
+    },
+    {
+      "title": "Deniz Göktaş hakim karşısına çıkıyor",
+      "link": "https://www.haberturk.com/gundem/son-dakika-deniz-goktas-hakim-karsisina-cikiyor-3915525",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T07:09:22Z"
     },
     {
       "title": "Terörsüz Türkiye kurulu toplandı",
@@ -240,12 +258,6 @@
       "published_at": "2026-09-28T06:39:00Z"
     },
     {
-      "title": "Altın fiyatlarında kara pazartesi: İşte düşüşün nedenleri...",
-      "link": "https://www.sozcu.com.tr/altin-fiyatlarinda-kara-pazartesi-iste-dususun-nedenleri-p364063",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T06:36:28Z"
-    },
-    {
       "title": "Şarkıcılığı bırakıp eski işine geri dönüyor: Kapalıçarşı'da dükkanın başına geçecek",
       "link": "https://www.sozcu.com.tr/sarkiciligi-birakip-eski-isine-geri-donuyor-kapalicarsi-da-dukkanin-basina-gececek-p364105",
       "source": "Sözcü",
@@ -382,12 +394,6 @@
       "link": "https://www.haberturk.com/stil/uc-tarafimiz-deniz-peki-balik-neden-mutfagimizin-merkezinde-degil-3914837",
       "source": "Habertürk",
       "published_at": "2026-09-28T06:18:22Z"
-    },
-    {
-      "title": "Deniz Göktaş hakim karşısına çıkıyor",
-      "link": "https://www.haberturk.com/gundem/son-dakika-deniz-goktas-hakim-karsisina-cikiyor-3915525",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T06:17:15Z"
     },
     {
       "title": "Son dakika... Destek Yatırım Bankası Genel Müdürü gözaltına alındı",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbulda-toprak-kaymasi-apartmandaki-25-kisi-tahliye-edildi-958348.html",
       "source": "TRT Haber",
       "published_at": "2026-09-28T03:41:00Z"
-    },
-    {
-      "title": "Ankara'da yağmur yağdı, rögarlar taştı: Evler su altında kaldı",
-      "link": "https://www.trthaber.com/haber/turkiye/ankarada-yagmur-yagdi-rogarlar-tasti-evler-su-altinda-kaldi-958347.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-28T03:27:00Z"
     }
   ]
 }
