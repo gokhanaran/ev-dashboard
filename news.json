@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:08:57.685981Z",
+  "generated_at": "2026-09-28T07:14:01.722223Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "İstanbul’da sağanak alarmı! Trafik kilitlendi!",
+      "link": "https://www.sozcu.com.tr/istanbul-da-yagmur-alarmi-saganak-geliyor-p364096",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:13:20Z"
+    },
+    {
+      "title": "Evlerdeki petekleri tek tek sökmeye başladılar",
+      "link": "https://www.sozcu.com.tr/apartmandaki-petekleri-tek-tek-sokmeye-basladilar-yeni-yontemle-isiniyorlar-p364061",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:13:05Z"
+    },
+    {
+      "title": "Son dakika... Bakan yardımcısının damadı hakkında yakalama kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-bakan-yardimcisinin-damadi-hakkinda-yakalama-karari-p364060",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:11:15Z"
+    },
+    {
+      "title": "Terörsüz Türkiye kurulu toplandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-milli-dayanisma-ve-butunlesme-koordinasyon-kurulu-toplandi-3915546",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T07:08:28Z"
+    },
+    {
       "title": "Borsa pazartesiye sert kayıpla başladı",
       "link": "https://www.sozcu.com.tr/borsa-pazartesiye-sert-kayipla-basladi-p364109",
       "source": "Sözcü",
@@ -54,22 +78,10 @@
       "published_at": "2026-09-28T07:04:41Z"
     },
     {
-      "title": "Son dakika... Bakan yardımcısının damadı hakkında yakalama kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-bakan-yardimcisinin-damadi-hakkinda-yakalama-karari-p364060",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T07:04:34Z"
-    },
-    {
       "title": "Bizim Çocuklar bir ilk peşinde!",
       "link": "https://www.haberturk.com/spor/turkiye-italya-milli-maci-canli-son-dakika-muhtemel-11-ler-belli-oldu-turkiye-italya-maci-saat-kacta-3915527",
       "source": "Habertürk",
       "published_at": "2026-09-28T07:04:01Z"
-    },
-    {
-      "title": "Terörsüz Türkiye kurulu toplandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-milli-dayanisma-ve-butunlesme-koordinasyon-kurulu-toplandi-3915546",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T07:03:45Z"
     },
     {
       "title": "Rakibine 2 kırmızı kart aldırdı!",
@@ -268,12 +280,6 @@
       "link": "https://www.haberturk.com/ekonomi/tasinmaz-satislarinda-guvenli-odeme-tarihi-1-aralik-oldu-3915529",
       "source": "Habertürk",
       "published_at": "2026-09-28T06:34:35Z"
-    },
-    {
-      "title": "İstanbul’da sağanak alarmı! Trafik kilitlendi!",
-      "link": "https://www.sozcu.com.tr/istanbul-da-yagmur-alarmi-saganak-geliyor-p364096",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T06:34:29Z"
     },
     {
       "title": "Sandal ve eşinden 'fon' açıklaması",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-yagmur-yagdi-rogarlar-tasti-evler-su-altinda-kaldi-958347.html",
       "source": "TRT Haber",
       "published_at": "2026-09-28T03:27:00Z"
-    },
-    {
-      "title": "EGM: Polislerin iş bırakacağı iddiaları gerçeği yansıtmıyor",
-      "link": "https://www.trthaber.com/haber/gundem/egm-polislerin-is-birakacagi-iddialari-gercegi-yansitmiyor-958346.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-28T03:14:00Z"
     }
   ]
 }
