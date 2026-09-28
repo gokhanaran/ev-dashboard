@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:37:28.477176Z",
+  "generated_at": "2026-09-28T00:47:34.331286Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -232,6 +232,12 @@
       "link": "https://www.haberturk.com/spor/bahcesehir-koleji-98-fenerbahce-83-mac-sonucu-3915483",
       "source": "Habertürk",
       "published_at": "2026-09-27T21:01:25Z"
+    },
+    {
+      "title": "RİZE 3. ASLİYE HUKUK MAHKEMESİ",
+      "link": "https://www.sozcu.com.tr/rize-3-asliye-hukuk-mahkemesi-p363916",
+      "source": "Sözcü",
+      "published_at": "2026-09-27T21:00:24Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan Aliyev'e \"Anım Günü\" telefonu",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/filistin-mescid-i-aksaya-yonelik-ihlaller-kirmizi-cizgidir-atesle-oynamaktir-958315.html",
       "source": "TRT Haber",
       "published_at": "2026-09-27T14:51:00Z"
-    },
-    {
-      "title": "İBB burs başvuru tarihi açıklandı!",
-      "link": "https://www.haberturk.com/bilgi/foto/ibb-burs-basvuru-tarihi-aciklandi-2026-2027-genc-universiteli-ibb-burs-basvurusu-nasil-ve-nereden-yapilir-3915137",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T14:48:42Z"
     }
   ]
 }
