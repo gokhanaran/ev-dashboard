@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:32:33.078488Z",
+  "generated_at": "2026-09-28T15:37:37.784060Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Borsa günü düşüşle tamamladı",
+      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3915683",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T15:30:49Z"
+    },
+    {
+      "title": "Akdeniz İklim Zirvesi Muğla'da başladı",
+      "link": "https://www.haberturk.com/gundem/akdeniz-iklim-zirvesi-mugla-da-basladi-3915680",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T15:29:24Z"
+    },
     {
       "title": "Minibüs ile tırın çarpıştığı kazada ortalık savaş alanına döndü: 1 ölü, 11 yaralı",
       "link": "https://www.sozcu.com.tr/minibus-ile-tirin-carpistigi-kazada-ortalik-savas-alanina-dondu-1-olu-11-yarali-p364291",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/guney-afrikada-johannesburgun-dogusunda-bulunan-kadin-cesedi-sayisi-11e-yukseldi-958417.html",
       "source": "TRT Haber",
       "published_at": "2026-09-28T10:43:00Z"
-    },
-    {
-      "title": "Fon soruşturmasında İsmet Öğüt adına 3,09 milyar liralık fon çıkışı tespit edildi",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-ismet-ogut-adina-309-milyar-liralik-fon-cikisi-tespit-edildi-958419.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-28T10:42:00Z"
-    },
-    {
-      "title": "Batı Karadeniz için fırtına uyarısı",
-      "link": "https://www.trthaber.com/haber/turkiye/bati-karadeniz-icin-firtina-uyarisi-958416.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-28T10:42:00Z"
     }
   ]
 }
