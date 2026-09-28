@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:47:34.331286Z",
+  "generated_at": "2026-09-28T01:02:43.431250Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İrlanda'dan İsrail'e tarihi 'Gazze' protestosu",
+      "link": "https://www.haberturk.com/spor/irlanda-dan-israil-e-tarihi-gazze-protestosu-3915496",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T00:56:11Z"
+    },
     {
       "title": "Bolu’da orman yangını",
       "link": "https://www.haberturk.com/gundem/boluda-orman-yangini-3915466",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-silahli-kuvvetleri-hurmuzde-iki-gunde-19-gemiye-mudahale-etti-958316.html",
       "source": "TRT Haber",
       "published_at": "2026-09-27T14:54:00Z"
-    },
-    {
-      "title": "Filistin: Mescidi Aksa'ya yönelik ihlaller kırmızı çizgidir, ateşle oynamaktır",
-      "link": "https://www.trthaber.com/haber/dunya/filistin-mescid-i-aksaya-yonelik-ihlaller-kirmizi-cizgidir-atesle-oynamaktir-958315.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-27T14:51:00Z"
     }
   ]
 }
