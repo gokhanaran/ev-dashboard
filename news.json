@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:42:42.283419Z",
+  "generated_at": "2026-09-28T15:52:48.810555Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Yüksel Yıldırım: 'Ben taraftarlarla kavga eden bir başkan olarak anılmak istemiyorum'",
+      "link": "https://www.sozcu.com.tr/yuksel-yildirim-ben-taraftarlarla-kavga-eden-bir-baskan-olarak-anilmak-istemiyorum-p364297",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T15:51:22Z"
+    },
+    {
+      "title": "AKOM'dan İstanbullulara kuvvetli yağış uyarısı: Bu saatlere dikkat",
+      "link": "https://www.sozcu.com.tr/istanbulda-yagislar-gece-saatlerinde-siddetlenecek-p364295",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T15:50:46Z"
+    },
+    {
+      "title": "2 gündür kayıp kişinin cansız bedeni bulundu",
+      "link": "https://www.haberturk.com/gundem/2-gundur-kayip-kisinin-cansiz-bedeni-bulundu-3915687",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T15:46:05Z"
+    },
     {
       "title": "Eda Ece kızının odasını paylaştı: Sosyal medyada ilgi gördü",
       "link": "https://www.sozcu.com.tr/eda-ece-kizinin-odasini-paylasti-sosyal-medyada-ilgi-gordu-p364294",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/balikci-ismetin-hesabindan-3-milyar-tllik-cikis-oldu-3915623",
       "source": "Habertürk",
       "published_at": "2026-09-28T10:57:33Z"
-    },
-    {
-      "title": "Anadolu Efes'in rakibi Real Madrid!",
-      "link": "https://www.haberturk.com/spor/anadolu-efes-euroleague-de-yarin-real-madrid-i-agirlayacak-3915573",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T10:51:28Z"
-    },
-    {
-      "title": "UEFA'dan Halil Umut Meler'e görev!",
-      "link": "https://www.haberturk.com/uefa-dan-halil-umut-meler-e-uluslar-ligi-nde-gorev-3915622-spor",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T10:50:03Z"
-    },
-    {
-      "title": "Szoboszlai'den Galatasaray övgüsü!",
-      "link": "https://www.haberturk.com/spor/dominik-szoboszlai-den-galatasaray-ovgusu-3915602",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T10:48:00Z"
     }
   ]
 }
