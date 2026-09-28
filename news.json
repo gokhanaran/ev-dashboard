@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:02:43.431250Z",
+  "generated_at": "2026-09-28T01:07:47.463347Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Büyük başkan ardında gölge bırakandır",
+      "link": "https://www.sozcu.com.tr/buyuk-baskan-ardinda-golge-birakandir-p364052",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T01:05:31Z"
+    },
     {
       "title": "İrlanda'dan İsrail'e tarihi 'Gazze' protestosu",
       "link": "https://www.haberturk.com/spor/irlanda-dan-israil-e-tarihi-gazze-protestosu-3915496",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/osimhen-istedi-okan-buruk-kabul-etti-p363971",
       "source": "Sözcü",
       "published_at": "2026-09-27T14:54:21Z"
-    },
-    {
-      "title": "İran basını: İran Silahlı Kuvvetleri, Hürmüz'de iki günde 19 gemiye müdahale etti",
-      "link": "https://www.trthaber.com/haber/dunya/iran-basini-iran-silahli-kuvvetleri-hurmuzde-iki-gunde-19-gemiye-mudahale-etti-958316.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-27T14:54:00Z"
     }
   ]
 }
