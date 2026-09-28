@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:10:28.643310Z",
+  "generated_at": "2026-09-28T22:15:31.956155Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "İstifa sorusu basın toplantısını karıştırdı! Montella merak edilen konuyu açıkladı",
+      "link": "https://www.sozcu.com.tr/istifa-sorusu-basin-toplantisini-karistirdi-montella-merak-edilen-konuyu-acikladi-p364368",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T22:13:45Z"
+    },
+    {
       "title": "Sosyal medya fenomeni 'Motovlogcu Dayı' kazada hayatını kaybetti",
       "link": "https://www.sozcu.com.tr/cumhur-kahraman-motovlogcu-dayi-hayatini-kaybetti-p364359",
       "source": "Sözcü",
-      "published_at": "2026-09-28T22:09:02Z"
+      "published_at": "2026-09-28T22:10:13Z"
     },
     {
       "title": "Muhsin Yazıcıoğlu soruşturmasında 36 kişi tutuklandı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/biontech-uretim-tesislerini-kapatiyor-3915686",
       "source": "Habertürk",
       "published_at": "2026-09-28T15:48:22Z"
-    },
-    {
-      "title": "2 gündür kayıp kişinin cansız bedeni bulundu",
-      "link": "https://www.haberturk.com/gundem/2-gundur-kayip-kisinin-cansiz-bedeni-bulundu-3915687",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T15:46:05Z"
     }
   ]
 }
