@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:50:15.031285Z",
+  "generated_at": "2026-09-28T21:55:19.330785Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Barbara Palvin anne oldu",
+      "link": "https://www.haberturk.com/magazin/foto/barbara-palvin-ve-dylan-sprouse-bebeklerine-kavustu-3915748",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T21:52:43Z"
+    },
+    {
+      "title": "Mancini'den Türk futboluna övgüler",
+      "link": "https://www.sozcu.com.tr/mancini-den-turk-futboluna-ovguler-p364366",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T21:51:43Z"
+    },
+    {
+      "title": "Yazıcıoğlu soruşturmasında 36 tutuklama",
+      "link": "https://www.haberturk.com/gundem/son-dakika-yazicioglu-sorusturmasinda-36-tutuklama-3915745",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T21:51:12Z"
+    },
     {
       "title": "İmamoğlu davasında 88. duruşma",
       "link": "https://www.haberturk.com/gundem/imamoglu-davasinda-88-durusma-goruldu-3915750",
@@ -130,12 +148,6 @@
       "link": "https://www.haberturk.com/spor/italya-yenilgisi-sonrasi-a-milli-takimimiz-da-zeki-celik-sahamizda-4-1-olmamaliydi-3915746",
       "source": "Habertürk",
       "published_at": "2026-09-28T21:23:03Z"
-    },
-    {
-      "title": "Yazıcıoğlu soruşturmasında 36 tutuklama",
-      "link": "https://www.haberturk.com/gundem/son-dakika-yazicioglu-sorusturmasinda-36-tutuklama-3915745",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T21:18:47Z"
     },
     {
       "title": "Fransa, Belçika'yı tek golle geçti!",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/minibus-ile-tirin-carpistigi-kazada-ortalik-savas-alanina-dondu-1-olu-11-yarali-p364291",
       "source": "Sözcü",
       "published_at": "2026-09-28T15:27:22Z"
-    },
-    {
-      "title": "Trabzon'da Malinovskyi 6 hafta yok!",
-      "link": "https://www.haberturk.com/spor/trabzonspor-dan-malinovskyi-ameliyat-oldu-3915650",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T15:26:30Z"
-    },
-    {
-      "title": "Helin Kandemir'e 'Aldatılıyorsun' dedi: Ortalık karıştı",
-      "link": "https://www.sozcu.com.tr/helin-kandemir-e-aldatiliyorsun-dedi-ortalik-karisti-p364292",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T15:26:26Z"
     }
   ]
 }
