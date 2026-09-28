@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:02:57.523132Z",
+  "generated_at": "2026-09-28T16:08:01.285286Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Kurtlar Vadisi yine gündemde: Fon krizini yıllar önce böyle anlatmışlar",
+      "link": "https://www.sozcu.com.tr/fon-krizi-kurtlar-vadisinde-mi-islenmis-p364296",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T16:05:41Z"
+    },
+    {
+      "title": "Yemen'de çatışmalar şiddetlendi",
+      "link": "https://www.haberturk.com/dunya/yemen-de-catismalar-siddetlendi-3915693",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T16:00:40Z"
+    },
     {
       "title": "Sivas'ta yeni YHT Garı hizmete açıldı",
       "link": "https://www.haberturk.com/gundem/sivas-ta-yeni-yht-gari-hizmete-acildi-3915692",
@@ -184,6 +196,12 @@
       "link": "https://www.sozcu.com.tr/inonu-akgun-alp-tutuklandi-p364275",
       "source": "Sözcü",
       "published_at": "2026-09-28T14:55:59Z"
+    },
+    {
+      "title": "HAVELSAN'ın 'Mühendis Çocuk Yollarda' projesi Şanlıurfa'da",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/havelsanin-muhendis-cocuk-yollarda-projesi-sanliurfada-958438.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-28T14:54:00Z"
     },
     {
       "title": "4 bin yıllık mezarda “öteki dünyaya açılan kapı” bulundu",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/abb-den-saglikli-nefes-etkinligi-3915630",
       "source": "Habertürk",
       "published_at": "2026-09-28T11:23:55Z"
-    },
-    {
-      "title": "Bakan Ersoy: Bu magandalık yanına kâr kalmayacak",
-      "link": "https://www.haberturk.com/unlu-model-guvenlik-gorevlilerin-saldirisina-ugradi-2762351",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T11:22:43Z"
-    },
-    {
-      "title": "Gazze'deki yıkım uydu görüntülerine yansıdı",
-      "link": "https://www.haberturk.com/dunya/gazze-deki-yikim-uydu-goruntulerine-yansidi-3915619",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T11:15:18Z"
-    },
-    {
-      "title": "Deniz tutkusu dur durak bilmiyor: Kıvanç Tatlıtuğ bu kez Boğaz'da balık tuttu",
-      "link": "https://www.sozcu.com.tr/deniz-tutkusu-dur-durak-bilmiyor-kivanc-tatlitug-bu-kez-bogaz-da-balik-tuttu-p364218",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T11:14:51Z"
     }
   ]
 }
