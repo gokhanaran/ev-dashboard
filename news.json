@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:22:24.581408Z",
+  "generated_at": "2026-09-28T15:27:28.814037Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fatih Ergin hakkında tutuklama talebi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fatih-ergin-hakkinda-tutuklama-talebi-3915678",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T15:20:02Z"
+    },
     {
       "title": "İran basını: Dışişleri Bakanı Arakçi, ABDde ara bulucularla görüşecek",
       "link": "https://www.trthaber.com/haber/dunya/iran-basini-disisleri-bakani-arakci-abdde-ara-bulucularla-gorusecek-958439.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-sosyal-medyada-paylasildi-gercek-farkli-cikti-gercegi-baba-anlatti-3915615",
       "source": "Habertürk",
       "published_at": "2026-09-28T10:34:31Z"
-    },
-    {
-      "title": "İsrail'in soykırımcı Bakanı, Gazzelileri göçe zorlamak için yeniden inşa umudunun yok edilmesini istedi",
-      "link": "https://www.trthaber.com/haber/dunya/israilin-soykirimci-bakani-gazzelileri-goce-zorlamak-icin-yeniden-insa-umudunun-yok-edilmesini-istedi-958415.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-28T10:34:00Z"
     }
   ]
 }
