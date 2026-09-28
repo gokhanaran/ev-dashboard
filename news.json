@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:27:22.079693Z",
+  "generated_at": "2026-09-28T00:37:28.477176Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bolu’da orman yangını",
+      "link": "https://www.haberturk.com/gundem/boluda-orman-yangini-3915466",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T00:28:45Z"
+    },
+    {
+      "title": "Vucic istifa etti",
+      "link": "https://www.haberturk.com/dunya/sirbistan-cumhurbaskani-vucic-istifa-etti-3915495",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T00:24:09Z"
+    },
     {
       "title": "Sırbistan Cumhurbaşkanı Vucic istifa etti",
       "link": "https://www.haberturk.com/dunya/sirbistan-cumhurbaskani-vucic-istifa-etti-3915495",
@@ -438,12 +450,6 @@
       "published_at": "2026-09-27T18:16:06Z"
     },
     {
-      "title": "Bolu’da orman yangını",
-      "link": "https://www.haberturk.com/gundem/boluda-orman-yangini-3915466",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T18:05:54Z"
-    },
-    {
       "title": "\"Yüreğim Türkiye için atacak\"",
       "link": "https://www.haberturk.com/spor/vincenzo-montella-akliniz-kalmasin-yuregim-turkiye-icin-atacak-3915465",
       "source": "Habertürk",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/ibb-burs-basvuru-tarihi-aciklandi-2026-2027-genc-universiteli-ibb-burs-basvurusu-nasil-ve-nereden-yapilir-3915137",
       "source": "Habertürk",
       "published_at": "2026-09-27T14:48:42Z"
-    },
-    {
-      "title": "İŞKUR Gençlik Programı başvuru tarihi",
-      "link": "https://www.haberturk.com/bilgi/foto/iskur-genclik-programi-basvuru-tarihi-2026-2027-iskur-genclik-programi-basvurusu-nasil-yapilir-ve-sartlari-nelerdir-3915147",
-      "source": "Habertürk",
-      "published_at": "2026-09-27T14:48:20Z"
     }
   ]
 }
