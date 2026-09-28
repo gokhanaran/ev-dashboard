@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:24:09.343455Z",
+  "generated_at": "2026-09-28T07:29:13.266988Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
-      "title": "Son dakika... Bakan yardımcısının damadı hakkında yakalama kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-bakan-yardimcisinin-damadi-hakkinda-yakalama-karari-p364060",
+      "title": "Van'da korku dolu dakikalar! Kız öğrenci okula pompalı tüfekle geldi",
+      "link": "https://www.sozcu.com.tr/van-da-korku-dolu-dakikalar-kiz-ogrenci-okula-pompali-tufekle-geldi-p364119",
       "source": "Sözcü",
-      "published_at": "2026-09-28T07:23:00Z"
+      "published_at": "2026-09-28T07:27:40Z"
+    },
+    {
+      "title": "Tuvaletinizdeki gizli servet: 3 milyon litre idrarı paraya çeviriyorlar",
+      "link": "https://www.sozcu.com.tr/tuvaletinizdeki-gizli-servet-3-milyon-litre-idrari-paraya-ceviriyorlar-p364130",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:26:27Z"
     },
     {
       "title": "Borsa pazartesiye sert kayıpla başladı",
       "link": "https://www.sozcu.com.tr/borsa-pazartesiye-sert-kayipla-basladi-p364109",
       "source": "Sözcü",
-      "published_at": "2026-09-28T07:21:51Z"
+      "published_at": "2026-09-28T07:25:42Z"
+    },
+    {
+      "title": "Son dakika... Bakan yardımcısının damadı hakkında yakalama kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-bakan-yardimcisinin-damadi-hakkinda-yakalama-karari-p364060",
+      "source": "Sözcü",
+      "published_at": "2026-09-28T07:23:41Z"
+    },
+    {
+      "title": "Çin, ABD ile tarife indirimleri, kömür ithalatı ve yapay zeka konularında anlaştıklarını duyurdu",
+      "link": "https://www.trthaber.com/haber/dunya/cin-abd-ile-tarife-indirimleri-komur-ithalati-ve-yapay-zeka-konularinda-anlastiklarini-duyurdu-958379.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-28T07:22:00Z"
+    },
+    {
+      "title": "Brent petrolün varili 98,96 dolardan işlem görüyor",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9896-dolardan-islem-goruyor-958378.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-28T07:21:00Z"
     },
     {
       "title": "Altın fiyatlarında kara pazartesi: İşte düşüşün nedenleri...",
@@ -58,6 +82,12 @@
       "link": "https://www.trthaber.com/haber/dunya/hindistanda-selde-hayatini-kaybedenlerin-sayisi-62ye-yukseldi-958377.html",
       "source": "TRT Haber",
       "published_at": "2026-09-28T07:19:00Z"
+    },
+    {
+      "title": "Haftaya Salı günü okullar tatil mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/6-ekim-okullar-tatil-mi-6-ekim-2026-sali-gunu-okul-var-mi-yarim-gun-mu-tatil-mi-ders-islenecek-mi-meb-2026-2027-tatil-takvimi-3915552",
+      "source": "Habertürk",
+      "published_at": "2026-09-28T07:17:30Z"
     },
     {
       "title": "ABD'de Apple'a 5,7 milyar dolarlık patent cezası",
@@ -160,12 +190,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-muglada-komsular-arasinda-gurultu-ve-alacak-kavgasi-1-olu-3915545",
       "source": "Habertürk",
       "published_at": "2026-09-28T07:01:48Z"
-    },
-    {
-      "title": "Van'da korku dolu dakikalar! Kız öğrenci okula pompalı tüfekle geldi",
-      "link": "https://www.sozcu.com.tr/van-da-korku-dolu-dakikalar-kiz-ogrenci-okula-pompali-tufekle-geldi-p364119",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T07:00:40Z"
     },
     {
       "title": "Milli Dayanışma ve Bütünleşme Koordinasyon Kurulu toplandı",
@@ -730,30 +754,6 @@
       "link": "https://www.sozcu.com.tr/esinin-mal-varligi-dondurulmustu-mustafa-sandal-fon-sessizligini-bozdu-p364055",
       "source": "Sözcü",
       "published_at": "2026-09-28T04:18:56Z"
-    },
-    {
-      "title": "İş sözleşmesine hibrit çalışma ayarı",
-      "link": "https://www.haberturk.com/ekonomi/is-sozlesmesine-hibrit-calisma-ayari-3915432",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T04:15:40Z"
-    },
-    {
-      "title": "19 il için sarı kod! Sağanak yağmur ve kuvvetli rüzgar etkili olacak",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-19-il-icin-sari-kod-saganak-yagmur-ve-kuvvetli-ruzgar-etkili-olacak-28-eylul-hava-durumu-3915502",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T04:14:48Z"
-    },
-    {
-      "title": "Yeni bölüm fragmanı yayınlandı",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolum-fragmani-yayinlandi-3915501",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T04:12:34Z"
-    },
-    {
-      "title": "Egea sonrası yeni model bilmecesi",
-      "link": "https://www.haberturk.com/ekonomi/tofasta-egea-sonrasi-yeni-model-bilmecesi-3915491",
-      "source": "Habertürk",
-      "published_at": "2026-09-28T04:07:19Z"
     }
   ]
 }
