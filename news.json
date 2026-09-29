@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:50:44.339180Z",
+  "generated_at": "2026-09-29T15:55:47.834478Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -42,10 +42,22 @@
       "published_at": "2026-09-29T15:46:35Z"
     },
     {
+      "title": "Kızı koronavirüse yakalandı",
+      "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T15:45:51Z"
+    },
+    {
+      "title": "Kavga edenlerin arasına araçla daldı! Çok sayıda yaralı var",
+      "link": "https://www.sozcu.com.tr/kavga-edenlerin-arasina-aracla-daldi-cok-sayida-yarali-var-p364600",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T15:45:24Z"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan: Nefsine yenik düşenle vedalaşırız",
       "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisinda-aciklamalar-3915961",
       "source": "Habertürk",
-      "published_at": "2026-09-29T15:39:06Z"
+      "published_at": "2026-09-29T15:42:53Z"
     },
     {
       "title": "Bir tanıtım daha yayınlandı",
@@ -70,12 +82,6 @@
       "link": "https://www.haberturk.com/levent-yuksel-den-30-uncu-yila-ozel-senfonik-surpriz-3789745-magazin",
       "source": "Habertürk",
       "published_at": "2026-09-29T15:36:08Z"
-    },
-    {
-      "title": "Kızı koronavirüse yakalandı",
-      "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T15:36:01Z"
     },
     {
       "title": "9 belediye başkanı AKP'ye katıldı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-ta-kocaelispor-mesaisi-3915908",
       "source": "Habertürk",
       "published_at": "2026-09-29T11:35:50Z"
-    },
-    {
-      "title": "Özbekistan'da Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon paneli",
-      "link": "https://www.trthaber.com/haber/gundem/ozbekistanda-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-958528.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-29T11:34:00Z"
     }
   ]
 }
