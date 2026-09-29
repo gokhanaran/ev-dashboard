@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:56:40.488372Z",
+  "generated_at": "2026-09-29T21:01:44.939480Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "Adalı'dan HT Spor'da MHK ve hakem sözleri!",
+      "link": "https://www.haberturk.com/spor/serdal-adali-dan-ht-spor-da-mhk-ve-hakem-sozleri-adalet-istiyoruz-ayricalik-istemiyoruz-3916003",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T20:55:35Z"
+    },
+    {
+      "title": "\"Sonunda pes edecekler\"",
+      "link": "https://www.haberturk.com/dunya/donald-trump-sonunda-pes-edecekler-3916014",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T20:55:22Z"
+    },
+    {
+      "title": "\"Yine terk ettin beni\"",
+      "link": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3916013",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T20:54:12Z"
+    },
+    {
+      "title": "1,2 milyarlık villalara el konuldu",
+      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-1-2-milyar-tl-degerindeki-5-villaya-el-konuldu-3916009",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T20:50:36Z"
+    },
+    {
       "title": "CİMER Bültenin ağustos sayısı yayımlandı",
       "link": "https://www.trthaber.com/haber/gundem/cimer-bultenin-agustos-sayisi-yayimlandi-958576.html",
       "source": "TRT Haber",
       "published_at": "2026-09-29T20:50:00Z"
     },
     {
-      "title": "1,2 milyarlık villalara el konuldu",
-      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-1-2-milyar-tl-degerindeki-5-villaya-el-konuldu-3916009",
+      "title": "Melis Sandal ve babası hakkında yakalama kararı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-melis-sandal-ve-cihan-sutsurup-hakkinda-yakalama-karari-3915981",
       "source": "Habertürk",
-      "published_at": "2026-09-29T20:45:53Z"
+      "published_at": "2026-09-29T20:46:56Z"
     },
     {
       "title": "Ataşehir ve İstanbul'da dengeleri değiştirecek transfer: 6 CHP'li meclis üyesi AKP'ye geçti",
@@ -132,12 +156,6 @@
       "published_at": "2026-09-29T19:56:00Z"
     },
     {
-      "title": "Melis Sandal ve babası hakkında yakalama kararı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-melis-sandal-ve-cihan-sutsurup-hakkinda-yakalama-karari-3915981",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T19:54:37Z"
-    },
-    {
       "title": "Fenerbahçe Tarfin, Bayern Münih'i farklı geçti",
       "link": "https://www.sozcu.com.tr/fenerbahce-tarfin-bayern-munih-i-farkli-gecti-p364651",
       "source": "Sözcü",
@@ -172,12 +190,6 @@
       "link": "https://www.haberturk.com/gundem/iletisim-baskani-durandan-fon-sorusturmasi-aciklamasi-vatandaslarimizin-hakkini-koruyacagiz-3916005",
       "source": "Habertürk",
       "published_at": "2026-09-29T19:28:28Z"
-    },
-    {
-      "title": "Adalı'dan HT Spor'da MHK ve hakem sözleri!",
-      "link": "https://www.haberturk.com/spor/serdal-adali-dan-ht-spor-da-mhk-ve-hakem-sozleri-adalet-istiyoruz-ayricalik-istemiyoruz-3916003",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T19:24:39Z"
     },
     {
       "title": "İletişim Başkanı Duran: Vatandaşlarımızın korunması sürecin temel önceliğidir",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/balkondan-dustu-denilen-aylinin-sozleri-dehseti-ortaya-cikardi-p364590",
       "source": "Sözcü",
       "published_at": "2026-09-29T14:53:46Z"
-    },
-    {
-      "title": "Deniz suyu antibiyotik ve ağrı kesiciye bulanmış",
-      "link": "https://www.sozcu.com.tr/deniz-suyu-antibiyotik-ve-agri-kesiciye-bulanmis-p364593",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T14:52:45Z"
-    },
-    {
-      "title": "2 milyar liralık hisse geri alım seferberliği",
-      "link": "https://www.haberturk.com/ekonomi/borsa-istanbul-da-hisse-geri-alim-seferberligi-2-milyar-lirayi-buldu-3915892",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T14:51:25Z"
     }
   ]
 }
