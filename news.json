@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:21:07.885627Z",
+  "generated_at": "2026-09-29T16:26:11.576356Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Askerden kaçmak için sıra dışı yöntem: Sınırı paraşütle geçti, 1000 metrede fark edildi",
+      "link": "https://www.sozcu.com.tr/ukrayna-da-kacak-alarmi-p364605",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T16:25:19Z"
+    },
+    {
+      "title": "Bahçeli'den fon krizi çıkışı: Sorumlular hukuk önünde hesabını vermeli",
+      "link": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T16:24:26Z"
+    },
+    {
+      "title": "Rusya'dan nükleer silah uyarısı",
+      "link": "https://www.haberturk.com/dunya/rusya-dan-nukleer-silah-uyarisi-3915973",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T16:19:05Z"
+    },
+    {
       "title": "Fenerbahçe camiasının acı günü! 95 yaşında vefat etti",
       "link": "https://www.sozcu.com.tr/fenerbahce-camiasinin-aci-gunu-95-yasinda-vefat-etti-p364611",
       "source": "Sözcü",
       "published_at": "2026-09-29T16:18:09Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Nefsine yenik düşenle vedalaşırız",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisinda-aciklamalar-3915961",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T16:17:38Z"
     },
     {
       "title": "215 milyar dolarlık hazine ormanda keşfedilmeyi bekliyor",
@@ -48,10 +72,22 @@
       "published_at": "2026-09-29T16:17:24Z"
     },
     {
+      "title": "Kızı Koronavirüse yakalandı",
+      "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T16:16:46Z"
+    },
+    {
       "title": "Borsa günü düşüşle tamamladı",
       "link": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3915972",
       "source": "Habertürk",
       "published_at": "2026-09-29T16:16:01Z"
+    },
+    {
+      "title": "Bahçeli'den fon krizi açıklaması",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bahceli-den-fon-krizi-aciklamasi-3915971",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T16:15:53Z"
     },
     {
       "title": "Devlet Bahçeli'den fon açıklaması",
@@ -64,18 +100,6 @@
       "link": "https://www.sozcu.com.tr/gokceada-feribot-seferlerine-hava-engeli-saatler-belli-oldu-p364608",
       "source": "Sözcü",
       "published_at": "2026-09-29T16:13:40Z"
-    },
-    {
-      "title": "Bahçeli'den fon krizi açıklaması",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bahceli-den-fon-krizi-aciklamasi-3915971",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T16:13:05Z"
-    },
-    {
-      "title": "Kızı Koronavirüse yakalandı",
-      "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T16:09:35Z"
     },
     {
       "title": "Bahçeli: Hükümetimizce olayın üzerine kararlılıkla gidilmesinden memnuniyet duyuyoruz",
@@ -94,12 +118,6 @@
       "link": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
       "source": "Sözcü",
       "published_at": "2026-09-29T16:07:37Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Nefsine yenik düşenle vedalaşırız",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisinda-aciklamalar-3915961",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T16:01:17Z"
     },
     {
       "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda 5 Filistinli hayatını kaybetti",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/spor/acun-ilicali-manchester-city-nin-yaptigi-dopingden-farkli-degil-3915914",
       "source": "Habertürk",
       "published_at": "2026-09-29T12:06:11Z"
-    },
-    {
-      "title": "Ünlü yapımcıdan 3,5 milyon euro istediler! Şüphelilerden biri eski damadı çıktı!",
-      "link": "https://www.haberturk.com/gundem/unlu-yapimcidan-3-5-milyon-euro-istediler-suphelilerden-biri-eski-damadi-cikti-3915909",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:55:24Z"
-    },
-    {
-      "title": "Fenerbahçe salonda çalıştı!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-caykur-rizespor-hazirliklarini-surdurdu-3915910",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:50:30Z"
-    },
-    {
-      "title": "Katil baba 6 çocuğunu öksüz bıraktı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-katil-baba-6-cocugunu-oksuz-birakti-sakarya-haberleri-3915785",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:48:14Z"
     }
   ]
 }
