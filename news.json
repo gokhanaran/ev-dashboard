@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:55:47.834478Z",
+  "generated_at": "2026-09-29T16:00:51.717873Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İranlı yetkili açıkladı: ABD savaş gemileri Basra ve Hürmüz’den çekildi",
+      "link": "https://www.sozcu.com.tr/iranli-yetkili-acikladi-abd-savas-gemileri-basra-ve-hurmuz-den-cekildi-p364606",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T15:56:17Z"
+    },
     {
       "title": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
       "link": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/besiktas-baskani-serdal-adali-vincenzo-italiano-nun-cok-istedigi-ismi-devre-arasinda-transfer-edecegiz-3915905",
       "source": "Habertürk",
       "published_at": "2026-09-29T11:39:43Z"
-    },
-    {
-      "title": "Beşiktaş'ta Kocaelispor mesaisi!",
-      "link": "https://www.haberturk.com/spor/besiktas-ta-kocaelispor-mesaisi-3915908",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:35:50Z"
     }
   ]
 }
