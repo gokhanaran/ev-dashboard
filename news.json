@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:58:31.753934Z",
+  "generated_at": "2026-09-29T09:03:35.977846Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Serenay Sarıkaya Paris'i salladı: Podyumdaki yürüyüşünü dünya konuşuyor",
+      "link": "https://www.sozcu.com.tr/serenay-sarikaya-paris-i-salladi-altin-elbisesiyle-podyuma-cikti-p364415",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T08:58:53Z"
+    },
+    {
       "title": "Fatma Betül Sayan Kaya kurtulmak için suçu kocasına attı",
       "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-kurtulmak-icin-sucu-kocasina-atti-p364494",
       "source": "Sözcü",
       "published_at": "2026-09-29T08:57:53Z"
+    },
+    {
+      "title": "OpenAI'dan güvenlik ertelemesi",
+      "link": "https://www.haberturk.com/ekonomi/gpt-61-astra-nin-cikisi-ertelendi-3915860",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T08:55:44Z"
+    },
+    {
+      "title": "Kanatlar durdu savunmacılar coştu!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-baris-alper-yilmaz-leroy-sane-ve-rafael-leao-sustu-roland-sallai-abdulkerim-bardakci-ve-davinson-sanchez-costu-3915859",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T08:55:25Z"
+    },
+    {
+      "title": "3 gün boyunca feci darp! İstanbul'un göbeğinde işkence",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-gun-boyunca-feci-darp-polis-kurtardi-3915855",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T08:54:25Z"
     },
     {
       "title": "Ferhat Gündoğdu gözaltına alındı, Burak Yılmaz'ın aylar önceki sözleri gündem oldu",
@@ -52,6 +76,18 @@
       "link": "https://www.sozcu.com.tr/basortusuz-konser-veren-iranli-sarkiciya-kirbac-cezasi-p364492",
       "source": "Sözcü",
       "published_at": "2026-09-29T08:52:22Z"
+    },
+    {
+      "title": "\"Dünya Şampiyonası'nı kazanacak güçteyim\"",
+      "link": "https://www.haberturk.com/spor/riza-kayaalp-dunya-sampiyonasi-ni-kazanacak-gucteyim-3915854",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T08:52:16Z"
+    },
+    {
+      "title": "İsviçre’den Midyat’a 4 bin 500 kilometre",
+      "link": "https://www.haberturk.com/yasam/isvicreden-midyata-4-bin-500-kilometre-pedal-cevirdi-3915856",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T08:51:12Z"
     },
     {
       "title": "Çirkin dizisi için karar alındı: Hayranlarını üzecek haber geldi",
@@ -106,6 +142,12 @@
       "link": "https://www.sozcu.com.tr/aym-den-yeni-parti-ye-1-ay-sure-p364472",
       "source": "Sözcü",
       "published_at": "2026-09-29T08:42:46Z"
+    },
+    {
+      "title": "Hedef Holding milyarlık borcunu ödeyemedi",
+      "link": "https://www.sozcu.com.tr/hedef-holding-milyarlik-liralik-borcunu-odeyemedi-p364484",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T08:40:30Z"
     },
     {
       "title": "35 ilde zehir tacirlerine operasyon: 172 şüpheli tutuklandı",
@@ -712,48 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-6-ilde-feto-operasyonu-20-gozalti-958483.html",
       "source": "TRT Haber",
       "published_at": "2026-09-29T06:35:00Z"
-    },
-    {
-      "title": "Fon soruşturmasında kritik gün! Cumhurbaşkanı Erdoğan ekonomi yönetimini topluyor",
-      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-kritik-gun-cumhurbaskani-erdogan-ekonomi-yonetimini-topluyor-p364441",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T06:34:41Z"
-    },
-    {
-      "title": "MHK Başkanı Ferhat Gündoğdu gözaltında",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mhk-baskani-ferhat-gundogdu-gozaltinda-3915782",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T06:32:09Z"
-    },
-    {
-      "title": "Montella'nın geleceği tek ihtimale bağlı",
-      "link": "https://www.sozcu.com.tr/montellanin-gelecegi-tek-ihtimale-bagli-p364431",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T06:27:31Z"
-    },
-    {
-      "title": "Adalet Bakanı Gürlek: Temiz futbol mücadelesini kararlılıkla sürdüreceğiz",
-      "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlek-temiz-futbol-mucadelesini-kararlilikla-surdurecegiz-958482.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-29T06:26:00Z"
-    },
-    {
-      "title": "Serdar Ali Çelikler'den olay öneri: Milli formayı giymeli",
-      "link": "https://www.sozcu.com.tr/serdar-ali-celiklerden-dikkat-ceken-oneri-p364436",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T06:25:53Z"
-    },
-    {
-      "title": "SPK'dan 37 kişi hakkında suç duyurusu",
-      "link": "https://www.haberturk.com/ekonomi/spk-dan-37-kisi-hakkinda-suc-duyurusu-etkin-pismanlik-icin-15-gunluk-sure-tanindi-3915794",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T06:23:40Z"
-    },
-    {
-      "title": "170 bin liralık maaşı bıraktı, 18 bin liralık işi seçti: Duyan yaptığına akıl sır erdiremedi",
-      "link": "https://www.sozcu.com.tr/170-bin-liralik-maasi-birakti-18-bin-liralik-isi-secti-duyan-yaptigina-akil-sir-erdiremedi-p364403",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T06:22:13Z"
     }
   ]
 }
