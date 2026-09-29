@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:41:08.750651Z",
+  "generated_at": "2026-09-29T02:36:28.780858Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kırıkkale'de yolsuzluk operasyonu: 15 şüpheli tutuklandı",
+      "link": "https://www.trthaber.com/haber/gundem/kirikkalede-yolsuzluk-operasyonu-15-supheli-tutuklandi-958459.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-29T02:28:00Z"
+    },
     {
       "title": "Arkadaş tartışması kanlı bitti: 1 ölü",
       "link": "https://www.haberturk.com/gundem/gaziantep-te-arkadaslarin-tartismasi-kanli-bitti-1-olu-3915763",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/yemen-de-catismalar-siddetlendi-3915693",
       "source": "Habertürk",
       "published_at": "2026-09-28T16:05:55Z"
-    },
-    {
-      "title": "Kurtlar Vadisi yine gündemde: Fon krizini yıllar önce böyle anlatmışlar",
-      "link": "https://www.sozcu.com.tr/fon-krizi-kurtlar-vadisinde-mi-islenmis-p364296",
-      "source": "Sözcü",
-      "published_at": "2026-09-28T16:05:41Z"
     }
   ]
 }
