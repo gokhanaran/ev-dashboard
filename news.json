@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:11:00.003452Z",
+  "generated_at": "2026-09-29T16:16:04.083659Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "Devlet Bahçeli'den fon açıklaması",
+      "link": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T16:14:04Z"
+    },
+    {
+      "title": "Gökçeada feribot seferlerine hava engeli: Saatler belli oldu",
+      "link": "https://www.sozcu.com.tr/gokceada-feribot-seferlerine-hava-engeli-saatler-belli-oldu-p364608",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T16:13:40Z"
+    },
+    {
+      "title": "Bahçeli: Hükümetimizce olayın üzerine kararlılıkla gidilmesinden memnuniyet duyuyoruz",
+      "link": "https://www.trthaber.com/haber/gundem/bahceli-hukumetimizce-olayin-uzerine-kararlilikla-gidilmesinden-memnuniyet-duyuyoruz-958558.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-29T16:09:00Z"
+    },
+    {
+      "title": "TBMM Başkanı Kurtulmuş: Cumhurbaşkanımızın tavrını destekliyoruz, sonuna kadar gidilmeli",
+      "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-cumhurbaskanimizin-tavrini-destekliyoruz-sonuna-kadar-gidilmeli-958556.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-29T16:08:00Z"
+    },
+    {
       "title": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
       "link": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
       "source": "Sözcü",
@@ -52,6 +76,12 @@
       "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
       "source": "Habertürk",
       "published_at": "2026-09-29T15:58:10Z"
+    },
+    {
+      "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda 5 Filistinli hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-5-filistinli-hayatini-kaybetti-958557.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-29T15:57:00Z"
     },
     {
       "title": "İranlı yetkili açıkladı: ABD savaş gemileri Basra ve Hürmüz’den çekildi",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-gun-boyunca-feci-darp-istanbul-un-gobeginde-iskence-3915855",
       "source": "Habertürk",
       "published_at": "2026-09-29T11:46:59Z"
-    },
-    {
-      "title": "Acun Ilıcalı ateş püskürdü: 'Bunun adı finansal doping'",
-      "link": "https://www.sozcu.com.tr/acun-ilicali-ates-puskurdu-bunun-adi-finansal-doping-p364535",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T11:45:33Z"
-    },
-    {
-      "title": "Usta tiyatrocu hayatını kaybetti",
-      "link": "https://www.haberturk.com/magazin/ali-hurol-hayatini-kaybetti-3915901",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:43:27Z"
-    },
-    {
-      "title": "Dünden beri aranıyordu! Falezlerde trajik son",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-nil-bolukbas-dunden-beri-araniyordu-falezlerde-trajik-son-3915906",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:40:51Z"
-    },
-    {
-      "title": "Stoperde rekabet kızışacak!",
-      "link": "https://www.haberturk.com/spor/besiktas-ta-stoperde-rekabet-kizisacak-3915907",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:40:15Z"
-    },
-    {
-      "title": "\"Italiano'nun çok istediği ismi alacağız\"",
-      "link": "https://www.haberturk.com/spor/foto/besiktas-baskani-serdal-adali-vincenzo-italiano-nun-cok-istedigi-ismi-devre-arasinda-transfer-edecegiz-3915905",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:39:43Z"
     }
   ]
 }
