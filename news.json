@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:35:32.998585Z",
+  "generated_at": "2026-09-29T15:40:36.704943Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,40 @@
   ],
   "items": [
     {
+      "title": "Erdoğan'dan fon toplantısı sonrası ilk sözler",
+      "link": "https://www.sozcu.com.tr/erdogan-dan-fon-toplantisi-sonrasi-ilk-sozler-p364602",
+      "source": "Sözcü",
+      "published_at": "2026-09-29T15:40:16Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Nefsine yenik düşenle vedalaşırız",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisinda-aciklamalar-3915961",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T15:35:32Z"
+    },
+    {
       "title": "9 belediye başkanı AKP'ye katıldı",
       "link": "https://www.sozcu.com.tr/9-belediye-baskani-akp-ye-katildi-29-eylul-2026-p364597",
       "source": "Sözcü",
       "published_at": "2026-09-29T15:34:07Z"
     },
     {
+      "title": "Öğretmenden özel gereksinimli öğrencilere şiddet! Valilik'ten açıklama geldi",
+      "link": "https://www.haberturk.com/ogretmenden-ozel-gereksinimli-ogrencilere-siddet-valilik-ten-aciklama-geldi-3789742",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T15:33:59Z"
+    },
+    {
+      "title": "BİM'e ankastre set geliyor!",
+      "link": "https://www.haberturk.com/bim-13-16-mayis-2025-aktuel-katalogu-yayinda-bim-e-bu-hafta-ankastre-set-ve-dikey-supurge-geliyor-3789741",
+      "source": "Habertürk",
+      "published_at": "2026-09-29T15:33:15Z"
+    },
+    {
       "title": "İsrail’de alarm: Netanyahu kurmaylarını topluyor",
       "link": "https://www.sozcu.com.tr/israil-de-alarm-netanyahu-kurmaylarini-topluyor-p364601",
       "source": "Sözcü",
       "published_at": "2026-09-29T15:32:41Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Nefsine yenik düşenle vedalaşırız",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-il-baskanlari-toplantisinda-aciklamalar-3915961",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T15:30:42Z"
     },
     {
       "title": "Razgatlıoğlu'nda HT Spor'a özel açıklamalar!",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/saglik/turkiye-de-avrupaya-gore-daha-erken-kalp-krizine-yakalaniliyor-3915902",
       "source": "Habertürk",
       "published_at": "2026-09-29T11:25:01Z"
-    },
-    {
-      "title": "Fenerbahçe'nin yıldızı baba oluyor",
-      "link": "https://www.haberturk.com/magazin/foto/marco-asensio-baba-oluyor-3915684",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T11:22:26Z"
-    },
-    {
-      "title": "81 ilde binalardaki elektrik sayaçları sökülüyor: Kapı kapı dolaşmaya başladılar",
-      "link": "https://www.sozcu.com.tr/81-ilde-binalardaki-elektrik-sayaclari-sokuluyor-kapi-kapi-dolasmaya-basladilar-p364469",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T11:21:41Z"
-    },
-    {
-      "title": "Doğu Karadeniz ve Marmara için sağanak uyarısı",
-      "link": "https://www.trthaber.com/haber/turkiye/dogu-karadeniz-ve-marmara-icin-saganak-uyarisi-958527.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-29T11:21:00Z"
     }
   ]
 }
