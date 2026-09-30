@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:25:50.871278Z",
+  "generated_at": "2026-09-30T13:30:50.625644Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 14
+      "items": 20
     },
     {
       "source": "Sözcü",
@@ -36,724 +36,724 @@
   ],
   "items": [
     {
-      "title": "İsrail'in 'uçak kaçırıldı' yaygarası balon çıktı",
+      "title": "Kurak bölgeye bırakılan küçücük böcek 5 yılda felaketi yaşattı",
+      "link": "https://www.sozcu.com.tr/kurak-bolgeye-birakilan-kucucuk-bocek-5-yilda-felaketi-yasatti-p364907",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:24:11Z"
+    },
+    {
+      "title": "Başsavcılık'tan VAR odası açıklaması!",
+      "link": "https://www.haberturk.com/spor/son-dakika-istanbul-cumhuriyet-bassavciligi-ndan-var-odasi-aciklamasi-3916216",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:23:50Z"
+    },
+    {
+      "title": "Yarın yapılacak bazı feribot seferleri iptal edildi",
+      "link": "https://www.trthaber.com/haber/turkiye/yarin-yapilacak-bazi-feribot-seferleri-iptal-edildi-958665.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T13:23:00Z"
+    },
+    {
+      "title": "İstanbul'u terk eden Tuba Ünsal'ın Paris pozları dikkat çekti",
+      "link": "https://www.sozcu.com.tr/istanbul-u-terk-eden-tuba-unsal-in-paris-pozlari-dikkat-cekti-p364905",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:21:32Z"
+    },
+    {
+      "title": "\"Bisikletim çalınmamış!\"",
+      "link": "https://www.haberturk.com/magazin/bartu-kucukcaglayan-bisikletim-calinmamis-3916210",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:15:58Z"
+    },
+    {
+      "title": "İran'da işgale karşı hazırlık: Kadınlar odaları tek tek böyle temizledi",
+      "link": "https://www.sozcu.com.tr/iranli-kadinlar-p364850",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:15:47Z"
+    },
+    {
+      "title": "İsrail'den Flydubai hamlesi: Uçuşların durdurulması istendi",
+      "link": "https://www.trthaber.com/haber/dunya/israilden-flydubai-hamlesi-ucuslarin-durdurulmasi-istendi-958664.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T13:15:00Z"
+    },
+    {
+      "title": "Mardin'de 13 yaşındaki Hasan aranıyor",
+      "link": "https://www.haberturk.com/gundem/mardin-de-13-yasindaki-hasan-araniyor-3916180",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:14:42Z"
+    },
+    {
+      "title": "Türkiye Sigortalar Birliği'nden BES açıklaması",
+      "link": "https://www.sozcu.com.tr/turkiye-sigortalar-birligi-nden-bes-aciklamasi-p364864",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:14:34Z"
+    },
+    {
+      "title": "Bir zamanlar Koç ve Sabancı'yı sollamıştı: Kiler Holding'de tarihi çöküş!",
+      "link": "https://www.sozcu.com.tr/bir-zamanlar-koc-ve-sabanci-yi-sollamisti-kiler-holding-de-tarihi-cokus-p364903",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:12:55Z"
+    },
+    {
+      "title": "Akın Gürlek açıkladı, 26 şirketin hisselerine inceleme başlatıldı",
+      "link": "https://www.sozcu.com.tr/akin-gurlek-ten-fon-sorusturmasina-iliskin-flas-aciklama-p364870",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:11:40Z"
+    },
+    {
+      "title": "Sardes ve Bintepe artık gökyüzünden korunacak",
+      "link": "https://www.haberturk.com/yasam/sardes-ve-bintepe-artik-gokyuzunden-korunacak-3916215",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:09:57Z"
+    },
+    {
+      "title": "T24'e kapatma kararı",
+      "link": "https://www.sozcu.com.tr/t24-e-erisim-engelli-p364896",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:07:28Z"
+    },
+    {
+      "title": "Guardiola'dan M.City'ye destek!",
+      "link": "https://www.haberturk.com/spor/pep-guardiola-dan-manchester-city-ye-destek-3916214",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:07:11Z"
+    },
+    {
+      "title": "T24 hakkında kapatma kararı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-t24-hakkinda-kapatma-karari-3916209",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:06:32Z"
+    },
+    {
+      "title": "Dünyanın en iyi işverenleri belli oldu: İlk 25'e tek Türk şirketi girebildi",
+      "link": "https://www.sozcu.com.tr/dunyanin-en-iyi-isverenleri-belli-oldu-ilk-25-e-tek-turk-sirketi-girebildi-p364826",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:06:18Z"
+    },
+    {
+      "title": "Şanlıurfa'daki TEKNOFEST'in ilk gününde yoğun ziyaretçi ilgisi",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/sanliurfadaki-teknofestin-ilk-gununde-yogun-ziyaretci-ilgisi-958663.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T13:05:00Z"
+    },
+    {
+      "title": "Ajda Pekkan yeni şarkısını sokakta bağıra çağıra söyledi: O anlar kamerada",
+      "link": "https://www.sozcu.com.tr/ajda-pekkan-yeni-sarkisini-sokakta-bagira-cagira-soyledi-o-anlar-kamerada-p364901",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:04:44Z"
+    },
+    {
+      "title": "ABD ekonomisi ikinci çeyrekte yüzde 2,2 büyüdü",
+      "link": "https://www.trthaber.com/haber/dunya/abd-ekonomisi-ikinci-ceyrekte-yuzde-22-buyudu-958662.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T13:03:00Z"
+    },
+    {
+      "title": "FBI bile çözemedi: Cennet görünümlü o adaya adım atan deliriyor",
+      "link": "https://www.sozcu.com.tr/fbi-bile-cozemedi-cennet-gorunumlu-o-adaya-adim-atan-deliriyor-p364900",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:58:08Z"
+    },
+    {
+      "title": "Almanyada enflasyon eylülde yüzde 3,3 ile son 3 yılın zirvesinde",
+      "link": "https://www.trthaber.com/haber/ekonomi/almanyada-enflasyon-eylulde-yuzde-33-ile-son-3-yilin-zirvesinde-958661.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T12:57:00Z"
+    },
+    {
+      "title": "'BES'te likidite sorunu yok'",
+      "link": "https://www.haberturk.com/ekonomi/bes-te-likidite-sorunu-yok-3916212",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:56:34Z"
+    },
+    {
+      "title": "Beşiktaş'ta Kocaelispor mesaisi!",
+      "link": "https://www.haberturk.com/spor/besiktas-kocaelispor-maci-hazirliklarina-devam-etti-3916201",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:51:36Z"
+    },
+    {
+      "title": "Basit Şeyler, zor seçimler: Neden detaylara daha fazla dikkat ediyoruz?",
+      "link": "https://www.haberturk.com/basit-seyler-zor-secimler-neden-detaylara-daha-fazla-dikkat-ediyoruz-3916173",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:50:28Z"
+    },
+    {
+      "title": "O anlar ortaya çıktı: Pilotların birbirini bıçakladığı uçaktan dehşet görüntüleri",
       "link": "https://www.sozcu.com.tr/dubai-tel-aviv-ucagi-kacirilma-kodu-verdi-p364749",
       "source": "Sözcü",
-      "published_at": "2026-09-30T07:24:02Z"
+      "published_at": "2026-09-30T12:49:26Z"
     },
     {
-      "title": "Burnumuzun dibindeki ülke taşınana 556 bin lira veriyor: Şartı da yok",
-      "link": "https://www.sozcu.com.tr/burnumuzun-dibindeki-ulke-evini-toplayip-tasinana-556-bin-lira-veriyor-sarti-da-yok-p364723",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:22:11Z"
-    },
-    {
-      "title": "Avrupa'nın en büyük rezervi burada ortaya çıktı: Tüm ülkelerin planı değişti",
-      "link": "https://www.sozcu.com.tr/avrupa-nin-en-buyuk-rezervi-burada-ortaya-cikti-tum-ulkelerin-plani-degisti-p364769",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:20:57Z"
-    },
-    {
-      "title": "Peugeot ve Citroen üreten iki fabrika üretim yapmayı durdurdu",
-      "link": "https://www.sozcu.com.tr/stellantis-2-fabrikasinda-uretimi-durduruyor-p364738",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:18:22Z"
-    },
-    {
-      "title": "Yeni bölümü bu akşam SHOW TV'de",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-yeni-bolumuyle-bu-aksam-show-tv-de-3916082",
+      "title": "450 milyon dolarlık açık artırma!",
+      "link": "https://www.haberturk.com/kultur-sanat/van-gogh-ve-cezanne-in-eserleri-450-milyon-dolarlik-acik-artirmada-3916204",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:18:03Z"
+      "published_at": "2026-09-30T12:48:23Z"
     },
     {
-      "title": "Borsa güne düşüşle başladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gune-dususle-basladi-3916087",
+      "title": "100'den fazla kişi beyin hasarı yaşadı! O hız treni kapatılıyor",
+      "link": "https://www.haberturk.com/saglik/100-den-fazla-kisi-beyin-hasari-yasadi-o-hiz-treni-kapatiliyor-3916205",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:17:21Z"
+      "published_at": "2026-09-30T12:47:52Z"
     },
     {
-      "title": "Meme kanserinin 7 önemli belirtisi!",
-      "link": "https://www.haberturk.com/saglik/meme-kanserinin-7-onemli-belirtisi-haberler-3916084",
+      "title": "Rögar kapağı açıldı, yaşlı kadın düştü!",
+      "link": "https://www.haberturk.com/gundem/rogar-kapagi-acildi-yasli-kadin-dustu-3916186",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:17:08Z"
+      "published_at": "2026-09-30T12:44:39Z"
     },
     {
-      "title": "T.C. SEFERİHİSAR (SULH HUKUK MAH.) SATIŞ MEMURLUĞU",
-      "link": "https://www.haberturk.com/resmi-ilanlar/tc-seferihisar-sulh-hukuk-mah-satis-memurlugu-3915922",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:16:27Z"
-    },
-    {
-      "title": "Cinayetten aranırken fenomen olmaya çalışmış!",
-      "link": "https://www.haberturk.com/gundem/cinayetten-aranirken-fenomen-olmaya-calismis-3916077",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:14:29Z"
-    },
-    {
-      "title": "T.C.TEKİRDAĞ 1. SULH HUKUK MAHKEMESİ",
-      "link": "https://www.haberturk.com/resmi-ilanlar/tctekirdag-1-sulh-hukuk-mahkemesi-3915929",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:13:59Z"
-    },
-    {
-      "title": "Bulutların üzerindeki dağın zirvesinde görsel şölen",
-      "link": "https://www.haberturk.com/yasam/bulutlarin-uzerindeki-dagin-zirvesinde-gorsel-solen-3916068",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:13:30Z"
-    },
-    {
-      "title": "A.Efes Kızılyıldız deplasmanında!",
-      "link": "https://www.haberturk.com/spor/anadolu-efes-euroleague-de-kizilyildiz-a-konuk-olacak-3916083",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:13:08Z"
-    },
-    {
-      "title": "Hizmet Üretici Fiyat Endeksi ağustosta arttı",
-      "link": "https://www.trthaber.com/haber/ekonomi/hizmet-uretici-fiyat-endeksi-agustosta-artti-958609.html",
+      "title": "Bir iş yerinde 7,5 ton böceklenmiş un ele geçirildi",
+      "link": "https://www.trthaber.com/haber/turkiye/bir-is-yerinde-75-ton-boceklenmis-un-ele-gecirildi-958660.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T07:13:00Z"
+      "published_at": "2026-09-30T12:44:00Z"
     },
     {
-      "title": "76 yıllık Türk ayakkabı devinden kötü haber: Mahkeme 1 yıl süre verdi",
-      "link": "https://www.sozcu.com.tr/76-yillik-turk-ayakkabi-devinden-kotu-haber-mahkeme-1-yil-sure-verdi-p364766",
+      "title": "CHP'li belediyeye haciz şoku! İcra memurları polisle birlikte kapıya dayandı",
+      "link": "https://www.sozcu.com.tr/chp-li-belediyeye-haciz-soku-icra-memurlari-polisle-birlikte-kapiya-dayandi-p364899",
       "source": "Sözcü",
-      "published_at": "2026-09-30T07:12:22Z"
-    },
-    {
-      "title": "Yeraltı'nın yıldızı Deniz Can Aktaş'tan aşk itirafı: \"Hayatımda biri var\"",
-      "link": "https://www.sozcu.com.tr/yeralti-nin-yildizi-deniz-can-aktas-tan-ask-itirafi-hayatimda-biri-var-p364765",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:11:25Z"
-    },
-    {
-      "title": "ABD Donanması'nın 20 milyar dolarlık savaş uçağı Boeing'e",
-      "link": "https://www.trthaber.com/haber/dunya/abd-donanmasinin-20-milyar-dolarlik-savas-ucagi-boeinge-958608.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T07:11:00Z"
-    },
-    {
-      "title": "İşsizlik oranı ağustosta geriledi",
-      "link": "https://www.sozcu.com.tr/issizlik-orani-agustosta-geriledi-p364763",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:10:33Z"
-    },
-    {
-      "title": "T.C. SERİK İCRA DAİRESİ",
-      "link": "https://www.haberturk.com/resmi-ilanlar/tc-serik-icra-dairesi-3915921",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:09:51Z"
-    },
-    {
-      "title": "İşsizlik oranında gerileme",
-      "link": "https://www.haberturk.com/ekonomi/issizlik-oraninda-gerileme-3916079",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:09:45Z"
-    },
-    {
-      "title": "İşsizlik rakamları açıklandı",
-      "link": "https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-958607.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T07:08:00Z"
+      "published_at": "2026-09-30T12:43:29Z"
     },
     {
       "title": "Dubai-Tel Aviv uçağında kaçırılma kodu verildi",
       "link": "https://www.haberturk.com/dunya/son-dakika-dubai-tel-aviv-ucaginda-kacirilma-kodu-verildi-3916067",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:07:45Z"
+      "published_at": "2026-09-30T12:43:21Z"
     },
     {
-      "title": "Şova çıkacak modeller belli oldu",
-      "link": "https://www.haberturk.com/magazin/2026-victorias-secret-fashion-show-a-victorias-secret-moda-gosterisi-cikacak-modeller-belli-oldu-adriana-lima-yine-podyumda-olacak-3916063",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T07:06:50Z"
-    },
-    {
-      "title": "Kardeş kavgası devam ediyor: Özcan Deniz adliyede ifade verdi, bir dava daha...",
-      "link": "https://www.sozcu.com.tr/kardes-kavgasi-devam-ediyor-ozcan-deniz-adliyede-ifade-verdi-bir-dava-daha-p364761",
+      "title": "Piyasanın beklediği ABD verisi açıklandı: Altın ve gümüş yükselişe geçti",
+      "link": "https://www.sozcu.com.tr/piyasanin-bekledigi-abd-verisi-aciklandi-p364892",
       "source": "Sözcü",
-      "published_at": "2026-09-30T07:05:17Z"
+      "published_at": "2026-09-30T12:43:15Z"
     },
     {
-      "title": "Icardi'den dikkat çeken paylaşım!",
-      "link": "https://www.haberturk.com/spor/icardi-den-dikkat-ceken-paylasim-endiselenmeyin-her-seye-sahibim-3916078",
+      "title": "Trabzonspor’dan sakatlık açıklaması!",
+      "link": "https://www.haberturk.com/spor/trabzonsporda-onuralp-cevikkanin-saglik-durumuyla-ilgili-aciklama-3916208",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:04:27Z"
+      "published_at": "2026-09-30T12:38:58Z"
     },
     {
-      "title": "2 çocuk annesini iş yerinde öldürdü! \"Büyü\" cinayeti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-2-cocuk-annesini-is-yerinde-oldurdu-buyu-cinayeti-kutahya-haberleri-3916045",
+      "title": "Çölün ortasındaki yolda her 4 kilometrede bir bekçi duruyor",
+      "link": "https://www.sozcu.com.tr/colun-ortasindaki-yolda-her-4-kilometrede-bir-bekci-duruyor-p364894",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:37:39Z"
+    },
+    {
+      "title": "Toprakta normal olmayan belirtilere rastlandı: Dünyanın gözü Ağrı Dağı'ndaki Nuh'un Gemisi kazısında",
+      "link": "https://www.sozcu.com.tr/toprakta-normal-olmayan-belirtilere-rastlandi-dunyanin-gozu-agri-dagi-ndaki-nuh-un-gemisi-kazisinda-p364855",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:35:57Z"
+    },
+    {
+      "title": "Eşref Rüya hayranlarını heyecanlandıran gelişme: Eşref geri dönüyor",
+      "link": "https://www.sozcu.com.tr/esref-ruya-hayranlarini-heyecanlandiran-gelisme-esref-geri-donuyor-p364893",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:35:16Z"
+    },
+    {
+      "title": "Jandarmanın yerli robotları TEKNOFEST Güneydoğu'da görücüye çıktı",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/jandarmanin-yerli-robotlari-teknofest-guneydoguda-gorucuye-cikti-958659.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T12:35:00Z"
+    },
+    {
+      "title": "Meta yapay zekayı \"devasa deney\" saydı, 4 milyar dolar kazandı",
+      "link": "https://www.trthaber.com/haber/dunya/meta-yapay-zekayi-devasa-deney-saydi-4-milyar-dolar-kazandi-958658.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T12:33:00Z"
+    },
+    {
+      "title": "Kars'ta vahşet! Bir günlük bebeği ağzına peçete koyarak öldürmüşler",
+      "link": "https://www.sozcu.com.tr/kars-ta-vahset-bir-gunluk-bebegi-agzina-pecete-koyarak-oldurmusler-p364812",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:31:54Z"
+    },
+    {
+      "title": "Otomobilde 3 bin 64 uyuşturucu hap ele geçirildi: 2 tutuklama",
+      "link": "https://www.sozcu.com.tr/otomobilde-3-bin-64-uyusturucu-hap-ele-gecirildi-2-tutuklama-p364891",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:31:03Z"
+    },
+    {
+      "title": "Özel: Terörsüz Türkiye’ye evet diyoruz",
+      "link": "https://www.haberturk.com/chp-van-mitingi-chp-lideri-ozgur-ozel-terorsuz-turkiyeye-evet-diyoruz-3789855",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:04:05Z"
+      "published_at": "2026-09-30T12:27:49Z"
     },
     {
-      "title": "Borsa güne düşüşle başladı -30 Eylül 2026",
-      "link": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-30-eylul-2026-p364760",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:03:39Z"
+      "title": "Almanya'dan Rusya'ya 'yaptırım' tehdidi",
+      "link": "https://www.haberturk.com/almanya-basbakani-merz-ateskesi-reddetmesi-halinde-rusya-ya-sert-yaptirimlar-uygulanacagini-belirtti-3789854",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:43Z"
     },
     {
-      "title": "Kendisinden pahalıya patlayan madeni paranın üretimi durduruluyor",
-      "link": "https://www.sozcu.com.tr/kendisinden-pahaliya-patlayan-madeni-paranin-uretimi-durduruluyor-p364733",
+      "title": "Selçuk Ernak'a Polonya'da büyük onur",
+      "link": "https://www.haberturk.com/selcuk-ernak-a-polonya-da-buyuk-onur-3789853-spor",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:39Z"
+    },
+    {
+      "title": "Tur otobüsü devrildi: 2'si ağır 18 yaralı!",
+      "link": "https://www.haberturk.com/sinop-haberleri-tur-otobusu-devrildi-2-si-agir-18-yarali-son-dakika-haberleri-3789852",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:33Z"
+    },
+    {
+      "title": "Mumcu'dan 'Spotify' açıklaması",
+      "link": "https://www.haberturk.com/kultur-ve-turizm-bakan-yardimcisi-batuhan-mumcu-dan-spotify-aciklamasi-3789851-magazin",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:27Z"
+    },
+    {
+      "title": "\"Amatör maçlarda bile olmuyor\"",
+      "link": "https://www.haberturk.com/basaksehir-fenerbahce-maci-yazar-yorumlari-3789850-spor",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:22Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Her an müjdeler alabilirsiniz!",
+      "link": "https://www.haberturk.com/cumhurbaskani-erdogan-dan-aciklamalar-3789849",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:18Z"
+    },
+    {
+      "title": "Iğdır'dan Rusya'ya göç! 148 km'ye ulaştı",
+      "link": "https://www.haberturk.com/bozkir-sahininin-aras-vadisi-nden-beyazdeniz-e-goc-yolculugu-3789848",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:13Z"
+    },
+    {
+      "title": "\"Sıkı ve kararlı duruşumuzu korumamız gerekiyor\"",
+      "link": "https://www.haberturk.com/tcmb-baskani-karahan-siki-ve-kararli-durusumuzu-korumamiz-gerekiyor-3789847-ekonomi",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:09Z"
+    },
+    {
+      "title": "Trabzon-G.Saray maçına Hollandalı VAR!",
+      "link": "https://www.haberturk.com/trabzon-galatasaray-macinin-var-i-hollandali-erwin-blank-3789846-spor",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:27:04Z"
+    },
+    {
+      "title": "Kafkas engereği ısırdı, yoğun bakımda",
+      "link": "https://www.haberturk.com/kafkas-engeregi-isirdi-yogun-bakimda-3789845",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:26:59Z"
+    },
+    {
+      "title": "Otizmli çocuğa eğitmen dayağı!",
+      "link": "https://www.haberturk.com/tekirdag-corlu-da-otizmli-cocuga-egitmen-dayagi-3789844",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:26:55Z"
+    },
+    {
+      "title": "Fransa'da eğitim protestosu: 400'den fazla gözaltı",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-egitim-protestosu-400den-fazla-gozalti-958657.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T12:25:00Z"
+    },
+    {
+      "title": "Altın için korkutan senaryo: 3.500 dolara gerileyebilir",
+      "link": "https://www.sozcu.com.tr/altin-icin-uc-senaryo-3500-dolara-gerileyebilir-p364889",
       "source": "Sözcü",
-      "published_at": "2026-09-30T07:03:35Z"
+      "published_at": "2026-09-30T12:24:13Z"
+    },
+    {
+      "title": "\"Burun meraklısı!\"",
+      "link": "https://www.haberturk.com/magazin/ecem-erkek-ten-takipcisine-burun-meraklisi-3916158",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:22:55Z"
+    },
+    {
+      "title": "İmalat sanayii yatırımlarına hızlı finansman uygulaması",
+      "link": "https://www.trthaber.com/haber/ekonomi/imalat-sanayii-yatirimlarina-hizli-finansman-uygulamasi-958656.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T12:20:00Z"
+    },
+    {
+      "title": "G.Saray'da Kasımpaşa maçı hazırlığı!",
+      "link": "https://www.haberturk.com/spor/galatasaray-kasimpasa-macinin-hazirliklarini-surdurdu-3916202",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:19:57Z"
+    },
+    {
+      "title": "13 yaşındaki Hasan için korkutan bekleyiş",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haber-13-yasindaki-hasan-icin-korkutan-bekleyis-mardin-haberleri-3916200",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:19:44Z"
+    },
+    {
+      "title": "Instagram'da Story'nizi kimin gördüğünü artık anında öğrenebilirsiniz",
+      "link": "https://www.sozcu.com.tr/instagramda-yeni-ozellik-artik-storynizi-kimin-izledigini-gorebilirsiniz-p364885",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:17:00Z"
+    },
+    {
+      "title": "Tom Cruise'u böyle oynattılar",
+      "link": "https://www.haberturk.com/magazin/foto/televizyon-calisanlari-sarki-soyledi-tom-cruise-dans-etti-3916185",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:16:46Z"
+    },
+    {
+      "title": "\"Yeşil dönüşüme katkı sağlayan yatırımları destekliyoruz\"",
+      "link": "https://www.haberturk.com/ekonomi/orhan-veli-cayci-turkiyenin-yesil-donusumune-katki-saglayan-yatirimlari-desteklemeye-devam-etmekten--3916197",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:12:15Z"
+    },
+    {
+      "title": "Beşiktaş'a Vlahovic ve Trossard müjdesi!",
+      "link": "https://www.haberturk.com/spor/besiktas-a-dusan-vlahovic-ve-leandro-trossard-mujdesi-3916198",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:11:49Z"
+    },
+    {
+      "title": "Futbol dünyasını şoke eden ölüm! Kulüp başkanı başından vurularak öldürüldü",
+      "link": "https://www.sozcu.com.tr/futbol-dunyasini-soke-eden-olum-kulup-baskani-basindan-vurularak-olduruldu-p364877",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:11:13Z"
+    },
+    {
+      "title": "Bruce Willis'in son halini kızı paylaştı: Fotoğrafıyla duygulandırdı",
+      "link": "https://www.sozcu.com.tr/bruce-willis-in-son-halini-kizi-paylasti-fotografiyla-duygulandirdi-p364879",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:06:57Z"
+    },
+    {
+      "title": "Tütün kullanımı akciğer kanseri riskini 20 kat artırıyor",
+      "link": "https://www.haberturk.com/saglik/tutun-kullanimi-akciger-kanseri-riskini-20-kat-artiriyor-3916195",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:05:35Z"
+    },
+    {
+      "title": "Tarih verildi bu ülke Türklere kapılarını kapatıyor",
+      "link": "https://www.sozcu.com.tr/bu-ulke-yarindan-itibaren-turklere-kapilarini-kapatiyor-p364795",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T12:03:18Z"
+    },
+    {
+      "title": "Test sonuçları belli oldu",
+      "link": "https://www.haberturk.com/gundem/test-sonuclari-belli-oldu-3916191",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:02:44Z"
+    },
+    {
+      "title": "19 yıllık dönem sona eriyor",
+      "link": "https://www.haberturk.com/ekonomi/19-yillik-donem-sona-eriyor-bendevi-palandoken-tesk-genel-kurulu-nda-genel-baskanliga-aday-olmadigini-acikladi-3916196",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T12:01:51Z"
+    },
+    {
+      "title": "Köy yolu minik Kürşat için asfaltlandı",
+      "link": "https://www.haberturk.com/gundem/koy-yolu-minik-kursat-icin-asfaltlandi-3916194",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:58:09Z"
+    },
+    {
+      "title": "Ankara'da takograf manipülasyonuna 555 bin lira ceza",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-takograf-manipulasyonuna-555-bin-lira-ceza-958654.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T11:57:00Z"
+    },
+    {
+      "title": "Türkiye'deki fonzi, Norveç'te deprem etkisi yarattı",
+      "link": "https://www.sozcu.com.tr/turkiye-deki-fonzi-norvec-te-deprem-etkisi-yaratti-p364874",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:52:08Z"
+    },
+    {
+      "title": "Tayvan: Çin savaş uçakları Ada çevresinde 21 uçuş yaptı",
+      "link": "https://www.trthaber.com/haber/dunya/tayvan-cin-savas-ucaklari-ada-cevresinde-21-ucus-yapti-958653.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T11:52:00Z"
+    },
+    {
+      "title": "ABD'nin son teklifi Pezeşkiyan'a sunuldu",
+      "link": "https://www.haberturk.com/dunya/iran-disisleri-bakani-erakci-abdden-aldigi-son-teklifi-cumhurbaskani-pezeskiyana-sundu-3916190",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:50:33Z"
+    },
+    {
+      "title": "UEFA'dan Fatih Terim'e Galatasaray görevi",
+      "link": "https://www.sozcu.com.tr/uefa-dan-fatih-terim-e-galatasaray-gorevi-p364858",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:48:43Z"
+    },
+    {
+      "title": "TÜVTÜRK'ten doğal afetlere karşı adım",
+      "link": "https://www.haberturk.com/ekonomi/tuvturk-ten-dogal-afetlere-karsi-adim-3916192",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:47:16Z"
+    },
+    {
+      "title": "TFF Süper Kupa tarihlerini açıkladı! Son kez düzenlenecek",
+      "link": "https://www.sozcu.com.tr/tff-super-kupa-tarihlerini-acikladi-son-kez-duzenlenecek-p364873",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:46:57Z"
+    },
+    {
+      "title": "Fon soruşturmasında beşinci dalga",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-besinci-dalga-3916181",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:45:13Z"
+    },
+    {
+      "title": "Çıralı'da son yuva da açıldı",
+      "link": "https://www.haberturk.com/yasam/cirali-da-son-yuva-acildi-bu-yil-3-bin-458-yavru-caretta-caretta-denizle-bulustu-3916188",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:44:32Z"
+    },
+    {
+      "title": "Süper Kupa 2026 tarihleri belli oldu!",
+      "link": "https://www.haberturk.com/spor/son-dakika-super-kupa-2026-tarihleri-belli-oldu-3916187",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:41:55Z"
+    },
+    {
+      "title": "TEKNOFEST Güneydoğu ilk gün hava gösterileriyle başladı",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydogu-ilk-gun-hava-gosterileriyle-basladi-958652.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T11:41:00Z"
+    },
+    {
+      "title": "Şifresini yıllarca unuttuğu hesabı açtı: Didem Soydan'ın karşısına servet çıktı",
+      "link": "https://www.sozcu.com.tr/sifresini-yillarca-unuttugu-hesabi-acti-didem-soydan-in-karsisina-servet-cikti-p364840",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:36:12Z"
+    },
+    {
+      "title": "Hız treni kapatılıyor, 100'den fazla kişi beyin hasarı yaşadı",
+      "link": "https://www.trthaber.com/haber/dunya/hiz-treni-kapatiliyor-100den-fazla-kisi-beyin-hasari-yasadi-958651.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T11:36:00Z"
+    },
+    {
+      "title": "Portekiz'de Ronaldo krizi!",
+      "link": "https://www.haberturk.com/spor/foto/portekiz-de-cristiano-ronaldo-krizi-3916179",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:34:33Z"
+    },
+    {
+      "title": "Brisa’dan akü pazarında yeni hamle",
+      "link": "https://www.haberturk.com/ekonomi/brisadan-aku-pazarinda-yeni-hamle-3916182",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:32:26Z"
+    },
+    {
+      "title": "Antalya'da 2 hafta önce aldığı motosikleti sonu oldu!",
+      "link": "https://www.sozcu.com.tr/antalya-da-2-hafta-once-aldigi-motosikleti-sonu-oldu-p364871",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:31:40Z"
+    },
+    {
+      "title": "\"Kızıma büyü yaptı öldürdüm\"",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kizima-buyu-yapti-oldurdum-kutahya-haberleri-3916169",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:29:01Z"
+    },
+    {
+      "title": "Kars'ta bebek vahşeti! Ağzından peçete çıktı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-kars-ta-bebek-vahseti-agzindan-pecete-cikti-kars-haberleri-3916117",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:28:28Z"
     },
     {
       "title": "Bakan Çiftçi açıkladı! 30 yıllık cinayette sır çözüldü",
       "link": "https://www.haberturk.com/gundem/son-dakika-bakan-ciftci-acikladi-30-yillik-cinayette-sir-cozuldu-3916055",
       "source": "Habertürk",
-      "published_at": "2026-09-30T07:03:28Z"
+      "published_at": "2026-09-30T11:28:02Z"
     },
     {
-      "title": "Dünya futolcu bu çılgın komplo teorisini konuşuyor! Yıldız futbolcunun yerine bakasını koydular",
-      "link": "https://www.sozcu.com.tr/dunya-futolcu-bu-cilgin-komplo-teorisini-konusuyor-yildiz-futbolcunun-yerine-bakasini-koydular-p364748",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:03:11Z"
-    },
-    {
-      "title": "Küresel piyasalar ABD verilerine odaklandı",
-      "link": "https://www.sozcu.com.tr/kuresel-piyasalar-abd-verilerine-odaklandi-p364759",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:01:49Z"
-    },
-    {
-      "title": "54 yıllık Türk devi darboğaza girdi: Nepal ve Hindistan da çare olmadı",
-      "link": "https://www.sozcu.com.tr/54-yillik-turk-devi-darbogaza-girdi-nepal-ve-hindistan-da-care-olmadi-p364758",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T07:01:41Z"
-    },
-    {
-      "title": "Avrupa doğal gaza bağımlılığını bitiriyor: Yeni sistemle çareyi buldular",
-      "link": "https://www.sozcu.com.tr/avrupa-dogal-gaza-bagimliligini-bitiriyor-yeni-sistemle-careyi-buldular-p364757",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:59:50Z"
-    },
-    {
-      "title": "Dubai-Tel Aviv uçağı kaçırılma kodu verdi",
-      "link": "https://www.sozcu.com.tr/dubai-tel-aviv-ucagi-kacirilma-kodu-verdi-p364749",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:59:36Z"
-    },
-    {
-      "title": "Diş fırçalarını asfalta karıştırmaya başladılar",
-      "link": "https://www.sozcu.com.tr/dis-fircalarini-asfalta-karistirmaya-basladilar-p364755",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:58:29Z"
-    },
-    {
-      "title": "Açlık sınırı 37 bin 801 TL’ye yükseldi",
-      "link": "https://www.sozcu.com.tr/aclik-siniri-37-bin-801-tl-ye-yukseldi-p364753",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:56:45Z"
-    },
-    {
-      "title": "Küresel piyasalarda gözler ABD verilerinde",
-      "link": "https://www.haberturk.com/ekonomi/fed-aciklamalari-piyasalarin-yonunu-belirliyor-3916073",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:55:51Z"
-    },
-    {
-      "title": "THY, Ajet ve Pegasus duyurdu: 50 bin uçak bileti apar topar iptal edildi",
-      "link": "https://www.sozcu.com.tr/thy-ajet-ve-pegasus-duyurdu-50-bin-ucak-bileti-apar-topar-iptal-edildi-p364747",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:53:11Z"
-    },
-    {
-      "title": "Petrol fiyatları yeniden 100 doların altında",
-      "link": "https://www.haberturk.com/ekonomi/petrol-fiyatlarinda-son-durum-ne-3916071",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:52:29Z"
-    },
-    {
-      "title": "Altında kritik gün: 24 yıldır böylesi görülmedi",
-      "link": "https://www.sozcu.com.tr/altin-yeniden-ibreyi-yukari-cevirdi-24-yildir-boylesi-gorulmedi-p364717",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:51:23Z"
-    },
-    {
-      "title": "Kredi kartı borcunun asgarisini ödeyen herkesi ilgilendiriyor",
-      "link": "https://www.sozcu.com.tr/kredi-karti-borcunun-asgarisini-odeyen-herkesi-ilgilendiriyor-p364712",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:50:24Z"
-    },
-    {
-      "title": "Dubai Tel Aviv uçağında kaçırılma alarmı",
-      "link": "https://www.trthaber.com/haber/dunya/dubai-tel-aviv-ucaginda-kacirilma-alarmi-958605.html",
+      "title": "Bodrum'da market denetimlerinde 1 milyon 155 bin lira ceza",
+      "link": "https://www.trthaber.com/haber/turkiye/bodrumda-market-denetimlerinde-1-milyon-155-bin-lira-ceza-958649.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:50:00Z"
+      "published_at": "2026-09-30T11:28:00Z"
     },
     {
-      "title": "Reuters: Dubai Tel Aviv uçağında kaçırılma alarmı",
-      "link": "https://www.trthaber.com/haber/dunya/reuters-dubai-tel-aviv-ucaginda-kacirilma-alarmi-958605.html",
+      "title": "Valizini toplayan emekli bu şehre taşınıyor: Deniz kenarında krallar gibi yaşıyor",
+      "link": "https://www.sozcu.com.tr/valizini-toplayan-emekli-bu-sehre-tasiniyor-deniz-kenarinda-krallar-gibi-yasiyor-p364868",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:27:55Z"
+    },
+    {
+      "title": "Fon soruşturmasında yeni gelişme: 34 şüpheli hakkında gözaltı kararı",
+      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-34-supheli-hakkinda-gozalti-karari-958650.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:50:00Z"
+      "published_at": "2026-09-30T11:27:00Z"
     },
     {
-      "title": "Reuters: Dubai Tel Av iv uçağında kaçırılma alarmı",
-      "link": "https://www.trthaber.com/haber/dunya/reuters-dubai-tel-av-iv-ucaginda-kacirilma-alarmi-958605.html",
+      "title": "'Devletin ihmali var' diyen eski Ekonomi Bakanı sözlerini düzeltti",
+      "link": "https://www.sozcu.com.tr/devletin-ihmali-var-diyen-eski-ekonomi-bakani-sozlerini-duzeltti-p364866",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:25:32Z"
+    },
+    {
+      "title": "800 bin dolara satacaklardı... Tam 8 ton!",
+      "link": "https://www.haberturk.com/gundem/titanyum-avi-ucak-ve-roket-yapiminda-kullaniliyor800-bin-dolara-satacaklardi-tam-8-ton-3916176",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:23:44Z"
+    },
+    {
+      "title": "\"Pastırma sıcakları\" için tarih verildi: Sıcaklıklar ne zaman yükselecek?",
+      "link": "https://www.sozcu.com.tr/pastirma-sicaklari-icin-tarih-verildi-sicakliklar-ne-zaman-yukselecek-p364764",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:14:16Z"
+    },
+    {
+      "title": "Dilan Polat, 'Cumhurbaşkanına hakaret'ten gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/dilan-polat-gozaltina-alindi-p364846",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:14:15Z"
+    },
+    {
+      "title": "Hande Yener yeni mesleğini duyurdu: Amsterdam'da kasanın başına geçti",
+      "link": "https://www.sozcu.com.tr/hande-yener-ek-isini-duyurdu-amsterdam-da-kasanin-basina-gecti-p364829",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:12:40Z"
+    },
+    {
+      "title": "Burak Yılmaz'ın ekibine Avrupa'dan önemli takviye",
+      "link": "https://www.haberturk.com/spor/burak-yilmaz-in-ekibine-avrupa-dan-onemli-takviye-3916174",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:08:46Z"
+    },
+    {
+      "title": "'Nişan takıları' kararı! Geri istenebilecek",
+      "link": "https://www.haberturk.com/gundem/nisan-takilari-karari-geri-istenebilecek-3916175",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:08:33Z"
+    },
+    {
+      "title": "Erasmus için Portekiz'e gitmişti... Üniversiteli Melek'in acı haberi geldi",
+      "link": "https://www.sozcu.com.tr/erasmus-icin-portekiz-e-gitmisti-universiteli-melek-in-aci-haberi-geldi-p364848",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T11:07:15Z"
+    },
+    {
+      "title": "Dilan Polat gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-dilan-polat-gozaltina-alindi-3916163",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:04:44Z"
+    },
+    {
+      "title": "Türkiye’nin ilk robotlu çocuk tiyatrosu sahnede!",
+      "link": "https://www.haberturk.com/kultur-sanat/turkiyenin-ilk-robotlu-cocuk-tiyatrosu-necinin-diji-maceralari-sahnede-3916172",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T11:00:48Z"
+    },
+    {
+      "title": "Başka bir gezegendeymiş gibi hissettiren 33 rota",
+      "link": "https://www.haberturk.com/htgastro/seyahat/baska-bir-gezegendeymis-gibi-hissettiren-33-rota-3915890",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:55:37Z"
+    },
+    {
+      "title": "İngiltere Başbakan Brexit'in faydadan çok zarar verdiğini belirtti",
+      "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakan-brexitin-faydadan-cok-zarar-verdigini-belirtti-958644.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:50:00Z"
+      "published_at": "2026-09-30T10:51:00Z"
     },
     {
-      "title": "Köprüde cinayet! Husumetlisini öldürdü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-koprude-cinayet-husumetlisini-oldurdu-3916069",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:49:15Z"
-    },
-    {
-      "title": "Etkili konuşmanın temel kuralları TRT Akademi'de",
-      "link": "https://www.trthaber.com/haber/trt-akademi/etkili-konusmanin-temel-kurallari-trt-akademide-958604.html",
+      "title": "Sonbaharda \"El Nino\" etkisi: Yağışlar artacak",
+      "link": "https://www.trthaber.com/haber/cevre/sonbaharda-el-nino-etkisi-yagislar-artacak-958648.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:46:00Z"
+      "published_at": "2026-09-30T10:49:00Z"
     },
     {
-      "title": "\"Çanta için sıraya girmem\"",
-      "link": "https://www.haberturk.com/magazin/elif-buse-dogan-canta-icin-siraya-girmem-3916064",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:41:47Z"
-    },
-    {
-      "title": "Brent petrolün varili 95,80 dolardan işlem görüyor",
-      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9580-dolardan-islem-goruyor-958602.html",
+      "title": "İsrail ordusu seçim öncesi olası saldırıya hazırlanıyor",
+      "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-secim-oncesi-olasi-saldiriya-hazirlaniyor-958643.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:41:00Z"
+      "published_at": "2026-09-30T10:48:00Z"
     },
     {
-      "title": "\"8 Mart\"ta paylaşımının ardından katletmişti! Cani için karar açıklandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mervenur-yararlik-8-martta-paylasim-yaptiktan-sonra-oldurulmustu-cani-icin-karar-aciklandi-3916058",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:38:41Z"
-    },
-    {
-      "title": "İlkay Gündoğan, Mevlüde Genç Madalyası’nı aldı!",
-      "link": "https://www.haberturk.com/spor/ilkay-gundogan-mevlude-genc-madalyasini-aldi-3916062",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:38:30Z"
-    },
-    {
-      "title": "Suçüstü yakalandı, 2.2 milyarı yatırdı",
-      "link": "https://www.sozcu.com.tr/sucustu-yakalandi-2-2-milyari-yatirdi-p364689",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:38:13Z"
-    },
-    {
-      "title": "ABD Irak'tan çekiliyor",
-      "link": "https://www.haberturk.com/dunya/irak-ta-9-askeri-ussu-bulunan-abd-ulkeden-ayriliyor-3916059",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:31:34Z"
-    },
-    {
-      "title": "Türkiye'nin dev santrali iflasını istedi!",
-      "link": "https://www.sozcu.com.tr/turkiye-nin-dev-santrali-iflasini-istedi-p364746",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:30:31Z"
-    },
-    {
-      "title": "Altın güne yükselişle başladı",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-958603.html",
+      "title": "Geleneksel Türk okçuluğu 6 yılda 37 binin üzerinde lisanslı sporcuya ulaştı",
+      "link": "https://www.trthaber.com/haber/turkiye/geleneksel-turk-okculugu-6-yilda-37-binin-uzerinde-lisansli-sporcuya-ulasti-958645.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:29:00Z"
+      "published_at": "2026-09-30T10:46:00Z"
     },
     {
-      "title": "Osmanlı mirası mücevherleri çalmıştı! Yatılı yardımcı hakkında karar!",
-      "link": "https://www.haberturk.com/gundem/osmanli-mirasi-mucevherleri-calmisti-yatili-yardimci-hakkinda-karar-3916056",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:28:55Z"
-    },
-    {
-      "title": "Yapay zekayla yaptığı görsel polisi alarma geçirdi: Apar topar gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/yapay-zekayla-yaptigi-gorsel-polisi-alarma-gecirdi-apar-topar-gozaltina-alindi-p364745",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:28:25Z"
-    },
-    {
-      "title": "Gençlerde kalp krizi neden artıyor?",
-      "link": "https://www.haberturk.com/saglik/genc-yasta-kalp-krizi-riskine-dikkat-haberler-3916057",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:25:01Z"
-    },
-    {
-      "title": "MHK Başkanlığı için flaş iddia! Dünyaca ünlü isim geliyor",
-      "link": "https://www.sozcu.com.tr/mhk-baskanligi-icin-flas-iddia-dunyaca-unlu-isim-geliyor-p364741",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:23:51Z"
-    },
-    {
-      "title": "Dünyayı açlıktan kurtaracak mucize keşfedildi: Sadece 60 tanesi 1 aileyi yıllarca besliyor",
-      "link": "https://www.sozcu.com.tr/dunyayi-acliktan-kurtaracak-mucize-kesfedildi-sadece-60-tanesi-1-aileyi-yillarca-besliyor-p364736",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:22:13Z"
-    },
-    {
-      "title": "Fenerbahçe scoutları aradıkları keşfetilmemiş yetenekleri Iğdır ve Keçiören'de buldu",
-      "link": "https://www.sozcu.com.tr/fenerbahce-scoutlari-aradiklari-kesfetilmemis-yetenekleri-igdir-ve-keciorende-buldu-p364729",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T06:21:06Z"
-    },
-    {
-      "title": "Filler, Ay, yapay zeka: Eylülde bilim dünyasında neler oldu?",
-      "link": "https://www.trthaber.com/haber/dunya/filler-ay-yapay-zeka-eylulde-bilim-dunyasinda-neler-oldu-958606.html",
+      "title": "TEKNOFEST Güneydoğu'da güvenlik taraması yerli ve milli KARAGÖZ'e emanet",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydoguda-guvenlik-taramasi-yerli-ve-milli-karagoze-emanet-958642.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:19:00Z"
+      "published_at": "2026-09-30T10:45:00Z"
     },
     {
-      "title": "Stellantis 2 fabrikasında üretimi durduruyor",
-      "link": "https://www.sozcu.com.tr/stellantis-2-fabrikasinda-uretimi-durduruyor-p364738",
+      "title": "MHK operasyonu büyüyor! Emniyet VAR odasına girdi",
+      "link": "https://www.sozcu.com.tr/mhk-operasyonu-buyuyor-emniyet-var-odasina-girdi-p364853",
       "source": "Sözcü",
-      "published_at": "2026-09-30T06:14:48Z"
+      "published_at": "2026-09-30T10:43:19Z"
     },
     {
-      "title": "Ülkede her isteyen araba alamıyor: Satın alma hakkı otomobilden daha pahalı",
-      "link": "https://www.sozcu.com.tr/ulkede-her-isteyen-araba-alamiyor-satin-alma-hakki-otomobilden-daha-pahali-p364739",
+      "title": "Kütahya'da 62 bin 701 eser, 5 farklı tema, tek çatı",
+      "link": "https://www.haberturk.com/kultur-sanat/kutahya-arkeoloji-ve-maden-muzesi-acildi-3916170",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:43:17Z"
+    },
+    {
+      "title": "\"İsrail ordusu saldırı ihtimaline hazırlanıyor\"",
+      "link": "https://www.haberturk.com/dunya/israil-devlet-televizyonu-ordu-secim-oncesi-bir-saldiri-ihtimaline-hazirlaniyor-3916171",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:42:16Z"
+    },
+    {
+      "title": "Buca Belediyesi'ne 150 milyon TL'lik haciz",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-buca-belediyesi-ne-150-milyon-tl-lik-haciz-geldi-izmir-haberleri-3916162",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:40:58Z"
+    },
+    {
+      "title": "Hasan Şaş ve Yağız Sabuncuoğlu’nun sonucu belli oldu",
+      "link": "https://www.sozcu.com.tr/hasan-sas-ve-yagiz-sabuncuoglu-nun-sonucu-belli-oldu-p364796",
       "source": "Sözcü",
-      "published_at": "2026-09-30T06:14:24Z"
+      "published_at": "2026-09-30T10:33:34Z"
     },
     {
-      "title": "Dünya nüfusunun yaklaşık yüzde 40'ı bu yıl tehlikeli ozon kirliliğine maruz kaldı",
-      "link": "https://www.trthaber.com/haber/dunya/dunya-nufusunun-yaklasik-yuzde-40i-bu-yil-tehlikeli-ozon-kirliligine-maruz-kaldi-958600.html",
+      "title": "Özel: Devlette tuz kokmuştur",
+      "link": "https://www.haberturk.com/son-dakika-ozgur-ozel-devlette-tuz-kokmustur-3916167",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:24:20Z"
+    },
+    {
+      "title": "Türkiye, soykırımcı İsrail'in saldırılarında yaralanan 6 yaşındaki Sıla'nın umudu oldu",
+      "link": "https://www.trthaber.com/haber/gundem/turkiye-soykirimci-israilin-saldirilarinda-yaralanan-6-yasindaki-silanin-umudu-oldu-958641.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:10:00Z"
+      "published_at": "2026-09-30T10:24:00Z"
     },
     {
-      "title": "Muhabirlikte saha deneyimi TRT Akademi'de",
-      "link": "https://www.trthaber.com/haber/trt-akademi/muhabirlikte-saha-deneyimi-trt-akademide-958601.html",
+      "title": "Fransadan şekerli gıdalara vergi",
+      "link": "https://www.trthaber.com/haber/dunya/fransadan-sekerli-gidalara-vergi-958638.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T06:07:00Z"
+      "published_at": "2026-09-30T10:23:00Z"
     },
     {
-      "title": "Özcan Deniz ifade verdi",
-      "link": "https://www.haberturk.com/magazin/ozcan-deniz-ifade-verdi-3915937",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T06:05:04Z"
-    },
-    {
-      "title": "Yapay zekâya göre en sağlıklı balık",
-      "link": "https://www.sozcu.com.tr/yapay-zekaya-gore-en-saglikli-balik-p364734",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:58:13Z"
-    },
-    {
-      "title": "Cazcı Aşıklar: Cem Hakko ile Nazlı Kayaaslan geceye damga vurdu",
-      "link": "https://www.sozcu.com.tr/cazci-asiklar-cem-hakko-ile-nazli-kayaaslan-geceye-damga-vurdu-p364732",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:57:40Z"
-    },
-    {
-      "title": "Euro, dolar karşısında eriyor! 2,5 yılın dibini gördü",
-      "link": "https://www.sozcu.com.tr/euro-dolar-karsisinda-eriyor-25-yilin-dibini-gordu-p364728",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:54:38Z"
-    },
-    {
-      "title": "Türkiye'nin en iyi üniversitesi belli oldu: Zirveyi iki üniversite birden paylaştı",
-      "link": "https://www.sozcu.com.tr/turkiye-nin-en-iyi-universitesi-belli-oldu-zirveyi-iki-universite-birden-paylasti-p364725",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:47:45Z"
-    },
-    {
-      "title": "Burnumuzun dibindeki ülke evini toplayıp taşınana 556 bin lira veriyor: Şartı da yok",
-      "link": "https://www.sozcu.com.tr/burnumuzun-dibindeki-ulke-evini-toplayip-tasinana-556-bin-lira-veriyor-sarti-da-yok-p364723",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:46:20Z"
-    },
-    {
-      "title": "15 yıllık evlilikte ihanet krizi: Ünlü iş insanının peşine özel dedektif takıldı",
-      "link": "https://www.sozcu.com.tr/15-yillik-evlilikte-ihanet-krizi-unlu-is-insaninin-pesine-ozel-dedektif-takildi-p364721",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:43:52Z"
-    },
-    {
-      "title": "Bu gece akaryakıta tarihin en büyük zammı geliyor",
-      "link": "https://www.sozcu.com.tr/bu-gece-akaryakita-tarihin-en-buyuk-zammi-geliyor-p364707",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:40:36Z"
-    },
-    {
-      "title": "Kâğıt fişler tarih oluyor",
-      "link": "https://www.sozcu.com.tr/kagit-fisler-tarih-oluyor-p364719",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:40:02Z"
-    },
-    {
-      "title": "AKP toplantısında teşkilat gerilimi: Nebati'yi sinirlendirdiler! Salon buz kesti",
-      "link": "https://www.sozcu.com.tr/akp-toplantisinda-teskilat-gerilimi-nebati-yi-sinirlendirdiler-salon-buz-kesti-p364713",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:37:46Z"
-    },
-    {
-      "title": "Ülkede gerilim artınca ATM’lerde para çekme limiti yarın değişiyor",
-      "link": "https://www.sozcu.com.tr/ulkede-gerilim-artinca-atm-lerde-para-cekme-limiti-yarin-degisiyor-p364718",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:36:44Z"
-    },
-    {
-      "title": "\"Bir erkek kadına böyle vurmaz\"",
-      "link": "https://www.haberturk.com/magazin/levent-inanir-dan-siddet-iddialarina-yanit-3915949",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:33:29Z"
-    },
-    {
-      "title": "Icardi futbola ara verdi, avcı oldu: 33 yaşında hayatı tamamen değişti",
-      "link": "https://www.sozcu.com.tr/icardi-futbola-ara-verdi-avci-oldu-33-yasinda-hayati-tamamen-degisti-p364714",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:30:35Z"
-    },
-    {
-      "title": "Fas'ın ilk kadın başbakanı",
-      "link": "https://www.haberturk.com/dunya/fas-in-ilk-kadin-basbakani-3916049",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:29:23Z"
-    },
-    {
-      "title": "Aşk itirafı",
-      "link": "https://www.haberturk.com/magazin/foto/deniz-can-aktas-hayatimda-bir-ask-var-3916008",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:21:27Z"
-    },
-    {
-      "title": "Türkiye Taşkömürü Kurumu, 61 daimi işçi alacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-taskomuru-kurumu-61-daimi-isci-alacak-958599.html",
+      "title": "Tarihi tren Venice Simplon Orient Express Türkiye'de",
+      "link": "https://www.trthaber.com/haber/turkiye/tarihi-tren-venice-simplon-orient-express-turkiyede-958640.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T05:18:00Z"
+      "published_at": "2026-09-30T10:22:00Z"
     },
     {
-      "title": "Astor şirket sahibi Feridun Geçgel’in pasaportuna el konuldu",
-      "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-astor-sirket-sahibi-feridun-gecgelin-pasaportuna-el-konuldu-3916054",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:17:09Z"
-    },
-    {
-      "title": "Hep beraber istifa edecekler",
-      "link": "https://www.sozcu.com.tr/hep-beraber-istifa-edecekler-p364708",
+      "title": "İstanbul'da okul önünde liseli kızlardan kan donduran görüntüler",
+      "link": "https://www.sozcu.com.tr/istanbul-da-okul-onunde-liseli-kizlardan-kan-donduran-goruntuler-p364854",
       "source": "Sözcü",
-      "published_at": "2026-09-30T05:15:30Z"
-    },
-    {
-      "title": "\"Hem yönetip hem de oynayacağım\"",
-      "link": "https://www.haberturk.com/magazin/levent-ozdilek-bir-muzikal-yaziyorum-3916053",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:14:07Z"
-    },
-    {
-      "title": "JASAT, 30 yıllık cinayeti aydınlattı",
-      "link": "https://www.trthaber.com/haber/turkiye/jasat-30-yillik-cinayeti-aydinlatti-958598.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T05:07:00Z"
-    },
-    {
-      "title": "İmaj değiştirdi",
-      "link": "https://www.haberturk.com/magazin/foto/burcu-esmersoy-dan-imaj-degisikligi-3916051",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T05:03:51Z"
-    },
-    {
-      "title": "İktidar 'darbeci' dediği Sisi'yi 'Tolga' ile koruyacak",
-      "link": "https://www.sozcu.com.tr/iktidar-darbeci-dedigi-sisi-yi-tolga-ile-koruyacak-p364706",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T05:03:48Z"
-    },
-    {
-      "title": "Tokyo'da rekor yağış: 35 gün aralıksız yağmur yağdı",
-      "link": "https://www.trthaber.com/haber/dunya/tokyoda-rekor-yagis-35-gun-araliksiz-yagmur-yagdi-958597.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T05:01:00Z"
-    },
-    {
-      "title": "Bu akşam kimin maçı var?",
-      "link": "https://www.haberturk.com/bilgi/foto/kadinlar-sahada-bu-aksam-kimin-maci-var-30-eylul-mac-programi-kadinlar-uefa-sampiyonlar-ligi-ve-euroleague-heyecani-3916046",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:59:36Z"
-    },
-    {
-      "title": "Ukrayna'da her bir füze alarmı saatte 45 milyon dolara mal oluyor",
-      "link": "https://www.trthaber.com/haber/dunya/ukraynada-her-bir-fuze-alarmi-saatte-45-milyon-dolara-mal-oluyor-958595.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T04:57:00Z"
-    },
-    {
-      "title": "TEKNOFEST Güneydoğu heyecanı başlıyor",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydogu-heyecani-basliyor-958596.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T04:54:00Z"
-    },
-    {
-      "title": "Silahı olanlara 7 ilde 'uyarı mesajı' gitmeye başladı",
-      "link": "https://www.sozcu.com.tr/silahi-olanlara-7-ilde-uyari-mesaji-gitmeye-basladi-p364705",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:53:41Z"
-    },
-    {
-      "title": "'Tık' uğruna 'öldürdüler'",
-      "link": "https://www.haberturk.com/kesfet/yaptirim-gerektiren-suc-haline-donustu-3915851",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:49:06Z"
-    },
-    {
-      "title": "Gemi faciasında iki naaşın kimliği belirlendi, bir naaşa daha ulaşıldı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-gemi-faciasinda-iki-naasin-kimligi-belirlendi-bir-naasa-daha-ulasildi-3915983",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:43:11Z"
-    },
-    {
-      "title": "İş insanı Cengiz Avcı'nın mal varlığına el konuldu; hakkında yakalama kararı çıkarıldı",
-      "link": "https://www.sozcu.com.tr/cengiz-avci-hakkinda-yakalama-karari-p364647",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:42:26Z"
-    },
-    {
-      "title": "\"Maalesef ilacı yok\"",
-      "link": "https://www.haberturk.com/magazin/buse-terim-in-kizi-nil-koronaviruse-yakalandi-3915962",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:41:11Z"
-    },
-    {
-      "title": "Sağanak Marmara'yı vurdu! Dereler taştı, yollar çöktü; okul, cami ve evler sular altında kaldı",
-      "link": "https://www.sozcu.com.tr/marmara-da-saganak-29-eylul-2026-p364626",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:40:13Z"
-    },
-    {
-      "title": "Turbun küçüğü heybeden çıktı! Kim bu Hayrettin Koç?",
-      "link": "https://www.sozcu.com.tr/turbun-kucugu-heybeden-cikti-kim-bu-hayrettin-koc-p364704",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:38:37Z"
-    },
-    {
-      "title": "Fon soruşturmasında denetim süreci başladı",
-      "link": "https://www.haberturk.com/ekonomi/ddk-fon-islemlerine-iliskin-inceleme-ve-denetim-sureci-baslatti-3916047",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:38:22Z"
-    },
-    {
-      "title": "Erdoğan talimat verdi, tüm görevlerinden ayrıldı",
-      "link": "https://www.sozcu.com.tr/salih-tanrikulu-borsa-istanbul-daki-gorevinden-ayrildi-p364648",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:37:48Z"
-    },
-    {
-      "title": "Palu Belediye Başkanı AKP’ye geçti... Eski sözleri olay oldu",
-      "link": "https://www.sozcu.com.tr/belediye-baskani-akp-ye-gecti-soylediklerini-yedi-yuttu-p364701",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:37:40Z"
-    },
-    {
-      "title": "Fon soygununda Finlandiya'daki abla kuşkusu",
-      "link": "https://www.sozcu.com.tr/fon-soygununda-finlandiya-daki-abla-kuskusu-p364703",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:33:49Z"
-    },
-    {
-      "title": "Türkiye'ye vize muafiyeti resmen onaylandı: Kimlerin yararlanacağı belli oldu",
-      "link": "https://www.sozcu.com.tr/turkiye-ye-vize-muafiyeti-resmen-onaylandi-kimlerin-yararlanacagi-belli-oldu-p364702",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:31:31Z"
-    },
-    {
-      "title": "Katar'dan Netanyahu'ya: Savaş suçlusu",
-      "link": "https://www.haberturk.com/dunya/katar-basbakani-al-sani-netanyahu-bir-savas-suclusudur-3916044",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:26:39Z"
-    },
-    {
-      "title": "O iddialara yanıt",
-      "link": "https://www.haberturk.com/magazin/sumeyye-aydogan-dan-luks-otomobil-iddialarina-yanit-3915980",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:25:38Z"
-    },
-    {
-      "title": "70 yıl sonra ormana yeniden getirilen kurtlar mucizeyi de beraberinde getirdi",
-      "link": "https://www.sozcu.com.tr/70-yil-sonra-ormana-yeniden-getirilen-kurtlar-mucizeyi-de-beraberinde-getirdi-p364700",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:23:21Z"
-    },
-    {
-      "title": "İspanya'da Senato Fransa ile dostluk anlaşmasını reddetti",
-      "link": "https://www.trthaber.com/haber/dunya/ispanyada-senato-fransa-ile-dostluk-anlasmasini-reddetti-958594.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T04:20:00Z"
-    },
-    {
-      "title": "Süresiz nafaka kararı iptal edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-suresiz-nafaka-karari-iptal-edildi-3916018",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:19:33Z"
-    },
-    {
-      "title": "Trump: İran sonunda pes edecek",
-      "link": "https://www.haberturk.com/dunya/abd-baskani-trump-iran-in-sonunda-pes-edecegini-savundu-3916040",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:18:19Z"
-    },
-    {
-      "title": "Vurguncunun malları",
-      "link": "https://www.sozcu.com.tr/vurguncunun-mallari-p364696",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T04:15:26Z"
-    },
-    {
-      "title": "Suudi Arabistan-Türkiye vize muafiyeti onaylandı",
-      "link": "https://www.haberturk.com/dunya/suudi-arabistan-bakanlar-kurulu-turkiye-ile-vize-muafiyeti-anlasmasini-onayladi-3916042",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:09:56Z"
-    },
-    {
-      "title": "Bir ilacın kalori yakımını artırdığı belirlendi ancak bilim insanları nedenini çözemedi",
-      "link": "https://www.trthaber.com/haber/dunya/bir-ilacin-kalori-yakimini-artirdigi-belirlendi-ancak-bilim-insanlari-nedenini-cozemedi-958593.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T04:09:00Z"
-    },
-    {
-      "title": "İşe başlatmama tazminatında flaş karar",
-      "link": "https://www.haberturk.com/ekonomi/ise-baslatmama-tazminatinda-flas-karar-3915954",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:08:48Z"
-    },
-    {
-      "title": "20 il için sarı kod! Sağanak yağmur ve fırtına bekleniyor",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-20-il-icin-sari-kod-saganak-yagmur-ve-firtina-bekleniyor-30-eylul-hava-durumu-3916041",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T04:08:16Z"
-    },
-    {
-      "title": "Serin ve yağışlı hava etkili oluyor: 20 il için sarı kodlu uyarı",
-      "link": "https://www.trthaber.com/haber/turkiye/serin-ve-yagisli-hava-etkili-oluyor-20-il-icin-sari-kodlu-uyari-958592.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T04:04:00Z"
-    },
-    {
-      "title": "Anthropic'in halka arz dosyası sızdırıldı: İnsanlık için varoluşsal risk oluşturuyor",
-      "link": "https://www.trthaber.com/haber/dunya/anthropicin-halka-arz-dosyasi-sizdirildi-insanlik-icin-varolussal-risk-olusturuyor-958591.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T03:58:00Z"
-    },
-    {
-      "title": "Antarktika'da kriz: Buz olması gereken yerde, Fransa büyüklüğünde bir okyanus alanı var",
-      "link": "https://www.trthaber.com/haber/dunya/antarktikada-kriz-buz-olmasi-gereken-yerde-fransa-buyuklugunde-bir-okyanus-alani-var-958590.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T03:50:00Z"
-    },
-    {
-      "title": "İngiltere donanmasında skandal: 143 milyon sterlinlik gemi stajyere emanet",
-      "link": "https://www.trthaber.com/haber/dunya/ingiltere-donanmasinda-skandal-143-milyon-sterlinlik-gemi-stajyere-emanet-958589.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T03:45:00Z"
-    },
-    {
-      "title": "İrlanda, İsrail ile ikinci kez oynama konusunda kararsız: Hepimiz rahatsızız",
-      "link": "https://www.trthaber.com/haber/dunya/irlanda-israil-ile-ikinci-kez-oynama-konusunda-kararsiz-hepimiz-rahatsiziz-958588.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T03:42:00Z"
+      "published_at": "2026-09-30T10:20:11Z"
     },
     {
       "title": "Yeni yasama yılı yarın başlıyor",
-      "link": "https://www.trthaber.com/haber/gundem/yeni-yasama-yili-yarin-basliyor-958587.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T03:42:00Z"
+      "link": "https://www.haberturk.com/gundem/son-dakika-tbmm-de-yeni-yasama-yili-yarin-basliyor-3916165",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:18:17Z"
     },
     {
-      "title": "OpenAI güvenlik endişeleri nedeniyle ertelediği yeni yapay zeka asistanını tanıttı",
-      "link": "https://www.trthaber.com/haber/dunya/openai-guvenlik-endiseleri-nedeniyle-erteledigi-yeni-yapay-zeka-asistanini-tanitti-958586.html",
+      "title": "Hakem soruşturmasında VAR odası incelendi",
+      "link": "https://www.trthaber.com/haber/gundem/hakem-sorusturmasinda-var-odasi-incelendi-958639.html",
       "source": "TRT Haber",
-      "published_at": "2026-09-30T03:39:00Z"
+      "published_at": "2026-09-30T10:18:00Z"
+    },
+    {
+      "title": "2 çocuk annesini iş yerinde öldürdü! \"Büyü\" cinayeti",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-2-cocuk-annesini-is-yerinde-oldurdu-buyu-cinayeti-kutahya-haberleri-3916045",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T10:14:38Z"
     }
   ]
 }
