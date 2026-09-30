@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:40:12.981738Z",
+  "generated_at": "2026-09-30T06:45:17.439410Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Dubai-Tel Aviv uçağı kaçırılma kodu verdi",
+      "link": "https://www.sozcu.com.tr/dubai-tel-aviv-ucagi-kacirilma-kodu-verdi-p364749",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T06:44:06Z"
+    },
     {
       "title": "Suçüstü yakalandı, 2.2 milyarı yatırdı",
       "link": "https://www.sozcu.com.tr/sucustu-yakalandi-2-2-milyari-yatirdi-p364689",
@@ -100,6 +106,12 @@
       "link": "https://www.sozcu.com.tr/stellantis-2-fabrikasinda-uretimi-durduruyor-p364738",
       "source": "Sözcü",
       "published_at": "2026-09-30T06:14:48Z"
+    },
+    {
+      "title": "Ülkede her isteyen araba alamıyor: Satın alma hakkı otomobilden daha pahalı",
+      "link": "https://www.sozcu.com.tr/ulkede-her-isteyen-araba-alamiyor-satin-alma-hakki-otomobilden-daha-pahali-p364739",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T06:14:24Z"
     },
     {
       "title": "Dünya nüfusunun yaklaşık yüzde 40'ı bu yıl tehlikeli ozon kirliliğine maruz kaldı",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/cengiz-avci-hakkinda-yakalama-karari-p364647",
       "source": "Sözcü",
       "published_at": "2026-09-29T21:03:39Z"
-    },
-    {
-      "title": "Kocaeli'de toprak kayması: 2 bina boşaltıldı",
-      "link": "https://www.trthaber.com/haber/turkiye/kocaelide-toprak-kaymasi-2-bina-bosaltildi-958577.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-29T21:02:00Z"
-    },
-    {
-      "title": "Adalı'dan HT Spor'da MHK ve hakem sözleri!",
-      "link": "https://www.haberturk.com/spor/serdal-adali-dan-ht-spor-da-mhk-ve-hakem-sozleri-adalet-istiyoruz-ayricalik-istemiyoruz-3916003",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T20:55:35Z"
     }
   ]
 }
