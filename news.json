@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:14:07.341163Z",
+  "generated_at": "2026-09-30T00:44:25.212847Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "ABD'den Küba'ya yeni yaptırımlar",
+      "link": "https://www.haberturk.com/dunya/abd-den-kuba-ya-yeni-yaptirimlar-3916036",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T00:40:04Z"
+    },
     {
       "title": "Gazze'de İsrail saldırılarında 8 Filistinli öldü",
       "link": "https://www.haberturk.com/dunya/gazze-de-israil-saldirilarinda-8-filistinli-oldu-3916035",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/devlet-bahceli-aciklamalar-29-eylul-2026-p364607",
       "source": "Sözcü",
       "published_at": "2026-09-29T16:14:04Z"
-    },
-    {
-      "title": "Gökçeada feribot seferlerine hava engeli: Saatler belli oldu",
-      "link": "https://www.sozcu.com.tr/gokceada-feribot-seferlerine-hava-engeli-saatler-belli-oldu-p364608",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T16:13:40Z"
     }
   ]
 }
