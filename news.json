@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:40:57.024442Z",
+  "generated_at": "2026-09-30T13:46:00.138174Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'u terk edip Paris'e yerleşmişti: İlk pozları olay oldu",
+      "link": "https://www.sozcu.com.tr/istanbul-u-terk-eden-tuba-unsal-in-paris-pozlari-dikkat-cekti-p364905",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:41:11Z"
+    },
     {
       "title": "'Cumhurbaşkanına hakaret'ten gözaltına alınan Dilan Polat adli kontrol şartıyla serbest bırakıldı",
       "link": "https://www.sozcu.com.tr/dilan-polat-gozaltina-alindi-p364846",
@@ -76,6 +82,12 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-bircok-ile-saganak-uyarisi-3916219",
       "source": "Habertürk",
       "published_at": "2026-09-30T13:28:04Z"
+    },
+    {
+      "title": "Almanya'da kamu çalışanlarına saldıranlara ağır ceza geliyor",
+      "link": "https://www.trthaber.com/haber/dunya/almanyada-kamu-calisanlarina-saldiranlara-agir-ceza-geliyor-958667.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T13:27:00Z"
     },
     {
       "title": "TEKNOFEST coşkusu Şanlıurfa'da",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-buca-belediyesi-ne-150-milyon-tl-lik-haciz-geldi-izmir-haberleri-3916162",
       "source": "Habertürk",
       "published_at": "2026-09-30T10:40:58Z"
-    },
-    {
-      "title": "Hasan Şaş ve Yağız Sabuncuoğlu’nun sonucu belli oldu",
-      "link": "https://www.sozcu.com.tr/hasan-sas-ve-yagiz-sabuncuoglu-nun-sonucu-belli-oldu-p364796",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T10:33:34Z"
-    },
-    {
-      "title": "Özel: Devlette tuz kokmuştur",
-      "link": "https://www.haberturk.com/son-dakika-ozgur-ozel-devlette-tuz-kokmustur-3916167",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T10:24:20Z"
     }
   ]
 }
