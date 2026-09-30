@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:51:03.284190Z",
+  "generated_at": "2026-09-30T13:56:06.450266Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Almanya’da enflasyon son 3 yılın en yüksek seviyesinde",
+      "link": "https://www.haberturk.com/ekonomi/almanyada-enflasyon-eylulde-yuzde-3-3-ile-son-3-yilin-en-yuksek-seviyesine-ulasti-3916222",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:49:13Z"
+    },
+    {
       "title": "O anlar ortaya çıktı: Pilotların birbirini bıçakladığı uçaktan dehşet görüntüleri",
       "link": "https://www.sozcu.com.tr/dubai-tel-aviv-ucagi-kacirilma-kodu-verdi-p364749",
       "source": "Sözcü",
@@ -52,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/manchester-city-ye-ihrac-yolu-spor-bakani-acikladi-p364912",
       "source": "Sözcü",
       "published_at": "2026-09-30T13:47:34Z"
+    },
+    {
+      "title": "Dubai-Tel Aviv uçağında kaçırılma kodu verildi",
+      "link": "https://www.haberturk.com/dunya/son-dakika-dubai-tel-aviv-ucaginda-kacirilma-kodu-verildi-3916067",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:46:37Z"
     },
     {
       "title": "Gala buluşması",
@@ -76,12 +88,6 @@
       "link": "https://www.sozcu.com.tr/dilan-polat-gozaltina-alindi-p364846",
       "source": "Sözcü",
       "published_at": "2026-09-30T13:37:42Z"
-    },
-    {
-      "title": "Dubai-Tel Aviv uçağında kaçırılma kodu verildi",
-      "link": "https://www.haberturk.com/dunya/son-dakika-dubai-tel-aviv-ucaginda-kacirilma-kodu-verildi-3916067",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T13:36:23Z"
     },
     {
       "title": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda ödüller verildi",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/geleneksel-turk-okculugu-6-yilda-37-binin-uzerinde-lisansli-sporcuya-ulasti-958645.html",
       "source": "TRT Haber",
       "published_at": "2026-09-30T10:46:00Z"
-    },
-    {
-      "title": "TEKNOFEST Güneydoğu'da güvenlik taraması yerli ve milli KARAGÖZ'e emanet",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydoguda-guvenlik-taramasi-yerli-ve-milli-karagoze-emanet-958642.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T10:45:00Z"
     }
   ]
 }
