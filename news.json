@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:01:56.267754Z",
+  "generated_at": "2026-09-30T23:27:06.156842Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Sinop'ta tekne alabora oldu: 1 polis öldü, 1 polis kayıp",
+      "link": "https://www.haberturk.com/gundem/sinop-ta-tekne-alabora-oldu-1-polis-oldu-1-polis-kayip-3916327",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T23:21:52Z"
+    },
     {
       "title": "Dizel ihracat yasağını değerlendiriyor",
       "link": "https://www.haberturk.com/dunya/dizel-ihracat-yasagini-degerlendiriyor-3916326",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/macron-dan-ingiltere-ye-cagri-3916253",
       "source": "Habertürk",
       "published_at": "2026-09-30T15:40:29Z"
-    },
-    {
-      "title": "Bartın Irmağı'nda \"köpüklenme\" incelemesi",
-      "link": "https://www.haberturk.com/gundem/bartin-irmagi-nda-kopuklenme-incelemesi-3916250",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T15:39:23Z"
     }
   ]
 }
