@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:35:53.672570Z",
+  "generated_at": "2026-09-30T13:40:57.024442Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "'Cumhurbaşkanına hakaret'ten gözaltına alınan Dilan Polat adli kontrol şartıyla serbest bırakıldı",
+      "link": "https://www.sozcu.com.tr/dilan-polat-gozaltina-alindi-p364846",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T13:37:42Z"
+    },
+    {
+      "title": "Dubai-Tel Aviv uçağında kaçırılma kodu verildi",
+      "link": "https://www.haberturk.com/dunya/son-dakika-dubai-tel-aviv-ucaginda-kacirilma-kodu-verildi-3916067",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:36:23Z"
+    },
+    {
+      "title": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda ödüller verildi",
+      "link": "https://www.haberturk.com/ekonomi/5g-ve-yapay-zek-ile-akilli-yol-guvenligi-yarismasinda-oduller-verildi-3916221",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:35:25Z"
+    },
+    {
       "title": "Portekiz'de Ronaldo krizi! Federasyon başkanı planları iptal edip kampa uçtu",
       "link": "https://www.sozcu.com.tr/portekizde-ronaldo-krizi-federasyon-baskani-planlari-iptal-edip-kampa-uctu-p364843",
       "source": "Sözcü",
@@ -52,6 +70,12 @@
       "link": "https://www.sozcu.com.tr/toprakta-normal-olmayan-belirtilere-rastlandi-dunyanin-gozu-agri-dagi-ndaki-nuh-un-gemisi-kazisinda-p364855",
       "source": "Sözcü",
       "published_at": "2026-09-30T13:33:05Z"
+    },
+    {
+      "title": "Birçok kente sağanak uyarısı!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bircok-ile-saganak-uyarisi-3916219",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T13:28:04Z"
     },
     {
       "title": "TEKNOFEST coşkusu Şanlıurfa'da",
@@ -244,12 +268,6 @@
       "link": "https://www.sozcu.com.tr/chp-li-belediyeye-haciz-soku-icra-memurlari-polisle-birlikte-kapiya-dayandi-p364899",
       "source": "Sözcü",
       "published_at": "2026-09-30T12:43:29Z"
-    },
-    {
-      "title": "Dubai-Tel Aviv uçağında kaçırılma kodu verildi",
-      "link": "https://www.haberturk.com/dunya/son-dakika-dubai-tel-aviv-ucaginda-kacirilma-kodu-verildi-3916067",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T12:43:21Z"
     },
     {
       "title": "Piyasanın beklediği ABD verisi açıklandı: Altın ve gümüş yükselişe geçti",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/son-dakika-ozgur-ozel-devlette-tuz-kokmustur-3916167",
       "source": "Habertürk",
       "published_at": "2026-09-30T10:24:20Z"
-    },
-    {
-      "title": "Türkiye, soykırımcı İsrail'in saldırılarında yaralanan 6 yaşındaki Sıla'nın umudu oldu",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-soykirimci-israilin-saldirilarinda-yaralanan-6-yasindaki-silanin-umudu-oldu-958641.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T10:24:00Z"
-    },
-    {
-      "title": "Fransadan şekerli gıdalara vergi",
-      "link": "https://www.trthaber.com/haber/dunya/fransadan-sekerli-gidalara-vergi-958638.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T10:23:00Z"
-    },
-    {
-      "title": "Tarihi tren Venice Simplon Orient Express Türkiye'de",
-      "link": "https://www.trthaber.com/haber/turkiye/tarihi-tren-venice-simplon-orient-express-turkiyede-958640.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T10:22:00Z"
     }
   ]
 }
