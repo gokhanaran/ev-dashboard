@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:45:17.439410Z",
+  "generated_at": "2026-09-30T06:50:21.490999Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,31 @@
       "title": "Dubai-Tel Aviv uçağı kaçırılma kodu verdi",
       "link": "https://www.sozcu.com.tr/dubai-tel-aviv-ucagi-kacirilma-kodu-verdi-p364749",
       "source": "Sözcü",
-      "published_at": "2026-09-30T06:44:06Z"
+      "published_at": "2026-09-30T06:46:06Z"
+    },
+    {
+      "title": "\"Çanta için sıraya girmem\"",
+      "link": "https://www.haberturk.com/magazin/elif-buse-dogan-canta-icin-siraya-girmem-3916064",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T06:41:47Z"
+    },
+    {
+      "title": "Brent petrolün varili 95,80 dolardan işlem görüyor",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9580-dolardan-islem-goruyor-958602.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T06:41:00Z"
+    },
+    {
+      "title": "\"8 Mart\"ta paylaşımının ardından katletmişti! Cani için karar açıklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mervenur-yararlik-8-martta-paylasim-yaptiktan-sonra-oldurulmustu-cani-icin-karar-aciklandi-3916058",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T06:38:41Z"
+    },
+    {
+      "title": "İlkay Gündoğan, Mevlüde Genç Madalyası’nı aldı!",
+      "link": "https://www.haberturk.com/spor/ilkay-gundogan-mevlude-genc-madalyasini-aldi-3916062",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T06:38:30Z"
     },
     {
       "title": "Suçüstü yakalandı, 2.2 milyarı yatırdı",
@@ -64,6 +88,12 @@
       "link": "https://www.sozcu.com.tr/turkiye-nin-dev-santrali-iflasini-istedi-p364746",
       "source": "Sözcü",
       "published_at": "2026-09-30T06:30:31Z"
+    },
+    {
+      "title": "Altın güne yükselişle başladı",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-958603.html",
+      "source": "TRT Haber",
+      "published_at": "2026-09-30T06:29:00Z"
     },
     {
       "title": "Osmanlı mirası mücevherleri çalmıştı! Yatılı yardımcı hakkında karar!",
@@ -724,36 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/ddk-fon-islemlerine-iliskin-inceleme-ve-denetim-sureci-baslatti-958578.html",
       "source": "TRT Haber",
       "published_at": "2026-09-29T21:14:00Z"
-    },
-    {
-      "title": "İspanya, Hırvatistan'ı farklı geçti!",
-      "link": "https://www.haberturk.com/spor/ispanya-uluslar-ligi-nde-hirvatistan-i-farkli-gecti-iste-gecenin-sonuclari-3916015",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T21:07:59Z"
-    },
-    {
-      "title": "Yamal şov yaptı! İspanya, Hırvatları 4 golle geçti",
-      "link": "https://www.sozcu.com.tr/yamal-sov-yapti-ispanya-hirvatlari-4-golle-gecti-p364670",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T21:07:58Z"
-    },
-    {
-      "title": "Ataşehir ve İstanbul'da dengeleri değiştirecek transfer: 6 CHP'li meclis üyesi AKP'ye geçti",
-      "link": "https://www.sozcu.com.tr/atasehir-belediyesi-chp-li-meclis-uyeleri-akp-ye-gecti-p364665",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T21:06:29Z"
-    },
-    {
-      "title": "\"Önemli bir galibiyet aldık\"",
-      "link": "https://www.haberturk.com/spor/pablo-laso-onemli-bir-galibiyet-aldik-3916016",
-      "source": "Habertürk",
-      "published_at": "2026-09-29T21:06:03Z"
-    },
-    {
-      "title": "İş insanı Cengiz Avcı'nın mal varlığına el konuldu; hakkında yakalama kararı",
-      "link": "https://www.sozcu.com.tr/cengiz-avci-hakkinda-yakalama-karari-p364647",
-      "source": "Sözcü",
-      "published_at": "2026-09-29T21:03:39Z"
     }
   ]
 }
