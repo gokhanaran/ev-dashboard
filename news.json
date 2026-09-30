@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:36:04.950683Z",
+  "generated_at": "2026-09-30T19:41:09.241563Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "Dev boru hattı için düğmeye basıldı: 1.300 kilometre uzanacak, 54 milyar dolara mal olacak",
+      "link": "https://www.sozcu.com.tr/dev-boru-hatti-icin-dugmeye-basildi-1-300-kilometre-uzanacak-54-milyar-dolara-mal-olacak-p364972",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T19:38:53Z"
+    },
+    {
+      "title": "Komşuda patlama: 3 elektrik santrali devre dışı kaldı",
+      "link": "https://www.sozcu.com.tr/komsuda-patlama-3-elektrik-santrali-devre-disi-kaldi-p364971",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T19:36:27Z"
+    },
+    {
+      "title": "TikTok kapanacak mı?",
+      "link": "https://www.haberturk.com/bilgi/foto/tiktok-kapandi-mi-kapatilacak-mi-calisiyor-mu-turkiyede-tiktok-kapaniyor-mu-3916302",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T19:34:58Z"
+    },
+    {
+      "title": "Ronaldo krizi: Kampı terk etti!",
+      "link": "https://www.haberturk.com/spor/foto/portekiz-de-cristiano-ronaldo-krizi-kampi-terk-etti-3916298",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T19:33:13Z"
+    },
+    {
       "title": "TESK’te 19 yıllık dönem sona erdi",
       "link": "https://www.haberturk.com/ekonomi/tesk-genel-kurulunda-mehmet-yiginer-yeni-baskan-secildi-3916296",
       "source": "Habertürk",
@@ -46,12 +70,6 @@
       "link": "https://www.haberturk.com/spor/samsunspor-baskani-yuksel-yildirim-hedefimiz-5-buyuk-olmak-3916269",
       "source": "Habertürk",
       "published_at": "2026-09-30T19:28:41Z"
-    },
-    {
-      "title": "Ronaldo krizi: Kampı terk etti!",
-      "link": "https://www.haberturk.com/spor/foto/portekiz-de-cristiano-ronaldo-krizi-kampi-terk-etti-3916298",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T19:23:17Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan: Filistinli kardeşlerimizin hakkını savunmaya devam edeceğiz",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/chp-kadikoy-sariyer-ve-sancaktepe-belediye-baskanlarini-ihrac-etti-p364916",
       "source": "Sözcü",
       "published_at": "2026-09-30T14:04:02Z"
-    },
-    {
-      "title": "ABD basını yazdı: Borsada 100 milyar dolarlık kayıp",
-      "link": "https://www.sozcu.com.tr/abd-li-basini-yazdi-borsada-100-milyar-dolarlik-kayip-p364917",
-      "source": "Sözcü",
-      "published_at": "2026-09-30T14:00:51Z"
-    },
-    {
-      "title": "Ağrı Dağı'na mevsimin ilk karı yağdı",
-      "link": "https://www.haberturk.com/gundem/agri-dagi-na-mevsimin-ilk-kari-yagdi-3916226",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T14:00:17Z"
-    },
-    {
-      "title": "Rusya dizel ihracat yasağını ekim sonuna kadar uzattı",
-      "link": "https://www.trthaber.com/haber/dunya/rusya-dizel-ihracat-yasagini-ekim-sonuna-kadar-uzatti-958669.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T13:59:00Z"
     }
   ]
 }
