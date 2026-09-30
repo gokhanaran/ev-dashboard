@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:31:01.060355Z",
+  "generated_at": "2026-09-30T19:36:04.950683Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "TESK’te 19 yıllık dönem sona erdi",
+      "link": "https://www.haberturk.com/ekonomi/tesk-genel-kurulunda-mehmet-yiginer-yeni-baskan-secildi-3916296",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T19:29:58Z"
+    },
+    {
+      "title": "\"Hedefimiz 5. büyük olmak!\"",
+      "link": "https://www.haberturk.com/spor/samsunspor-baskani-yuksel-yildirim-hedefimiz-5-buyuk-olmak-3916269",
+      "source": "Habertürk",
+      "published_at": "2026-09-30T19:28:41Z"
+    },
+    {
       "title": "Ronaldo krizi: Kampı terk etti!",
       "link": "https://www.haberturk.com/spor/foto/portekiz-de-cristiano-ronaldo-krizi-kampi-terk-etti-3916298",
       "source": "Habertürk",
@@ -46,6 +58,12 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-filistinli-kardeslerimizin-hakkini-savunmaya-devam-edecegiz-958695.html",
       "source": "TRT Haber",
       "published_at": "2026-09-30T19:23:00Z"
+    },
+    {
+      "title": "Fon soruşturmasında şarkıcı Nil Özalp gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-sarkici-nil-ozalp-gozaltina-alindi-p364970",
+      "source": "Sözcü",
+      "published_at": "2026-09-30T19:22:38Z"
     },
     {
       "title": "Portekiz'de Ronaldo krizi!",
@@ -142,12 +160,6 @@
       "link": "https://www.haberturk.com/spor/bordeaux-1-euro-ya-satildi-3916291",
       "source": "Habertürk",
       "published_at": "2026-09-30T18:48:00Z"
-    },
-    {
-      "title": "\"Hedefimiz 5. büyük olmak!\"",
-      "link": "https://www.haberturk.com/spor/samsunspor-baskani-yuksel-yildirim-hedefimiz-5-buyuk-olmak-3916269",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T18:44:55Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan, Cemil Tugay'ı kabul etti",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/rusya-dizel-ihracat-yasagini-ekim-sonuna-kadar-uzatti-958669.html",
       "source": "TRT Haber",
       "published_at": "2026-09-30T13:59:00Z"
-    },
-    {
-      "title": "\"Sezonu iyi bir yerde bitireceğiz\"",
-      "link": "https://www.haberturk.com/spor/mustafa-dalci-insallah-super-lig-de-sezonu-iyi-bir-yerde-bitirecegiz-3916223",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T13:54:23Z"
-    },
-    {
-      "title": "Almanya’da enflasyon son 3 yılın en yüksek seviyesinde",
-      "link": "https://www.haberturk.com/ekonomi/almanyada-enflasyon-eylulde-yuzde-3-3-ile-son-3-yilin-en-yuksek-seviyesine-ulasti-3916222",
-      "source": "Habertürk",
-      "published_at": "2026-09-30T13:49:13Z"
     }
   ]
 }
