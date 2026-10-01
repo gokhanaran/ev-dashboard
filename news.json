@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:58:28.766512Z",
+  "generated_at": "2026-10-01T09:03:32.882232Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,18 @@
       "link": "https://www.sozcu.com.tr/a-milli-takim-da-sakatlik-soku-antrenmana-katilmadi-p365154",
       "source": "Sözcü",
       "published_at": "2026-10-01T08:58:06Z"
+    },
+    {
+      "title": "Polisten kaçtı, kaza yaptı",
+      "link": "https://www.haberturk.com/gundem/polisten-kacti-kaza-yapti-3916404",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T08:56:48Z"
+    },
+    {
+      "title": "Milli Takım'a kötü haber!",
+      "link": "https://www.haberturk.com/spor/a-milli-takim-da-can-uzun-antrenmana-cikamadi-3916425",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T08:55:00Z"
     },
     {
       "title": "Akıllı gözlüğe karşı kadınlara tavsiye",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/sevilen-sarkici-4-gun-once-yogun-bakimdan-cikti-nakil-bekliyor-p365069",
       "source": "Sözcü",
       "published_at": "2026-10-01T06:38:16Z"
-    },
-    {
-      "title": "Güllü'nün kızı hakim karşısında",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-gullu-nun-kizi-tugyan-ulkem-gulter-hakim-karsisinda-gullu-nun-davasi-ne-oldu-3916337",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T06:36:40Z"
-    },
-    {
-      "title": "PFDK'ya sevk edilen kulüp başkanı yaptığı kuponu paylaştı",
-      "link": "https://www.sozcu.com.tr/pfdkya-sevk-edilen-kulup-baskani-yaptigi-kuponu-paylasti-p365062",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:35:55Z"
     }
   ]
 }
