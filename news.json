@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:52:46.435141Z",
+  "generated_at": "2026-10-01T21:57:49.492834Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "LGY'ye dev zam: Fiyatlar 40 TL'yi aştı",
+      "link": "https://www.sozcu.com.tr/lgyye-dev-zam-fiyatlar-40-tlyi-asti-p365360",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T21:54:20Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan Camiler ve Din Görevlileri Haftası mesajı",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-camiler-ve-din-gorevlileri-haftasi-mesaji-3916607",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T21:51:49Z"
+    },
     {
       "title": "Güllü'nün kızı Tuğyan hakkında ağırlaştırılmış müebbet hapis cezası istendi",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-gullu-nun-kizi-tugyan-ulkem-gulter-hakim-karsisinda-gullu-nun-davasi-ne-oldu-3916337",
@@ -118,12 +130,6 @@
       "link": "https://www.sozcu.com.tr/trafikte-saskina-ceviren-goruntu-p365332",
       "source": "Sözcü",
       "published_at": "2026-10-01T21:10:36Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan Camiler ve Din Görevlileri Haftası mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-camiler-ve-din-gorevlileri-haftasi-mesaji-958832.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T21:08:00Z"
     },
     {
       "title": "Son dakika... Bolu Belediyesi'ne yönelik soruşturmada 5 tutuklama",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-izmir-bayrakli-belediye-baskani-chp-den-istifa-etti-p365277",
       "source": "Sözcü",
       "published_at": "2026-10-01T15:29:50Z"
-    },
-    {
-      "title": "İstanbul'daki tarihi çeşme restore edildi",
-      "link": "https://www.haberturk.com/gundem/istanbul-daki-tarihi-cesme-restore-edildi-3916543",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T15:28:02Z"
     }
   ]
 }
