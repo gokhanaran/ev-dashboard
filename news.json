@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:38:09.799243Z",
+  "generated_at": "2026-10-01T08:43:14.919866Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Soykırımcı İsrail'in ateşkese rağmen Gazze'ye son 24 saatte düzenlediği saldırılarda 8 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-ateskese-ragmen-gazzeye-son-24-saatte-duzenledigi-saldirilarda-8-kisi-hayatini-kaybetti-958763.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-01T08:40:00Z"
+    },
+    {
+      "title": "İzmir'de fabrikada patlama! 3'ü ağır, 7 işçi yaralı",
+      "link": "https://www.sozcu.com.tr/fabrikada-patlama-3-u-agir-7-isci-yarali-p365141",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T08:38:48Z"
+    },
+    {
+      "title": "ABD borsalarında enflasyon endişesi",
+      "link": "https://www.sozcu.com.tr/abd-borsalarinda-enflasyon-endisesi-p365142",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T08:38:24Z"
+    },
+    {
+      "title": "Bu hafta 9 yeni film sinemaseverlerle buluşacak",
+      "link": "https://www.trthaber.com/haber/kultur-sanat/bu-hafta-9-yeni-film-sinemaseverlerle-bulusacak-958762.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-01T08:37:00Z"
+    },
+    {
+      "title": "Yeni transferler sahaya çıkmak için heyecanlı!",
+      "link": "https://www.haberturk.com/spor/fenerbahce-medicana-nin-yeni-transferleri-salih-sahin-ve-chiaka-ogbogu-sahaya-cikmak-icin-heyecanli-3916407",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T08:29:45Z"
+    },
     {
       "title": "İki kardeşe av tüfeğiyle ateş açtı! Alacak kavgası ölümle bitti",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-iki-kardese-av-tufegiyle-ates-acti-alacak-kavgasi-olumle-bitti-3916352",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-tutuklamalar-3916353",
       "source": "Habertürk",
       "published_at": "2026-10-01T06:08:59Z"
-    },
-    {
-      "title": "Fon Koordinasyon Kurulu 2. Toplantısı yarın yapılacak",
-      "link": "https://www.trthaber.com/haber/gundem/fon-koordinasyon-kurulu-2-toplantisi-yarin-yapilacak-958727.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T06:08:00Z"
-    },
-    {
-      "title": "Can Atalay 24 saatlik açlık grevine başladı",
-      "link": "https://www.sozcu.com.tr/can-atalay-24-saatlik-aclik-grevine-basladi-p365044",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:06:14Z"
-    },
-    {
-      "title": "Sinop'ta tekne alabora oldu: 1 polis hayatını kaybetti, 1 polis aranıyor",
-      "link": "https://www.trthaber.com/haber/turkiye/sinopta-tekne-alabora-oldu-1-polis-hayatini-kaybetti-1-polis-araniyor-958726.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T06:04:00Z"
-    },
-    {
-      "title": "AK Parti AKP'ye karşı... Birinci’den Hayati Yazıcı’ya dikkat çeken çağrı",
-      "link": "https://www.sozcu.com.tr/ak-parti-akp-ye-karsi-bana-ne-oglumdan-demek-inandirici-olmayacaktir-p365021",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:03:44Z"
-    },
-    {
-      "title": "Gonca Vuslateri sosyal medya detoksuna girdi: 1.5 milyonluk hesabını kapattı",
-      "link": "https://www.sozcu.com.tr/gonca-vuslateri-sosyal-medya-detoksuna-girdi-1-5-milyonluk-hesabini-kapatti-p365052",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:03:41Z"
     }
   ]
 }
