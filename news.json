@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:02:52.163745Z",
+  "generated_at": "2026-10-01T22:07:55.286862Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Soma'da can kaybı sayısı 2'ye yükseldi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-manisa-soma-da-maden-ocaginda-gocuk-3916486",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T22:02:32Z"
+    },
     {
       "title": "Almanya'nın galibiyet hasreti Sırbistan karşısında sona erdi",
       "link": "https://www.sozcu.com.tr/almanya-nin-galibiyet-hasreti-sirbistan-karsisinda-sona-erdi-p365361",
@@ -160,12 +166,6 @@
       "link": "https://www.haberturk.com/ekonomi/fon-koordinasyon-kurulu-yarin-toplaniyor-3916561",
       "source": "Habertürk",
       "published_at": "2026-10-01T20:59:24Z"
-    },
-    {
-      "title": "Soma'da can kaybı sayısı 2'ye yükseldi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-manisa-soma-da-maden-ocaginda-gocuk-3916486",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T20:51:27Z"
     },
     {
       "title": "Trump İran’a saldırıları artırıyor: Tarih verdi",
