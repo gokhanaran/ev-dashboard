@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:18:00.494287Z",
+  "generated_at": "2026-10-01T22:38:08.642881Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "ABD'den Suriye'ye dair önemli adım",
+      "link": "https://www.haberturk.com/dunya/abd-suriye-yi-savunma-ticareti-kisitlamalari-listesinden-cikardi-3916611",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T22:33:57Z"
+    },
     {
       "title": "İşte Uluslar Ligi'nde gecenin sonuçları!",
       "link": "https://www.haberturk.com/spor/uefa-uluslar-ligi-3-hafta-maclari-8-karsilasma-ile-devam-etti-3916609",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/kahramanmaras-canli-hayvan-borsasi-kapatildi-3916546",
       "source": "Habertürk",
       "published_at": "2026-10-01T15:37:05Z"
-    },
-    {
-      "title": "Vatandaş olmayanların da oy kullandığı ülkede parlamento feshedildi",
-      "link": "https://www.sozcu.com.tr/vatandas-olmayanlarin-da-oy-kullandigi-ulkede-parlamento-feshedildi-p365279",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T15:35:06Z"
     }
   ]
 }
