@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:53:27.443445Z",
+  "generated_at": "2026-10-01T16:58:31.219845Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "R. Madrid ve Barça karşı karşıya geldi!",
+      "link": "https://www.haberturk.com/spor/real-madrid-ile-barcelona-saha-disinda-karsi-karsiya-geldi-negreira-davasi-icin-uefa-ya-belgeler-gonderildi-3916562",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T16:51:37Z"
+    },
     {
       "title": "Galatasaray'a Lemina'dan iyi haber! Takımla çalışmalara başladı",
       "link": "https://www.sozcu.com.tr/galatasaray-a-lemina-dan-iyi-haber-takimla-calismalara-basladi-p365293",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-tbmm-yeni-yasama-donemine-hazir-fon-sorusturmasiyla-basliyor-3916341",
       "source": "Habertürk",
       "published_at": "2026-10-01T12:26:59Z"
-    },
-    {
-      "title": "Trump: Yardımcı pilot terörist ya da dengesizdi",
-      "link": "https://www.trthaber.com/haber/dunya/trump-yardimci-pilot-terorist-ya-da-dengesizdi-958799.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T12:24:00Z"
     }
   ]
 }
