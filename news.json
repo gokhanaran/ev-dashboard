@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:42:40.144723Z",
+  "generated_at": "2026-10-01T21:47:43.283922Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "4 kişiye tutuklama, 9 kişi serbest",
+      "link": "https://www.haberturk.com/gundem/son-dakika-8-kisiye-tutuklama-5-kisiye-adli-kontrol-talebi-3916565",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T21:38:59Z"
+    },
     {
       "title": "İki oyuncu 22 farklı karakterle sahnede",
       "link": "https://www.haberturk.com/kultur-sanat/timucin-esen-ve-funda-eryigit-degisim-donusumle-ayni-sahnede-3916598",
@@ -82,12 +88,6 @@
       "link": "https://www.sozcu.com.tr/mhk-sorusturmasinda-taslari-yerinden-oynatacak-ifade-eski-hakem-suleyman-abay-arka-plandaki-ismi-p365346",
       "source": "Sözcü",
       "published_at": "2026-10-01T21:28:29Z"
-    },
-    {
-      "title": "4 kişiye tutuklama, 9 kişi serbest",
-      "link": "https://www.haberturk.com/gundem/son-dakika-8-kisiye-tutuklama-5-kisiye-adli-kontrol-talebi-3916565",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T21:28:09Z"
     },
     {
       "title": "Son dakika...Merkez Bankası'ndan yeni karar: Yüzde 5'e yükseltildi",
