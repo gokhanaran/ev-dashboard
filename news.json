@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:57:49.492834Z",
+  "generated_at": "2026-10-01T22:02:52.163745Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Almanya'nın galibiyet hasreti Sırbistan karşısında sona erdi",
+      "link": "https://www.sozcu.com.tr/almanya-nin-galibiyet-hasreti-sirbistan-karsisinda-sona-erdi-p365361",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T21:57:12Z"
+    },
+    {
       "title": "LGY'ye dev zam: Fiyatlar 40 TL'yi aştı",
       "link": "https://www.sozcu.com.tr/lgyye-dev-zam-fiyatlar-40-tlyi-asti-p365360",
       "source": "Sözcü",
       "published_at": "2026-10-01T21:54:20Z"
+    },
+    {
+      "title": "Pentagon'da Dini İşler Ofisi kuruldu",
+      "link": "https://www.haberturk.com/dunya/pentagon-da-dini-isler-ofisi-kuruldu-3916608",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T21:53:02Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan Camiler ve Din Görevlileri Haftası mesajı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-salonun-terk-edilmesi-milli-iradeye-saygisizlik-958813.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T15:35:00Z"
-    },
-    {
-      "title": "Duran’dan Yeni Parti’ye Meclis tepkisi",
-      "link": "https://www.haberturk.com/gundem/iletisim-baskani-duran-salonun-terk-edilmesini-mill-iradeye-saygisizlik-3916545",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T15:34:15Z"
-    },
-    {
-      "title": "Son dakika...İzmir Bayraklı Belediye Başkanı CHP'den istifa etti",
-      "link": "https://www.sozcu.com.tr/son-dakika-izmir-bayrakli-belediye-baskani-chp-den-istifa-etti-p365277",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T15:29:50Z"
     }
   ]
 }
