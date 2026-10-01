@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:12:57.774626Z",
+  "generated_at": "2026-10-01T16:18:01.374377Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "İstanbul'da trafik yoğunluğu: Ana arterlerde araçlar güçlükle ilerliyor",
+      "link": "https://www.sozcu.com.tr/istanbulda-trafik-yogunlugu-ana-arterlerde-araclar-guclukle-ilerliyor-p365280",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T16:13:40Z"
+    },
+    {
       "title": "Öce ıslattılar sonra dövdüler! Liseli kızların yaptıkları 'pes' dedirtti",
       "link": "https://www.sozcu.com.tr/cesmede-islatip-dovduler-liseli-kizlarin-akran-zorbaligi-kamerada-p365284",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.trthaber.com/haber/dunya/nasa-crew-13-murettebatini-tasiyan-dragon-uzay-aracini-uluslararasi-uzay-istasyonuna-firlatti-958815.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T16:03:00Z"
+    },
+    {
+      "title": "Bakan Şimşek'ten fon soruşturması açıklaması: Sistematik bir problem yok",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsekten-fon-sorusturmasi-aciklamasi-sistematik-bir-problem-yok-958816.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-01T16:02:00Z"
     },
     {
       "title": "Güllü davasında Nur Sultan Ulu'dan şok ifade: Tuğyan, annesini pencereden attı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/manisada-maden-ocaginda-gocuk-958796.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T11:49:00Z"
-    },
-    {
-      "title": "Tour of Türkiye'nin tarihleri belli oldu!",
-      "link": "https://www.haberturk.com/spor/cumhurbaskanligi-bisiklet-turu-nun-tarihleri-belli-oldu-3916471",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T11:42:17Z"
-    },
-    {
-      "title": "Vakıf GYO Ve İlk İnşaat'tan ortak proje",
-      "link": "https://www.haberturk.com/ekonomi/vakif-gyo-ve-ilk-insaat-in-ortak-projesi-vyenikonakin-lansmani-gerceklesti-3916472",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T11:40:43Z"
     }
   ]
 }
