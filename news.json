@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:07:55.286862Z",
+  "generated_at": "2026-10-01T22:18:00.494287Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İşte Uluslar Ligi'nde gecenin sonuçları!",
+      "link": "https://www.haberturk.com/spor/uefa-uluslar-ligi-3-hafta-maclari-8-karsilasma-ile-devam-etti-3916609",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T22:09:14Z"
+    },
     {
       "title": "Soma'da can kaybı sayısı 2'ye yükseldi",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-manisa-soma-da-maden-ocaginda-gocuk-3916486",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/vatandas-olmayanlarin-da-oy-kullandigi-ulkede-parlamento-feshedildi-p365279",
       "source": "Sözcü",
       "published_at": "2026-10-01T15:35:06Z"
-    },
-    {
-      "title": "İletişim Başkanı Duran: Salonun terk edilmesi milli iradeye saygısızlık",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-salonun-terk-edilmesi-milli-iradeye-saygisizlik-958813.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T15:35:00Z"
     }
   ]
 }
