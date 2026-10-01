@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:03:35.056221Z",
+  "generated_at": "2026-10-01T17:08:38.931575Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon soruşturmasında 8 tutuklama 5 adli kontrol talebi",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-yeni-gelisme-1-ekim-2026-p365294",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T17:03:18Z"
+    },
     {
       "title": "1968 Türkiye Güzeli'ni ziyaret etti",
       "link": "https://www.haberturk.com/magazin/tolga-mendi-darulaceze-de-sevgi-can-danli-ile-bulustu-3916555",
@@ -58,6 +64,12 @@
       "link": "https://www.haberturk.com/spor/real-madrid-ile-barcelona-saha-disinda-karsi-karsiya-geldi-negreira-davasi-icin-uefa-ya-belgeler-gonderildi-3916562",
       "source": "Habertürk",
       "published_at": "2026-10-01T16:53:59Z"
+    },
+    {
+      "title": "Fon Koordinasyon Kurulu yarın toplanacak",
+      "link": "https://www.trthaber.com/haber/gundem/fon-koordinasyon-kurulu-yarin-toplanacak-958820.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-01T16:50:00Z"
     },
     {
       "title": "Galatasaray'a Lemina'dan iyi haber! Takımla çalışmalara başladı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/bosna-hersekli-futbolcu-edin-dzeko-milli-takima-veda-ediyor-3916492",
       "source": "Habertürk",
       "published_at": "2026-10-01T12:39:16Z"
-    },
-    {
-      "title": "Arguvan'da 24 saat açık kütüphane",
-      "link": "https://www.haberturk.com/gundem/arguvan-da-24-saat-acik-kutuphane-3916493",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T12:38:55Z"
-    },
-    {
-      "title": "Baba özlemi dinmiyor",
-      "link": "https://www.haberturk.com/magazin/esra-dermancioglu-nun-baba-ozlemi-3916488",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T12:37:44Z"
     }
   ]
 }
