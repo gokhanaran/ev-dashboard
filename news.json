@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:08:36.826472Z",
+  "generated_at": "2026-10-01T09:13:45.241364Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,60 @@
     }
   ],
   "items": [
+    {
+      "title": "İdam emri verilmişti: Kadın mahkum infaza rağmen hayatta kalınca ortalık karıştı",
+      "link": "https://www.sozcu.com.tr/infaz-emri-verilmisti-kadin-mahkum-idama-ragmen-hayatta-kalinca-ortalik-karisti-p365127",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T09:11:44Z"
+    },
+    {
+      "title": "İstanbul'un eylül enflasyonu belli oldu",
+      "link": "https://www.sozcu.com.tr/istanbul-un-eylul-enflasyonu-belli-oldu-p365156",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T09:11:32Z"
+    },
+    {
+      "title": "Akıllı gözlüğe karşı kadınlara tavsiye",
+      "link": "https://www.haberturk.com/stil/akilli-gozluklere-karsi-kadinlara-tavsiye-sarki-calin-3916420",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:10:48Z"
+    },
+    {
+      "title": "Vahap Seçer ve 58 kişi gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-vahap-secer-gozaltina-alindi-3916345",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:10:03Z"
+    },
+    {
+      "title": "Ronaldo gitti gözler o formaya çevrildi! Yeni sahibi şaşırttı",
+      "link": "https://www.sozcu.com.tr/ronaldo-gitti-gozler-o-formaya-cevrildi-yeni-sahibi-sasirtti-p365157",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T09:08:48Z"
+    },
+    {
+      "title": "SPK isteğe bağlı iade hesapları açıldığını duyurdu",
+      "link": "https://www.haberturk.com/ekonomi/spk-istege-bagli-iade-hesaplari-acildigini-duyurdu-3916376",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:08:32Z"
+    },
+    {
+      "title": "Trabzonspor Divan Kurulu'ndan Doğan'a destek!",
+      "link": "https://www.haberturk.com/spor/trabzonspor-divan-baskanlik-kurulu-ndan-ertugrul-dogan-a-destek-3916433",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:06:41Z"
+    },
+    {
+      "title": "ABD tahvil faizleri 24 yılın zirvesinde",
+      "link": "https://www.haberturk.com/ekonomi/abd-tahvil-faizleri-24-yilin-zirvesinde-3916431",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:05:38Z"
+    },
+    {
+      "title": "'Sevdan Bir Ateş' yine zirvede",
+      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-yine-zirvede-3916403",
+      "source": "Habertürk",
+      "published_at": "2026-10-01T09:04:46Z"
+    },
     {
       "title": "İzmir'de fabrikada patlama meydana geldi: 3'ü ağır 7 işçi yaralandı",
       "link": "https://www.trthaber.com/haber/turkiye/izmirde-fabrikada-patlama-meydana-geldi-3u-agir-7-isci-yaralandi-958767.html",
@@ -78,12 +132,6 @@
       "published_at": "2026-10-01T08:55:00Z"
     },
     {
-      "title": "Akıllı gözlüğe karşı kadınlara tavsiye",
-      "link": "https://www.haberturk.com/stil/akilli-gozluklere-karsi-kadinlara-tavsiye-sarki-calin-3916420",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T08:53:45Z"
-    },
-    {
       "title": "YHT Gar-Esenboğa Havalimanı raylı sistemle bağlanacak",
       "link": "https://www.haberturk.com/ekonomi/yht-gar-esenboga-havalimani-rayli-sistemle-baglanacak-3916423",
       "source": "Habertürk",
@@ -124,12 +172,6 @@
       "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-ateskese-ragmen-gazzeye-son-24-saatte-duzenledigi-saldirilarda-8-kisi-hayatini-kaybetti-958763.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T08:40:00Z"
-    },
-    {
-      "title": "'Sevdan Bir Ateş' yine zirvede",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-yine-zirvede-3916403",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T08:39:49Z"
     },
     {
       "title": "Fabrikada patlama! 3'ü ağır, 7 işçi yaralı",
@@ -456,12 +498,6 @@
       "published_at": "2026-10-01T07:41:54Z"
     },
     {
-      "title": "Vahap Seçer ve 58 kişi gözaltına alındı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-vahap-secer-gozaltina-alindi-3916345",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T07:40:22Z"
-    },
-    {
       "title": "Portekiz'de Ronaldo krizi artarak devam ediyor! O talimat başını yakacak",
       "link": "https://www.sozcu.com.tr/portekiz-de-ronaldo-krizi-artarak-devam-ediyor-o-talimat-basini-yakacak-p365112",
       "source": "Sözcü",
@@ -630,12 +666,6 @@
       "published_at": "2026-10-01T07:16:00Z"
     },
     {
-      "title": "SPK isteğe bağlı iade hesapları açıldığını duyurdu",
-      "link": "https://www.haberturk.com/ekonomi/spk-istege-bagli-iade-hesaplari-acildigini-duyurdu-3916376",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T07:14:54Z"
-    },
-    {
       "title": "AKP'li Sayan parayı iade etmedi! Bir kuruş bile yatırmamış",
       "link": "https://www.sozcu.com.tr/akp-li-sayan-parayi-iade-etmedi-bir-kurus-bile-yatirmamis-p365064",
       "source": "Sözcü",
@@ -724,36 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9739-dolardan-islem-goruyor-958736.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T06:53:00Z"
-    },
-    {
-      "title": "Mert Yazıcıoğlu ve sevgilisi kortta hünerlerini sergiledi",
-      "link": "https://www.sozcu.com.tr/mert-yazicioglu-ve-sevgilisi-kortta-hunerlerini-sergiledi-p365077",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:52:32Z"
-    },
-    {
-      "title": "Erzurumspor FK Başkanı Dal'dan bahis açıklaması!",
-      "link": "https://www.haberturk.com/spor/erzurumspor-fk-baskani-ahmet-dal-dan-bahis-sorusturmasi-aciklamasi-3916368",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T06:50:45Z"
-    },
-    {
-      "title": "Schengen ülkesinden bu Türklere vize kolaylığı: Başvurdukları gibi alacaklar",
-      "link": "https://www.sozcu.com.tr/schengen-ulkesinden-bu-turklere-vize-kolayligi-basvurduklari-gibi-alacaklar-p365075",
-      "source": "Sözcü",
-      "published_at": "2026-10-01T06:50:31Z"
-    },
-    {
-      "title": "SPK: İsteğe bağlı iade hesapları açıldı",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-istege-bagli-iade-hesaplari-acildi-958735.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T06:49:00Z"
-    },
-    {
-      "title": "TEKNOFEST Güneydoğu, çocuklara teknoloji ve havacılıkta ilham oldu",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-guneydogu-cocuklara-teknoloji-ve-havacilikta-ilham-oldu-958734.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-01T06:44:00Z"
     }
   ]
 }
