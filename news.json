@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:46:03.226806Z",
+  "generated_at": "2026-10-01T02:51:06.991796Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -44,6 +44,12 @@
     {
       "title": "Öcalan'ın alt kuruldaki arkadaşları belli oluyor",
       "link": "https://www.sozcu.com.tr/ocalan-in-alt-kuruldaki-arkadaslari-belli-oluyor-p365006",
+      "source": "Sözcü",
+      "published_at": "2026-10-01T02:30:15Z"
+    },
+    {
+      "title": "Bursu eleştirenden tazminat istediler",
+      "link": "https://www.sozcu.com.tr/bursu-elestirenden-tazminat-istediler-p365004",
       "source": "Sözcü",
       "published_at": "2026-10-01T02:30:15Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/tutuklanan-yeni-partili-il-baskani-istifa-etti-p364940",
       "source": "Sözcü",
       "published_at": "2026-09-30T16:17:30Z"
-    },
-    {
-      "title": "Gazze'de soykırımcı İsrail saldırısında bir Filistinli gazeteci daha hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/gazzede-soykirimci-israil-saldirisinda-bir-filistinli-gazeteci-daha-hayatini-kaybetti-958685.html",
-      "source": "TRT Haber",
-      "published_at": "2026-09-30T16:09:00Z"
     }
   ]
 }
