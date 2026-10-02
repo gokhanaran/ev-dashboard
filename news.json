@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:19:18.803988Z",
+  "generated_at": "2026-10-02T21:24:21.470516Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"3 iyi maç geride bıraktım!\"",
+      "link": "https://www.haberturk.com/spor/belcika-da-kevin-de-bruyne-3-iyi-mac-geride-biraktim-3916880",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T21:16:31Z"
+    },
     {
       "title": "Bizim Çocuklar galibiyeti unuttu",
       "link": "https://www.haberturk.com/spor/belcika-3-0-turkiye-mac-sonucu-iste-belcika-turkiye-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3916662",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/mhk-baskani-ferhat-gundogdu-nun-ifadesi-ortaya-cikti-p365613",
       "source": "Sözcü",
       "published_at": "2026-10-02T15:21:44Z"
-    },
-    {
-      "title": "Bakan Kurum'dan TEKNOFEST Güneydoğu paylaşımı: Türkiye'nin geleceği burada",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-kurumdan-teknofest-guneydogu-paylasimi-turkiyenin-gelecegi-burada-958944.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T15:19:00Z"
     }
   ]
 }
