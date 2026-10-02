@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:07:42.058133Z",
+  "generated_at": "2026-10-02T16:12:44.827913Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 25
+      "items": 27
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Cemil Tugay, ADD'den de istifa etti",
+      "link": "https://www.sozcu.com.tr/cemil-tugay-add-den-de-istifa-etti-p365621",
+      "source": "Sözcü",
+      "published_at": "2026-10-02T16:10:43Z"
+    },
+    {
+      "title": "İstanbul'da yağış trafiği de etkiledi! Trafik durma noktasına geldi",
+      "link": "https://www.sozcu.com.tr/istanbulda-yagis-trafigi-de-etkiledi-trafik-durma-noktasina-geldi-p365619",
+      "source": "Sözcü",
+      "published_at": "2026-10-02T16:08:23Z"
+    },
+    {
+      "title": "Tahkim Kurulu'ndan Okan Buruk ve Lesley Ugochukwu kararı!",
+      "link": "https://www.haberturk.com/spor/son-dakika-tahkim-kurulu-ndan-okan-buruk-ve-lesley-ugochukwu-karari-3916827",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T16:05:01Z"
+    },
+    {
       "title": "Tahkim Kurulu'ndan Galatasaray'a kötü haber",
       "link": "https://www.sozcu.com.tr/tahkim-kurulu-ndan-galatasaray-a-kotu-haber-p365620",
       "source": "Sözcü",
@@ -54,10 +72,22 @@
       "published_at": "2026-10-02T15:57:56Z"
     },
     {
+      "title": "Mersin Büyükşehir Belediyesinin 13 doğrudan temin ve ihale dosyasında usulsüzlük tespiti",
+      "link": "https://www.trthaber.com/haber/turkiye/mersin-buyuksehir-belediyesinin-13-dogrudan-temin-ve-ihale-dosyasinda-usulsuzluk-tespiti-958951.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T15:57:00Z"
+    },
+    {
       "title": "Serdal Adalı'dan flaş çıkış! 'Gerekirse ligler ertelensin'",
       "link": "https://www.sozcu.com.tr/serdal-adali-dan-flas-cikis-gerekirse-ligler-ertelensin-p365618",
       "source": "Sözcü",
       "published_at": "2026-10-02T15:53:59Z"
+    },
+    {
+      "title": "Borsa günü yükselişle tamamladı",
+      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-yukselisle-tamamladi-958950.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T15:52:00Z"
     },
     {
       "title": "Ferhat Gündoğdu'nun ifadesi ortaya çıktı!",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-yolcularla-konusurken-kaza-yapti-o-an-kamerada-adana-haberleri-3916773",
       "source": "Habertürk",
       "published_at": "2026-10-02T11:43:27Z"
-    },
-    {
-      "title": "TEKNOFEST kuşağının başarı öyküsü: Yarışmacıdan girişimciliğe",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/teknofest-kusaginin-basari-oykusu-yarismacidan-girisimcilige-958920.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T11:42:00Z"
-    },
-    {
-      "title": "81 ilde 'Gıda Güvenliği' operasyonu",
-      "link": "https://www.haberturk.com/ekonomi/81-ilde-gida-guvenligi-operasyonu-3916768",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:38:46Z"
-    },
-    {
-      "title": "Bağdat Caddesi'nde ölümden döndüler",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-kaza-geliyorum-demedi-insaat-kaplamasi-ikiz-kardeslerin-uzerine-devrildi-istanbul-haberleri-3916769",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:38:00Z"
-    },
-    {
-      "title": "Bitcoin yükselişte",
-      "link": "https://www.haberturk.com/ekonomi/bitcoin-yeniden-86-bin-dolari-asti-3916772",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:37:27Z"
-    },
-    {
-      "title": "Sinop'ta \"kalekondu\"ların yıkımına başlandı",
-      "link": "https://www.haberturk.com/gundem/sinop-ta-kalekondularin-yikimina-baslandi-3916770",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:36:47Z"
     }
   ]
 }
