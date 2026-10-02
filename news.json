@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:29:02.816219Z",
+  "generated_at": "2026-10-02T02:04:19.015746Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Sevgilisinin eski kocasından kaçarken 3'üncü kattan düşüp öldü",
+      "link": "https://www.sozcu.com.tr/sevgilisinin-eski-kocasindan-kacarken-3uncu-kattan-dusup-oldu-p365372",
+      "source": "Sözcü",
+      "published_at": "2026-10-02T02:02:12Z"
+    },
     {
       "title": "Bolu'daki zimmet soruşturmasında 5 tutuklama",
       "link": "https://www.haberturk.com/gundem/bolu-daki-zimmet-sorusturmasinda-5-tutuklama-3916616",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turk-dunyasi/kirgizistanda-turk-dunyasi-diyaloglari-ortak-gelecek-ortak-vizyon-paneli-958814.html",
       "source": "TRT Haber",
       "published_at": "2026-10-01T15:51:00Z"
-    },
-    {
-      "title": "NASA, Crew-13'ü uzaya fırlattı",
-      "link": "https://www.haberturk.com/ekonomi/nasa-crew-13-u-uzaya-firlatti-3916553",
-      "source": "Habertürk",
-      "published_at": "2026-10-01T15:50:38Z"
     }
   ]
 }
