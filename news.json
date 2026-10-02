@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:12:44.827913Z",
+  "generated_at": "2026-10-02T16:17:47.168025Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da yağış trafiği de etkiledi! Yollar kırmızıya büründü",
+      "link": "https://www.sozcu.com.tr/istanbulda-yagis-trafigi-de-etkiledi-trafik-durma-noktasina-geldi-p365619",
+      "source": "Sözcü",
+      "published_at": "2026-10-02T16:12:41Z"
+    },
     {
       "title": "Cemil Tugay, ADD'den de istifa etti",
       "link": "https://www.sozcu.com.tr/cemil-tugay-add-den-de-istifa-etti-p365621",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/abd-turkiye-nin-komsusuna-dolar-yagdirdi-p365550",
       "source": "Sözcü",
       "published_at": "2026-10-02T11:45:02Z"
-    },
-    {
-      "title": "Konuşurken yaptığı kaza kamerada!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-yolcularla-konusurken-kaza-yapti-o-an-kamerada-adana-haberleri-3916773",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:43:27Z"
     }
   ]
 }
