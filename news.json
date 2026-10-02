@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:59:09.201490Z",
+  "generated_at": "2026-10-02T21:04:12.061640Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 30
+      "items": 15
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Masterchef dokunulmazlığı kim kazandı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazligi-kim-kazandi-2-ekim-masterchef-eleme-potasinda-kimler-var-3916878",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:56:26Z"
+    },
     {
       "title": "Bizim Çocuklar galibiyeti unuttu",
       "link": "https://www.haberturk.com/spor/belcika-3-0-turkiye-mac-sonucu-iste-belcika-turkiye-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3916662",
@@ -178,6 +184,12 @@
       "link": "https://www.sozcu.com.tr/uskudar-da-bir-chp-li-meclis-uyesi-daha-akp-ye-gecti-p365642",
       "source": "Sözcü",
       "published_at": "2026-10-02T20:05:14Z"
+    },
+    {
+      "title": "Şeker boğazına kaçtı, personel canını kurtardı",
+      "link": "https://www.sozcu.com.tr/seker-bogazina-kacti-personel-canini-kurtardi-p365638",
+      "source": "Sözcü",
+      "published_at": "2026-10-02T20:03:23Z"
     },
     {
       "title": "Felsefeci Kuçuradi hayatını kaybetti",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/uc-aylar-ne-zaman-diyanet-2026-2027-takvimi-ile-uc-aylar-baslangic-ve-bitis-tarihi-recep-saban-ramazan-ayi-3916270",
       "source": "Habertürk",
       "published_at": "2026-10-02T15:05:29Z"
-    },
-    {
-      "title": "Suudi Arabistan - Türkiye vize kalktı mı?",
-      "link": "https://www.haberturk.com/bilgi/foto/suudi-arabistan-turkiye-vize-kalkti-mi-vize-olmadan-arabistana-gidilir-mi-3916286",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T15:05:18Z"
-    },
-    {
-      "title": "\"Haberler doğru değil\"",
-      "link": "https://www.haberturk.com/magazin/ezgi-mola-haberler-dogru-degil-gorunce-sasirdim-3916814",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T15:05:13Z"
     }
   ]
 }
