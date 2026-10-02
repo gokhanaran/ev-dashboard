@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:49:03.554071Z",
+  "generated_at": "2026-10-02T20:54:06.521042Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,46 @@
   ],
   "items": [
     {
+      "title": "Yasa dışı bahiste 33 tutuklama",
+      "link": "https://www.haberturk.com/gundem/son-dakika-yasa-disi-bahiste-33-tutuklama-3916875",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:48:10Z"
+    },
+    {
       "title": "A Milli Takım'a Arda Güler şoku! İtalya maçında yok",
       "link": "https://www.sozcu.com.tr/a-milli-takim-a-arda-guler-soku-italya-macinda-yok-p365653",
       "source": "Sözcü",
       "published_at": "2026-10-02T20:44:57Z"
     },
     {
+      "title": "Donald Trump: Türkiye'yi seviyorum",
+      "link": "https://www.haberturk.com/dunya/donald-trump-turkiye-yi-seviyorum-3916873",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:43:50Z"
+    },
+    {
+      "title": "Fransa ile İtalya yenişemedi!",
+      "link": "https://www.haberturk.com/spor/fransa-italya-mac-sonucu-iste-fransa-italya-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3916876",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:40:13Z"
+    },
+    {
+      "title": "A Milli Futbol Takımımız, Belçika'ya mağlup oldu",
+      "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-belcikaya-maglup-oldu-958968.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T20:40:00Z"
+    },
+    {
+      "title": "On Numara sonuçları açıklandı!",
+      "link": "https://www.haberturk.com/bilgi/foto/on-numara-sonuclari-aciklandi-mi-2-ekim-milli-piyango-on-numara-cekilis-sonuclari-bilet-sorgulama-ekrani-3916819",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:39:50Z"
+    },
+    {
       "title": "Bizim Çocuklar galibiyeti unuttu",
       "link": "https://www.haberturk.com/spor/belcika-turkiye-maci-canli-anlatim-belcika-turkiye-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-3916662",
       "source": "Habertürk",
-      "published_at": "2026-10-02T20:39:12Z"
+      "published_at": "2026-10-02T20:39:27Z"
     },
     {
       "title": "A Milli Takım, Belçika’da dağıldı! Uluslar Ligi’nde 3 maçta sıfır çektik",
@@ -84,12 +114,6 @@
       "published_at": "2026-10-02T20:29:00Z"
     },
     {
-      "title": "Yasa dışı bahiste 33 tutuklama",
-      "link": "https://www.haberturk.com/gundem/son-dakika-yasa-disi-bahiste-33-tutuklama-3916875",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T20:28:35Z"
-    },
-    {
       "title": "Trump'tan CAATSA açıklaması: Türkiye'yi seviyorum",
       "link": "https://www.sozcu.com.tr/trump-tan-caatsa-aciklamasi-turkiye-yi-seviyorum-p365648",
       "source": "Sözcü",
@@ -100,12 +124,6 @@
       "link": "https://www.sozcu.com.tr/belcika-turkiye-uefa-uluslar-ligi-maci-canli-p365603",
       "source": "Sözcü",
       "published_at": "2026-10-02T20:22:03Z"
-    },
-    {
-      "title": "Donald Trump: Türkiye'yi seviyorum",
-      "link": "https://www.haberturk.com/dunya/donald-trump-turkiye-yi-seviyorum-3916873",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T20:21:13Z"
     },
     {
       "title": "CSO, kuruluşunun 200. yılına özel konserle yeni sezonu açtı",
@@ -394,12 +412,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-tenis-kupasi-19-23-ekimde-ankarada-duzenlenecek-958954.html",
       "source": "TRT Haber",
       "published_at": "2026-10-02T17:28:00Z"
-    },
-    {
-      "title": "On Numara sonuçları açıklandı!",
-      "link": "https://www.haberturk.com/bilgi/foto/on-numara-sonuclari-aciklandi-mi-2-ekim-milli-piyango-on-numara-cekilis-sonuclari-bilet-sorgulama-ekrani-3916819",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T17:23:38Z"
     },
     {
       "title": "G.Saray 3-0'dan geri döndü!",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/super-lig-hakemi-yasin-kol-un-ifadesi-istanbul-da-alinacak-p365609",
       "source": "Sözcü",
       "published_at": "2026-10-02T15:01:03Z"
-    },
-    {
-      "title": "İran Ulusal Güvenlik Yüksek Konseyi Sekreteri Rızai'den Trump'ın tehditlerine tepki",
-      "link": "https://www.trthaber.com/haber/dunya/iran-ulusal-guvenlik-yuksek-konseyi-sekreteri-rizaiden-trumpin-tehditlerine-tepki-958943.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T14:58:00Z"
-    },
-    {
-      "title": "Trump duyurdu: Avrupa’nın dizel stokları piyasaya sürülecek",
-      "link": "https://www.sozcu.com.tr/trump-avrupa-dizel-yakit-stoklarini-piyasaya-surme-konusunda-anlasmaya-vardi-p365604",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T14:57:26Z"
     }
   ]
 }
