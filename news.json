@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:42:29.367100Z",
+  "generated_at": "2026-10-02T15:47:31.865740Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kırıkkale'de 25 bin tuz çalısı fidanı dikiliyor",
+      "link": "https://www.haberturk.com/gundem/kirikkale-de-25-bin-tuz-calisi-fidani-dikiliyor-3916822",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T15:41:56Z"
+    },
     {
       "title": "Türkiye'nin konuştuğu hakem Yasin Kol'un asıl mesleği şaşırttı",
       "link": "https://www.sozcu.com.tr/turkiye-nin-konustugu-hakemin-meslegi-sasirtti-p365617",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/ulastirma-ve-altyapi-bakani-abdulkadir-uraloglu-fon-surecinde-ucu-kime-dokunuyorsa-geregi-yapilacak-3916763",
       "source": "Habertürk",
       "published_at": "2026-10-02T11:25:05Z"
-    },
-    {
-      "title": "Girne faciasında gözaltı süresi uzadı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-kktcdeki-gemi-kazasinda-9-suphelinin-gozalti-suresi-7-gun-uzatildi-3916760",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T11:24:12Z"
     }
   ]
 }
