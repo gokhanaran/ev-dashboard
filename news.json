@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:54:06.521042Z",
+  "generated_at": "2026-10-02T20:59:09.201490Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Bizim Çocuklar galibiyeti unuttu",
+      "link": "https://www.haberturk.com/spor/belcika-3-0-turkiye-mac-sonucu-iste-belcika-turkiye-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3916662",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T20:53:35Z"
+    },
+    {
       "title": "Yasa dışı bahiste 33 tutuklama",
       "link": "https://www.haberturk.com/gundem/son-dakika-yasa-disi-bahiste-33-tutuklama-3916875",
       "source": "Habertürk",
       "published_at": "2026-10-02T20:48:10Z"
+    },
+    {
+      "title": "Ankara'da yasa dışı bahis soruşturması: 33 şüpheli tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-yasa-disi-bahis-sorusturmasi-33-supheli-tutuklandi-958969.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T20:45:00Z"
     },
     {
       "title": "A Milli Takım'a Arda Güler şoku! İtalya maçında yok",
@@ -70,12 +82,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/on-numara-sonuclari-aciklandi-mi-2-ekim-milli-piyango-on-numara-cekilis-sonuclari-bilet-sorgulama-ekrani-3916819",
       "source": "Habertürk",
       "published_at": "2026-10-02T20:39:50Z"
-    },
-    {
-      "title": "Bizim Çocuklar galibiyeti unuttu",
-      "link": "https://www.haberturk.com/spor/belcika-turkiye-maci-canli-anlatim-belcika-turkiye-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-3916662",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T20:39:27Z"
     },
     {
       "title": "A Milli Takım, Belçika’da dağıldı! Uluslar Ligi’nde 3 maçta sıfır çektik",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/ezgi-mola-haberler-dogru-degil-gorunce-sasirdim-3916814",
       "source": "Habertürk",
       "published_at": "2026-10-02T15:05:13Z"
-    },
-    {
-      "title": "Süper Lig hakemi Yasin Kol'un ifadesi İstanbul'da alınacak",
-      "link": "https://www.sozcu.com.tr/super-lig-hakemi-yasin-kol-un-ifadesi-istanbul-da-alinacak-p365609",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T15:01:03Z"
     }
   ]
 }
