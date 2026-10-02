@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:06:03.644455Z",
+  "generated_at": "2026-10-02T09:11:07.463090Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "OYAK Beton, CIMPOR Yapı Malzemeleri adıyla yeni bir döneme giriyor",
+      "link": "https://www.haberturk.com/ekonomi/oyak-beton-cimpor-yapi-malzemeleri-adiyla-yeni-bir-doneme-giriyor-3916713",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T09:05:27Z"
+    },
+    {
       "title": "4 yıl boyunca nezle sandı, gerçeği hastanede öğrendi: Burnundan akan sıvı beyin sıvısı çıktı",
       "link": "https://www.sozcu.com.tr/4-yil-boyunca-nezle-sandi-gercegi-hastanede-ogrendi-burnundan-akan-sivi-beyin-sivisi-cikti-p365499",
       "source": "Sözcü",
       "published_at": "2026-10-02T09:04:12Z"
+    },
+    {
+      "title": "İsrail ordusu üç liman için saldırı tehdidinde bulundu",
+      "link": "https://www.haberturk.com/israil-ordusu-yemen-de-uc-liman-icin-saldiri-tehdidinde-bulundu-3790144",
+      "source": "Habertürk",
+      "published_at": "2026-10-02T09:02:49Z"
     },
     {
       "title": "Sümeyye, Exposito ile buluştu",
@@ -54,10 +66,40 @@
       "published_at": "2026-10-02T09:01:59Z"
     },
     {
+      "title": "İran'dan Irak'a iki ülke arasındaki uçuşların yeniden başlatılması çağrısı",
+      "link": "https://www.trthaber.com/haber/dunya/irandan-iraka-iki-ulke-arasindaki-ucuslarin-yeniden-baslatilmasi-cagrisi-958902.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T09:01:00Z"
+    },
+    {
+      "title": "Yabancılara farklı nikah ücreti uygulayan belediyeye ayrımcılık cezası",
+      "link": "https://www.trthaber.com/haber/turkiye/yabancilara-farkli-nikah-ucreti-uygulayan-belediyeye-ayrimcilik-cezasi-958900.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T09:00:00Z"
+    },
+    {
       "title": "“Bu sezondan çok umutluyum”",
       "link": "https://www.haberturk.com/spor/gizem-orge-bu-sezondan-cok-umutluyum-3916694",
       "source": "Habertürk",
       "published_at": "2026-10-02T08:59:29Z"
+    },
+    {
+      "title": "Filistin topraklarını gasbeden İsrailliler, Mescidi Aksa'da tarihi mezarlığa baskın yaptı",
+      "link": "https://www.trthaber.com/haber/dunya/filistin-topraklarini-gasbeden-israilliler-mescid-i-aksada-tarihi-mezarliga-baskin-yapti-958901.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T08:57:00Z"
+    },
+    {
+      "title": "Soma'daki maden ocağındaki göçükle ilgili 9 gözaltı",
+      "link": "https://www.trthaber.com/haber/turkiye/somadaki-maden-ocagindaki-gocukle-ilgili-9-gozalti-958899.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T08:57:00Z"
+    },
+    {
+      "title": "KAAN yeniden gökyüzüyle buluşmaya hazırlanıyor",
+      "link": "https://www.trthaber.com/haber/savunma/kaan-yeniden-gokyuzuyle-bulusmaya-hazirlaniyor-958898.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-02T08:55:00Z"
     },
     {
       "title": "Kombiyi açmak için en doğru zaman açıklandı",
@@ -712,48 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/turk-savas-ucaklarinin-gorunmeyen-kalkani-958863.html",
       "source": "TRT Haber",
       "published_at": "2026-10-02T07:00:00Z"
-    },
-    {
-      "title": "Kayaların üzerinden altın fışkırdı: Toprağın altını üstüne getirecekler",
-      "link": "https://www.sozcu.com.tr/kayalarin-uzerinden-altin-fiskirdi-topragin-altini-ustune-getirecekler-p365439",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T06:59:56Z"
-    },
-    {
-      "title": "200 milyon liralık vurgun iddiası",
-      "link": "https://www.haberturk.com/son-dakika-haberi-200-milyon-liralik-vurgun-iddiasi-eskisehir-haberleri-3916657",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T06:59:34Z"
-    },
-    {
-      "title": "Formula 1'de heyecan Malezya'da sürecek",
-      "link": "https://www.sozcu.com.tr/formula-1-de-heyecan-malezya-da-surecek-p365437",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T06:58:01Z"
-    },
-    {
-      "title": "Küresel piyasalar karışık seyrediyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-karisik-seyrediyor-958872.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T06:57:00Z"
-    },
-    {
-      "title": "Dur ihtarına uymayan hükümlü 440 bin lira ceza ile yakalandı",
-      "link": "https://www.trthaber.com/haber/turkiye/dur-ihtarina-uymayan-hukumlu-440-bin-lira-ceza-ile-yakalandi-958871.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T06:56:00Z"
-    },
-    {
-      "title": "Eski hakemden flaş iddia: Ligler ertelenecek",
-      "link": "https://www.sozcu.com.tr/eski-hakemden-flas-iddia-ligler-ertelenecek-p365426",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T06:53:47Z"
-    },
-    {
-      "title": "Küresel piyasalar istihdam verisine odaklandı",
-      "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalar-abd-tarim-disi-istihdam-verisine-odaklandi-3916658",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T06:51:57Z"
     }
   ]
 }
