@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:33:26.219696Z",
+  "generated_at": "2026-10-03T17:53:35.944670Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İsrail Suriye topraklarına girdi, operasyon yaptı",
+      "link": "https://www.sozcu.com.tr/israil-suriye-topraklarina-girdi-operasyon-yapti-p365854",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T17:51:57Z"
+    },
     {
       "title": "Yahşihan'da tutuklu sayısı 16 oldu",
       "link": "https://www.haberturk.com/gundem/bassavciligin-itirazi-sonrasi-yahsihan-sorusturmasinda-bir-supheli-daha-tutuklandi-3917033",
@@ -76,6 +82,12 @@
       "link": "https://www.sozcu.com.tr/trump-tan-secmenlere-rusvet-butceye-maliyeti-1-trilyon-dolardan-fazla-p365848",
       "source": "Sözcü",
       "published_at": "2026-10-03T16:48:11Z"
+    },
+    {
+      "title": "Bakan Uraloğlu, TEKNOFEST Güneydoğu'yu ziyaret etti",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-teknofest-guneydoguyu-ziyaret-etti-959032.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-03T16:45:00Z"
     },
     {
       "title": "Baba 46 gün görüntü aradı, sürücü tutuklandı",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/portekiz-milli-takim-kampini-terk-eden-cristiano-ronaldodan-flas-hamle-p365784",
       "source": "Sözcü",
       "published_at": "2026-10-03T11:06:25Z"
-    },
-    {
-      "title": "Yeni Ankara Stadı'nda geri sayım",
-      "link": "https://www.trthaber.com/haber/turkiye/yeni-ankara-stadinda-geri-sayim-959013.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-03T11:06:00Z"
-    },
-    {
-      "title": "Bafra'da 4 kilometrelik \"çeltik\" konvoyu",
-      "link": "https://www.haberturk.com/gundem/bafra-da-600-traktorlu-celtik-konvoyu-3916972",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T11:05:09Z"
     }
   ]
 }
