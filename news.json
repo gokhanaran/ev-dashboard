@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:21:32.369607Z",
+  "generated_at": "2026-10-03T06:26:34.720007Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "Tesla Model Y Türkiye fiyatlarına zam geldi: İşte yeni fiyatlar",
+      "link": "https://www.sozcu.com.tr/tesla-model-y-turkiye-fiyatlarina-zam-geldi-iste-yeni-fiyatlar-p365705",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T06:23:32Z"
+    },
+    {
+      "title": "MHK Başkanı Ferhat Gündoğdu ve 4 kişi için tutuklama kararı!",
+      "link": "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-4-kisi-icin-tutuklama-karari-3916906",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T06:21:14Z"
+    },
+    {
       "title": "Lukaku'dan Fenerbahçe'ye olay mesaj! Dönüşte görüşeceğim",
       "link": "https://www.sozcu.com.tr/lukakudan-fenerbahceye-olay-mesaj-donuste-gorusecegim-p365702",
       "source": "Sözcü",
       "published_at": "2026-10-03T06:18:26Z"
     },
     {
-      "title": "MHK Başkanı Ferhat Gündoğdu ve 4 kişi için tutuklama kararı!",
-      "link": "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-4-kisi-icin-tutuklama-karari-3916906",
+      "title": "MHK Başkanı Ferhat Gündoğdu tutuklandı",
+      "link": "https://www.trthaber.com/haber/gundem/mhk-baskani-ferhat-gundogdu-tutuklandi-958976.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-03T06:16:00Z"
+    },
+    {
+      "title": "Eğlence mekanlarına operasyon: 68 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eglence-mekanlarina-operasyon-68-gozalti-ankara-haberleri-3916905",
       "source": "Habertürk",
-      "published_at": "2026-10-03T06:14:04Z"
+      "published_at": "2026-10-03T06:15:53Z"
+    },
+    {
+      "title": "Eski koca bir anda eve geldi... Ölümle biten panik!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eski-koca-bir-anda-eve-geldi-olumle-biten-panik-adana-haberleri-3916904",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T06:14:52Z"
     },
     {
       "title": "Fenerbahçe sürpriz bir şekilde göndermişti: Yeni takımında şov yapıyor",
@@ -132,12 +156,6 @@
       "published_at": "2026-10-03T05:46:51Z"
     },
     {
-      "title": "Eğlence mekanlarına operasyon: 68 gözaltı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eglence-mekanlarina-operasyon-68-gozalti-ankara-haberleri-3916905",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T05:42:05Z"
-    },
-    {
       "title": "İstanbul'u iki yandan vuracak: Fırtına ve sağanak geliyor",
       "link": "https://www.sozcu.com.tr/istanbul-u-iki-yandan-vuracak-firtina-ve-saganak-geliyor-p365690",
       "source": "Sözcü",
@@ -172,12 +190,6 @@
       "link": "https://www.sozcu.com.tr/ulkedeki-icme-suyuna-yanlislikla-20-ton-sap-karistirdilar-p365688",
       "source": "Sözcü",
       "published_at": "2026-10-03T05:27:50Z"
-    },
-    {
-      "title": "Eski koca bir anda eve geldi... Ölümle biten panik!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eski-koca-bir-anda-eve-geldi-olumle-biten-panik-adana-haberleri-3916904",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T05:26:46Z"
     },
     {
       "title": "Çölün altından binlerce köpek balığı çıktı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-82-barcelona-95-mac-sonucu-euroleague-3916863",
       "source": "Habertürk",
       "published_at": "2026-10-02T19:25:10Z"
-    },
-    {
-      "title": "Gaziantep'te aile faciası: 2'nci kattan düşen anne hayatını kaybetti, baba ve oğul yaralı",
-      "link": "https://www.sozcu.com.tr/gaziantep-te-aile-faciasi-p365636",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T19:21:33Z"
-    },
-    {
-      "title": "Beşiktaş evinde İspanyol devine kaybetti",
-      "link": "https://www.sozcu.com.tr/besiktas-evinde-ispanyol-devine-kaybetti-p365641",
-      "source": "Sözcü",
-      "published_at": "2026-10-02T19:20:48Z"
     }
   ]
 }
