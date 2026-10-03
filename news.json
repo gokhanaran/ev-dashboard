@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:36:40.100361Z",
+  "generated_at": "2026-10-03T06:41:43.418966Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Nihat Kahveci'den olay sözler: Canlı yayında öfke patlaması yaşadı",
+      "link": "https://www.sozcu.com.tr/nihat-kahveciden-olay-sozler-canli-yayinda-ofke-patlamasi-yasadi-p365711",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T06:37:45Z"
+    },
+    {
       "title": "Ünlü isim Türkiye’den gitti: İstanbul’daki evini kapatıp o ülkeye yerleşti",
       "link": "https://www.sozcu.com.tr/unlu-isim-turkiye-den-gitti-istanbul-daki-evini-kapatip-o-ulkeye-yerlesti-p365710",
       "source": "Sözcü",
       "published_at": "2026-10-03T06:33:51Z"
+    },
+    {
+      "title": "\"Dengeli bir ilişki yaşıyoruz\"",
+      "link": "https://www.haberturk.com/magazin/foto/birce-akalay-dengeli-bir-iliski-yasiyoruz-3916908",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T06:33:05Z"
     },
     {
       "title": "Trafikte sürücülerin yıllardır yaptığı bu hareket artık ceza sebebi",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sermaye-piyasasi-sorusturmasinda-20-supheli-hakimlige-sevk-edildi-3916868",
       "source": "Habertürk",
       "published_at": "2026-10-02T19:46:58Z"
-    },
-    {
-      "title": "Hürmüz Boğazı'nda bir tanker vuruldu",
-      "link": "https://www.haberturk.com/dunya/hurmuz-bogazi-nda-bir-tanker-vuruldu-3916867",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T19:44:55Z"
-    },
-    {
-      "title": "\"Zamana ihtiyacımız var\"",
-      "link": "https://www.haberturk.com/spor/dusan-alimpijevic-10-yeni-oyuncu-olunca-bir-seyleri-oturtmak-icin-zamana-ihtiyaciniz-oluyor-3916866",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T19:40:43Z"
     }
   ]
 }
