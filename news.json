@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:02:05.685099Z",
+  "generated_at": "2026-10-03T21:07:08.824722Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Hürmüz Boğazı’nda tanker vuruldu",
+      "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-tanker-vuruldu-p365877",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T21:05:28Z"
+    },
+    {
+      "title": "İZMİR 9. İCRA DAİRESİ MÜDÜRLÜĞÜ",
+      "link": "https://www.sozcu.com.tr/izmir-9-icra-dairesi-mudurlugu-p365824",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T21:00:21Z"
+    },
     {
       "title": "MHK Başkanı Ferhat Gündoğdu istifa etti",
       "link": "https://www.sozcu.com.tr/mhk-baskani-ferhat-gundogdu-istifa-etti-p365873",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/ulke-altin-pasaport-uygulamasina-geciyor-vatandaslik-satacaklar-p365809",
       "source": "Sözcü",
       "published_at": "2026-10-03T12:44:34Z"
-    },
-    {
-      "title": "Deniz Göktaş'ın avukatından Kılıçdaroğlu'nu kızdıracak sözler",
-      "link": "https://www.sozcu.com.tr/deniz-goktas-in-avukatindan-kilicdaroglu-nu-kizdiracak-sozler-p365808",
-      "source": "Sözcü",
-      "published_at": "2026-10-03T12:44:24Z"
-    },
-    {
-      "title": "Bakan Şimşek'ten dış ticaret değerlendirmesi",
-      "link": "https://www.haberturk.com/ekonomi/bakan-simsek-dis-ticaret-acigindaki-artis-ongorulenden-daha-sinirli-kaldi-3916991",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T12:38:22Z"
     }
   ]
 }
