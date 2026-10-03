@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:41:43.418966Z",
+  "generated_at": "2026-10-03T06:46:46.032892Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Ataşehir Belediyesi'ne operasyon: 13 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-atasehir-belediyesi-ne-operasyon-13-gozalti-3916912",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T06:38:41Z"
+    },
+    {
       "title": "Nihat Kahveci'den olay sözler: Canlı yayında öfke patlaması yaşadı",
       "link": "https://www.sozcu.com.tr/nihat-kahveciden-olay-sozler-canli-yayinda-ofke-patlamasi-yasadi-p365711",
       "source": "Sözcü",
       "published_at": "2026-10-03T06:37:45Z"
+    },
+    {
+      "title": "\"Dengeli bir ilişki yaşıyoruz\"",
+      "link": "https://www.haberturk.com/magazin/foto/birce-akalay-dengeli-bir-iliski-yasiyoruz-3916908",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T06:33:56Z"
     },
     {
       "title": "Ünlü isim Türkiye’den gitti: İstanbul’daki evini kapatıp o ülkeye yerleşti",
@@ -48,10 +60,10 @@
       "published_at": "2026-10-03T06:33:51Z"
     },
     {
-      "title": "\"Dengeli bir ilişki yaşıyoruz\"",
-      "link": "https://www.haberturk.com/magazin/foto/birce-akalay-dengeli-bir-iliski-yasiyoruz-3916908",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T06:33:05Z"
+      "title": "Dışişleri Bakanlığından Türk Devletleri İşbirliği Günü mesajı",
+      "link": "https://www.trthaber.com/haber/turkiye/disisleri-bakanligindan-turk-devletleri-isbirligi-gunu-mesaji-958979.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-03T06:33:00Z"
     },
     {
       "title": "Trafikte sürücülerin yıllardır yaptığı bu hareket artık ceza sebebi",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/seker-bogazina-kacti-personel-canini-kurtardi-p365638",
       "source": "Sözcü",
       "published_at": "2026-10-02T20:03:23Z"
-    },
-    {
-      "title": "Felsefeci Kuçuradi hayatını kaybetti",
-      "link": "https://www.haberturk.com/gundem/felsefeci-prof-dr-ioanna-kucuradi-yasamini-yitirdi-3916860",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T20:02:36Z"
-    },
-    {
-      "title": "Fon soruşturmasında 20 tutuklama talebi",
-      "link": "https://www.haberturk.com/gundem/sermaye-piyasasi-sorusturmasinda-20-supheli-hakimlige-sevk-edildi-3916868",
-      "source": "Habertürk",
-      "published_at": "2026-10-02T19:46:58Z"
     }
   ]
 }
