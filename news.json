@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:08:11.538485Z",
+  "generated_at": "2026-10-03T17:18:16.751406Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Zelenskiy duyurdu: Rusya’daki askeri hedefler vuruldu",
+      "link": "https://www.sozcu.com.tr/zelenskiy-duyurdu-rusya-daki-askeri-hedefler-vuruldu-p365852",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T17:15:31Z"
+    },
     {
       "title": "Akaryakıt istasyonunda tanker patladı, yürekler ağza geldi",
       "link": "https://www.sozcu.com.tr/akaryakit-istasyonunda-tanker-patladi-p365850",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/workup-astart-6-girisimi-mezun-verdi-3916973",
       "source": "Habertürk",
       "published_at": "2026-10-03T11:01:34Z"
-    },
-    {
-      "title": "Ateşkesin ardından işgalci İsrail 1445 Filistinliyi öldürdü",
-      "link": "https://www.trthaber.com/haber/dunya/ateskesin-ardindan-isgalci-israil-1445-filistinliyi-oldurdu-959012.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-03T10:59:00Z"
     }
   ]
 }
