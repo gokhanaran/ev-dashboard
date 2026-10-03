@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:57:02.166889Z",
+  "generated_at": "2026-10-03T21:02:05.685099Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 26
+      "items": 11
     },
     {
       "source": "Sözcü",
@@ -39,19 +39,19 @@
       "title": "MHK Başkanı Ferhat Gündoğdu istifa etti",
       "link": "https://www.sozcu.com.tr/mhk-baskani-ferhat-gundogdu-istifa-etti-p365873",
       "source": "Sözcü",
-      "published_at": "2026-10-03T20:52:49Z"
+      "published_at": "2026-10-03T20:58:42Z"
+    },
+    {
+      "title": "Ferhat Gündoğdu görevinden istifa etti!",
+      "link": "https://www.haberturk.com/spor/son-dakika-ferhat-gundogdu-gorevinden-istifa-etti-3917054",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T20:54:24Z"
     },
     {
       "title": "Devlet hastanesinde 30'dan fazla kişi zehirlendi, çalışanlar isyan etti",
       "link": "https://www.sozcu.com.tr/devlet-hastanesinde-30dan-fazla-kisi-zehirlendi-calisanlar-isyan-etti-p365875",
       "source": "Sözcü",
       "published_at": "2026-10-03T20:51:55Z"
-    },
-    {
-      "title": "Ferhat Gündoğdu görevinden istifa etti!",
-      "link": "https://www.haberturk.com/spor/son-dakika-ferhat-gundogdu-gorevinden-istifa-etti-3917054",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T20:48:05Z"
     },
     {
       "title": "2 yolcu otobüsünde ele geçirildi: Değeri 22 milyon TL",
