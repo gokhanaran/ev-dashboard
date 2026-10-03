@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:28:22.534219Z",
+  "generated_at": "2026-10-03T17:33:26.219696Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yahşihan'da tutuklu sayısı 16 oldu",
+      "link": "https://www.haberturk.com/gundem/bassavciligin-itirazi-sonrasi-yahsihan-sorusturmasinda-bir-supheli-daha-tutuklandi-3917033",
+      "source": "Habertürk",
+      "published_at": "2026-10-03T17:26:25Z"
+    },
     {
       "title": "Geniş Aile'nin Ulvi'sinde büyük değişim! Son halini görenler tanıyamadı",
       "link": "https://www.sozcu.com.tr/genis-ailenin-ulvisinde-buyuk-degisim-son-halini-gorenler-taniyamadi-p365853",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/bafra-da-600-traktorlu-celtik-konvoyu-3916972",
       "source": "Habertürk",
       "published_at": "2026-10-03T11:05:09Z"
-    },
-    {
-      "title": "'Kızılcık Şerbeti'nde tansiyon yükseldi",
-      "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-tansiyon-yukseldi-3916970",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T11:03:44Z"
     }
   ]
 }
