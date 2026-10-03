@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:16:29.987150Z",
+  "generated_at": "2026-10-03T06:21:32.369607Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Lukaku'dan Fenerbahçe'ye olay mesaj! Dönüşte görüşeceğim",
+      "link": "https://www.sozcu.com.tr/lukakudan-fenerbahceye-olay-mesaj-donuste-gorusecegim-p365702",
+      "source": "Sözcü",
+      "published_at": "2026-10-03T06:18:26Z"
+    },
     {
       "title": "MHK Başkanı Ferhat Gündoğdu ve 4 kişi için tutuklama kararı!",
       "link": "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-4-kisi-icin-tutuklama-karari-3916906",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/besiktas-evinde-ispanyol-devine-kaybetti-p365641",
       "source": "Sözcü",
       "published_at": "2026-10-02T19:20:48Z"
-    },
-    {
-      "title": "TÜBATEKNOFEST Doktora Bilim Ödülleri'nin sahipleri belli oldu",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/tuba-teknofest-doktora-bilim-odullerinin-sahipleri-belli-oldu-958963.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-02T19:18:00Z"
     }
   ]
 }
