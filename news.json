@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:38:14.018016Z",
+  "generated_at": "2026-10-03T12:43:16.881093Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/koskoca-dagin-zirvesini-38-yildir-kilitli-tutuyorlar-p365807",
       "source": "Sözcü",
       "published_at": "2026-10-03T12:33:23Z"
+    },
+    {
+      "title": "Savunma ve havacılıktan 634 milyon dolarlık ihracat",
+      "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havaciliktan-634-milyon-dolarlik-ihracat-959019.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-03T12:33:00Z"
     },
     {
       "title": "Gökten düşen 11 katlı bina: Dev kanat tarlayı böyle yuttu",
@@ -456,6 +462,12 @@
       "published_at": "2026-10-03T10:00:02Z"
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin geleceği emin ellerde",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkiyenin-gelecegi-emin-ellerde-959001.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-03T09:59:00Z"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan, TEKNOFEST Güneydoğu'da",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-teknofest-guneydoguda-959001.html",
       "source": "TRT Haber",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yagislar-barajlara-yansidi-iste-istanbul-baraj-doluluk-oranlarinda-son-durum-3916934",
       "source": "Habertürk",
       "published_at": "2026-10-03T08:19:37Z"
-    },
-    {
-      "title": "Bakanlık 9 ayda 17,3 milyar lira SED ödemesi yaptı",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakanlik-9-ayda-173-milyar-lira-sed-odemesi-yapti-958986.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-03T08:19:00Z"
-    },
-    {
-      "title": "75 ilde düzenlenen uyuşturucu operasyonlarında 714 kişi tutuklandı",
-      "link": "https://www.trthaber.com/haber/gundem/75-ilde-duzenlenen-uyusturucu-operasyonlarinda-714-kisi-tutuklandi-958987.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-03T08:18:00Z"
     }
   ]
 }
