@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:19:30.655655Z",
+  "generated_at": "2026-10-04T05:24:33.961794Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fatma Betül'den 60 özel kaleme 'kovma kıyağı'",
+      "link": "https://www.sozcu.com.tr/fatma-betul-den-60-ozel-kaleme-kovma-kiyagi-p365911",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T05:19:12Z"
+    },
     {
       "title": "Yatırım fonları haftalık karnesi açıklandı: En çok kazandıran ve kaybettirenler belli oldu",
       "link": "https://www.sozcu.com.tr/yatirim-fonlari-haftalik-karnesi-aciklandi-en-cok-kazandiran-ve-kaybettirenler-belli-oldu-p365910",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/spk-ozkaynak-oranindaki-esnek-uygulamayi-30-ekime-kadar-uzatti-3917016",
       "source": "Habertürk",
       "published_at": "2026-10-03T15:01:10Z"
-    },
-    {
-      "title": "Meriç Nehri'nde cansız beden bulundu",
-      "link": "https://www.haberturk.com/gundem/meric-nehri-nde-cansiz-beden-bulundu-3917015",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T15:00:43Z"
     }
   ]
 }
