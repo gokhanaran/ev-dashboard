@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:48:28.077662Z",
+  "generated_at": "2026-10-04T17:53:31.077321Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Adana ve Osmaniye'de korkutan depremler!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T17:45:38Z"
+    },
     {
       "title": "Anadolu Efes deplasmanda kazandı",
       "link": "https://www.sozcu.com.tr/anadolu-efes-deplasmanda-kazandi-p366095",
@@ -118,12 +124,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-teknofest-yapildigi-illere-guneydoguya-turizm-olarak-da-onemli-deger-katiyor-959092.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T16:48:00Z"
-    },
-    {
-      "title": "Adana ve Osmaniye'de korkutan depremler!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T16:26:39Z"
     },
     {
       "title": "Bulutlara müdahale krize dönüştü: İki komşu ülke karşı karşıya geldi",
