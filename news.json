@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:17:59.361900Z",
+  "generated_at": "2026-10-04T21:28:04.735707Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Cem TV kapanma kararı aldı",
+      "link": "https://www.sozcu.com.tr/cem-tv-kapaniyor-mu-p366129",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T21:24:43Z"
+    },
     {
       "title": "İşte Uluslar Ligi'nde günün sonuçları!",
       "link": "https://www.haberturk.com/spor/portekiz-2-1-norvec-mac-sonucu-golleri-ve-ozeti-uefa-uluslar-ligi-3917204",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/iran-abdnin-teklifine-iliskin-ek-hususlar-karsi-tarafa-iletilecek-3917155",
       "source": "Habertürk",
       "published_at": "2026-10-04T12:37:43Z"
-    },
-    {
-      "title": "TikTok kapanacak mı?",
-      "link": "https://www.haberturk.com/bilgi/foto/tiktok-kapandi-mi-kapatilacak-mi-calisiyor-mu-turkiyede-tiktok-kapaniyor-mu-3916302",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T12:33:58Z"
     }
   ]
 }
