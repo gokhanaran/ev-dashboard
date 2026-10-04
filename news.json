@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:08:41.058662Z",
+  "generated_at": "2026-10-04T18:13:44.998834Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Beşiktaş'a kötü haber: Sakatlandı ve maça devam edemedi",
+      "link": "https://www.sozcu.com.tr/besiktas-a-kotu-haber-sakatlandi-ve-maca-devam-edemedi-p366097",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T18:08:27Z"
+    },
     {
       "title": "İran Petrol Bakanı istifa etti",
       "link": "https://www.haberturk.com/dunya/iran-petrol-bakani-istifa-etti-3917187",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/rusya-zelenskiye-cevap-olarak-ukraynadaki-askeri-hedeflere-saldirilari-artiracagiz-959075.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T10:48:00Z"
-    },
-    {
-      "title": "Türkiye Prof. Dr. İoanna Kuçuradi'ye doğum gününde veda ediyor",
-      "link": "https://www.sozcu.com.tr/turkiye-prof-dr-ioanna-kucuradiye-dogum-gununde-veda-ediyor-p366022",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T10:44:17Z"
     }
   ]
 }
