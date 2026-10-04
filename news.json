@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:43:14.624653Z",
+  "generated_at": "2026-10-04T21:53:21.014773Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Ronaldo'suz Portekiz, Uluslar Ligi'nde 4'te 4 yaptı",
+      "link": "https://www.sozcu.com.tr/ronaldo-suz-portekiz-uluslar-ligi-nde-4-te-4-yapti-p366134",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T21:51:21Z"
+    },
+    {
+      "title": "Polisten hayat kurtaran hamle",
+      "link": "https://www.haberturk.com/gundem/polisten-hayat-kurtaran-hamle-3917206",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T21:44:12Z"
+    },
     {
       "title": "1 haftada 2. protesto! İrlanda Milli Takımı, İsrailli futbolcularla tokalaşmadı",
       "link": "https://www.sozcu.com.tr/1-haftada-2-protesto-irlanda-milli-takimi-israilli-futbolcularla-tokalasmadi-p366133",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/spk-dan-ytm-aciklamasi-3917158",
       "source": "Habertürk",
       "published_at": "2026-10-04T13:00:46Z"
-    },
-    {
-      "title": "Zonguldak'ta kayıp balıkçı aranıyor",
-      "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-kayip-balikci-araniyor-959077.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T13:00:00Z"
-    },
-    {
-      "title": "Altın Koza 'Bir Arada Yalnız'ın oldu",
-      "link": "https://www.haberturk.com/kultur-sanat/altin-koza-bir-arada-yalniz-in-oldu-3917057",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T12:59:03Z"
     }
   ]
 }
