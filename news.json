@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:49:50.366883Z",
+  "generated_at": "2026-10-04T05:54:54.040784Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Kara yollarında durum",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-kara-yollarinda-durum-3917076",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T05:53:28Z"
+    },
+    {
+      "title": "AKP'nin maharetli kadınları",
+      "link": "https://www.sozcu.com.tr/akp-nin-maharetli-kadinlari-p365924",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T05:50:54Z"
+    },
     {
       "title": "Meriç Keskin'den yürek yakan veda: 'Yanını ayırttım, elbet bir gün buluşacağız'",
       "link": "https://www.sozcu.com.tr/meric-keskin-den-yurek-yakan-veda-yanini-ayirttim-elbet-bir-gun-bulusacagiz-p365922",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/adliyede-yolsuzluk-sorusturmasi-iki-personel-tutuklandi-p365846",
       "source": "Sözcü",
       "published_at": "2026-10-03T15:46:09Z"
-    },
-    {
-      "title": "Denizli'de akaryakıt istasyonundaki tankerde yangın çıktı",
-      "link": "https://www.trthaber.com/haber/turkiye/denizlide-akaryakit-istasyonundaki-tankerde-yangin-cikti-959030.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-03T15:42:00Z"
-    },
-    {
-      "title": "Göl kenarında erkek cesedi bulundu",
-      "link": "https://www.haberturk.com/gundem/gol-kenarinda-erkek-cesedi-bulundu-3917020",
-      "source": "Habertürk",
-      "published_at": "2026-10-03T15:22:47Z"
     }
   ]
 }
