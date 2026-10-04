@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:43:24.853989Z",
+  "generated_at": "2026-10-04T17:48:28.077662Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Anadolu Efes deplasmanda kazandı",
+      "link": "https://www.sozcu.com.tr/anadolu-efes-deplasmanda-kazandi-p366095",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T17:44:56Z"
+    },
+    {
+      "title": "\"Siyasi sorumluluğun gerektirdiği üslupla ifade etmem gerekirdi\"",
+      "link": "https://www.haberturk.com/gundem/siyasi-sorumlulugun-gerektirdigi-uslupla-ifade-etmem-gerekirdi-3917184",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T17:42:43Z"
+    },
     {
       "title": "Beşiktaş'ta 3. Serdal Adalı dönemi: Tek aday girdiği seçimde güven tazeledi",
       "link": "https://www.sozcu.com.tr/besiktasta-secim-heyecani-oy-verme-islemi-bitti-p366062",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/yasam/teknofest-sanliurfa-turizmini-hareketlendirdi-959070.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T10:32:00Z"
-    },
-    {
-      "title": "Fenerbahçe, Çaykur Rizespor hazırlıklarına başladı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-caykur-rizespor-hazirliklarina-basladi-p366019",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T10:25:17Z"
-    },
-    {
-      "title": "\"Aşka açığım ama peşinden koşmuyorum\"",
-      "link": "https://www.haberturk.com/magazin/ben-affleck-yeni-bir-aska-acigim-ama-pesinden-kosmuyorum-3917136",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T10:24:28Z"
     }
   ]
 }
