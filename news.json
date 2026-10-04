@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:31:30.593939Z",
+  "generated_at": "2026-10-04T12:36:33.937658Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "İbrahim Tatlıses'in ikiz torunları kocaman oldu",
+      "link": "https://www.sozcu.com.tr/ibrahim-tatlises-in-ikiz-torunlari-kocaman-oldu-p366038",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T12:33:05Z"
+    },
+    {
       "title": "Adana 20 dakika arayla 3 depremle sarsıldı!",
       "link": "https://www.sozcu.com.tr/adana-da-hissedilen-bir-deprem-meydana-geldi-p366028",
       "source": "Sözcü",
       "published_at": "2026-10-04T12:28:18Z"
+    },
+    {
+      "title": "Adana ve Osmaniye'de korkutan depremler!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T12:25:32Z"
     },
     {
       "title": "\"Eşimi rol arkadaşımla aldattım\"",
@@ -52,12 +64,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yilin-5-ayinda-ihracat-rekoru-kirarak-tarihi-basariya-imza-attik-959076.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T12:20:00Z"
-    },
-    {
-      "title": "Adana ve Osmaniye'de korkutan depremler!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T12:18:24Z"
     },
     {
       "title": "Fenerbahçe'den ayrıldı kabusu yaşadı! 10 aydır kulüp bulamıyor",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-ankarada-sahte-beyaz-esya-servis-sitesi-uzerinden-dolandiricilik-iddiasi-2-gozalti-3917090",
       "source": "Habertürk",
       "published_at": "2026-10-04T06:59:16Z"
-    },
-    {
-      "title": "Göl suyunu şehrin altına pompalamaya başladılar",
-      "link": "https://www.sozcu.com.tr/gol-suyunu-sehrin-altina-pompalamaya-basladilar-p365955",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T06:57:22Z"
     }
   ]
 }
