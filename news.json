@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:53:31.077321Z",
+  "generated_at": "2026-10-04T17:58:34.544613Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Yusuf Tekin YKS için mesajı verdi: Sınav sistemi değişecek mi?",
+      "link": "https://www.sozcu.com.tr/yusuf-tekin-yks-aciklamasi-p366096",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T17:57:25Z"
+    },
+    {
+      "title": "A.Efes deplasmanda kazandı!",
+      "link": "https://www.haberturk.com/spor/pizzabulls-bordo-bandirma-79-anadolu-efes-85-mac-sonucu-3917186",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T17:51:11Z"
+    },
     {
       "title": "Adana ve Osmaniye'de korkutan depremler!",
       "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-gokce-dehset-kurbani-bogazi-kesilerek-olduruldu-3917137",
       "source": "Habertürk",
       "published_at": "2026-10-04T10:32:37Z"
-    },
-    {
-      "title": "Yalova'da denizde kırmızı renkli su",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-yalova-da-kirmizi-renkli-su-denize-dokuldu-3917139",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T10:32:23Z"
-    },
-    {
-      "title": "TEKNOFEST, Şanlıurfa turizmini hareketlendirdi",
-      "link": "https://www.trthaber.com/haber/yasam/teknofest-sanliurfa-turizmini-hareketlendirdi-959070.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T10:32:00Z"
     }
   ]
 }
