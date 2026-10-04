@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:06:13.596464Z",
+  "generated_at": "2026-10-04T12:11:17.182437Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Adana 20 dakika arayla 3 depremle sarsıldı!",
+      "link": "https://www.sozcu.com.tr/adana-da-hissedilen-bir-deprem-meydana-geldi-p366028",
+      "source": "Sözcü",
+      "published_at": "2026-10-04T12:06:26Z"
+    },
     {
       "title": "Kenan Yıldız devleri peşine taktı! Öve öve bitiremediler",
       "link": "https://www.sozcu.com.tr/kenan-yildiz-devleri-pesine-takti-ove-ove-bitiremediler-p366024",
@@ -76,12 +82,6 @@
       "link": "https://www.sozcu.com.tr/emekli-maasi-ve-kira-zamminda-dananin-kuyrugu-kopuyor-gozler-yarin-1000a-cevrildi-p365954",
       "source": "Sözcü",
       "published_at": "2026-10-04T11:56:10Z"
-    },
-    {
-      "title": "Adana 20 dakika arayla 3 depremle sarsıldı!",
-      "link": "https://www.sozcu.com.tr/adana-da-hissedilen-bir-deprem-meydana-geldi-p366028",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T11:55:16Z"
     },
     {
       "title": "'Sevdan Bir Ateş' setinde reyting kutlaması",
@@ -208,6 +208,12 @@
       "link": "https://www.trthaber.com/haber/egitim/bakan-tekin-yksde-degisiklik-olmayacak-959071.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T10:51:00Z"
+    },
+    {
+      "title": "Rusya: Zelenskiye cevap olarak Ukrayna'daki askeri hedeflere saldırıları artıracağız",
+      "link": "https://www.trthaber.com/haber/dunya/rusya-zelenskiye-cevap-olarak-ukraynadaki-askeri-hedeflere-saldirilari-artiracagiz-959075.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-04T10:48:00Z"
     },
     {
       "title": "Türkiye Prof. Dr. İoanna Kuçuradi'ye doğum gününde veda ediyor",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/haydut-israilin-flydubai-ucagindakilerin-listesini-48-saat-oncesinden-aldigi-ortaya-cikti-959055.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T06:46:00Z"
-    },
-    {
-      "title": "Dev ağaç devrildi, kıl payı kurtuldu!",
-      "link": "https://www.haberturk.com/gundem/dev-agac-devrildi-kil-payi-kurtuldu-3917083",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T06:41:32Z"
     }
   ]
 }
