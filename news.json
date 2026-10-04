@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:26:27.347093Z",
+  "generated_at": "2026-10-04T12:31:30.593939Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,19 @@
       "title": "Adana 20 dakika arayla 3 depremle sarsıldı!",
       "link": "https://www.sozcu.com.tr/adana-da-hissedilen-bir-deprem-meydana-geldi-p366028",
       "source": "Sözcü",
-      "published_at": "2026-10-04T12:21:42Z"
+      "published_at": "2026-10-04T12:28:18Z"
+    },
+    {
+      "title": "\"Eşimi rol arkadaşımla aldattım\"",
+      "link": "https://www.haberturk.com/magazin/michael-douglas-tan-ihanet-itirafi-esimi-rol-arkadasimla-aldattim-3917138",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T12:24:47Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Yılın 5 ayında ihracat rekoru kırarak tarihi başarıya imza attık",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yilin-5-ayinda-ihracat-rekoru-kirarak-tarihi-basariya-imza-attik-959076.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-04T12:20:00Z"
     },
     {
       "title": "Adana ve Osmaniye'de korkutan depremler!",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/gol-suyunu-sehrin-altina-pompalamaya-basladilar-p365955",
       "source": "Sözcü",
       "published_at": "2026-10-04T06:57:22Z"
-    },
-    {
-      "title": "Japonya GP'sinde kazanan Marquez!",
-      "link": "https://www.haberturk.com/spor/motogp-de-japonya-gp-sinde-kazanan-marc-marquez-3917088",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T06:56:40Z"
-    },
-    {
-      "title": "Gençlerin sağlığı için kampüsler dumansızlaşıyor",
-      "link": "https://www.haberturk.com/saglik/genclerin-sagligi-icin-kampusler-dumansizlasiyor-3917085",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T06:54:18Z"
     }
   ]
 }
