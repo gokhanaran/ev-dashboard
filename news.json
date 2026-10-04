@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:07:52.379484Z",
+  "generated_at": "2026-10-04T21:12:55.859872Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.trthaber.com/haber/ekonomi/eylul-ayi-enflasyonu-bugun-aciklanacak-959101.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T21:01:00Z"
+    },
+    {
+      "title": "Yasin Kol adliyeye sevk edilecek!",
+      "link": "https://www.haberturk.com/spor/son-dakika-yasin-kol-adliyeye-sevk-edilecek-3917131",
+      "source": "Habertürk",
+      "published_at": "2026-10-04T20:57:12Z"
     },
     {
       "title": "Ümraniye'de Japon kültürü festivaline saldırı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ibrahim-tatlises-in-ikiz-torunlari-kocaman-oldu-p366038",
       "source": "Sözcü",
       "published_at": "2026-10-04T12:33:05Z"
-    },
-    {
-      "title": "Gölette erkek cesedi bulundu",
-      "link": "https://www.haberturk.com/gundem/malatya-da-golette-bir-erkege-ait-cansiz-beden-bulundu-3917154",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T12:29:47Z"
     }
   ]
 }
