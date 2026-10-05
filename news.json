@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:50:52.710874Z",
+  "generated_at": "2026-10-05T15:55:56.177459Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "NASA'ya bağlı astronot uzaydan Adana'yı selamlayacak",
+      "link": "https://www.sozcu.com.tr/nasa-ya-bagli-astronot-uzaydan-adana-yi-selamlayacak-p366411",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T15:54:21Z"
+    },
+    {
+      "title": "SON DAKİKA | Hakem Yasin Kol tutuklandı",
+      "link": "https://www.sozcu.com.tr/son-dakika-veya-hakem-yasin-kol-hakkinda-tutuklama-talebi-p366341",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T15:52:51Z"
+    },
     {
       "title": "Can Baytak karikatürleri (Eylül 2026)",
       "link": "https://www.haberturk.com/can-baytak-karikaturleri-eylul-2026-3909639",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/evde-olu-bulundu-karisi-gozaltina-alindi-bicak-bilerken-oldu-iddiasi-3917340",
       "source": "Habertürk",
       "published_at": "2026-10-05T11:02:14Z"
-    },
-    {
-      "title": "\"Ben zaten zenginim koşmama gerek yok!\"",
-      "link": "https://www.haberturk.com/spor/foto/fred-den-flas-john-duran-itirafi-ben-zaten-zenginim-kosmama-gerek-yok-3917306",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T11:00:41Z"
-    },
-    {
-      "title": "Türkiye'nin sosyolojik panoraması",
-      "link": "https://www.haberturk.com/kesfet/cakallarla-dans-turkiye-nin-sosyolojik-panoramasi-3916756",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T10:58:30Z"
     }
   ]
 }
