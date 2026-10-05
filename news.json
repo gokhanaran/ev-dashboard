@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:11:07.830217Z",
+  "generated_at": "2026-10-05T16:16:12.535953Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Milan'ı kandırmış!",
+      "link": "https://www.haberturk.com/spor/futbol/haber/1182750-yusupha-yaffa-milani-kandirmis",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T16:11:14Z"
+    },
+    {
+      "title": "Bakanlar Fidan ve Güler, Mekke Ortak Savunma Anlaşması'nın Komite Toplantısı'na katıldı",
+      "link": "https://www.trthaber.com/haber/gundem/bakanlar-fidan-ve-guler-mekke-ortak-savunma-anlasmasinin-komite-toplantisina-katildi-959186.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-05T16:11:00Z"
+    },
+    {
+      "title": "Hakem Yasin Kol tutuklandı!",
+      "link": "https://www.haberturk.com/spor/son-dakika-hakem-yasin-kol-tutuklandi-3917422",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T16:10:36Z"
+    },
+    {
       "title": "SON DAKİKA | Hakem Yasin Kol tutuklandı",
       "link": "https://www.sozcu.com.tr/son-dakika-veya-hakem-yasin-kol-hakkinda-tutuklama-talebi-p366341",
       "source": "Sözcü",
@@ -46,12 +64,6 @@
       "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3917425",
       "source": "Habertürk",
       "published_at": "2026-10-05T16:06:58Z"
-    },
-    {
-      "title": "Hakem Yasin Kol tutuklandı!",
-      "link": "https://www.haberturk.com/spor/son-dakika-hakem-yasin-kol-tutuklandi-3917422",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T16:06:35Z"
     },
     {
       "title": "KPSS sonuçları ne zaman açıklanacak?",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/jorge-jesus-cristiano-ronaldo-kararini-resmen-acikladi-p366325",
       "source": "Sözcü",
       "published_at": "2026-10-05T11:26:34Z"
-    },
-    {
-      "title": "Borsa günün ilk yarısında değer kazandı -5 Ekim 2026",
-      "link": "https://www.sozcu.com.tr/borsa-gunun-ilk-yarisinda-deger-kazandi-5-ekim-2026-p366330",
-      "source": "Sözcü",
-      "published_at": "2026-10-05T11:25:25Z"
-    },
-    {
-      "title": "\"294 suçlu iade edildi\"",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-ilk-9-ayda-294-suclu-iade-edildi-3917344",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T11:24:46Z"
     }
   ]
 }
