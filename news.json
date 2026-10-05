@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:59:05.272376Z",
+  "generated_at": "2026-10-05T07:04:07.880461Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,46 @@
   ],
   "items": [
     {
+      "title": "Son Dakika... Ekim ayı kira zam oranı belli oldu",
+      "link": "https://www.sozcu.com.tr/son-dakika-ekim-ayi-kira-zam-orani-belli-oldu-p366203",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T07:03:44Z"
+    },
+    {
+      "title": "Emeklinin 3 aylık zam oranı kesinleşti",
+      "link": "https://www.sozcu.com.tr/emeklinin-3-aylik-zam-orani-kesinlesti-p366211",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T07:03:11Z"
+    },
+    {
+      "title": "THY, maaş düzenlemesini kabul etmeyeni işten çıkaracak",
+      "link": "https://www.sozcu.com.tr/thy-maas-duzenlemesini-kabul-etmeyeni-isten-kovacak-p366220",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T07:03:04Z"
+    },
+    {
+      "title": "Son dakika... TÜİK eylül ayı enflasyon rakamlarını açıkladı",
+      "link": "https://www.sozcu.com.tr/son-dakika-tuik-eylul-ayi-enflasyon-rakamlarini-acikladi-p366215",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T07:02:56Z"
+    },
+    {
+      "title": "Beşiktaş'ta Orkun Kökçü gelişmesi: Kocaelispor maçına yetişecek mi?",
+      "link": "https://www.sozcu.com.tr/besiktasta-orkun-kokcu-gelismesi-kocaelispor-macina-yetisecek-mi-p366219",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T06:58:55Z"
+    },
+    {
       "title": "Mason Greenwood'da ceza riski, gözler hakem raporunda",
       "link": "https://www.sozcu.com.tr/mason-greenwoodda-ceza-riski-gozler-hakem-raporunda-p366216",
       "source": "Sözcü",
       "published_at": "2026-10-05T06:58:30Z"
+    },
+    {
+      "title": "9'uncu kez ameliyat oldu",
+      "link": "https://www.haberturk.com/magazin/danla-bilic-9-uncu-kez-ameliyat-oldu-3917162",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:56:48Z"
     },
     {
       "title": "Türkiye Kupası'nda ikinci eleme turu başlıyor!",
@@ -52,12 +88,6 @@
       "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalar-haftaya-karisik-seyirle-basladi-3917251",
       "source": "Habertürk",
       "published_at": "2026-10-05T06:56:01Z"
-    },
-    {
-      "title": "9'uncu kez ameliyat oldu",
-      "link": "https://www.haberturk.com/magazin/danla-bilic-9-uncu-kez-ameliyat-oldu-3917162",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T06:55:34Z"
     },
     {
       "title": "Çocuklukta hayvana şiddet göz ardı edilmemeli",
@@ -724,36 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-3-filistinli-hayatini-kaybetti-959102.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T21:29:00Z"
-    },
-    {
-      "title": "Cem TV kapanma kararı aldı",
-      "link": "https://www.sozcu.com.tr/cem-tv-kapaniyor-mu-p366129",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T21:24:43Z"
-    },
-    {
-      "title": "İşte Uluslar Ligi'nde günün sonuçları!",
-      "link": "https://www.haberturk.com/spor/portekiz-2-1-norvec-mac-sonucu-golleri-ve-ozeti-uefa-uluslar-ligi-3917204",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T21:07:26Z"
-    },
-    {
-      "title": "Eylül ayı enflasyonu bugün açıklanacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/eylul-ayi-enflasyonu-bugun-aciklanacak-959101.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T21:01:00Z"
-    },
-    {
-      "title": "Yasin Kol adliyeye sevk edilecek!",
-      "link": "https://www.haberturk.com/spor/son-dakika-yasin-kol-adliyeye-sevk-edilecek-3917131",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T20:57:12Z"
-    },
-    {
-      "title": "İletişim Başkanı Duran: Uzayın geleceği 59 Ekimde Antalyada konuşulacak",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-uzayin-gelecegi-5-9-ekimde-antalyada-konusulacak-959100.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T20:38:00Z"
     }
   ]
 }
