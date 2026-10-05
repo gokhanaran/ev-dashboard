@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:01:36.894485Z",
+  "generated_at": "2026-10-05T23:11:40.986475Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.haberturk.com/gundem/fatih-te-yanan-2-kati-bina-kule-dondu-1-olu-3917487",
       "source": "Habertürk",
       "published_at": "2026-10-05T22:53:23Z"
+    },
+    {
+      "title": "Fatih'te iki katlı binada yangın: 1 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/turkiye/fatihte-iki-katli-binada-yangin-1-kisi-hayatini-kaybetti-959207.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-05T22:49:00Z"
     },
     {
       "title": "6 Ekim İstanbul elektrik kesintisi programı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/bursa-buyuksehir-davasinda-2durusma-3917419",
       "source": "Habertürk",
       "published_at": "2026-10-05T15:48:53Z"
-    },
-    {
-      "title": "Can Baytak karikatürleri (Eylül 2026)",
-      "link": "https://www.haberturk.com/can-baytak-karikaturleri-eylul-2026-3909639",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T15:42:55Z"
     }
   ]
 }
