@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:26:20.167389Z",
+  "generated_at": "2026-10-05T16:31:24.215516Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Neye niyet neye kısmet",
+      "link": "https://www.haberturk.com/gundem/ikinci-cocuk-hayali-dorduz-mutluluga-donustu-3917426",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T16:26:17Z"
+    },
     {
       "title": "F.Bahçe'nin eski kalecisi hayatını kaybetti",
       "link": "https://www.haberturk.com/spor/fenerbahce-nin-eski-kalecisi-ilie-datcu-hayatini-kaybetti-3917409",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/teknoloji-ekosistemi-bir-araya-geldi-3917357",
       "source": "Habertürk",
       "published_at": "2026-10-05T11:51:20Z"
-    },
-    {
-      "title": "TEKNOFEST Güneydoğu'da teknoloji tutkunları ile buluştu",
-      "link": "https://www.haberturk.com/ekonomi/teknofest-guneydogu-da-teknoloji-tutkunlari-ile-bulustu-3917355",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T11:46:34Z"
     }
   ]
 }
