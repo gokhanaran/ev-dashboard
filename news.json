@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:43:55.739154Z",
+  "generated_at": "2026-10-05T06:48:58.885632Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,54 @@
   ],
   "items": [
     {
+      "title": "Kestane yolunda canından oldu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-bartinda-kestane-toplamak-icin-ormana-giden-61-yasindaki-ibrahim-karakas-hayatini-kaybetti-3917240",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:44:14Z"
+    },
+    {
+      "title": "Yıllarca cinayet çözdü, şimdi kayıp yeğenin peşinde!",
+      "link": "https://www.haberturk.com/gundem/yillarca-cinayet-cozdu-simdi-kayip-yegenin-pesinde-9-yildir-iki-kisiden-izi-yok-3917222",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:43:40Z"
+    },
+    {
+      "title": "Vahşet! Babasını katledip kaçtı!",
+      "link": "https://www.haberturk.com/gundem/vahset-babasini-katledip-kacti-3917239",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:43:29Z"
+    },
+    {
+      "title": "\"Aldığım nefesten utanıyorum\"",
+      "link": "https://www.haberturk.com/magazin/hazar-erguclu-aldigim-nefesten-utaniyorum-3917223",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:41:09Z"
+    },
+    {
+      "title": "Eski halinden eser kalmadı",
+      "link": "https://www.haberturk.com/magazin/foto/yaprak-dokumu-nun-hayriye-si-verdigi-kilolarla-gundemde-3917234",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:40:48Z"
+    },
+    {
+      "title": "Türkiye'nin sosyolojik panoraması",
+      "link": "https://www.haberturk.com/kesfet/cakallarla-dans-turkiye-nin-sosyolojik-panoramasi-3916756",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:40:11Z"
+    },
+    {
+      "title": "Ataşehir Belediyesi soruşturması: 13 adliyeye sevk",
+      "link": "https://www.haberturk.com/gundem/son-dakika-atasehir-belediyesi-sorusturmasi-13-adliyeye-sevk-3917230",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:39:33Z"
+    },
+    {
+      "title": "İstanbul'da pazartesi trafiği!",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-pazartesi-trafigi-3917229",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:39:07Z"
+    },
+    {
       "title": "MasterChef kim elendi? 4 Ekim 2026 Pazar MasterChef'te veda eden isim belli oldu",
       "link": "https://www.sozcu.com.tr/masterchef-kim-elendi-4-ekim-2026-pazar-masterchef-te-veda-eden-isim-belli-oldu-p366205",
       "source": "Sözcü",
@@ -46,12 +94,6 @@
       "link": "https://www.trthaber.com/haber/savunma/aselsan-ile-savunma-sanayii-baskanligi-arasinda-dev-anlasma-959128.html",
       "source": "TRT Haber",
       "published_at": "2026-10-05T06:36:00Z"
-    },
-    {
-      "title": "Türkiye'nin sosyolojik panoraması",
-      "link": "https://www.haberturk.com/kesfet/cakallarla-dans-turkiye-nin-sosyolojik-panoramasi-3916756",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T06:35:41Z"
     },
     {
       "title": "5-11 Ekim haftalık burç yorumları",
@@ -162,12 +204,6 @@
       "published_at": "2026-10-05T06:16:00Z"
     },
     {
-      "title": "Ataşehir Belediyesi soruşturması: 13 adliyeye sevk",
-      "link": "https://www.haberturk.com/gundem/son-dakika-atasehir-belediyesi-sorusturmasi-13-adliyeye-sevk-3917230",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T06:14:52Z"
-    },
-    {
       "title": "Bir neslin ağabeyi Fethi Gemuhluoğlu",
       "link": "https://www.trthaber.com/haber/kultur-sanat/bir-neslin-agabeyi-fethi-gemuhluoglu-959120.html",
       "source": "TRT Haber",
@@ -184,12 +220,6 @@
       "link": "https://www.sozcu.com.tr/bit-pazarinda-siradan-sanip-sattigi-daktilo-meger-bir-servetmis-p366189",
       "source": "Sözcü",
       "published_at": "2026-10-05T06:08:12Z"
-    },
-    {
-      "title": "İstanbul'da pazartesi trafiği!",
-      "link": "https://www.haberturk.com/gundem/istanbul-da-pazartesi-trafigi-3917229",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T06:06:36Z"
     },
     {
       "title": "Angelina Jolie'den Gazze sözleri",
@@ -214,12 +244,6 @@
       "link": "https://www.sozcu.com.tr/uluslararasi-kredi-kuruluslarindan-turkiye-uyarisi-moody-s-fon-krizine-fitch-bankalara-dikkat-cekti-p366180",
       "source": "Sözcü",
       "published_at": "2026-10-05T05:56:32Z"
-    },
-    {
-      "title": "Yıllarca cinayet çözdü, şimdi kayıp yeğenin peşinde!",
-      "link": "https://www.haberturk.com/gundem/yillarca-cinayet-cozdu-simdi-kayip-yegenin-pesinde-9-yildir-iki-kisiden-izi-yok-3917222",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T05:52:19Z"
     },
     {
       "title": "Fatma Betül'den 'milyonlarca lirayı nereden buldu?' sorusuna alay eder gibi yanıt",
@@ -730,30 +754,6 @@
       "link": "https://www.sozcu.com.tr/buyuk-ikramiye-1974-talihlisi-olu-bulundu-p366113",
       "source": "Sözcü",
       "published_at": "2026-10-04T19:25:39Z"
-    },
-    {
-      "title": "AK Parti İstanbul Milletvekili Bayram: Bazı açıklamalarım istismar edildi",
-      "link": "https://www.trthaber.com/haber/gundem/ak-parti-istanbul-milletvekili-bayram-bazi-aciklamalarim-istismar-edildi-959098.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T19:24:00Z"
-    },
-    {
-      "title": "Adalet Bakanı Gürlek'ten Cumhuriyet Savcısı Kılıç için başsağlığı mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlekten-cumhuriyet-savcisi-kilic-icin-bassagligi-mesaji-959097.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T19:22:00Z"
-    },
-    {
-      "title": "Bakan Çiftçi'den motor yağı dökülen yola toprak taşıyan polise teşekkür",
-      "link": "https://www.trthaber.com/haber/turkiye/bakan-ciftciden-motor-yagi-dokulen-yola-toprak-tasiyan-polise-tesekkur-959096.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T19:20:00Z"
-    },
-    {
-      "title": "İran Petrol Bakanı istifa etti",
-      "link": "https://www.haberturk.com/dunya/iran-petrol-bakani-istifa-etti-3917187",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T19:18:01Z"
     }
   ]
 }
