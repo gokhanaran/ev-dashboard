@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:26:22.423751Z",
+  "generated_at": "2026-10-05T22:36:26.629957Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "6 Ekim İstanbul elektrik kesintisi programı",
+      "link": "https://www.haberturk.com/bilgi/foto/elektrikler-ne-zaman-gelecek-3917484",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T22:34:17Z"
+    },
+    {
+      "title": "Mancini'den Montella'ya övgü!",
+      "link": "https://www.haberturk.com/spor/roberto-mancini-den-vincenzo-montella-ya-ovgu-dolu-sozler-3917486",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T22:33:50Z"
+    },
+    {
+      "title": "VGM burs başvurusu nasıl yapılır?",
+      "link": "https://www.haberturk.com/bilgi/foto/vgm-burs-basvuru-ekrani-vakiflar-genel-mudurlugu-vgm-burs-basvurusu-nasil-yapilir-burs-ucreti-ne-kadar-3917481",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T22:30:46Z"
+    },
     {
       "title": "Mancini, Montella'ya övgüler yağdırdı",
       "link": "https://www.sozcu.com.tr/mancini-montella-ya-ovguler-yagdirdi-p366463",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/mhk-baskanligi-icin-surpriz-isim-20-yil-hakemlik-yapti-p366407",
       "source": "Sözcü",
       "published_at": "2026-10-05T15:38:48Z"
-    },
-    {
-      "title": "Nereden nereye! Bir dönem çoğu kişinin özendiği isim Nişantaşı'nda böyle görüntülendi",
-      "link": "https://www.sozcu.com.tr/nereden-nereye-bir-donem-cogu-kisinin-ozendigi-isim-nisantasi-nda-boyle-goruntulendi-p366408",
-      "source": "Sözcü",
-      "published_at": "2026-10-05T15:37:29Z"
-    },
-    {
-      "title": "Cemil Tugay iddiasına yanıt",
-      "link": "https://www.haberturk.com/gundem/chp-sozcusu-zeynel-emre-cemil-tugay-in-bizimle-iletisimi-bulunmuyor-3917417",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T15:37:13Z"
-    },
-    {
-      "title": "SpaceX yöneticilerini kabul etti",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-spacex-yoneticilerini-kabul-etti-3917416",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T15:28:07Z"
     }
   ]
 }
