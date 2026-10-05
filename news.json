@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:54:01.905216Z",
+  "generated_at": "2026-10-05T06:59:05.272376Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Mason Greenwood'da ceza riski, gözler hakem raporunda",
+      "link": "https://www.sozcu.com.tr/mason-greenwoodda-ceza-riski-gozler-hakem-raporunda-p366216",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T06:58:30Z"
+    },
+    {
+      "title": "Türkiye Kupası'nda ikinci eleme turu başlıyor!",
+      "link": "https://www.haberturk.com/spor/ziraat-turkiye-kupasi-nda-ikinci-eleme-turu-basliyor-3917250",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:56:23Z"
+    },
+    {
+      "title": "Küresel piyasalar haftaya karışık seyirle başladı",
+      "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalar-haftaya-karisik-seyirle-basladi-3917251",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:56:01Z"
+    },
+    {
+      "title": "9'uncu kez ameliyat oldu",
+      "link": "https://www.haberturk.com/magazin/danla-bilic-9-uncu-kez-ameliyat-oldu-3917162",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:55:34Z"
+    },
+    {
+      "title": "Çocuklukta hayvana şiddet göz ardı edilmemeli",
+      "link": "https://www.haberturk.com/saglik/cocuklukta-hayvana-siddet-goz-ardi-edilmemeli-3917246",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:55:30Z"
+    },
+    {
+      "title": "17 düzensiz göçmen yakalandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-edirne-ve-kirklareli-nde-17-duzensiz-gocmen-yakalandi-3917248",
+      "source": "Habertürk",
+      "published_at": "2026-10-05T06:54:38Z"
+    },
+    {
+      "title": "Türkan Şoray yeğeninin düğününe katıldı: Üç kız kardeşin mutlu günü",
+      "link": "https://www.sozcu.com.tr/turkan-soray-yegeninin-dugunune-katildi-uc-kiz-kardesin-mutlu-gunu-p366214",
+      "source": "Sözcü",
+      "published_at": "2026-10-05T06:54:00Z"
+    },
     {
       "title": "Türkiye Kupası'nda ikinci eleme turu 4 maçla başlıyor",
       "link": "https://www.sozcu.com.tr/turkiye-kupasi-nda-ikinci-eleme-turu-4-macla-basliyor-p366213",
@@ -408,12 +450,6 @@
       "published_at": "2026-10-05T04:58:27Z"
     },
     {
-      "title": "9'uncu kez ameliyat oldu",
-      "link": "https://www.haberturk.com/magazin/danla-bilic-9-uncu-kez-ameliyat-oldu-3917162",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T04:57:15Z"
-    },
-    {
       "title": "Eski bürokrat 20 milyar TL çekip yurt dışına kaçtı",
       "link": "https://www.sozcu.com.tr/fatma-dan-acari-nacar-p366144",
       "source": "Sözcü",
@@ -718,42 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-uzayin-gelecegi-5-9-ekimde-antalyada-konusulacak-959100.html",
       "source": "TRT Haber",
       "published_at": "2026-10-04T20:38:00Z"
-    },
-    {
-      "title": "AFAD, Adana'daki depreme ilişkin ön değerlendirme raporunu yayımladı",
-      "link": "https://www.trthaber.com/haber/turkiye/afad-adanadaki-depreme-iliskin-on-degerlendirme-raporunu-yayimladi-959099.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-04T20:02:00Z"
-    },
-    {
-      "title": "TFF Serdal Adalı'yı tebrik etti",
-      "link": "https://www.sozcu.com.tr/tff-serdal-adali-yi-tebrik-etti-p366119",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T19:53:54Z"
-    },
-    {
-      "title": "Yaprak Dökümü'nün Hayriye'si eridi! Güven Hokna bambaşka biri oldu",
-      "link": "https://www.sozcu.com.tr/yaprak-dokumu-nun-hayriye-si-eridi-guven-hokna-bambaska-biri-oldu-p366117",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T19:53:05Z"
-    },
-    {
-      "title": "Nehir kıyısından 17 milyon ton radyoaktif atık çıkarıldı",
-      "link": "https://www.sozcu.com.tr/nehir-kiyisindan-17-milyon-ton-radyoaktif-atik-cikarildi-p366116",
-      "source": "Sözcü",
-      "published_at": "2026-10-04T19:49:01Z"
-    },
-    {
-      "title": "İsrail'e ek asker ve uçak sevkiyatı iddiası",
-      "link": "https://www.haberturk.com/dunya/israil-e-ek-asker-ve-ucak-sevkiyati-iddiasi-3917199",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T19:45:16Z"
-    },
-    {
-      "title": "\"Güzel sonuç alacağımıza dair ümitliyim\"",
-      "link": "https://www.haberturk.com/spor/italya-maci-oncesi-a-milli-takim-teknik-direktoru-vincenzo-montella-guzel-bir-sonuc-alacagimiza-dair-umitliyim-3917201",
-      "source": "Habertürk",
-      "published_at": "2026-10-04T19:43:34Z"
     }
   ]
 }
