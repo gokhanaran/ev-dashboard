@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:56:38.019090Z",
+  "generated_at": "2026-10-06T22:01:42.071538Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yıllar sonra anlattı! Oya Başar'dan Levent Kırca itirafı",
+      "link": "https://www.sozcu.com.tr/oya-basar-levent-kirca-itirafi-p366800",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T22:00:24Z"
+    },
     {
       "title": "İdam edildikten sonra hayatta kalan kadının bilinci açıldı",
       "link": "https://www.sozcu.com.tr/idam-edildikten-sonra-hayatta-kalan-kadinin-bilinci-acildi-p366798",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/fon-tasfiyesine-iliskin-kanun-teklifi-meclise-sunulacak-959306.html",
       "source": "TRT Haber",
       "published_at": "2026-10-06T14:42:00Z"
-    },
-    {
-      "title": "İzmir'de katı atık tesisinde ele geçirildi",
-      "link": "https://www.haberturk.com/gundem/izmir-de-kati-atik-tesisinde-ele-gecirildi-3917711",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T14:38:53Z"
     }
   ]
 }
