@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:18:53.426966Z",
+  "generated_at": "2026-10-06T10:28:57.547752Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Hayalî’nin Hayali\" Muhsin Ertuğrul Sahnesi’nde",
+      "link": "https://www.haberturk.com/kultur-sanat/hayalnin-hayali-muhsin-ertugrul-sahnesinde-3917640",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T10:25:10Z"
+    },
+    {
+      "title": "Yeni asgari ücret için en güçlü 2 rakam ortaya çıktı",
+      "link": "https://www.sozcu.com.tr/yeni-asgari-ucret-icin-en-guclu-2-rakam-ortaya-cikti-p366633",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T10:25:02Z"
+    },
     {
       "title": "Akaryakıttan ekmeğe, altından dolara: 6 yılda fiyatlar katlandı",
       "link": "https://www.sozcu.com.tr/akaryakittan-ekmege-altindan-dolara-6-yilda-fiyatlar-katlandi-p366606",
@@ -220,6 +232,12 @@
       "link": "https://www.haberturk.com/dunya/meloni-den-yapay-zeka-hamlesi-3917617",
       "source": "Habertürk",
       "published_at": "2026-10-06T09:24:33Z"
+    },
+    {
+      "title": "Katil İsrail'in Gazze Şeridi'ndeki soykırımında en ağır bedeli çocuklar ödedi",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazze-seridindeki-soykiriminda-en-agir-bedeli-cocuklar-odedi-959283.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T09:24:00Z"
     },
     {
       "title": "Katil İsrail'in Gazze Şeridi'ndeki soykırımına en ağır bedel çocukların",
@@ -696,6 +714,12 @@
       "published_at": "2026-10-06T07:51:35Z"
     },
     {
+      "title": "Güney Kore'den Kuzey Kore'ye mayın operasyonu",
+      "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-mayin-operasyonu-959259.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T07:51:00Z"
+    },
+    {
       "title": "Güney Kore'den Kuzey Kore'ye kararlı karşılık",
       "link": "https://www.trthaber.com/haber/dunya/guney-koreden-kuzey-koreye-kararli-karsilik-959259.html",
       "source": "TRT Haber",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/saglik/istanbul-modern-de-meme-kanseri-farkindaligi-sanat-etkinlikleriyle-ele-alinacak-3917552",
       "source": "Habertürk",
       "published_at": "2026-10-06T07:43:55Z"
-    },
-    {
-      "title": "Kuyumcukent’te operasyon: 35 gözaltı kararı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-istanbul-kuyumcukentte-dolandiricilik-operasyonu-35-supheliye-gozalti-karari-3917545",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T07:43:51Z"
-    },
-    {
-      "title": "90’larda kaleciler neden böyle giyiniyordu?",
-      "link": "https://www.haberturk.com/yasam/neon-renkler-dev-desenler-gri-esofmanlar-90larda-kaleciler-neden-boyle-giyiniyordu-3914287",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T07:43:35Z"
-    },
-    {
-      "title": "Milli yıldızın hareketi Galatasaraylıları küplere bindirdi",
-      "link": "https://www.sozcu.com.tr/milli-yildizin-hareketi-galatasaraylilari-kuplere-bindirdi-p366572",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T07:41:42Z"
-    },
-    {
-      "title": "Ünlü oyuncunun maraton koşusu",
-      "link": "https://www.haberturk.com/magazin/foto/hollywood-u-terk-edip-ispanya-ya-yerlesen-amber-heard-un-yari-maraton-sevinci-3917544",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T07:37:32Z"
     }
   ]
 }
