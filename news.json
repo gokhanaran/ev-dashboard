@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:04:52.181358Z",
+  "generated_at": "2026-10-06T17:09:56.173755Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/fenerbahce-de-hazirliklar-tam-gaz-suruyor-p366739",
       "source": "Sözcü",
       "published_at": "2026-10-06T17:02:46Z"
+    },
+    {
+      "title": "Muğla'da 34 düzensiz göçmen yakalandı",
+      "link": "https://www.trthaber.com/haber/turkiye/muglada-34-duzensiz-gocmen-yakalandi-959315.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T16:57:00Z"
     },
     {
       "title": "Ali Emre Ballı ölü bulundu",
@@ -142,6 +148,12 @@
       "link": "https://www.haberturk.com/spor/caykur-rizesporlu-attila-mocsi-fenerbahce-macindan-olumlu-sonuc-bekliyor-3917739",
       "source": "Habertürk",
       "published_at": "2026-10-06T16:07:53Z"
+    },
+    {
+      "title": "İşgalci İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine topçu saldırılarını sürdürdü",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilarini-surdurdu-959313.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T16:07:00Z"
     },
     {
       "title": "Litvanya'da kitle imha silahlarına dair ilk onay",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/yogurt-ve-ayranda-eksi-maya-ve-kara-maya-ifadelerine-yasak-geliyor-3917678",
       "source": "Habertürk",
       "published_at": "2026-10-06T12:13:29Z"
-    },
-    {
-      "title": "Akrabası yol kavgasında hayattan kopardı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-akrabasi-yol-kavgasinda-hayattan-kopardi-ordu-haberleri-3917677",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T12:12:13Z"
-    },
-    {
-      "title": "Marmara'da kirliliğe yol açtı! Ceza yağdı!",
-      "link": "https://www.haberturk.com/gundem/marmara-da-kirlilige-yol-acti-ceza-yagdi-3917667",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T12:12:07Z"
     }
   ]
 }
