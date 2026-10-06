@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:24:17.891561Z",
+  "generated_at": "2026-10-06T03:29:21.559363Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-parayi-tmsf-ye-gonderdi-p366434",
       "source": "Sözcü",
       "published_at": "2026-10-06T03:21:57Z"
+    },
+    {
+      "title": "Meclis yeni yasama yılına yoğun gündemle başlıyor",
+      "link": "https://www.trthaber.com/haber/gundem/meclis-yeni-yasama-yilina-yogun-gundemle-basliyor-959212.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T03:01:00Z"
     },
     {
       "title": "Tüp bebekte ‘Yapay Zeka’nın avantajları",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ikinci-cocuk-hayali-dorduz-mutluluga-donustu-3917426",
       "source": "Habertürk",
       "published_at": "2026-10-05T16:26:17Z"
-    },
-    {
-      "title": "F.Bahçe'nin eski kalecisi hayatını kaybetti",
-      "link": "https://www.haberturk.com/spor/fenerbahce-nin-eski-kalecisi-ilie-datcu-hayatini-kaybetti-3917409",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T16:17:41Z"
     }
   ]
 }
