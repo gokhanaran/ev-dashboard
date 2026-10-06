@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:13:50.653604Z",
+  "generated_at": "2026-10-06T10:18:53.426966Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Akaryakıttan ekmeğe, altından dolara: 6 yılda fiyatlar katlandı",
+      "link": "https://www.sozcu.com.tr/akaryakittan-ekmege-altindan-dolara-6-yilda-fiyatlar-katlandi-p366606",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T10:14:58Z"
+    },
+    {
+      "title": "Tarlanın üstüne güneş paneli kurdu: Yarısını komşulara veriyor",
+      "link": "https://www.sozcu.com.tr/tarlanin-ustune-gunes-paneli-kurdu-yarisini-komsulara-veriyor-p366630",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T10:12:43Z"
+    },
     {
       "title": "ÇBK Mersin'in Süper Kupa'daki rakibi Fenerbahçe: 'Kupayı kazanmak istiyoruz'",
       "link": "https://www.sozcu.com.tr/cbk-mersin-in-super-kupa-daki-rakibi-fenerbahce-kupayi-kazanmak-istiyoruz-p366628",
@@ -136,6 +148,12 @@
       "link": "https://www.sozcu.com.tr/ozgur-ozel-konusuyor-asrin-soygunu-ve-vurgunuyla-karsi-karsiyayiz-p366603",
       "source": "Sözcü",
       "published_at": "2026-10-06T09:46:22Z"
+    },
+    {
+      "title": "Almanya'da eski istihbarat şefi casusluktan gözaltında",
+      "link": "https://www.trthaber.com/haber/dunya/almanyada-eski-istihbarat-sefi-casusluktan-gozaltinda-959287.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T09:46:00Z"
     },
     {
       "title": "Bozdağ TBMM Başkanvekilliği'nden istifa etti",
@@ -272,12 +290,6 @@
     {
       "title": "Milli ara Göztepe'ye ilaç oldu",
       "link": "https://www.sozcu.com.tr/milli-ara-goztepe-ye-ilac-oldu-p366607",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T09:05:41Z"
-    },
-    {
-      "title": "Akaryakıttan ekmeğe, altından dolara: 6 yılda fiyatlar katlandı",
-      "link": "https://www.sozcu.com.tr/akaryakittan-ekmege-altindan-dolara-6-yilda-fiyatlar-katlandi-p366606",
       "source": "Sözcü",
       "published_at": "2026-10-06T09:05:41Z"
     },
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/hollywood-u-terk-edip-ispanya-ya-yerlesen-amber-heard-un-yari-maraton-sevinci-3917544",
       "source": "Habertürk",
       "published_at": "2026-10-06T07:37:32Z"
-    },
-    {
-      "title": "İsrail ordusuna Gazze'de hazırlıkları artırma talimatı",
-      "link": "https://www.haberturk.com/dunya/israil-de-secimler-yaklasirken-savunma-bakani-katz-orduya-gazze-de-hazirliklari-artirma-talimati-3917560",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T07:34:05Z"
-    },
-    {
-      "title": "Togg ekim kampanyasını duyurdu",
-      "link": "https://www.haberturk.com/ekonomi/toggdan-ekim-ayina-ozel-0-faiz-kampanyasi-3917558",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T07:33:16Z"
     }
   ]
 }
