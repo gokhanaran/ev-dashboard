@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:31:22.299179Z",
+  "generated_at": "2026-10-06T21:36:26.057500Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Özel'den \"İzmir\" açıklaması",
+      "link": "https://www.haberturk.com/gundem/ozgur-ozel-den-izmir-aciklamasi-3917781",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T21:27:47Z"
+    },
+    {
+      "title": "Donald Trump: Milyonlarca varil petrol taşındı",
+      "link": "https://www.haberturk.com/dunya/donald-trump-milyonlarca-varil-petrol-tasindi-3917773",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T21:23:30Z"
+    },
     {
       "title": "Trump’tan petrol fiyatlarını hareketlendirecek sözler: ‘Milyonlarca varil’ diyerek duyurdu",
       "link": "https://www.sozcu.com.tr/trump-tan-petrol-fiyatlarini-hareketlendirecek-sozler-milyonlarca-varil-diyerek-duyurdu-p366786",
@@ -112,12 +124,6 @@
       "link": "https://www.sozcu.com.tr/akpnin-izmir-paylasimina-ozgur-ozelden-tepki-gecikmedi-p366777",
       "source": "Sözcü",
       "published_at": "2026-10-06T20:14:26Z"
-    },
-    {
-      "title": "Donald Trump: Milyonlarca varil petrol taşındı",
-      "link": "https://www.haberturk.com/dunya/donald-trump-milyonlarca-varil-petrol-tasindi-3917773",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T20:10:32Z"
     },
     {
       "title": "Vahap Seçer dahil 4 belediye başkanı ve 1 başkanvekili görevden uzaklaştırıldı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/biyolojik-yaslanma-hizini-12-haftada-yavaslatin-3917708",
       "source": "Habertürk",
       "published_at": "2026-10-06T14:24:16Z"
-    },
-    {
-      "title": "TFF'den seçim kararı: Gözler cuma gününe çevrildi",
-      "link": "https://www.sozcu.com.tr/tff-yonetim-kurulu-ndan-flas-karar-cuma-gunu-belli-olacak-p366690",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T14:17:22Z"
     }
   ]
 }
