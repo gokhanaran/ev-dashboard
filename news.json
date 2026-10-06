@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:01:42.071538Z",
+  "generated_at": "2026-10-06T22:11:48.735721Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "TFF'den seçim kararı: Gözler cuma gününe çevrildi",
+      "link": "https://www.sozcu.com.tr/tff-yonetim-kurulu-ndan-flas-karar-cuma-gunu-belli-olacak-p366690",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T22:07:37Z"
+    },
+    {
+      "title": "İklim krizine karşı çağrı",
+      "link": "https://www.haberturk.com/gundem/cop31-baskani-kurum-dan-dunyaya-iklim-krizine-karsi-cagri-3917784",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T22:04:21Z"
+    },
+    {
       "title": "Yıllar sonra anlattı! Oya Başar'dan Levent Kırca itirafı",
       "link": "https://www.sozcu.com.tr/oya-basar-levent-kirca-itirafi-p366800",
       "source": "Sözcü",
@@ -46,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/idam-edildikten-sonra-hayatta-kalan-kadinin-bilinci-acildi-p366798",
       "source": "Sözcü",
       "published_at": "2026-10-06T21:53:18Z"
+    },
+    {
+      "title": "Trump'tan İran mesajı: Bu işi bitirmemiz gerekiyor",
+      "link": "https://www.trthaber.com/haber/dunya/trumptan-iran-mesaji-bu-isi-bitirmemiz-gerekiyor-959331.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T21:52:00Z"
     },
     {
       "title": "İşgalci İsrailliler, Batı Şeriada evini kuşattıkları Filistinli çifti yaraladı",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/icinde-cenaze-bulunan-tabut-aractan-dustu-3917715",
       "source": "Habertürk",
       "published_at": "2026-10-06T14:47:12Z"
-    },
-    {
-      "title": "IMF'den enflasyon değerlendirmesi",
-      "link": "https://www.haberturk.com/ekonomi/imf-yasam-maliyeti-krizlerinin-enflasyon-beklentilerini-yukselttigini-belirtti-3917718",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T14:47:02Z"
-    },
-    {
-      "title": "TFF Başkanlığı için sürpriz isim! Eski Beşiktaş başkanından yeşil ışık",
-      "link": "https://www.sozcu.com.tr/tff-baskanligi-icin-surpriz-isim-eski-besiktas-baskanindan-yesil-isik-p366709",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T14:42:59Z"
-    },
-    {
-      "title": "Fon tasfiyesine ilişkin kanun teklifi Meclis'e sunulacak",
-      "link": "https://www.trthaber.com/haber/gundem/fon-tasfiyesine-iliskin-kanun-teklifi-meclise-sunulacak-959306.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-06T14:42:00Z"
     }
   ]
 }
