@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:25:06.478429Z",
+  "generated_at": "2026-10-06T17:30:09.979796Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "AKP'den İzmir marşlı '7 Ekim' paylaşımı!",
+      "link": "https://www.sozcu.com.tr/akp-paylasimi-6-ekim-2026-p366741",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T17:27:03Z"
+    },
+    {
       "title": "95 gözaltı! Çağrı merkezine operasyon",
       "link": "https://www.haberturk.com/gundem/son-dakika-95-gozalti-cagri-merkezine-operasyon-3917743",
       "source": "Habertürk",
-      "published_at": "2026-10-06T17:21:16Z"
+      "published_at": "2026-10-06T17:23:25Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Hind Rajab'ın ailesini kabul etti",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-filistinli-hind-rajab-in-ailesini-kabul-etti-3917745",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T17:23:22Z"
     },
     {
       "title": "Krizin kilit ismi otomobilinde intihar etti: Fon krizi can aldı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/bilim-teknoloji/77-uluslararasi-uzay-kongresi-9-ekimde-halka-aciliyor-959298.html",
       "source": "TRT Haber",
       "published_at": "2026-10-06T12:18:00Z"
-    },
-    {
-      "title": "TFF'de bir istifa daha: 'Türk futboluna borçluyuz'",
-      "link": "https://www.sozcu.com.tr/tffde-istifa-depremi-olaganustu-secim-cagrisi-p366664",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T12:13:35Z"
-    },
-    {
-      "title": "Yoğurt ve ayranda \"ekşi maya\" ve \"kara maya\" ifadelerine yasak geliyor",
-      "link": "https://www.haberturk.com/ekonomi/yogurt-ve-ayranda-eksi-maya-ve-kara-maya-ifadelerine-yasak-geliyor-3917678",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T12:13:29Z"
     }
   ]
 }
