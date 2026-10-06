@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:11:48.735721Z",
+  "generated_at": "2026-10-06T22:16:52.646187Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Lübnan'ın 2 limanı \"IMEC Limanlar Kulübü\"ne katıldı",
+      "link": "https://www.haberturk.com/dunya/lubnan-in-2-limani-imec-limanlar-kulubune-katildi-3917785",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T22:09:13Z"
+    },
     {
       "title": "TFF'den seçim kararı: Gözler cuma gününe çevrildi",
       "link": "https://www.sozcu.com.tr/tff-yonetim-kurulu-ndan-flas-karar-cuma-gunu-belli-olacak-p366690",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-mersin-operasyonu-goruntulerine-sorusturma-p366704",
       "source": "Sözcü",
       "published_at": "2026-10-06T14:50:27Z"
-    },
-    {
-      "title": "Tabut, cenaze aracından düştü",
-      "link": "https://www.haberturk.com/gundem/icinde-cenaze-bulunan-tabut-aractan-dustu-3917715",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T14:47:12Z"
     }
   ]
 }
