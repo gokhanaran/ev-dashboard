@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:34:25.288070Z",
+  "generated_at": "2026-10-06T03:44:31.373070Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Eyüpsultan Belediye Başkanı Özmen tutuklandı",
+      "link": "https://www.haberturk.com/gundem/eyupsultan-belediye-baskani-ozmen-tutuklandi-3917491",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T03:38:47Z"
+    },
+    {
+      "title": "Masterchef para ödülünü kim aldı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-para-odulunu-kim-aldi-5-ekim-masterchef-odul-oyununu-kim-kazandi-3917464",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T03:32:33Z"
+    },
+    {
       "title": "İstanbul'da baraj doluluk oranı yüzde kaç oldu?",
       "link": "https://www.haberturk.com/bilgi/foto/iski-5-ekim-baraj-doluluk-orani-istanbul-barajlarinda-doluluk-orani-yuzde-kac-oldu-3917413",
       "source": "Habertürk",
       "published_at": "2026-10-06T03:27:06Z"
+    },
+    {
+      "title": "TCMB Başkanı Karahan Meclis'te sunum yapacak",
+      "link": "https://www.trthaber.com/haber/ekonomi/tcmb-baskani-karahan-mecliste-sunum-yapacak-959213.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T03:27:00Z"
     },
     {
       "title": "DHA: Fatma Betül Sayan Kaya parayı TMSF'ye gönderdi",
@@ -52,6 +70,12 @@
       "link": "https://www.trthaber.com/haber/gundem/meclis-yeni-yasama-yilina-yogun-gundemle-basliyor-959212.html",
       "source": "TRT Haber",
       "published_at": "2026-10-06T03:01:00Z"
+    },
+    {
+      "title": "Gümüşhane'de durakta bekleyen kadın kazadan kıl payı kurtuldu",
+      "link": "https://www.trthaber.com/haber/turkiye/gumushanede-durakta-bekleyen-kadin-kazadan-kil-payi-kurtuldu-959211.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T02:41:00Z"
     },
     {
       "title": "Tüp bebekte ‘Yapay Zeka’nın avantajları",
@@ -268,12 +292,6 @@
       "link": "https://www.haberturk.com/spor/icardi-galatasaray-a-geri-donecek-mi-dursun-ozbek-acikladi-3917475",
       "source": "Habertürk",
       "published_at": "2026-10-05T21:34:13Z"
-    },
-    {
-      "title": "Masterchef para ödülünü kim aldı?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-para-odulunu-kim-aldi-5-ekim-masterchef-odul-oyununu-kim-kazandi-3917464",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T21:29:07Z"
     },
     {
       "title": "28 Ekim resmi tatil mi?",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/17-il-icin-kuvvetli-saganak-uyarisi-3917433",
       "source": "Habertürk",
       "published_at": "2026-10-05T16:42:30Z"
-    },
-    {
-      "title": "TUSAŞ ve ROKETSAN, HÜRSAT için imzaları attı",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/tusas-ve-roketsan-hursat-icin-imzalari-atti-959188.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-05T16:34:00Z"
-    },
-    {
-      "title": "R.Madrid Arda’yla nikah tazeliyor!",
-      "link": "https://www.haberturk.com/spor/foto/real-madrid-arda-guler-le-nikah-tazeliyor-3917415",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T16:30:25Z"
-    },
-    {
-      "title": "Neye niyet neye kısmet",
-      "link": "https://www.haberturk.com/gundem/ikinci-cocuk-hayali-dorduz-mutluluga-donustu-3917426",
-      "source": "Habertürk",
-      "published_at": "2026-10-05T16:26:17Z"
     }
   ]
 }
