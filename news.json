@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:40:41.754918Z",
+  "generated_at": "2026-10-07T08:45:45.227604Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,54 @@
   ],
   "items": [
     {
+      "title": "Galatasaray sıkışık fikstürde avantaja sahip",
+      "link": "https://www.sozcu.com.tr/galatasaray-sikisik-fiksturde-avantaja-sahip-p366944",
+      "source": "Sözcü",
+      "published_at": "2026-10-07T08:44:29Z"
+    },
+    {
+      "title": "SON DAKİKA... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AKP Genel Merkezi'nde",
+      "link": "https://www.sozcu.com.tr/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-akp-genel-merkezi-nde-p366902",
+      "source": "Sözcü",
+      "published_at": "2026-10-07T08:44:21Z"
+    },
+    {
+      "title": "Park yeri tartışması kanlı bitti: Önce öldürdü sonra balkona çıkıp ateş açtı",
+      "link": "https://www.sozcu.com.tr/park-yeri-tartismasi-kanli-bitti-once-oldurdu-sonra-balkona-cikip-ates-acti-p366941",
+      "source": "Sözcü",
+      "published_at": "2026-10-07T08:40:43Z"
+    },
+    {
+      "title": "Cemil Tugay AK Parti'ye katılacak",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cumhurbaskani-erdogan-milletvekilleriyle-bulusacak-cemil-tugay-ak-parti-ye-katilacak-3917815",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T08:40:32Z"
+    },
+    {
+      "title": "\"Bir parçam yok oldu\"",
+      "link": "https://www.haberturk.com/magazin/mustafa-ugurlu-bir-parcam-yok-oldu-3917873",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T08:38:47Z"
+    },
+    {
+      "title": "IMF başkanından liderlere enerji, bütçe ve yapay zeka uyarısı",
+      "link": "https://www.haberturk.com/ekonomi/imf-baskani-georgieva-dan-liderlere-enerji-soku-butce-ve-yapay-zeka-uyarisi-3917877",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T08:37:44Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan konuşuyor",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-959386.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T08:37:00Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3917818",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T08:36:43Z"
+    },
+    {
       "title": "Çin ve Güney Kore'nin hazinesi Türk topraklarında: Tüm dünya Türkiye'den alıyor",
       "link": "https://www.sozcu.com.tr/cin-ve-guney-kore-nin-hazinesi-turk-topraklarinda-tum-dunya-turkiye-den-aliyor-p366912",
       "source": "Sözcü",
@@ -64,12 +112,6 @@
       "link": "https://www.sozcu.com.tr/victor-osimhenin-formasina-kavusacagi-mac-belli-oldu-p366933",
       "source": "Sözcü",
       "published_at": "2026-10-07T08:32:12Z"
-    },
-    {
-      "title": "SON DAKİKA... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AKP Genel Merkezi'nde",
-      "link": "https://www.sozcu.com.tr/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-akp-genel-merkezi-nde-p366902",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T08:31:55Z"
     },
     {
       "title": "Erdal Beşikçioğlu'nu vatandaş görüntüledi: Hastanedeki bitkin hali dikkat çekti",
@@ -232,12 +274,6 @@
       "link": "https://www.haberturk.com/magazin/aleyna-tilki-cocuk-icin-evlenirim-3917812",
       "source": "Habertürk",
       "published_at": "2026-10-07T07:59:35Z"
-    },
-    {
-      "title": "Cemil Tugay AK Parti'ye katılacak",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cumhurbaskani-erdogan-milletvekilleriyle-bulusacak-cemil-tugay-ak-parti-ye-katilacak-3917815",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T07:58:35Z"
     },
     {
       "title": "Brent petrol 100 doların üstünde",
@@ -718,42 +754,6 @@
       "link": "https://www.sozcu.com.tr/kafa-kafaya-facia-4-olu-1-yarali-p366813",
       "source": "Sözcü",
       "published_at": "2026-10-07T04:59:25Z"
-    },
-    {
-      "title": "Palamut fiyatı düştükçe düştü: Artık resmen su daha pahalı",
-      "link": "https://www.sozcu.com.tr/palamut-fiyati-dustukce-dustu-artik-resmen-su-daha-pahali-p366823",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T04:52:33Z"
-    },
-    {
-      "title": "Bugünden itibaren geçerli olacak: Kuyumcudan altın almak isteyen bu belgeyi göstermek zorunda!",
-      "link": "https://www.sozcu.com.tr/bugunden-itibaren-gecerli-olacak-kuyumcudan-altin-almak-isteyen-bu-belgeyi-gostermek-zorunda-p366825",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T04:52:15Z"
-    },
-    {
-      "title": "Altın kritik açıklama öncesinde direniyor! Yeni hedef belli oldu",
-      "link": "https://www.sozcu.com.tr/altin-kritik-aciklama-oncesinde-direniyor-yeni-hedef-belli-oldu-p366822",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T04:49:38Z"
-    },
-    {
-      "title": "Ne İstanbul ne Ankara ne de İzmir: Türkiye'nin en mutlu şehri belli oldu",
-      "link": "https://www.sozcu.com.tr/ne-istanbul-ne-ankara-ne-de-izmir-turkiye-nin-en-mutlu-sehri-belli-oldu-p366824",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T04:47:05Z"
-    },
-    {
-      "title": "Krizin kilit ismi otomobilinde intihar etti: Fon krizi can aldı",
-      "link": "https://www.sozcu.com.tr/ali-emre-balli-otomobilinde-olu-bulundu-iddiasi-p366723",
-      "source": "Sözcü",
-      "published_at": "2026-10-07T04:46:37Z"
-    },
-    {
-      "title": "ABD'de başarısız infaz skandalı",
-      "link": "https://www.haberturk.com/dunya/abd-de-basarisiz-infaz-skandali-3917804",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T04:36:41Z"
     }
   ]
 }
