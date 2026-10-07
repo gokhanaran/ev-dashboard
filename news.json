@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:16:43.301045Z",
+  "generated_at": "2026-10-07T22:21:46.529459Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Balıkesir'de yağ fabrikasında yangın",
+      "link": "https://www.haberturk.com/gundem/balikesir-de-yag-fabrikasinda-yangin-3918027",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T22:14:10Z"
+    },
     {
       "title": "Kozalak tartışması kanlı bitti: Eski muhtar hayatını kaybetti",
       "link": "https://www.sozcu.com.tr/kozalak-tartismasi-kanli-bitti-eski-muhtar-hayatini-kaybetti-p367141",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/28-ekim-resmi-tatil-mi-29-ekim-cumhuriyet-bayrami-tatil-mi-okullar-ve-is-yerleri-acik-mi-3917461",
       "source": "Habertürk",
       "published_at": "2026-10-07T14:59:19Z"
-    },
-    {
-      "title": "VGM burs başvurusu nasıl yapılır?",
-      "link": "https://www.haberturk.com/bilgi/foto/vgm-burs-basvuru-ekrani-vakiflar-genel-mudurlugu-vgm-burs-basvurusu-nasil-yapilir-burs-ucreti-ne-kadar-3917481",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T14:59:05Z"
     }
   ]
 }
