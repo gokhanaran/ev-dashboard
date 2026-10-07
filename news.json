@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:21:46.529459Z",
+  "generated_at": "2026-10-07T22:46:59.877831Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İran, ABD'nin müzakerelerde sunduğu önerilere yanıtını arabulucular üzerinden iletecek",
+      "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-muzakerelerde-sundugu-onerilere-yanitini-arabulucular-uzerinden-iletecek-959469.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T22:37:00Z"
+    },
     {
       "title": "Balıkesir'de yağ fabrikasında yangın",
       "link": "https://www.haberturk.com/gundem/balikesir-de-yag-fabrikasinda-yangin-3918027",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/kpss-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-kpss-on-lisans-sonuclari-sorgulama-ekrani-3917423",
       "source": "Habertürk",
       "published_at": "2026-10-07T14:59:29Z"
-    },
-    {
-      "title": "28 Ekim resmi tatil mi?",
-      "link": "https://www.haberturk.com/bilgi/foto/28-ekim-resmi-tatil-mi-29-ekim-cumhuriyet-bayrami-tatil-mi-okullar-ve-is-yerleri-acik-mi-3917461",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T14:59:19Z"
     }
   ]
 }
