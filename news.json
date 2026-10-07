@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:20:27.808999Z",
+  "generated_at": "2026-10-07T16:25:31.314828Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Borsa günü düşüşle tamamladı",
+      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3917979",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T16:19:13Z"
+    },
     {
       "title": "Şener Üşümezsoy’un işaret ettiği yerde peş peşe depremler",
       "link": "https://www.sozcu.com.tr/sener-usumezsoy-un-isaret-ettigi-yerde-pes-pese-depremler-p367083",
@@ -696,6 +702,12 @@
       "published_at": "2026-10-07T12:23:54Z"
     },
     {
+      "title": "Fatma Betül Sayan Kaya ile eşinin ifadeleri alındı",
+      "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-ile-esinin-ifadeleri-alindi-959423.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T12:20:00Z"
+    },
+    {
       "title": "Fatma Betül Sayan Kaya ile eşi ifade verdi",
       "link": "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-ile-esi-ifade-verdi-959423.html",
       "source": "TRT Haber",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/yasam/denizden-tarihi-sikke-cikti-3917871",
       "source": "Habertürk",
       "published_at": "2026-10-07T12:07:14Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Putin'le görüştü",
-      "link": "https://www.haberturk.com/dunya/son-dakika-cumhurbaskani-erdogan-putin-le-gorustu-3917923",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T12:07:04Z"
-    },
-    {
-      "title": "Şanlıurfa’da e-ihracat rotası genişliyor",
-      "link": "https://www.haberturk.com/ekonomi/sanliurfada-trendyol-saticilarinin-e-ihracat-rotasi-genisliyor-urun-yelpazesi-cesitleniyor-3917933",
-      "source": "Habertürk",
-      "published_at": "2026-10-07T12:06:48Z"
     }
   ]
 }
