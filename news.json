@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:16:52.646187Z",
+  "generated_at": "2026-10-07T01:20:00.294324Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 14
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,90 @@
     }
   ],
   "items": [
+    {
+      "title": "Kafa kafaya facia: 4 ölü, 1 yaralı",
+      "link": "https://www.sozcu.com.tr/kafa-kafaya-facia-4-olu-1-yarali-p366813",
+      "source": "Sözcü",
+      "published_at": "2026-10-07T00:48:55Z"
+    },
+    {
+      "title": "Bakan Göktaş: Yeni bir özel bakım hizmet modelini hayata geçiriyoruz",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-yeni-bir-ozel-bakim-hizmet-modelini-hayata-geciriyoruz-959336.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T00:38:00Z"
+    },
+    {
+      "title": "Merz'den 'Filistin devleti' açıklaması",
+      "link": "https://www.haberturk.com/dunya/almanya-basbakani-merz-den-filistin-devleti-aciklamasi-3917794",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T00:33:53Z"
+    },
+    {
+      "title": "Bakan Göktaş'tan 'özel bakım merkezleri' paylaşımı",
+      "link": "https://www.haberturk.com/gundem/bakan-goktas-tan-ozel-bakim-merkezleri-paylasimi-3917793",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T00:22:55Z"
+    },
+    {
+      "title": "Son dakika... Ege'de peş peşe depremler! AFAD'dan açıklama geldi",
+      "link": "https://www.sozcu.com.tr/egede-pes-pese-depremler-afaddan-aciklama-geldi-p366812",
+      "source": "Sözcü",
+      "published_at": "2026-10-07T00:14:40Z"
+    },
+    {
+      "title": "Üsküdar'da yolcu vapuru tarihi yalıya çarptı",
+      "link": "https://www.trthaber.com/haber/turkiye/uskudarda-yolcu-vapuru-tarihi-yaliya-carpti-959335.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T00:13:00Z"
+    },
+    {
+      "title": "Ankara'da uygulama noktasında ateş açıldı: 1 polis şehit",
+      "link": "https://www.haberturk.com/gundem/ankara-da-uygulama-noktasinda-ates-acildi-1-polis-sehit-3917792",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T00:12:03Z"
+    },
+    {
+      "title": "Ege Denizi'nde 4,1 büyüklüğünde deprem",
+      "link": "https://www.trthaber.com/haber/turkiye/ege-denizinde-41-buyuklugunde-deprem-959334.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-07T00:00:00Z"
+    },
+    {
+      "title": "Bir gün önce nişanlanan çift kazada hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/turkiye/bir-gun-once-nisanlanan-cift-kazada-hayatini-kaybetti-959333.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T23:41:00Z"
+    },
+    {
+      "title": "Kosova'nın yeni Cumhurbaşkanı belli oldu",
+      "link": "https://www.haberturk.com/dunya/kosova-nin-yeni-cumhurbaskani-belli-oldu-3917790",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T22:58:45Z"
+    },
+    {
+      "title": "Ankara'da uygulama noktasında polise ateş açıldı: 1 şehit",
+      "link": "https://www.sozcu.com.tr/ankarada-uygulama-noktasinda-polise-ates-acildi-1-sehit-p366808",
+      "source": "Sözcü",
+      "published_at": "2026-10-06T22:58:01Z"
+    },
+    {
+      "title": "Gökçe Alkan cinayetinde bir tutuklama",
+      "link": "https://www.haberturk.com/gundem/gokce-alkan-cinayetinde-bir-tutuklama-3917788",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T22:49:16Z"
+    },
+    {
+      "title": "Üsküdar'da vapur yalıya çarptı! O anlar kamerada",
+      "link": "https://www.haberturk.com/gundem/uskudar-da-vapur-yaliya-carpti-o-anlar-kamerada-3917787",
+      "source": "Habertürk",
+      "published_at": "2026-10-06T22:44:12Z"
+    },
+    {
+      "title": "Ankara'da uygulama noktasında ateş açılması sonucu 1 polisimiz şehit oldu",
+      "link": "https://www.trthaber.com/haber/gundem/ankarada-uygulama-noktasinda-ates-acilmasi-sonucu-1-polisimiz-sehit-oldu-959332.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-06T22:16:00Z"
+    },
     {
       "title": "Lübnan'ın 2 limanı \"IMEC Limanlar Kulübü\"ne katıldı",
       "link": "https://www.haberturk.com/dunya/lubnan-in-2-limani-imec-limanlar-kulubune-katildi-3917785",
@@ -670,90 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/turkiye-avusturya-ortak-isbirligi-mekanizmasi-4-toplantisi-yapildi-959309.html",
       "source": "TRT Haber",
       "published_at": "2026-10-06T15:23:00Z"
-    },
-    {
-      "title": "Amasya'da hayvan pazarları geçici olarak kapatıldı",
-      "link": "https://www.trthaber.com/haber/turkiye/amasyada-hayvan-pazarlari-gecici-olarak-kapatildi-959308.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-06T15:20:00Z"
-    },
-    {
-      "title": "Murat Kurum'un gömleği dikkat çekti",
-      "link": "https://www.sozcu.com.tr/murat-kurumun-gomlegi-dikkat-cekti-p366721",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T15:19:42Z"
-    },
-    {
-      "title": "Kastamonu'da kuşlar için yuvalar hazırlandı",
-      "link": "https://www.haberturk.com/gundem/kastamonu-da-kuslar-icin-yuvalar-hazirlandi-3917723",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T15:17:27Z"
-    },
-    {
-      "title": "Dünya devleri Kenan için devreye girdi!",
-      "link": "https://www.haberturk.com/spor/foto/kenan-yildiz-icin-real-madrid-bayern-munih-ve-arsenal-devreye-girdi-3917721",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T15:17:16Z"
-    },
-    {
-      "title": "Messi'den duygusal veda: \"Her şeyimi verdim\"",
-      "link": "https://www.sozcu.com.tr/messiden-duygusal-veda-her-seyimi-verdim-p366720",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T15:17:07Z"
-    },
-    {
-      "title": "Milyonlarca kişi kullanıyor olabilir: Bakanlıktan toplatma kararı",
-      "link": "https://www.sozcu.com.tr/milyonlarca-kisi-kullaniyor-olabilir-bakanliktan-toplatma-karari-p366718",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T15:13:49Z"
-    },
-    {
-      "title": "Merkez Bankası Başkanı Karahan: Fonlardaki çıkışlar mevduata yöneldi",
-      "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-baskani-karahan-fonlardaki-cikislar-mevduata-yoneldi-959307.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-06T15:13:00Z"
-    },
-    {
-      "title": "Cevdet Yılmaz, Meclis'te fon skandalı ile ilgili bilgilendirme yapacak",
-      "link": "https://www.sozcu.com.tr/cevdet-yilmaz-fon-bilgilendirmesi-yapacak-p366708",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T15:09:20Z"
-    },
-    {
-      "title": "Mirza ve Leyla'nın sessiz hasreti",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-duygu-dolu-on-izleme-3917720",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T15:05:36Z"
-    },
-    {
-      "title": "Gelin almaya giden damat çaldığı kapı açılınca neye uğradığını şaşırdı",
-      "link": "https://www.sozcu.com.tr/gelin-almaya-giden-damat-caldigi-kapi-acilinca-neye-ugradigini-sasirdi-p366716",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T15:02:40Z"
-    },
-    {
-      "title": "TL'nin reel değerinde artış",
-      "link": "https://www.haberturk.com/ekonomi/tl-nin-reel-degerinde-artis-3917719",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T15:00:16Z"
-    },
-    {
-      "title": "Kıvrımlarıyla servetine servet katarken bir anda yok oldu! Demi Rose'a ne oldu?",
-      "link": "https://www.sozcu.com.tr/kivrimlariyla-servetine-servet-katarken-bir-anda-yok-oldu-demi-rose-a-ne-oldu-p366715",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T14:57:13Z"
-    },
-    {
-      "title": "Atık malzemelerle \"Afet Eğitim ve Macera Parkı\"",
-      "link": "https://www.haberturk.com/gundem/atik-malzemelerle-afet-egitim-ve-macera-parki-3917717",
-      "source": "Habertürk",
-      "published_at": "2026-10-06T14:52:28Z"
-    },
-    {
-      "title": "Son dakika... Mersin operasyonu görüntülerine soruşturma",
-      "link": "https://www.sozcu.com.tr/son-dakika-mersin-operasyonu-goruntulerine-sorusturma-p366704",
-      "source": "Sözcü",
-      "published_at": "2026-10-06T14:50:27Z"
     }
   ]
 }
