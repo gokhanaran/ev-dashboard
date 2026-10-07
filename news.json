@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:20:00.294324Z",
+  "generated_at": "2026-10-07T01:50:16.904835Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Çorum'da can pazarı! 4 ölü, 1 ağır yaralı",
+      "link": "https://www.haberturk.com/gundem/corum-da-iki-arac-carpisti-4-olu-1-agir-yarali-3917795",
+      "source": "Habertürk",
+      "published_at": "2026-10-07T01:46:54Z"
+    },
     {
       "title": "Kafa kafaya facia: 4 ölü, 1 yaralı",
       "link": "https://www.sozcu.com.tr/kafa-kafaya-facia-4-olu-1-yarali-p366813",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/yargi-paketi-spk-duzenlemesi-ve-komisyon-gundemde-olacak-3917722",
       "source": "Habertürk",
       "published_at": "2026-10-06T15:24:34Z"
-    },
-    {
-      "title": "TürkiyeAvusturya Ortak İşbirliği Mekanizması 4. Toplantısı yapıldı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-avusturya-ortak-isbirligi-mekanizmasi-4-toplantisi-yapildi-959309.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-06T15:23:00Z"
     }
   ]
 }
