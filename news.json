@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:57:15.644419Z",
+  "generated_at": "2026-10-08T17:02:20.427211Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "'Zavadanak Dayı' Zafer Partisi'ne katıldı",
+      "link": "https://www.sozcu.com.tr/zavadanak-dayi-zafer-partisi-ne-katildi-p367437",
+      "source": "Sözcü",
+      "published_at": "2026-10-08T16:55:22Z"
+    },
+    {
+      "title": "Maltepe'de 7 katlı bina çöktü! Arama kurtarma çalışmaları başladı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-maltepe-de-7-katli-bina-coktu-arama-kurtarma-calismalari-basladi-3918035",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T16:54:11Z"
+    },
     {
       "title": "Soykırımcı İsrail, Batı Şeria'da zeytin hasadı yapan Filistinlileri koruyan aktivistleri sınır dışı etmeyi planlıyor",
       "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-zeytin-hasadi-yapan-filistinlileri-koruyan-aktivistleri-sinir-disi-etmeyi-planliyor-959567.html",
@@ -316,12 +328,6 @@
       "link": "https://www.sozcu.com.tr/deniz-akkaya-hakkinda-yakalama-karari-talep-edildi-p367406",
       "source": "Sözcü",
       "published_at": "2026-10-08T14:54:50Z"
-    },
-    {
-      "title": "Maltepe'de 7 katlı bina çöktü! Arama kurtarma çalışmaları başladı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-maltepe-de-7-katli-bina-coktu-arama-kurtarma-calismalari-basladi-3918035",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T14:53:58Z"
     },
     {
       "title": "Ordu'da bir evden 20 kamyon çöp çıkarıldı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/43-bin-fon-katilimcisinin-paralari-bankalara-transfer-edildi-p367359",
       "source": "Sözcü",
       "published_at": "2026-10-08T12:19:41Z"
-    },
-    {
-      "title": "Migros \"Et Irkı Damızlık Hayvan Çiftliği\"ni hizmete açtı",
-      "link": "https://www.haberturk.com/ekonomi/migros-et-irki-damizlik-hayvan-ciftligini-hizmete-acti-3918212",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T12:19:02Z"
     }
   ]
 }
