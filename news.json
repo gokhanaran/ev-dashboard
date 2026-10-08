@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:20:46.155528Z",
+  "generated_at": "2026-10-08T02:25:48.754184Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.haberturk.com/dunya/arap-koalisyonu-husilerin-82-askeri-hedefini-imha-etti-3918034",
       "source": "Habertürk",
       "published_at": "2026-10-08T02:06:50Z"
+    },
+    {
+      "title": "Antalya'da yaklaşık 200 bin caretta caretta yavrusu denizle buluştu",
+      "link": "https://www.trthaber.com/haber/cevre/antalyada-yaklasik-200-bin-caretta-caretta-yavrusu-denizle-bulustu-959472.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-08T02:03:00Z"
     },
     {
       "title": "Otomobil taksiye çarptı: 1 ölü, 2 yaralı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/nil-karaibrahimgil-senfonil-ile-sahnede-3917966",
       "source": "Habertürk",
       "published_at": "2026-10-07T15:26:16Z"
-    },
-    {
-      "title": "Kuzey Kore lideri Kim'den, Rusya'ya sarsılmaz destek mesajı",
-      "link": "https://www.trthaber.com/haber/dunya/kuzey-kore-lideri-kimden-rusyaya-sarsilmaz-destek-mesaji-959445.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-07T15:25:00Z"
     }
   ]
 }
