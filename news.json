@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:55:18.105813Z",
+  "generated_at": "2026-10-08T22:00:22.238209Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ünlü mutfak eşyası üreticisi iflasın eşiğinde",
+      "link": "https://www.sozcu.com.tr/seden-mutfak-sensoy-madeni-esya-konkordato-p367495",
+      "source": "Sözcü",
+      "published_at": "2026-10-08T21:51:45Z"
+    },
     {
       "title": "Sanatın tüm renkleri yeni sezonda BlackBox’ta",
       "link": "https://www.haberturk.com/kultur-sanat/sanatin-tum-renkleri-yeni-sezonda-blackboxta-3918228",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/thy-eylulde-9-milyon-yolcu-tasidi-959560.html",
       "source": "TRT Haber",
       "published_at": "2026-10-08T14:46:00Z"
-    },
-    {
-      "title": "Bina çöktü, herkes e-Devlet’e koştu: Bu kod yazıyorsa eviniz tehlikede",
-      "link": "https://www.sozcu.com.tr/maltepe-de-bina-coktu-herkes-e-devlet-e-kostu-bu-kod-yaziyorsa-eviniz-tehlikede-p367268",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T14:42:50Z"
     }
   ]
 }
