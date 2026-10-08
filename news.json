@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:16:47.374962Z",
+  "generated_at": "2026-10-08T16:26:53.667142Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Gemi kazasında 2 kişinin kimliği belirlendi",
+      "link": "https://www.haberturk.com/gundem/girnedeki-gemi-kazasinda-2-kisinin-kimligi-belirlendi-3918275",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T16:21:40Z"
+    },
+    {
+      "title": "Ceferin, yeniden UEFA Başkanlığına aday",
+      "link": "https://www.sozcu.com.tr/ceferin-yeniden-uefa-baskanligina-aday-p367429",
+      "source": "Sözcü",
+      "published_at": "2026-10-08T16:21:03Z"
+    },
     {
       "title": "Burak Yılmaz artık konuşmayacağını söyledi! 'İşin içine devlet girdi'",
       "link": "https://www.sozcu.com.tr/burak-yilmaz-artik-konusmayacagini-soyledi-isin-icine-devlet-girdi-p367426",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/maltepe-de-coken-binada-yangin-p367347",
       "source": "Sözcü",
       "published_at": "2026-10-08T11:51:32Z"
-    },
-    {
-      "title": "Yabancıdan 189,9 milyon dolarlık satış",
-      "link": "https://www.haberturk.com/ekonomi/yabancidan-189-9-milyon-dolarlik-satis-3918195",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T11:49:16Z"
-    },
-    {
-      "title": "Merkez Bankası rezervleri 3 milyar 816 milyon dolar azaldı",
-      "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervleri-3-milyar-816-milyon-dolar-azaldi-p367353",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T11:49:01Z"
     }
   ]
 }
