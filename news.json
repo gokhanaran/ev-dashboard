@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:02:20.427211Z",
+  "generated_at": "2026-10-08T17:07:24.380815Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 24
+      "items": 25
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Donald Trump: Kongre seçimlerine kadar İran'a saldırı düzenlemeyeceğiz",
+      "link": "https://www.sozcu.com.tr/donald-trump-iran-aciklamasi-8-ekim-2026-p367434",
+      "source": "Sözcü",
+      "published_at": "2026-10-08T17:07:07Z"
+    },
     {
       "title": "'Zavadanak Dayı' Zafer Partisi'ne katıldı",
       "link": "https://www.sozcu.com.tr/zavadanak-dayi-zafer-partisi-ne-katildi-p367437",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-tir-parkina-kaya-yagdi-aci-haber-geldi-artvin-haberleri-3918045",
       "source": "Habertürk",
       "published_at": "2026-10-08T12:22:50Z"
-    },
-    {
-      "title": "43 bin fon katılımcısının paraları bankalara transfer edildi",
-      "link": "https://www.sozcu.com.tr/43-bin-fon-katilimcisinin-paralari-bankalara-transfer-edildi-p367359",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T12:19:41Z"
     }
   ]
 }
