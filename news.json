@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:40:28.543251Z",
+  "generated_at": "2026-10-08T02:20:46.155528Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yemen'de Husilere ait 82 askeri hedef vuruldu",
+      "link": "https://www.haberturk.com/dunya/arap-koalisyonu-husilerin-82-askeri-hedefini-imha-etti-3918034",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T02:06:50Z"
+    },
     {
       "title": "Otomobil taksiye çarptı: 1 ölü, 2 yaralı",
       "link": "https://www.haberturk.com/gundem/kagithane-de-otomobil-taksiye-carpti-1-olu-2-yarali-3918033",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/kuzey-kore-lideri-kimden-rusyaya-sarsilmaz-destek-mesaji-959445.html",
       "source": "TRT Haber",
       "published_at": "2026-10-07T15:25:00Z"
-    },
-    {
-      "title": "AB, Rusya'ya yönelik yaptırım listesine 1646 kişi ve kuruluşu eklemeye hazırlanıyor",
-      "link": "https://www.trthaber.com/haber/dunya/ab-rusyaya-yonelik-yaptirim-listesine-1646-kisi-ve-kurulusu-eklemeye-hazirlaniyor-959444.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-07T15:23:00Z"
     }
   ]
 }
