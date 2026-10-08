@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:05:26.420812Z",
+  "generated_at": "2026-10-08T22:15:33.467860Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "20 yıl önce kaybolmuştu, Rıza Güzel’in izine ulaşıldı",
+      "link": "https://www.haberturk.com/gundem/20-yil-once-kaybolmustu-riza-guzelin-izine-ulasildi-3918314",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T22:13:37Z"
+    },
     {
       "title": "Maltepe'de 7 katlı bina çöktü! Arama kurtarma çalışmaları sürüyor",
       "link": "https://www.haberturk.com/gundem/son-dakika-maltepe-de-7-katli-bina-coktu-arama-kurtarma-calismalari-basladi-3918035",
@@ -136,6 +142,12 @@
       "link": "https://www.sozcu.com.tr/benin-den-messi-ye-fotograf-tepkisi-p367489",
       "source": "Sözcü",
       "published_at": "2026-10-08T21:28:46Z"
+    },
+    {
+      "title": "Bakan Göktaş: Muhalefeti çamur siyasetinden çıkmaya davet ediyorum",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-muhalefeti-camur-siyasetinden-cikmaya-davet-ediyorum-959583.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-08T21:23:00Z"
     },
     {
       "title": "Fon teklifinde ara ödeme düzenlemesi",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/deniz-akkaya-hakkinda-yakalama-karari-talep-edildi-p367406",
       "source": "Sözcü",
       "published_at": "2026-10-08T14:54:50Z"
-    },
-    {
-      "title": "Ordu'da bir evden 20 kamyon çöp çıkarıldı",
-      "link": "https://www.haberturk.com/gundem/ordu-da-bir-evden-20-kamyon-cop-cikarildi-3918255",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T14:48:01Z"
-    },
-    {
-      "title": "Cemil Tugay AKP rozetini taktı, 5 gün izne çıktı",
-      "link": "https://www.sozcu.com.tr/cemil-tugay-akp-rozetini-takti-5-gun-izne-cikti-p367360",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T14:46:46Z"
     }
   ]
 }
