@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:45:54.640643Z",
+  "generated_at": "2026-10-08T22:50:58.488930Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -432,6 +432,12 @@
       "published_at": "2026-10-08T17:31:27Z"
     },
     {
+      "title": "İstanbul'da 7 katlı bina kısmen çöktü: 2 kişi aranıyor",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-2-kisi-araniyor-959568.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-08T17:31:00Z"
+    },
+    {
       "title": "İstanbul'da 7 katlı bina kısmen çöktü: 3 kişi aranıyor",
       "link": "https://www.trthaber.com/haber/turkiye/istanbulda-7-katli-bina-kismen-coktu-3-kisi-araniyor-959568.html",
       "source": "TRT Haber",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/burdurda-zincirleme-trafik-kazasi-1-olu-4-yarali-959561.html",
       "source": "TRT Haber",
       "published_at": "2026-10-08T14:58:00Z"
-    },
-    {
-      "title": "Malatya'da şantiyedeki 30 konteyner yandı",
-      "link": "https://www.haberturk.com/gundem/malatya-da-santiyedeki-30-konteyner-yandi-3918256",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T14:56:28Z"
     }
   ]
 }
