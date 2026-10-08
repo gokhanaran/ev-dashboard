@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:26:28.052181Z",
+  "generated_at": "2026-10-08T09:31:31.989144Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -37,9 +37,15 @@
   "items": [
     {
       "title": "Son dakika: Türkiye Suudi Arabistan'a asker mi gönderiyor? MSB'den açıklama!",
-      "link": "https://www.sozcu.com.tr/msb-den-mekke-savunma-ittifaki-aciklamasi-p367300",
+      "link": "https://www.sozcu.com.tr/son-dakika-turkiye-suudi-arabistan-a-asker-mi-gonderiyor-msb-den-aciklama-p367300",
       "source": "Sözcü",
-      "published_at": "2026-10-08T09:23:46Z"
+      "published_at": "2026-10-08T09:26:15Z"
+    },
+    {
+      "title": "Silifke'de 2'nci dalga: 7 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-mersinin-silifke-belediyesinde-2-nci-dalga-operasyon-7-gozalti-3918151",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T09:24:08Z"
     },
     {
       "title": "28 yaşındaki Deniz Üsteğmen Hilal Aydın tarihe geçti: Denizaltı avlayacak!",
@@ -48,10 +54,22 @@
       "published_at": "2026-10-08T09:23:15Z"
     },
     {
+      "title": "Maltepe'de 7 katlı bina çöktü! Arama kurtarma çalışmaları başladı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-maltepe-de-7-katli-bina-coktu-arama-kurtarma-calismalari-basladi-3918035",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T09:20:35Z"
+    },
+    {
       "title": "Bina çöktü, herkes e-Devlet’e koştu: Bu kod yazıyorsa eviniz tehlikede",
       "link": "https://www.sozcu.com.tr/maltepe-de-bina-coktu-herkes-e-devlet-e-kostu-bu-kod-yaziyorsa-eviniz-tehlikede-p367268",
       "source": "Sözcü",
       "published_at": "2026-10-08T09:20:26Z"
+    },
+    {
+      "title": "Mekke Savunma İttifakı açıklaması",
+      "link": "https://www.haberturk.com/gundem/son-dakika-msb-den-mekke-savunma-ittifaki-aciklamasi-3918143",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T09:19:16Z"
     },
     {
       "title": "25'ine aşkıyla girdi: Gönlünü fizyoterapist çaldı",
@@ -172,12 +190,6 @@
       "link": "https://www.sozcu.com.tr/iclal-aydin-dan-30-yil-sonra-gelen-fotograf-masal-gibi-gelirdi-p367296",
       "source": "Sözcü",
       "published_at": "2026-10-08T08:56:18Z"
-    },
-    {
-      "title": "Maltepe'de 7 katlı bina çöktü! Arama kurtarma çalışmaları başladı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-maltepe-de-7-katli-bina-coktu-arama-kurtarma-calismalari-basladi-3918035",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T08:52:43Z"
     },
     {
       "title": "'Sevdan Bir Ateş' reytinglerde zirvede!",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/icardi-nin-menajeri-pino-dan-galatasaray-aciklamasi-kimse-galatasaray-a-yalvarmadi-3918072",
       "source": "Habertürk",
       "published_at": "2026-10-08T07:18:29Z"
-    },
-    {
-      "title": "Gökten kaya yağdı! TIR parkında facia!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-tir-parkina-kaya-yagdi-aci-haber-geldi-artvin-haberleri-3918045",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T07:18:14Z"
-    },
-    {
-      "title": "Galatasaray'ın konuğu Kasımpaşa!",
-      "link": "https://www.haberturk.com/spor/foto/galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3918065",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T07:17:17Z"
     }
   ]
 }
