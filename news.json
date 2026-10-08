@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:26:53.667142Z",
+  "generated_at": "2026-10-08T16:31:57.444334Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Baba ve oğulu öldürdü, evine gönderildi",
+      "link": "https://www.haberturk.com/gundem/baba-ve-ogulu-oldurdu-evine-gonderildi-3918276",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T16:25:08Z"
+    },
+    {
+      "title": "Trump: 3 Kasım'daki ara seçimlere kadar İran'a saldırı düzenlemeyecek",
+      "link": "https://www.trthaber.com/haber/dunya/trump-3-kasimdaki-ara-secimlere-kadar-irana-saldiri-duzenlemeyecek-959566.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-08T16:23:00Z"
+    },
+    {
       "title": "Gemi kazasında 2 kişinin kimliği belirlendi",
       "link": "https://www.haberturk.com/gundem/girnedeki-gemi-kazasinda-2-kisinin-kimligi-belirlendi-3918275",
       "source": "Habertürk",
@@ -46,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/ceferin-yeniden-uefa-baskanligina-aday-p367429",
       "source": "Sözcü",
       "published_at": "2026-10-08T16:21:03Z"
+    },
+    {
+      "title": "Fransa'da eylem yapan liselilerden uzaktan eğitimi engellemek için siber kuşatma girişimi",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-eylem-yapan-liselilerden-uzaktan-egitimi-engellemek-icin-siber-kusatma-girisimi-959565.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-08T16:21:00Z"
     },
     {
       "title": "Burak Yılmaz artık konuşmayacağını söyledi! 'İşin içine devlet girdi'",
@@ -118,6 +136,12 @@
       "link": "https://www.haberturk.com/gundem/137-cesit-ata-tohumu-gelecege-tasiniyor-3918268",
       "source": "Habertürk",
       "published_at": "2026-10-08T15:47:11Z"
+    },
+    {
+      "title": "Mahkeme kararı bile durduramadı: Dünyanın en temiz sularına maden atığı dökecekler",
+      "link": "https://www.sozcu.com.tr/mahkeme-karari-bile-durduramadi-dunyanin-en-temiz-sularina-maden-atigi-dokecekler-p367422",
+      "source": "Sözcü",
+      "published_at": "2026-10-08T15:47:00Z"
     },
     {
       "title": "Doktorlar hastalığına çare bulamadı, sosyal medyadan tanıştığı öğrenci hayatını değiştirdi",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/ozel-icerikler/ibrahim-yildiz/3918194-federasyon-ne-yapacak-fatih-tekke-mi-geliyor",
       "source": "Habertürk",
       "published_at": "2026-10-08T11:57:46Z"
-    },
-    {
-      "title": "Anthony Taylor ilk atamalarını yaptı! İşte seçtiği hakemler",
-      "link": "https://www.sozcu.com.tr/anthony-taylor-ilk-atamalarini-yapti-iste-sectigi-hakemler-p367355",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T11:55:58Z"
-    },
-    {
-      "title": "Merkez Bankası rezervleri geriledi",
-      "link": "https://www.haberturk.com/ekonomi/merkez-bankasi-rezervleri-167-4-milyar-dolar-oldu-3918197",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T11:55:51Z"
-    },
-    {
-      "title": "Yabancılar bu hafta hisse senedi sattı",
-      "link": "https://www.sozcu.com.tr/yabancilar-bu-hafta-hisse-senedi-satti-p367356",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T11:53:34Z"
-    },
-    {
-      "title": "Maltepe'de çöken binada yangın!",
-      "link": "https://www.sozcu.com.tr/maltepe-de-coken-binada-yangin-p367347",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T11:51:32Z"
     }
   ]
 }
