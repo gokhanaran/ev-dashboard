@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:35:47.662907Z",
+  "generated_at": "2026-10-08T22:45:54.640643Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "ABD'de \"halka açık\" infaz kararı",
+      "link": "https://www.haberturk.com/dunya/abd-de-halka-acik-infaz-karari-3918316",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T22:34:43Z"
+    },
+    {
       "title": "Kızının ölümüyle sarsılan Atilla Taş'ın yıllar önceki sözleri yürek burktu",
       "link": "https://www.sozcu.com.tr/atilla-tas-yillar-onceki-sozleri-p367459",
       "source": "Sözcü",
       "published_at": "2026-10-08T22:32:56Z"
+    },
+    {
+      "title": "Aydın merkezli uyuşturucu operasyonunda 11 tutuklama",
+      "link": "https://www.haberturk.com/gundem/aydin-merkezli-uyusturucu-operasyonunda-11-tutuklama-3918315",
+      "source": "Habertürk",
+      "published_at": "2026-10-08T22:31:18Z"
     },
     {
       "title": "Maltepe’de çöken binanın enkazından bir kişi çıkarıldı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/malatya-da-santiyedeki-30-konteyner-yandi-3918256",
       "source": "Habertürk",
       "published_at": "2026-10-08T14:56:28Z"
-    },
-    {
-      "title": "Bir kenti sarsan olay! Anne anneyi, oğlu onun oğlunu öldürdü",
-      "link": "https://www.sozcu.com.tr/bir-kenti-sarsan-olay-anne-anneyi-oglu-onun-oglunu-oldurdu-p367404",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T14:55:36Z"
-    },
-    {
-      "title": "Deniz Akkaya hakkında yakalama kararı talep edildi",
-      "link": "https://www.sozcu.com.tr/deniz-akkaya-hakkinda-yakalama-karari-talep-edildi-p367406",
-      "source": "Sözcü",
-      "published_at": "2026-10-08T14:54:50Z"
     }
   ]
 }
