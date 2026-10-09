@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:16:29.884575Z",
+  "generated_at": "2026-10-09T09:21:34.511892Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Saniyeler içinde ıslak bir çöle dönüşüyor: Halkı tahliye edecekler",
+      "link": "https://www.sozcu.com.tr/saniyeler-icinde-islak-bir-cole-donusuyor-halki-tahliye-edecekler-p367625",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T09:16:26Z"
+    },
     {
       "title": "G.Saray maçına Portekizli VAR!",
       "link": "https://www.haberturk.com/spor/galatasaray-kasimpasa-macinin-var-i-gustavo-fernandes-correia-3918415",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/resmi-ilanlar/tc-silifke-1-asliye-hukuk-mahkemesi-3918135",
       "source": "Habertürk",
       "published_at": "2026-10-09T06:37:19Z"
-    },
-    {
-      "title": "MEB, Öğretmenler Günü genelgesi yayımladı",
-      "link": "https://www.haberturk.com/gundem/mebden-24-kasim-ogretmenler-gunu-genelgesi-81-ilde-etkinlikler-duzenlenecek-haberler-3918340",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T06:37:00Z"
     }
   ]
 }
