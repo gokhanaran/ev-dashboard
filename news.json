@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:57:37.214293Z",
+  "generated_at": "2026-10-09T21:12:46.446994Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 18
+      "items": 8
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Beşiktaş, EuroLeague'de 2. galibiyetini aldı!",
+      "link": "https://www.haberturk.com/spor/thy-euroleague-de-besiktas-deplasmanda-kosner-baskonia-yi-maglup-etti-ikinci-galibiyetini-aldi-3918607",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:06:45Z"
+    },
+    {
+      "title": "ŞOK 10 Ekim aktüel ürünler kataloğu",
+      "link": "https://www.haberturk.com/bilgi/foto/sok-10-ekim-aktuel-urunler-katalogu-kamp-malzemeleri-indirimde-sok-aktuel-urunler-katalogunda-neler-hangi-indirimler-var-3918574",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:06:29Z"
+    },
+    {
+      "title": "Pastırma sıcakları geldi mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/pastirma-sicaklari-geldi-mi-2026-pastirma-yazi-ne-zaman-basliyor-ve-bitiyor-3918594",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:06:07Z"
+    },
+    {
+      "title": "Hafta sonu hava nasıl olacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/hafta-sonu-hava-durumu-10-11-ekim-ankara-izmir-istanbul-ve-diger-illerde-hava-nasil-olacak-3918600",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:05:51Z"
+    },
+    {
+      "title": "AÖL sınavları ne zaman?",
+      "link": "https://www.haberturk.com/bilgi/foto/aol-sinav-takvimi-2026-acik-ogretim-lisesi-aol-sinavlari-ne-zaman-ve-nasil-yapilacak-saat-kacta-3918603",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:05:23Z"
+    },
+    {
+      "title": "Acı günümüz",
+      "link": "https://www.haberturk.com/gundem/can-medya-grubu-bilgi-sistemleri-teknik-muduru-engin-altuntas-in-esi-serap-altuntas-vefat-etti-3918556",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:02:31Z"
+    },
     {
       "title": "\"Milli ara dönüşü galibiyetle başlamak önemliydi!\"",
       "link": "https://www.haberturk.com/spor/irfan-saraloglu-milli-aradan-donuste-lige-galibiyetle-baslamak-onemliydi-3918606",
@@ -90,12 +126,6 @@
       "published_at": "2026-10-09T20:33:58Z"
     },
     {
-      "title": "Hafta sonu hava nasıl olacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/hafta-sonu-hava-durumu-10-11-ekim-ankara-izmir-istanbul-ve-diger-illerde-hava-nasil-olacak-3918600",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:31:52Z"
-    },
-    {
       "title": "ABD ile Rusya dizel konusunda anlaştı",
       "link": "https://www.haberturk.com/dunya/trump-tan-benzin-fiyatlari-dusecek-mesaji-3918553",
       "source": "Habertürk",
@@ -148,12 +178,6 @@
       "link": "https://www.haberturk.com/spor/yunus-akgun-den-barcelona-aciklamasi-3918596",
       "source": "Habertürk",
       "published_at": "2026-10-09T20:06:36Z"
-    },
-    {
-      "title": "Pastırma sıcakları geldi mi?",
-      "link": "https://www.haberturk.com/bilgi/foto/pastirma-sicaklari-geldi-mi-2026-pastirma-yazi-ne-zaman-basliyor-ve-bitiyor-3918594",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:05:31Z"
     },
     {
       "title": "Yemen ve Suudi Arabistan'dan BMGKda Husilere karşı harekete geçme çağrısı",
@@ -336,12 +360,6 @@
       "published_at": "2026-10-09T18:36:18Z"
     },
     {
-      "title": "ŞOK 10 Ekim aktüel ürünler kataloğu",
-      "link": "https://www.haberturk.com/bilgi/foto/sok-10-ekim-aktuel-urunler-katalogu-kamp-malzemeleri-indirimde-sok-aktuel-urunler-katalogunda-neler-hangi-indirimler-var-3918574",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T18:28:34Z"
-    },
-    {
       "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
       "link": "https://www.trthaber.com/haber/turkiye/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak-959691.html",
       "source": "TRT Haber",
@@ -466,12 +484,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-hamas-heyetiyle-gorustu-959686.html",
       "source": "TRT Haber",
       "published_at": "2026-10-09T17:12:00Z"
-    },
-    {
-      "title": "Acı günümüz",
-      "link": "https://www.haberturk.com/gundem/can-medya-grubu-bilgi-sistemleri-teknik-muduru-engin-altuntas-in-esi-serap-altuntas-vefat-etti-3918556",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T17:11:14Z"
     },
     {
       "title": "Müge Anlı’daki Hamid TikTok’ta ilk yayınını açtı: Kazancı dudak uçuklattı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-9-ekim-2026-haberleri-11-ay-once-kentsel-donusum-icin-tasindi-coken-binada-hayatini-kaybetti-fonlarin-odenmesine-iliskin-kanun-teklif/920042",
       "source": "Habertürk",
       "published_at": "2026-10-09T15:12:41Z"
-    },
-    {
-      "title": "Arda Turan'ın Shakhtar'ı seriye bağladı: Ukrayna Ligi'nde liderliğini sürdürdü",
-      "link": "https://www.sozcu.com.tr/arda-turanin-shakhtari-seriye-bagladi-ukrayna-liginde-liderligi-kapti-p367720",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:10:53Z"
-    },
-    {
-      "title": "Genç kadın o anları bu notla paylaştı: Canlı yayında dikkat çeken anlar",
-      "link": "https://www.sozcu.com.tr/genc-kadin-o-anlari-bu-notla-paylasti-canli-yayinda-dikkat-ceken-anlar-p367722",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:09:17Z"
     }
   ]
 }
