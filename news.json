@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:21:00.010162Z",
+  "generated_at": "2026-10-09T16:26:04.033884Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Bodrum FK sahasında 2 golle mağlup oldu",
+      "link": "https://www.haberturk.com/spor/bodrum-fk-0-2-ankara-keciorengucu-mac-sonucu-ozeti-ve-golleri-trendyol-1-lig-3918545",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:19:58Z"
+    },
+    {
+      "title": "TFF'de seçim yok, 5 istifa var!",
+      "link": "https://www.haberturk.com/spor/son-dakika-tff-yonetim-kurulu-toplantisinda-devam-karari-cikti-5-kisi-istifa-etti-3918530",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:17:33Z"
+    },
+    {
       "title": "Maltepe'de çöken binaya ilişkin soruşturmada iki tutuklama",
       "link": "https://www.sozcu.com.tr/maltepe-de-coken-binaya-iliskin-sorusturmada-iki-tutuklama-p367730",
       "source": "Sözcü",
@@ -48,10 +60,10 @@
       "published_at": "2026-10-09T16:12:01Z"
     },
     {
-      "title": "TFF'de seçim yok, 5 istifa var!",
-      "link": "https://www.haberturk.com/spor/son-dakika-tff-yonetim-kurulu-toplantisinda-devam-karari-cikti-5-kisi-istifa-etti-3918530",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:10:36Z"
+      "title": "Türkiye ve Yunanistan arasında yeni toplantı gerçekleşti",
+      "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-yunanistan-arasinda-yeni-toplanti-gerceklesti-959682.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T16:11:00Z"
     },
     {
       "title": "İstanbul'da trafik yoğunluğu yüzde 80",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/eminevimden-600-bininci-teslimat-3918481",
       "source": "Habertürk",
       "published_at": "2026-10-09T11:57:29Z"
-    },
-    {
-      "title": "Erdoğan: Kim milletin emanetine el uzatırsa karşısında bizi bulur",
-      "link": "https://www.trthaber.com/haber/gundem/erdogan-kim-milletin-emanetine-el-uzatirsa-karsisinda-bizi-bulur-959661.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T11:54:00Z"
-    },
-    {
-      "title": "Nikah büyük bir krize dönüştü",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-ta-nikah-buyuk-bir-krize-donustu-3918459",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:50:01Z"
     }
   ]
 }
