@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:06:22.131072Z",
+  "generated_at": "2026-10-09T09:11:26.015519Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,70 @@
   ],
   "items": [
     {
+      "title": "Son dakika... 2026 Nobel Barış Ödülü'nün sahibi belli oldu",
+      "link": "https://www.sozcu.com.tr/son-dakika-2026-nobel-baris-odulu-nun-sahibi-belli-oldu-p367622",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T09:07:28Z"
+    },
+    {
+      "title": "İphone 17 ne zaman çıkacak?",
+      "link": "https://www.haberturk.com/iphone-17-ne-zaman-cikacak-apple-iphone-17-lansman-tarihi-belli-mi-3790957",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:06:14Z"
+    },
+    {
+      "title": "Ünlü oyuncunun şeffaf ayakkabıları",
+      "link": "https://www.haberturk.com/magazin/foto/alexander-skarsgard-in-seffaf-ayakkabilari-3918400",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:05:12Z"
+    },
+    {
+      "title": "Quick’den eğitimde referans proje",
+      "link": "https://www.haberturk.com/quick-sigorta-nurdaginda-hem-okul-hem-yurt-yaptiriyor-3790955-ekonomi",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:04:06Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3918355",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:04:04Z"
+    },
+    {
+      "title": "Soykırımcı İsrail ordusu, 10 Ekim 2025'ten bu yana Gazze'de ateşkesi 5 bin 223 kez ihlal etti",
+      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti-959641.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T09:03:00Z"
+    },
+    {
+      "title": "Nissan 11 bin kişiyi işten çıkarıyor",
+      "link": "https://www.haberturk.com/nissan-11-bin-kisiyi-isten-cikariyor-3790954-ekonomi",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:01:50Z"
+    },
+    {
+      "title": "Veba salgınının küresel çapta yaşanması mümkün mü?",
+      "link": "https://www.haberturk.com/saglik/veba-salgininin-kuresel-capta-yasanmasi-mumkun-mu-haberler-3918398",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T09:01:22Z"
+    },
+    {
+      "title": "OpenAI'ın gelir beklentisinde 20 milyar dolarlık düşüş",
+      "link": "https://www.trthaber.com/haber/dunya/openaiin-gelir-beklentisinde-20-milyar-dolarlik-dusus-959640.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T09:01:00Z"
+    },
+    {
       "title": "Hülya Avşar ve Kaya Çilingiroğlu aynı karede: 'İkinizi de çok seviyorum'",
       "link": "https://www.sozcu.com.tr/hulya-avsar-ve-kaya-cilingiroglu-ayni-karede-ikinizi-de-cok-seviyorum-p367620",
       "source": "Sözcü",
       "published_at": "2026-10-09T09:00:33Z"
     },
     {
-      "title": "Ünlü oyuncunun şeffaf ayakkabıları",
-      "link": "https://www.haberturk.com/magazin/foto/alexander-skarsgard-in-seffaf-ayakkabilari-3918400",
+      "title": "Bebekleri dünyaya geldi",
+      "link": "https://www.haberturk.com/magazin/foto/melike-sahin-anne-oldu-3918408",
       "source": "Habertürk",
-      "published_at": "2026-10-09T08:58:15Z"
+      "published_at": "2026-10-09T08:59:38Z"
     },
     {
       "title": "Mal paylaşımı öncesi eski eş vahşeti",
@@ -54,10 +108,10 @@
       "published_at": "2026-10-09T08:58:00Z"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3918355",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T08:57:51Z"
+      "title": "El Nino şimdiye kadar kaydedilen en sıcak seviyesine ulaştı",
+      "link": "https://www.trthaber.com/haber/dunya/el-nino-simdiye-kadar-kaydedilen-en-sicak-seviyesine-ulasti-959639.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T08:56:00Z"
     },
     {
       "title": "Dilber Ay'ın kızından tepki",
@@ -130,12 +184,6 @@
       "link": "https://www.sozcu.com.tr/yola-zehirli-asit-dokuldu-tum-bolge-karantinaya-alindi-p367604",
       "source": "Sözcü",
       "published_at": "2026-10-09T08:40:50Z"
-    },
-    {
-      "title": "Bebekleri dünyaya geldi",
-      "link": "https://www.haberturk.com/magazin/foto/melike-sahin-anne-oldu-3918408",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T08:39:16Z"
     },
     {
       "title": "Sanayi üretim endeksi ağustosta azaldı",
@@ -706,54 +754,6 @@
       "link": "https://www.haberturk.com/ticaret-bakanligi-ndan-tatilcilere-uyari-3790909-ekonomi",
       "source": "Habertürk",
       "published_at": "2026-10-09T06:27:27Z"
-    },
-    {
-      "title": "Bakan Çiftçi'den kısmen çöken binada hayatını kaybedenler için taziye mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftciden-kismen-coken-binada-hayatini-kaybedenler-icin-taziye-mesaji-959609.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T06:26:00Z"
-    },
-    {
-      "title": "Brent petrolün varili 102,90 dolardan işlem görüyor",
-      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10290-dolardan-islem-goruyor-959608.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T06:23:00Z"
-    },
-    {
-      "title": "14 Mayıs Dünya Çiftçiler Günü mesajları",
-      "link": "https://www.haberturk.com/14-mayis-dunya-ciftciler-gunu-mesajlari-2025-ataturk-un-ciftcilerle-ilgili-sozleri-3790905",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T06:21:27Z"
-    },
-    {
-      "title": "ABD'de göçmenlik görevlisi gözaltı işlemi sırasında şüpheliyi silahla vurarak yaraladı",
-      "link": "https://www.trthaber.com/haber/dunya/abdde-gocmenlik-gorevlisi-gozalti-islemi-sirasinda-supheliyi-silahla-vurarak-yaraladi-959607.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T06:21:00Z"
-    },
-    {
-      "title": "Galatasaray'dan kovulur gibi gönderilmişti! Öyle bir ülkeden teklif aldı ki...",
-      "link": "https://www.sozcu.com.tr/galatasaray-dan-kovulur-gibi-gonderilmisti-oyle-bir-ulkeden-teklif-aldi-ki-p367556",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T06:20:27Z"
-    },
-    {
-      "title": "Guns N’ Roses İstanbul konserinde tarih yazacak",
-      "link": "https://www.haberturk.com/kultur-sanat/bkm-30-yilinda-guns-n-roses-la-tarih-yazacak-3790904",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T06:18:20Z"
-    },
-    {
-      "title": "Organik mi yoksa sadece öyle mi görünüyor?",
-      "link": "https://www.haberturk.com/organik-mi-yoksa-sadece-oyle-mi-gorunuyor-icerigin-onemini-hafife-almayin-urun-etiketlerinde-bunlara-dikkat-edin-3790902",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T06:14:33Z"
-    },
-    {
-      "title": "Bütün dünyada frene basan dolar Türkiye'de durmuyor",
-      "link": "https://www.sozcu.com.tr/butun-dunyada-frene-basan-dolar-turkiye-de-durmuyor-p367517",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T06:13:34Z"
     }
   ]
 }
