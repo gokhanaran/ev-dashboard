@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:10:52.025509Z",
+  "generated_at": "2026-10-09T16:15:55.974183Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,64 @@
   ],
   "items": [
     {
+      "title": "Maltepe'de çöken binaya ilişkin soruşturmada iki tutuklama",
+      "link": "https://www.sozcu.com.tr/maltepe-de-coken-binaya-iliskin-sorusturmada-iki-tutuklama-p367730",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T16:14:51Z"
+    },
+    {
+      "title": "TFF'de seçim yok, 5 istifa var!",
+      "link": "https://www.haberturk.com/spor/son-dakika-tff-yonetim-kurulu-toplantisinda-devam-karari-cikti-5-kisi-istifa-etti-3918530",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:10:36Z"
+    },
+    {
+      "title": "İstanbul'da trafik yoğunluğu yüzde 80",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-haftanin-son-is-gununde-aksam-trafigi-yogunlasti-3918543",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:09:10Z"
+    },
+    {
+      "title": "\"Seçim teklifimiz kabul görmedi istifa ettik\"",
+      "link": "https://www.haberturk.com/spor/mecnun-otyakmaz-secim-teklifimiz-kabul-gormedi-tff-den-istifa-etmeye-karar-verdik-3918544",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:08:46Z"
+    },
+    {
       "title": "İbrahim Hacıosmanoğlu'na büyük şok! TFF'de istifa depremi",
       "link": "https://www.sozcu.com.tr/ibrahim-haciosmanoglu-na-buyuk-sok-tff-de-istifa-depremi-p367723",
       "source": "Sözcü",
       "published_at": "2026-10-09T16:07:34Z"
     },
     {
+      "title": "Sivasspor'dan dört gollü galibiyet!",
+      "link": "https://www.haberturk.com/spor/sivasspor-pendikspor-mac-sonucu-iste-sivasspor-pendikspor-maci-ozeti-ve-golleri-1-lig-3918542",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:04:38Z"
+    },
+    {
       "title": "Pendikspor'a fark atan Sivasspor bu sezon ilki yaşadı",
       "link": "https://www.sozcu.com.tr/pendikspor-a-fark-atan-sivasspor-bu-sezon-ilki-yasadi-p367728",
       "source": "Sözcü",
       "published_at": "2026-10-09T16:04:25Z"
+    },
+    {
+      "title": "Maltepe'de asfalt çöktü",
+      "link": "https://www.haberturk.com/gundem/maltepe-de-asfalt-coktu-3918539",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:02:51Z"
+    },
+    {
+      "title": "Paşinyan'dan Azerbaycan'la barış mesajı",
+      "link": "https://www.haberturk.com/dunya/pasinyan-dan-azerbaycan-la-baris-mesaji-3918540",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:02:49Z"
+    },
+    {
+      "title": "İlk 11'ler belli oldu!",
+      "link": "https://www.haberturk.com/spor/canli-galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-gs-kasimpasa-muhtemel-11-ler-3918338",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:01:05Z"
     },
     {
       "title": "VGM burs başvuru tarihleri",
@@ -136,12 +184,6 @@
       "link": "https://www.haberturk.com/magazin/foto/derya-pinar-ak-askini-paylasti-3918532",
       "source": "Habertürk",
       "published_at": "2026-10-09T15:29:25Z"
-    },
-    {
-      "title": "TFF'de seçim yok, 5 istifa var!",
-      "link": "https://www.haberturk.com/spor/son-dakika-tff-yonetim-kurulu-toplantisinda-devam-karari-cikti-5-kisi-istifa-etti-3918530",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:28:28Z"
     },
     {
       "title": "TFF'de 5 istifa",
@@ -712,48 +754,6 @@
       "link": "https://www.haberturk.com/magazin/muhtemel-ask-ta-nikah-buyuk-bir-krize-donustu-3918459",
       "source": "Habertürk",
       "published_at": "2026-10-09T11:50:01Z"
-    },
-    {
-      "title": "BM: Gazze'de nüfusun neredeyse tamamının barınma yardımına ihtiyacı var",
-      "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-nufusun-neredeyse-tamaminin-barinma-yardimina-ihtiyaci-var-959659.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T11:50:00Z"
-    },
-    {
-      "title": "İMSAD, depreme hazırlığı masaya yatırdı",
-      "link": "https://www.haberturk.com/ekonomi/imsad-depreme-hazirligi-masaya-yatirdi-3918477",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:48:05Z"
-    },
-    {
-      "title": "\"Kulübümüze güveniyoruz\"",
-      "link": "https://www.haberturk.com/spor/enzo-maresca-kulubumuze-guveniyoruz-3918455",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:48:03Z"
-    },
-    {
-      "title": "Dünya likit gaz üreticileri İstanbul’da buluşuyor",
-      "link": "https://www.haberturk.com/ekonomi/dunya-likit-gaz-ureticileri-istanbulda-bulusuyor-3918475",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:46:14Z"
-    },
-    {
-      "title": "Japonya’nın hazinesi artık Türkiye’de: 4 ilde üretim üssü kuruldu",
-      "link": "https://www.sozcu.com.tr/japonya-nin-hazinesi-artik-turkiye-de-4-ilde-uretim-ussu-kuruldu-p367665",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T11:46:13Z"
-    },
-    {
-      "title": "41 bıçak darbesine ceza yağdı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-41-bicak-darbesine-ceza-yagdi-kayseri-haberleri-3918325",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:45:58Z"
-    },
-    {
-      "title": "Bakan Gürlek: Adalet paylaşıldıkça barış da çoğalır",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-adalet-paylasildikca-baris-da-cogalir-959660.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T11:45:00Z"
     }
   ]
 }
