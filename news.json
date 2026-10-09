@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:24:20.797893Z",
+  "generated_at": "2026-10-09T02:34:27.972207Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İzmir işgal altındadır o haindir ve kukladır",
+      "link": "https://www.sozcu.com.tr/izmir-isgal-altindadir-o-haindir-ve-kukladir-p367487",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T02:30:06Z"
+    },
+    {
+      "title": "Devletin işleri: 22 kişilik yönetime 25 milyon lira huzur hakkı!",
+      "link": "https://www.sozcu.com.tr/devletin-isleri-22-kisilik-yonetime-25-milyon-lira-huzur-hakki-p367480",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T02:30:06Z"
+    },
     {
       "title": "19 günlük arada Milli Takım 4’te sıfır çekti; MHK başkanı ve Yasin Kol hapse atıldı, bu şartlarda Süper Lig başlıyor! Artık futbol konuşalım",
       "link": "https://www.sozcu.com.tr/19-gunluk-arada-milli-takim-4-te-sifir-cekti-mhk-baskani-ve-yasin-kol-hapse-atildi-bu-sartlarda-p367483",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/doktorlar-hastaligina-care-bulamadi-sosyal-medyadan-tanistigi-ogrenci-hayatini-degistirdi-p367420",
       "source": "Sözcü",
       "published_at": "2026-10-08T15:42:46Z"
-    },
-    {
-      "title": "Borsa günü yükselişle tamamladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3918264",
-      "source": "Habertürk",
-      "published_at": "2026-10-08T15:40:18Z"
-    },
-    {
-      "title": "Altın günü nasıl kapattı?",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gunu-nasil-kapatti-959563.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-08T15:40:00Z"
     }
   ]
 }
