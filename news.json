@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:33:00.976648Z",
+  "generated_at": "2026-10-09T21:38:05.173370Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Önünü kestikleri araçtan kilolarca altın gasp etmişlerdi: Böyle fotoğraf çektirmişler",
+      "link": "https://www.sozcu.com.tr/onunu-kestikleri-aractan-kilolarca-altin-gasp-etmislerdi-boyle-fotograf-cektirmisler-p367727",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T21:36:04Z"
+    },
+    {
+      "title": "Sosyal medyaya yeni düzenleme! Resmî Gazete'de yayımlandı",
+      "link": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T21:35:23Z"
+    },
+    {
+      "title": "Bir büyükşehir daha AKP’ye geçiyor: Genel Başkan yardımcısı açıkladı",
+      "link": "https://www.sozcu.com.tr/bir-buyuksehir-daha-akp-ye-geciyor-genel-baskan-yardimcisi-acikladi-p367767",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T21:32:58Z"
+    },
+    {
       "title": "Yahşihan Belediyesi soruşturmasında 5 tutuklama",
       "link": "https://www.haberturk.com/gundem/yahsihan-belediyesi-sorusturmasinda-5-tutuklama-3918608",
       "source": "Habertürk",
@@ -48,16 +66,16 @@
       "published_at": "2026-10-09T21:27:22Z"
     },
     {
-      "title": "Bir büyükşehir daha AKP’ye geçiyor: Genel Başkan yardımcısı açıkladı",
-      "link": "https://www.sozcu.com.tr/bir-buyuksehir-daha-akp-ye-geciyor-genel-baskan-yardimcisi-acikladi-p367767",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T21:26:44Z"
-    },
-    {
       "title": "Zeytin festivalinde ortalık karıştı! İYİ Partili vekil eleştirdi AKP'li vekil köpürdü",
       "link": "https://www.sozcu.com.tr/mersin-mut-hasan-ufuk-cakir-burhanettin-kocamaz-tartisma-p367766",
       "source": "Sözcü",
       "published_at": "2026-10-09T21:26:00Z"
+    },
+    {
+      "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
+      "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazetede-959702.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T21:23:00Z"
     },
     {
       "title": "Ekim emekli promosyon kampanyanları",
@@ -708,12 +726,6 @@
       "published_at": "2026-10-09T15:50:42Z"
     },
     {
-      "title": "Önünü kestikleri araçtan kilolarca altın gasp etmişlerdi: Böyle fotoğraf çektirmişler",
-      "link": "https://www.sozcu.com.tr/onunu-kestikleri-aractan-kilolarca-altin-gasp-etmislerdi-boyle-fotograf-cektirmisler-p367727",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:48:05Z"
-    },
-    {
       "title": "Gazeteci Mustafa Balcı ve Şaban Sevinç'e tutuklama talebi",
       "link": "https://www.sozcu.com.tr/siyasilerden-gazetecilerin-gozaltina-alinmasina-tepkiler-p367597",
       "source": "Sözcü",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/derya-pinar-ak-askini-paylasti-3918532",
       "source": "Habertürk",
       "published_at": "2026-10-09T15:29:25Z"
-    },
-    {
-      "title": "TFF'de 5 istifa",
-      "link": "https://www.trthaber.com/haber/spor/tffde-5-istifa-959679.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T15:28:00Z"
-    },
-    {
-      "title": "Schröder, Putin'in doğum günü kutlamasına katıldı",
-      "link": "https://www.haberturk.com/dunya/schroder-putin-in-dogum-gunu-kutlamasina-katildi-3918533",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:27:07Z"
     }
   ]
 }
