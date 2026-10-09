@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:47:29.700366Z",
+  "generated_at": "2026-10-09T20:52:33.595639Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "\"Her yaptığımız hamlede oyun geriye gitti\"",
+      "link": "https://www.haberturk.com/spor/emre-belozoglu-her-yaptigimiz-hamlede-oyun-geriye-gitti-3918604",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T20:45:37Z"
+    },
+    {
       "title": "Erman Toroğlu TFF'ye seslendi! 'Yasin Kol’un Hacıosmanoğlu’ndan daha fazla yetkisi varmış'",
       "link": "https://www.sozcu.com.tr/erman-toroglu-sozcu-tv-de-yorumluyor-galatasaray-kasimpasa-macinin-tartismali-pozisyonlari-p367741",
       "source": "Sözcü",
@@ -52,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/putin-ile-trump-anlasti-gozler-simdi-fiyatlara-cevrildi-p367760",
       "source": "Sözcü",
       "published_at": "2026-10-09T20:42:02Z"
+    },
+    {
+      "title": "Bayraklı Belediyesi'ne rüşvet soruşturmasında 15 kişi tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/bayrakli-belediyesine-rusvet-sorusturmasinda-15-kisi-tutuklandi-959699.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T20:40:00Z"
     },
     {
       "title": "Emre Belözoğlu: 'Türk futbolu itibarını kaybetti'",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/kardes-ulkede-basortusu-yasagi-ogretmenlere-uzandi-p367700",
       "source": "Sözcü",
       "published_at": "2026-10-09T15:03:04Z"
-    },
-    {
-      "title": "Denizde bu görüntüyü görenler gözlerine inanamadı",
-      "link": "https://www.sozcu.com.tr/denizde-bu-goruntuyu-gorenler-gozlerine-inanamadi-p367714",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T14:58:45Z"
-    },
-    {
-      "title": "TUS tercih sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/tus-tercih-sonuclari-ne-zaman-aciklanacak-2026-tus-2donem-sonuclari-sorgulama-ekrani-3918003",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T14:57:04Z"
     }
   ]
 }
