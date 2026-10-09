@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:26:04.033884Z",
+  "generated_at": "2026-10-09T16:31:08.012774Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Maltepe'deki çökmeye ilişkin 2 tutuklama",
+      "link": "https://www.haberturk.com/gundem/maltepe-de-5-kisinin-oldugu-binanin-mimari-ve-santiye-sefi-tutuklandi-3918546",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T16:25:16Z"
+    },
     {
       "title": "Bodrum FK sahasında 2 golle mağlup oldu",
       "link": "https://www.haberturk.com/spor/bodrum-fk-0-2-ankara-keciorengucu-mac-sonucu-ozeti-ve-golleri-trendyol-1-lig-3918545",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/son-dakika-nobel-baris-odulu-navi-pillay-a-verildi-3918416",
       "source": "Habertürk",
       "published_at": "2026-10-09T11:58:43Z"
-    },
-    {
-      "title": "Eminevim’den 600 bininci teslimat",
-      "link": "https://www.haberturk.com/ekonomi/eminevimden-600-bininci-teslimat-3918481",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T11:57:29Z"
     }
   ]
 }
