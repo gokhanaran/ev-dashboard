@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:57:40.727413Z",
+  "generated_at": "2026-10-10T07:02:44.511162Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,46 @@
   ],
   "items": [
     {
+      "title": "Son dakika... İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı...",
+      "link": "https://www.sozcu.com.tr/son-dakik-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-karari-p367811",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T07:01:28Z"
+    },
+    {
+      "title": "Memleketine geri dönen herkese 1,5 milyon lira verilecek",
+      "link": "https://www.sozcu.com.tr/memleketine-geri-donen-herkese-1-5-milyon-lira-verilecek-p367813",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T06:58:56Z"
+    },
+    {
       "title": "Son dakik... İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı...",
       "link": "https://www.sozcu.com.tr/son-dakik-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-karari-p367811",
       "source": "Sözcü",
       "published_at": "2026-10-10T06:57:00Z"
     },
     {
+      "title": "Parakolay'ın faliyet izni iptal edildi",
+      "link": "https://www.haberturk.com/ekonomi/tcmb-bir-elektronik-para-sirketinin-faaliyet-iznini-iptal-etti-3918643",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T06:56:16Z"
+    },
+    {
       "title": "Herkes 'sarhoş' dedi Farah Zeynep Abdullah açıkladı",
       "link": "https://www.sozcu.com.tr/herkes-sarhos-dedi-farah-zeynep-abdullah-acikladi-p367812",
       "source": "Sözcü",
       "published_at": "2026-10-10T06:56:07Z"
+    },
+    {
+      "title": "İstanbul'da 2 belediyede başkan vekili seçimi",
+      "link": "https://www.haberturk.com/gundem/atasehir-belediye-baskan-vekilligi-secimi-ve-eyupsultan-belediyesi-baskanlik-vekili-secim-sonucu-3918639",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T06:55:24Z"
+    },
+    {
+      "title": "Çelik'ten havalimanı saldırılarına kınama",
+      "link": "https://www.haberturk.com/dunya/ak-parti-sozcusu-celik-suudi-arabistan-daki-havalimanlarina-saldirilari-kinadi-3918642",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T06:54:09Z"
     },
     {
       "title": "TCMB, Parakolay Elektronik Para'nın faaliyet iznini iptal etti",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/spor/olympiakos-89-anadolu-efes-66-mac-sonucu-euroleague-3918598",
       "source": "Habertürk",
       "published_at": "2026-10-09T20:24:17Z"
-    },
-    {
-      "title": "Anadolu Efes, Olympiakos'a kaybetti",
-      "link": "https://www.sozcu.com.tr/anadolu-efes-olympiakos-a-kaybetti-p367753",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T20:24:14Z"
-    },
-    {
-      "title": "\"Stat alev alev olacak\"",
-      "link": "https://www.haberturk.com/spor/ismail-jakobs-stat-alev-alev-olacak-3918599",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:20:15Z"
-    },
-    {
-      "title": "İlkay Gündoğan'dan olay cevap! 'Oynamıyorum, niye hazır olayım'",
-      "link": "https://www.sozcu.com.tr/ilkay-gundogan-dan-olay-cevap-oynamiyorum-niye-hazir-olayim-p367751",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T20:14:46Z"
-    },
-    {
-      "title": "Duran'dan Suudi Arabistan'a saldırılara kınama",
-      "link": "https://www.haberturk.com/gundem/iletisim-baskani-burhanettin-duran-suudi-arabistan-daki-iki-havalimanina-saldirilari-kinadi-3918597",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:14:34Z"
-    },
-    {
-      "title": "Galatasaray taraftarı ıslıklamıştı! Kerem Demirbay'dan yanıt geldi",
-      "link": "https://www.sozcu.com.tr/galatasaray-taraftari-isliklamisti-kerem-demirbay-dan-yanit-geldi-p367752",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T20:13:08Z"
     }
   ]
 }
