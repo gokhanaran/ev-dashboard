@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:22:38.524105Z",
+  "generated_at": "2026-10-10T18:27:42.496230Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fenerbahçe Rize'de 7 maçtır puan bırakmıyor!",
+      "link": "https://www.haberturk.com/spor/foto/fenerbahce-rize-de-7-mactir-puan-birakmiyor-3918802",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T18:23:56Z"
+    },
     {
       "title": "Esenler Erokspor siftah yaptı!",
       "link": "https://www.haberturk.com/spor/istanbulspor-esenler-erokspor-mac-sonucu-iste-istanbulspor-esenler-erokspor-maci-ozeti-ve-golleri-1-lig-3918801",
@@ -746,12 +752,6 @@
     {
       "title": "Adalet Bakanı Gürlek: İki faili meçhul cinayet daha aydınlatıldı",
       "link": "https://www.trthaber.com/haber/gundem/adalet-bakani-gurlek-iki-faili-mechul-cinayet-daha-aydinlatildi-959749.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-10T11:18:00Z"
-    },
-    {
-      "title": "Kremlin: Putin, İran'ın çatışmaya çözüm önerisini Trump'a iletti",
-      "link": "https://www.trthaber.com/haber/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti-959748.html",
       "source": "TRT Haber",
       "published_at": "2026-10-10T11:18:00Z"
     }
