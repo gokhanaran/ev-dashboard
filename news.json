@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:59:11.536995Z",
+  "generated_at": "2026-10-10T14:04:15.347455Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "'Adanmış insanların büyük başarısı'",
+      "link": "https://www.haberturk.com/gundem/tbmm-baskani-kurtulmus-ilim-yayma-cemiyeti-nin-75-yil-bulusmasinda-konustu-3918741",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T13:56:17Z"
+    },
+    {
       "title": "Organize suç örgütlerine 14 ilde operasyon: 195 şüpheli hakkında işlem yapıldı",
       "link": "https://www.trthaber.com/haber/gundem/organize-suc-orgutlerine-14-ilde-operasyon-195-supheli-hakkinda-islem-yapildi-959757.html",
       "source": "TRT Haber",
       "published_at": "2026-10-10T13:53:00Z"
+    },
+    {
+      "title": "Heyecan sürüyor!",
+      "link": "https://www.haberturk.com/spor/super-lig-de-karadeniz-derbisi-samsunspor-trabzonspor-muhtemel-11-ler-3918633",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T13:52:32Z"
     },
     {
       "title": "Riyad'da havalimanında patlama",
@@ -52,12 +64,6 @@
       "link": "https://www.haberturk.com/spor/bernd-storck-oyuncularimla-sadece-bir-idman-yapabildim-3918740",
       "source": "Habertürk",
       "published_at": "2026-10-10T13:48:00Z"
-    },
-    {
-      "title": "Heyecan sürüyor!",
-      "link": "https://www.haberturk.com/spor/super-lig-de-karadeniz-derbisi-samsunspor-trabzonspor-muhtemel-11-ler-3918633",
-      "source": "Habertürk",
-      "published_at": "2026-10-10T13:45:41Z"
     },
     {
       "title": "Stef Wils: 'Üç puanı son saniyede çok üzücü bir şekilde kaybetmiş olduk'",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/2-burc-sekste-sinir-tanimiyor-en-siradan-gece-bile-onlarla-unutulmaz-bir-deneyime-donusuyor-p367834",
       "source": "Sözcü",
       "published_at": "2026-10-10T08:26:38Z"
-    },
-    {
-      "title": "Dursun Özbek: 'Yeni sezonda yine çok önemli hedeflerimiz var'",
-      "link": "https://www.sozcu.com.tr/dursun-ozbek-yeni-sezonda-yine-cok-onemli-hedeflerimiz-var-p367832",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T08:22:18Z"
     }
   ]
 }
