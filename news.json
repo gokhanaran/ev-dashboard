@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:22:59.348368Z",
+  "generated_at": "2026-10-10T07:28:03.393607Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İş yerinde her mesajı okumak artık yasak: Milyonlarca çalışanı ilgilendiriyor",
+      "link": "https://www.sozcu.com.tr/is-yerinde-her-mesaji-okumak-artik-yasak-milyonlarca-calisani-ilgilendiriyor-p367814",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T07:24:20Z"
+    },
+    {
+      "title": "Bitpazarından aldığı tablo sayesinde milyoner oldu: Servet değerine satıldı",
+      "link": "https://www.sozcu.com.tr/bitpazarindan-aldigi-tablo-sayesinde-milyoner-oldu-servet-degerine-satildi-p367820",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T07:23:17Z"
+    },
     {
       "title": "Son dakika... İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı...",
       "link": "https://www.sozcu.com.tr/son-dakik-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-karari-p367811",
@@ -124,12 +136,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/farkli-siyasi-partilerden-136-kisi-ak-partiye-katildi-959718.html",
       "source": "TRT Haber",
       "published_at": "2026-10-10T07:04:00Z"
-    },
-    {
-      "title": "İş yerinde her mesajı okumak artık yasak: Milyonlarca çalışanı ilgilendiriyor",
-      "link": "https://www.sozcu.com.tr/is-yerinde-her-mesaji-okumak-artik-yasak-milyonlarca-calisani-ilgilendiriyor-p367814",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T07:02:52Z"
     },
     {
       "title": "Son dakik... İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı...",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/irfan-saraloglu-milli-aradan-donuste-lige-galibiyetle-baslamak-onemliydi-3918606",
       "source": "Habertürk",
       "published_at": "2026-10-09T20:50:45Z"
-    },
-    {
-      "title": "Panama'da 7,7 büyüklüğünde deprem",
-      "link": "https://www.haberturk.com/dunya/panama-da-7-7-buyuklugunde-deprem-3918578",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:50:04Z"
     }
   ]
 }
