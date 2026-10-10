@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:38:51.691968Z",
+  "generated_at": "2026-10-10T01:09:08.820585Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Maltepe'de çöken binanın enkaz çalışmaları tamamlandı",
+      "link": "https://www.haberturk.com/gundem/maltepe-de-coken-binanin-enkaz-calismalari-tamamlandi-3918620",
+      "source": "Habertürk",
+      "published_at": "2026-10-10T01:05:09Z"
+    },
     {
       "title": "Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
       "link": "https://www.trthaber.com/haber/gundem/cesme-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-959704.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/istanbul-da-haftanin-son-is-gununde-aksam-trafigi-yogunlasti-3918543",
       "source": "Habertürk",
       "published_at": "2026-10-09T16:09:10Z"
-    },
-    {
-      "title": "\"Seçim teklifimiz kabul görmedi istifa ettik\"",
-      "link": "https://www.haberturk.com/spor/mecnun-otyakmaz-secim-teklifimiz-kabul-gormedi-tff-den-istifa-etmeye-karar-verdik-3918544",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:08:46Z"
     }
   ]
 }
