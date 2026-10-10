@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:38:05.173370Z",
+  "generated_at": "2026-10-10T00:38:51.691968Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,102 @@
   ],
   "items": [
     {
+      "title": "Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
+      "link": "https://www.trthaber.com/haber/gundem/cesme-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-959704.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T23:23:00Z"
+    },
+    {
+      "title": "Haftanın Kitapları",
+      "link": "https://www.haberturk.com/kultur-sanat/foto/haftanin-kitaplari-3918399",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T23:01:43Z"
+    },
+    {
+      "title": "TIR'ın çarptığı yaşlı adam kurtarılamadı",
+      "link": "https://www.haberturk.com/gundem/zonguldak-ta-tir-in-carptigi-yasli-adam-kurtarilamadi-3918619",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:58:11Z"
+    },
+    {
+      "title": "10. Çanakkale Bienali naşlıyor",
+      "link": "https://www.haberturk.com/kultur-sanat/10-canakkale-bienali-nasliyor-3918617",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:57:26Z"
+    },
+    {
+      "title": "Çeşme Belediyesi soruşturmasında 10 tutuklama",
+      "link": "https://www.haberturk.com/gundem/cesme-belediyesi-sorusturmasinda-10-tutuklama-3918618",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:52:32Z"
+    },
+    {
+      "title": "28 Ekim yarım gün mü?",
+      "link": "https://www.haberturk.com/bilgi/foto/28-ekim-yarim-gun-mu-29-ekim-tatil-mi-cumhuriyet-bayrami-bu-sene-hangi-gune-denk-geliyor-3918613",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:40:46Z"
+    },
+    {
+      "title": "Yanan otomobilde cansız beden bulundu",
+      "link": "https://www.haberturk.com/gundem/akhisar-da-yanan-otomobilde-cansiz-beden-bulundu-3918616",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:38:38Z"
+    },
+    {
+      "title": "Fabrikalardan evlere uzanan bir asırlık hikaye",
+      "link": "https://www.haberturk.com/kultur-sanat/koc-toplulugunun-100-yillik-sanayi-yolculugu-rahmi-m-koc-muzesinde-3918501",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:22:50Z"
+    },
+    {
+      "title": "Zeytin festivalinde ortalık karıştı! İYİ Partili vekil eleştirdi AKP'li vekil köpürdü",
+      "link": "https://www.sozcu.com.tr/mersin-mut-hasan-ufuk-cakir-burhanettin-kocamaz-tartisma-p367766",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T22:17:36Z"
+    },
+    {
+      "title": "Trump onayladı: Kurşuna dizilerek öldürülecek",
+      "link": "https://www.sozcu.com.tr/trump-onayladi-kursuna-dizilerek-oldurulecek-p367774",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T22:15:03Z"
+    },
+    {
+      "title": "Husilerin saldırısından memnun olmadığını belirtti",
+      "link": "https://www.haberturk.com/dunya/husilerin-saldirisindan-memnun-olmadigini-belirtti-3918615",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T22:06:20Z"
+    },
+    {
+      "title": "Bayraklı Belediyesi'ne yönelik operasyonda 15 tutuklama",
+      "link": "https://www.haberturk.com/gundem/bayrakli-belediyesi-ne-yonelik-operasyonda-15-tutuklama-3918612",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:56:20Z"
+    },
+    {
+      "title": "Sosyal medyaya 15 yaş düzenlemesi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-sosyal-medyaya-15-yas-duzenlemesi-3918610",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:47:44Z"
+    },
+    {
+      "title": "İrfan Saraloğlu’ndan Barcelona açıklaması! ‘Türk milletine layık olmaya çalışacağız’",
+      "link": "https://www.sozcu.com.tr/irfan-saraloglu-ndan-barcelona-aciklamasi-turk-milletine-layik-olmaya-calisacagiz-p367772",
+      "source": "Sözcü",
+      "published_at": "2026-10-09T21:46:45Z"
+    },
+    {
+      "title": "Trump, Rusya ile yaptıkları dizel anlaşmasından dolayı Putin'e teşekkür etti",
+      "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ile-yaptiklari-dizel-anlasmasindan-dolayi-putine-tesekkur-etti-959703.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T21:46:00Z"
+    },
+    {
+      "title": "ABD ile Rusya dizel konusunda anlaştı",
+      "link": "https://www.haberturk.com/dunya/trump-tan-benzin-fiyatlari-dusecek-mesaji-3918553",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:45:11Z"
+    },
+    {
       "title": "Önünü kestikleri araçtan kilolarca altın gasp etmişlerdi: Böyle fotoğraf çektirmişler",
       "link": "https://www.sozcu.com.tr/onunu-kestikleri-aractan-kilolarca-altin-gasp-etmislerdi-boyle-fotograf-cektirmisler-p367727",
       "source": "Sözcü",
@@ -46,6 +142,12 @@
       "link": "https://www.sozcu.com.tr/sosyal-medyaya-yeni-duzenleme-resm%C3%AE-gazetede-yayimlandi-p367770",
       "source": "Sözcü",
       "published_at": "2026-10-09T21:35:23Z"
+    },
+    {
+      "title": "İller Bankası'nın sermayesi 250 milyar liraya çıkarıldı",
+      "link": "https://www.haberturk.com/ekonomi/iller-bankasi-nin-sermayesi-250-milyar-liraya-cikarildi-3918609",
+      "source": "Habertürk",
+      "published_at": "2026-10-09T21:33:41Z"
     },
     {
       "title": "Bir büyükşehir daha AKP’ye geçiyor: Genel Başkan yardımcısı açıkladı",
@@ -60,22 +162,16 @@
       "published_at": "2026-10-09T21:27:25Z"
     },
     {
-      "title": "ABD ile Rusya dizel konusunda anlaştı",
-      "link": "https://www.haberturk.com/dunya/trump-tan-benzin-fiyatlari-dusecek-mesaji-3918553",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T21:27:22Z"
-    },
-    {
-      "title": "Zeytin festivalinde ortalık karıştı! İYİ Partili vekil eleştirdi AKP'li vekil köpürdü",
-      "link": "https://www.sozcu.com.tr/mersin-mut-hasan-ufuk-cakir-burhanettin-kocamaz-tartisma-p367766",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T21:26:00Z"
-    },
-    {
       "title": "Sosyal medyada yaş sınırlamasına ilişkin yönetmelik Resmi Gazete'de",
       "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-yas-sinirlamasina-iliskin-yonetmelik-resmi-gazetede-959702.html",
       "source": "TRT Haber",
       "published_at": "2026-10-09T21:23:00Z"
+    },
+    {
+      "title": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
+      "link": "https://www.trthaber.com/haber/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-959701.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-09T21:22:00Z"
     },
     {
       "title": "Ekim emekli promosyon kampanyanları",
@@ -658,102 +754,6 @@
       "link": "https://www.haberturk.com/spor/mecnun-otyakmaz-secim-teklifimiz-kabul-gormedi-tff-den-istifa-etmeye-karar-verdik-3918544",
       "source": "Habertürk",
       "published_at": "2026-10-09T16:08:46Z"
-    },
-    {
-      "title": "Sivasspor'dan dört gollü galibiyet!",
-      "link": "https://www.haberturk.com/spor/sivasspor-pendikspor-mac-sonucu-iste-sivasspor-pendikspor-maci-ozeti-ve-golleri-1-lig-3918542",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:04:38Z"
-    },
-    {
-      "title": "Pendikspor'a fark atan Sivasspor bu sezon ilki yaşadı",
-      "link": "https://www.sozcu.com.tr/pendikspor-a-fark-atan-sivasspor-bu-sezon-ilki-yasadi-p367728",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T16:04:25Z"
-    },
-    {
-      "title": "Maltepe'de asfalt çöktü",
-      "link": "https://www.haberturk.com/gundem/maltepe-de-asfalt-coktu-3918539",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:02:51Z"
-    },
-    {
-      "title": "Paşinyan'dan Azerbaycan'la barış mesajı",
-      "link": "https://www.haberturk.com/dunya/pasinyan-dan-azerbaycan-la-baris-mesaji-3918540",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:02:49Z"
-    },
-    {
-      "title": "İlk 11'ler belli oldu!",
-      "link": "https://www.haberturk.com/spor/canli-galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-gs-kasimpasa-muhtemel-11-ler-3918338",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T16:01:05Z"
-    },
-    {
-      "title": "\"9 yıldır her gün ölüyoruz\"",
-      "link": "https://www.haberturk.com/gundem/kayip-osman-in-davasi-yeniden-acildi-3918538",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:57:55Z"
-    },
-    {
-      "title": "Galatasaray-Kasımpaşa Süper Lig maçı (Canlı)",
-      "link": "https://www.sozcu.com.tr/galatasaray-kasimpasa-super-lig-maci-canli-p367721",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:56:59Z"
-    },
-    {
-      "title": "BMden Yemende insani kriz uyarısı",
-      "link": "https://www.trthaber.com/haber/dunya/bmden-yemende-insani-kriz-uyarisi-959681.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T15:53:00Z"
-    },
-    {
-      "title": "İflas etti",
-      "link": "https://www.haberturk.com/magazin/murat-cemcir-ve-selcuk-aydemir-iflas-etti-3918527",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:52:02Z"
-    },
-    {
-      "title": "Galatasaray'ın ilk 11'i belli oldu!",
-      "link": "https://www.haberturk.com/spor/canli-galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-gs-kasimpasa-muhtemel-11-ler-3918338",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:51:44Z"
-    },
-    {
-      "title": "TFF'den Montella açıklaması! A Milli Takım'da bir dönem kapandı",
-      "link": "https://www.sozcu.com.tr/tff-den-montella-aciklamasi-a-milli-takim-da-bir-donem-kapandi-p367726",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:50:42Z"
-    },
-    {
-      "title": "Gazeteci Mustafa Balcı ve Şaban Sevinç'e tutuklama talebi",
-      "link": "https://www.sozcu.com.tr/siyasilerden-gazetecilerin-gozaltina-alinmasina-tepkiler-p367597",
-      "source": "Sözcü",
-      "published_at": "2026-10-09T15:45:47Z"
-    },
-    {
-      "title": "Günümüz Ebeveynleri Çocuklarına Alacakları Ürünü Nasıl Seçiyor?",
-      "link": "https://www.haberturk.com/gunumuz-ebeveynleri-cocuklarina-alacaklari-urunu-nasil-seciyor-3918495",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:45:40Z"
-    },
-    {
-      "title": "Nilüfer'de sağlık hizmeti mahallelere taşınıyor",
-      "link": "https://www.haberturk.com/gundem/nilufer-de-saglik-hizmeti-mahallelere-tasiniyor-3918534",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:35:27Z"
-    },
-    {
-      "title": "A Milli Takımda Montella dönemi sona erdi",
-      "link": "https://www.trthaber.com/haber/spor/a-milli-takimda-montella-donemi-sona-erdi-959680.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T15:34:00Z"
-    },
-    {
-      "title": "Aşkını paylaştı",
-      "link": "https://www.haberturk.com/magazin/foto/derya-pinar-ak-askini-paylasti-3918532",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T15:29:25Z"
     }
   ]
 }
