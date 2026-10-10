@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:52:36.785371Z",
+  "generated_at": "2026-10-10T06:57:40.727413Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,34 @@
   ],
   "items": [
     {
-      "title": "Acun Ilıcalı’nın 1200 siyah tişörtü salona döküldü",
-      "link": "https://www.sozcu.com.tr/acun-ilicali-nin-1200-siyah-tisortu-salona-dokuldu-p367810",
+      "title": "Son dakik... İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı...",
+      "link": "https://www.sozcu.com.tr/son-dakik-ismail-saymaz-ve-murat-agirel-e-ev-hapsi-karari-p367811",
       "source": "Sözcü",
-      "published_at": "2026-10-10T06:48:12Z"
+      "published_at": "2026-10-10T06:57:00Z"
+    },
+    {
+      "title": "Herkes 'sarhoş' dedi Farah Zeynep Abdullah açıkladı",
+      "link": "https://www.sozcu.com.tr/herkes-sarhos-dedi-farah-zeynep-abdullah-acikladi-p367812",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T06:56:07Z"
+    },
+    {
+      "title": "TCMB, Parakolay Elektronik Para'nın faaliyet iznini iptal etti",
+      "link": "https://www.trthaber.com/haber/ekonomi/tcmb-parakolay-elektronik-paranin-faaliyet-iznini-iptal-etti-959717.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-10T06:52:00Z"
     },
     {
       "title": "Ağırel ve Saymaz'a ev hapsi kararı",
       "link": "https://www.haberturk.com/gundem/son-dakika-agirel-ve-ssaymaz-a-ev-hapsi-karari-3918640",
       "source": "Habertürk",
-      "published_at": "2026-10-10T06:47:12Z"
+      "published_at": "2026-10-10T06:50:17Z"
+    },
+    {
+      "title": "Acun Ilıcalı’nın 1200 siyah tişörtü salona döküldü",
+      "link": "https://www.sozcu.com.tr/acun-ilicali-nin-1200-siyah-tisortu-salona-dokuldu-p367810",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T06:48:12Z"
     },
     {
       "title": "Tam 67 tane! Canlı yakalandı",
@@ -396,12 +414,6 @@
       "published_at": "2026-10-10T02:30:17Z"
     },
     {
-      "title": "Bir zam dalgası daha kapıda",
-      "link": "https://www.sozcu.com.tr/bir-zam-dalgasi-daha-kapida-p367778",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T02:30:17Z"
-    },
-    {
       "title": "Pakistan savaşta, Türkiye girer mi korkusu başladı",
       "link": "https://www.sozcu.com.tr/pakistan-savasta-turkiye-girer-mi-korkusu-basladi-p367777",
       "source": "Sözcü",
@@ -410,6 +422,12 @@
     {
       "title": "Bizim bu heriflerle ne işimiz olabilir?",
       "link": "https://www.sozcu.com.tr/bizim-bu-heriflerle-ne-isimiz-olabilir-p367762",
+      "source": "Sözcü",
+      "published_at": "2026-10-10T02:30:17Z"
+    },
+    {
+      "title": "Bir zam dalgası daha kapıda",
+      "link": "https://www.sozcu.com.tr/bir-zam-dalgasi-daha-kapida-p367778",
       "source": "Sözcü",
       "published_at": "2026-10-10T02:30:17Z"
     },
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/galatasaray-taraftari-isliklamisti-kerem-demirbay-dan-yanit-geldi-p367752",
       "source": "Sözcü",
       "published_at": "2026-10-09T20:13:08Z"
-    },
-    {
-      "title": "Yunus Akgün'den Barcelona açıklaması!",
-      "link": "https://www.haberturk.com/spor/yunus-akgun-den-barcelona-aciklamasi-3918596",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:06:36Z"
-    },
-    {
-      "title": "Yemen ve Suudi Arabistan'dan BMGKda Husilere karşı harekete geçme çağrısı",
-      "link": "https://www.trthaber.com/haber/dunya/yemen-ve-suudi-arabistandan-bmgkda-husilere-karsi-harekete-gecme-cagrisi-959698.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-09T20:04:00Z"
-    },
-    {
-      "title": "\"Galatasaray taraftarlarından özür diliyorum\"",
-      "link": "https://www.haberturk.com/spor/kerem-demirbay-galatasaray-taraftarlarindan-ozur-diliyorum-yanlis-anlasildim-3918595",
-      "source": "Habertürk",
-      "published_at": "2026-10-09T20:00:26Z"
     }
   ]
 }
