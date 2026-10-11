@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:45:10.524418Z",
+  "generated_at": "2026-10-11T08:50:14.970991Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bu evin bahçesine köprüyle geçiliyor. 168 metre yükseklikte, gören bir daha bakıyor",
+      "link": "https://www.sozcu.com.tr/diyarbakirda-168-metre-yukseklikteki-kayalik-evi-kopruyle-kullaniyorlar-p368094",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T08:46:38Z"
+    },
+    {
+      "title": "Hayvanat bahçesinde korkunç olay: Kaplan bölümüne giren adam feci şekilde can verdi",
+      "link": "https://www.sozcu.com.tr/hayvanat-bahcesinde-korkunc-olay-kaplan-bolumune-giren-adam-feci-sekilde-can-verdi-p367957",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T08:44:39Z"
+    },
     {
       "title": "İstanbul'da taksilerde yeni dönem! El sallayanı almayacaklar",
       "link": "https://www.sozcu.com.tr/istanbul-da-taksilerde-yeni-donem-el-sallayani-almayacaklar-p368093",
@@ -624,12 +636,6 @@
       "published_at": "2026-10-10T22:25:01Z"
     },
     {
-      "title": "Hayvanat bahçesinde korkunç olay: Kaplan bölümüne giren adam feci şekilde can verdi",
-      "link": "https://www.sozcu.com.tr/hayvanat-bahcesinde-korkunc-olay-kaplan-bolumune-giren-adam-feci-sekilde-can-verdi-p367957",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T22:23:14Z"
-    },
-    {
       "title": "Riyad’da havalimanına saldırı: 3 ülkeden uyarı",
       "link": "https://www.sozcu.com.tr/riyad-da-havalimanina-saldiri-3-ulkeden-uyari-p367966",
       "source": "Sözcü",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/rusyadaki-salgin-dunyayi-tedirgin-etmisti-dsoden-aciklama-geldi-p367951",
       "source": "Sözcü",
       "published_at": "2026-10-10T20:55:18Z"
-    },
-    {
-      "title": "Bakan Çiftçi: Bu yılın ilk 9 ayında, 736 kişinin yurt dışından iadesini sağladık",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-bu-yilin-ilk-9-ayinda-736-kisinin-yurt-disindan-iadesini-sagladik-959784.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-10T20:52:00Z"
     }
   ]
 }
