@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:11:09.225452Z",
+  "generated_at": "2026-10-11T20:16:12.578187Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Otobüsle TIR çarpıştı! 11 can kaybı var!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-tir-ile-otobus-carpisti-can-kayiplari-ve-cok-sayida-yarali-var-3918867",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T20:09:01Z"
+    },
     {
       "title": "Erman Toroğlu çok tartışılan pozisyona son noktayı koydu! Boğa güreşinde bile...",
       "link": "https://www.sozcu.com.tr/erman-toroglu-besiktas-kocaelispor-macini-yorumladi-p368203",
@@ -532,12 +538,6 @@
       "link": "https://www.sozcu.com.tr/hull-city-maci-nefes-kesti-duelloda-kazanan-cikmadi-p368172",
       "source": "Sözcü",
       "published_at": "2026-10-11T15:32:13Z"
-    },
-    {
-      "title": "Otobüsle TIR çarpıştı! 11 can kaybı var!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-tir-ile-otobus-carpisti-can-kayiplari-ve-cok-sayida-yarali-var-3918867",
-      "source": "Habertürk",
-      "published_at": "2026-10-11T15:30:52Z"
     },
     {
       "title": "Maç sonu Nuri Şahin’e olay soru! Salondaki herkes şaştı kaldı",
