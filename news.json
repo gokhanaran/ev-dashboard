@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:50:14.970991Z",
+  "generated_at": "2026-10-11T08:55:18.632472Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "İnternet devi patlamalarda çöktü: Erişim durdu",
+      "link": "https://www.sozcu.com.tr/yandex-in-veri-merkezine-iha-saldirisi-tesislerde-faaliyetler-durduruldu-p368083",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T08:54:28Z"
+    },
+    {
       "title": "Bu evin bahçesine köprüyle geçiliyor. 168 metre yükseklikte, gören bir daha bakıyor",
       "link": "https://www.sozcu.com.tr/diyarbakirda-168-metre-yukseklikteki-kayalik-evi-kopruyle-kullaniyorlar-p368094",
       "source": "Sözcü",
@@ -52,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-taksilerde-yeni-donem-el-sallayani-almayacaklar-p368093",
       "source": "Sözcü",
       "published_at": "2026-10-11T08:40:50Z"
+    },
+    {
+      "title": "G.Saray-Barcelona maçına İtalyan hakem!",
+      "link": "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-hakemi-marco-guida-3918856",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T08:40:30Z"
     },
     {
       "title": "Kızılcık Şerbeti'nde ayrılık rüzgarı: Görevi yeni ekibe devrettiler",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/yasam/diyarbakir-5-kez-kultur-yolu-festivali-ne-ev-sahipligi-yapiyor-3918824",
       "source": "Habertürk",
       "published_at": "2026-10-10T21:01:02Z"
-    },
-    {
-      "title": "İsrail basını: Trump ve Netanyahu son haftalarda İran'a saldırı konusunda görüşmeler yürütüyor",
-      "link": "https://www.trthaber.com/haber/dunya/israil-basini-trump-ve-netanyahu-son-haftalarda-irana-saldiri-konusunda-gorusmeler-yurutuyor-959782.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-10T20:56:00Z"
-    },
-    {
-      "title": "Rusya'daki salgın dünyayı tedirgin etmişti! DSÖ'den açıklama geldi",
-      "link": "https://www.sozcu.com.tr/rusyadaki-salgin-dunyayi-tedirgin-etmisti-dsoden-aciklama-geldi-p367951",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T20:55:18Z"
     }
   ]
 }
