@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T20:41:48.267658Z",
+  "generated_at": "2026-10-11T20:52:33.068265Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
     {
       "source": "Habertürk",
       "url": "https://www.haberturk.com/rss",
-      "ok": false,
-      "error": "The read operation timed out"
+      "ok": true,
+      "items": 100
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Kulisleri hareketlendiren iddia: Antalya Büyükşehir Belediyesi AKP'ye mi geçiyor?",
+      "link": "https://www.sozcu.com.tr/antalya-buyuksehir-belediyesi-icin-akp-iddiasi-p368206",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T20:49:19Z"
+    },
+    {
       "title": "Erman Toroğlu çok tartışılan pozisyona son noktayı koydu! Boğa güreşinde bile...",
       "link": "https://www.sozcu.com.tr/erman-toroglu-besiktas-kocaelispor-macini-yorumladi-p368203",
       "source": "Sözcü",
-      "published_at": "2026-10-11T20:40:32Z"
+      "published_at": "2026-10-11T20:48:41Z"
     },
     {
       "title": "Suudi Arabistan'daki havalimanlarına düzenlenen 10 saldırıda 19 kişi öldü",
@@ -112,12 +118,6 @@
       "link": "https://www.sozcu.com.tr/besiktasta-cerny-soku-sekerek-oyundan-cikti-p368181",
       "source": "Sözcü",
       "published_at": "2026-10-11T19:52:18Z"
-    },
-    {
-      "title": "Kulisleri hareketlendiren iddia: Antalya Büyükşehir Belediyesi AKP'ye mi geçiyor?",
-      "link": "https://www.sozcu.com.tr/antalya-buyuksehir-belediyesi-icin-akp-iddiasi-p368206",
-      "source": "Sözcü",
-      "published_at": "2026-10-11T19:50:27Z"
     },
     {
       "title": "Serdal Adalı'dan penaltı isyanı!",
@@ -486,12 +486,6 @@
       "published_at": "2026-10-11T16:20:17Z"
     },
     {
-      "title": "Singapur'da kazanan Verstappen",
-      "link": "https://www.sozcu.com.tr/singapur-da-kazanan-verstappen-p368175",
-      "source": "Sözcü",
-      "published_at": "2026-10-11T16:14:57Z"
-    },
-    {
       "title": "Beşiktaş Kocaelispor maçı hangi kanalda?",
       "link": "https://www.haberturk.com/bilgi/foto/besiktas-kocaelispor-maci-canli-izle-besiktas-kocaelispor-maci-hangi-kanalda-canli-yayinlaniyor-3918922",
       "source": "Habertürk",
@@ -526,6 +520,12 @@
       "link": "https://www.haberturk.com/spor/besiktas-kocaelispor-maci-canli-anlatim-bjk-kocaelispor-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918838",
       "source": "Habertürk",
       "published_at": "2026-10-11T16:00:44Z"
+    },
+    {
+      "title": "Singapur'da kazanan Verstappen!",
+      "link": "https://www.haberturk.com/spor/formula-1-singapur-gp-de-kazanan-max-verstappen-3918916",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T15:57:23Z"
     },
     {
       "title": "\"Net bir galibiyet aldık\"",
