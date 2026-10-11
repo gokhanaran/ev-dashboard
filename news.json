@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:05:27.429249Z",
+  "generated_at": "2026-10-11T09:10:31.251735Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Oto yıkamacıda ölü sayısı 2'ye yükseldi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-antalyada-oto-yikamacida-silahli-kavga-2-kisi-hayatini-kaybetti-3918862",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T09:02:51Z"
+    },
+    {
       "title": "Endonezya'da zafer Marco Bezzecchi'nin! Toprak Razgatlıoğlu yarışı tamamlayamadı",
       "link": "https://www.sozcu.com.tr/endonezya-da-zafer-marco-bezzecchi-nin-toprak-razgatlioglu-yarisi-tamamlayamadi-p368096",
       "source": "Sözcü",
       "published_at": "2026-10-11T09:01:00Z"
+    },
+    {
+      "title": "Türkçe Kuzey Makedonya'da Çayır Belediyesi'nin resmi dili",
+      "link": "https://www.trthaber.com/haber/turk-dunyasi/turkce-kuzey-makedonyada-cayir-belediyesinin-resmi-dili-959800.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-11T09:00:00Z"
     },
     {
       "title": "Tuzlu Kahve'de görenleri şaşırtan konuk: Hatun ile köyde halay çekti",
@@ -48,10 +60,22 @@
       "published_at": "2026-10-11T08:58:31Z"
     },
     {
+      "title": "Küresel ekonominin sorunları IMF ve Dünya Bankası'nın toplantılarında ele alınacak",
+      "link": "https://www.haberturk.com/ekonomi/kuresel-ekonominin-sorunlari-imf-ve-dunya-bankasi-nin-toplantilarinda-ele-alinacak-3918861",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T08:58:27Z"
+    },
+    {
       "title": "İnternet devi patlamalarda çöktü: Erişim durdu",
       "link": "https://www.sozcu.com.tr/yandex-in-veri-merkezine-iha-saldirisi-tesislerde-faaliyetler-durduruldu-p368083",
       "source": "Sözcü",
       "published_at": "2026-10-11T08:54:28Z"
+    },
+    {
+      "title": "İsmihan Sultan'ın medresesinden Fethiye İmam Hatip Ortaokulu'na yolculuk",
+      "link": "https://www.trthaber.com/haber/kultur-sanat/ismihan-sultanin-medresesinden-fethiye-imam-hatip-ortaokuluna-yolculuk-959799.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-11T08:53:00Z"
     },
     {
       "title": "Ayhancan Güven 'Indy 8 Saat'i kazandı!",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/dunya/israil-den-gazze-ye-saldiri-3918823",
       "source": "Habertürk",
       "published_at": "2026-10-10T21:28:49Z"
-    },
-    {
-      "title": "Önce çocuklarda sonrasında yetişkinlerde görüldü! Bu kentte 1400 kişi hastanelik oldu",
-      "link": "https://www.sozcu.com.tr/once-cocuklarda-sonrasinda-yetiskinlerde-goruldu-bu-kentte-1400-kisi-hastanelik-oldu-p367959",
-      "source": "Sözcü",
-      "published_at": "2026-10-10T21:28:26Z"
-    },
-    {
-      "title": "Fenerbahçe Rize'de 3 puanı 3 golle aldı!",
-      "link": "https://www.haberturk.com/spor/caykur-rizespor-fenerbahce-maci-canli-anlatim-rz-fb-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918641",
-      "source": "Habertürk",
-      "published_at": "2026-10-10T21:24:27Z"
-    },
-    {
-      "title": "Galatasaray'ın borcu açıklandı!",
-      "link": "https://www.haberturk.com/spor/galatasaray-yillik-olagan-genel-kurul-toplantisi-gerceklesti-borc-31-4-milyar-tl-olarak-aciklandi-3918647",
-      "source": "Habertürk",
-      "published_at": "2026-10-10T21:22:54Z"
-    },
-    {
-      "title": "Arda'lı Real evinde tek golle kazandı",
-      "link": "https://www.haberturk.com/spor/real-madrid-1-0-villarreal-mac-sonucu-ve-ozeti-arda-guler-li-real-madrid-tek-golle-kazandi-3918828",
-      "source": "Habertürk",
-      "published_at": "2026-10-10T21:20:39Z"
     }
   ]
 }
