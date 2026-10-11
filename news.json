@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T20:31:21.906183Z",
+  "generated_at": "2026-10-11T20:36:25.293072Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
     {
       "source": "Habertürk",
       "url": "https://www.haberturk.com/rss",
-      "ok": true,
-      "items": 100
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Suudi Arabistan'daki havalimanlarına düzenlenen 10 saldırıda 19 kişi öldü",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistandaki-havalimanlarina-duzenlenen-10-saldirida-19-kisi-oldu-959838.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-11T20:25:00Z"
+    },
     {
       "title": "Manisa'daki faciada telefonlar yanıtsız kaldı",
       "link": "https://www.sozcu.com.tr/manisa-daki-faciada-telefonlar-yanitsiz-kaldi-p368212",
@@ -480,6 +486,12 @@
       "published_at": "2026-10-11T16:20:17Z"
     },
     {
+      "title": "Singapur'da kazanan Verstappen",
+      "link": "https://www.sozcu.com.tr/singapur-da-kazanan-verstappen-p368175",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T16:14:57Z"
+    },
+    {
       "title": "Beşiktaş Kocaelispor maçı hangi kanalda?",
       "link": "https://www.haberturk.com/bilgi/foto/besiktas-kocaelispor-maci-canli-izle-besiktas-kocaelispor-maci-hangi-kanalda-canli-yayinlaniyor-3918922",
       "source": "Habertürk",
@@ -514,12 +526,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-kocaelispor-maci-canli-anlatim-bjk-kocaelispor-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918838",
       "source": "Habertürk",
       "published_at": "2026-10-11T16:00:44Z"
-    },
-    {
-      "title": "Singapur'da kazanan Verstappen!",
-      "link": "https://www.haberturk.com/spor/formula-1-singapur-gp-de-kazanan-max-verstappen-3918916",
-      "source": "Habertürk",
-      "published_at": "2026-10-11T15:57:23Z"
     },
     {
       "title": "\"Net bir galibiyet aldık\"",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/son-dakika-riyad-daki-saldiriyi-kiniyoruz-3918896",
       "source": "Habertürk",
       "published_at": "2026-10-11T13:56:12Z"
-    },
-    {
-      "title": "Özlem Çerçioğlu AKP'ye zarar yazdı",
-      "link": "https://www.sozcu.com.tr/ozlem-cercioglu-akp-ye-zarar-yazdi-12-puan-birden-kaybetti-p368084",
-      "source": "Sözcü",
-      "published_at": "2026-10-11T13:54:58Z"
     }
   ]
 }
