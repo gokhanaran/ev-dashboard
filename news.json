@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:57:36.139960Z",
+  "generated_at": "2026-10-11T21:02:39.434517Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 7
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Tokat'ta eğitime 1 gün ara",
+      "link": "https://www.haberturk.com/gundem/tokat-valiligi-duyurdu-pazartesi-gunu-egitim-ogretime-ara-verildi-3918958",
+      "source": "Habertürk",
+      "published_at": "2026-10-11T20:53:04Z"
+    },
     {
       "title": "İBB burs başvuru tarihi",
       "link": "https://www.haberturk.com/bilgi/foto/ibb-burs-basvuru-tarihi-genc-universiteli-ibb-burs-basvurulari-ne-zaman-bitiyor-ve-burs-basvurusu-nasil-yapilir-3918954",
@@ -746,12 +752,6 @@
     {
       "title": "BM: Cibuti açıklarındaki gemi kazasında 139 kişi hayatını kaybetti",
       "link": "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-959826.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-11T14:00:00Z"
-    },
-    {
-      "title": "BM: Cibuti açıklarındaki gemi kazasında 109 kişi hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html",
       "source": "TRT Haber",
       "published_at": "2026-10-11T14:00:00Z"
     }
