@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:40:06.779155Z",
+  "generated_at": "2026-10-11T08:45:10.524418Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da taksilerde yeni dönem! El sallayanı almayacaklar",
+      "link": "https://www.sozcu.com.tr/istanbul-da-taksilerde-yeni-donem-el-sallayani-almayacaklar-p368093",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T08:40:50Z"
+    },
+    {
+      "title": "Kızılcık Şerbeti'nde ayrılık rüzgarı: Görevi yeni ekibe devrettiler",
+      "link": "https://www.sozcu.com.tr/kizilcik-serbeti-nde-ayrilik-ruzgari-gorevi-yeni-ekibe-devrettiler-p368092",
+      "source": "Sözcü",
+      "published_at": "2026-10-11T08:40:30Z"
+    },
     {
       "title": "Galatasaray-Barcelona maçının hakemi belli oldu",
       "link": "https://www.sozcu.com.tr/galatasaray-barcelona-macinin-hakemi-belli-oldu-p368090",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-bu-yilin-ilk-9-ayinda-736-kisinin-yurt-disindan-iadesini-sagladik-959784.html",
       "source": "TRT Haber",
       "published_at": "2026-10-10T20:52:00Z"
-    },
-    {
-      "title": "9 şüpheli tutuklandı, 10 kişiye adli kontrol",
-      "link": "https://www.haberturk.com/gundem/esenyurt-belediyesine-yonelik-rusvet-ve-ihale-sorusturmasinda-19-supheli-hakimlikte-3918791",
-      "source": "Habertürk",
-      "published_at": "2026-10-10T20:37:18Z"
-    },
-    {
-      "title": "DSÖ, Rusya'daki zatürre vakasında bulaş olduğuna dair kanıt bulunmadığını bildirdi",
-      "link": "https://www.trthaber.com/haber/dunya/dso-rusyadaki-zaturre-vakasinda-bulas-olduguna-dair-kanit-bulunmadigini-bildirdi-959781.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-10T20:24:00Z"
     }
   ]
 }
