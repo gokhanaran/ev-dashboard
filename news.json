@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:22:20.089296Z",
+  "generated_at": "2026-10-12T01:07:48.395740Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Herkesi susturmak istiyorlar",
+      "link": "https://www.sozcu.com.tr/herkesi-susturmak-istiyorlar-p368229",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T01:00:03Z"
+    },
     {
       "title": "İstanbul Boğazı'nda gemi arızası!",
       "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-gemi-arizasi-trafik-cift-yonlu-durduruldu-3918932",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/burak-yilmaz-ilk-macindan-galibiyetle-ayrildi-p368167",
       "source": "Sözcü",
       "published_at": "2026-10-11T15:07:27Z"
-    },
-    {
-      "title": "İstanbul'da kazanan çıkmadı!",
-      "link": "https://www.haberturk.com/spor/fatih-karagumruk-muglaspor-mac-sonucu-iste-fatih-karagumruk-muglaspor-maci-ozeti-ve-golleri-1-lig-3918907",
-      "source": "Habertürk",
-      "published_at": "2026-10-11T15:07:24Z"
     }
   ]
 }
