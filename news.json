@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:09:00.854728Z",
+  "generated_at": "2026-10-12T18:14:04.501020Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -64,6 +64,12 @@
       "link": "https://www.sozcu.com.tr/ismail-saymaz-elektronik-kelepce-ile-canli-yayina-baglandi-p368521",
       "source": "Sözcü",
       "published_at": "2026-10-12T17:34:31Z"
+    },
+    {
+      "title": "Ülke tarihinin en büyük hazinesinden yeni bir sürpriz çıktı",
+      "link": "https://www.sozcu.com.tr/ulke-tarihinin-en-buyuk-hazinesinden-yeni-bir-surpriz-cikti-p368519",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T17:24:44Z"
     },
     {
       "title": "İsrailli işgalciler Batı Şeria'da bu ay zeytin hasadını hedef alan 136 saldırı düzenledi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/jennifer-meyer-in-nikahini-eski-esi-tobey-maguire-kiydi-3919012",
       "source": "Habertürk",
       "published_at": "2026-10-12T11:42:21Z"
-    },
-    {
-      "title": "Fransa'da süpermarketlere siber saldırı: Sıcaklıklara müdahale edildi, donmuş ürünler bozuldu",
-      "link": "https://www.trthaber.com/haber/dunya/fransada-supermarketlere-siber-saldiri-sicakliklara-mudahale-edildi-donmus-urunler-bozuldu-959904.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-12T11:40:00Z"
     }
   ]
 }
