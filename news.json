@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:44:59.400691Z",
+  "generated_at": "2026-10-12T07:50:02.541191Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "Pakistan, Mekke Ortak Savunma Anlaşması'na bağlılığını yineledi",
+      "link": "https://www.trthaber.com/haber/dunya/pakistan-mekke-ortak-savunma-anlasmasina-bagliligini-yineledi-959873.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-12T07:47:00Z"
+    },
+    {
+      "title": "Sunucu değişti, ödül katlandı: Kim Milyoner Olmak İster'de bir devir sona erdi",
+      "link": "https://www.sozcu.com.tr/kim-milyoner-olmak-ister-de-tum-dengeler-degisti-sunucu-degisti-odul-katlandi-p368278",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T07:45:53Z"
+    },
+    {
       "title": "Sevdiğim Sensin'in oyuncusu Deniz Işın tacize uğradı: “Bağıra bağıra uzaklaştım”",
       "link": "https://www.sozcu.com.tr/sevdigim-sensin-in-oyuncusu-deniz-isin-tacize-ugradi-bagira-bagira-uzaklastim-p368338",
       "source": "Sözcü",
       "published_at": "2026-10-12T07:44:21Z"
     },
     {
+      "title": "Sıcaklık 4-6 derece düşüyor! 13 kent için \"sarı\" alarm... Meteoroloji saat verdi!",
+      "link": "https://www.haberturk.com/gundem/hava-durumu-istanbul-sicaklik-4-6-derece-dusuyor-13-kent-icin-sari-alarm-meteoroloji-saat-verdi-3918967",
+      "source": "Habertürk",
+      "published_at": "2026-10-12T07:42:39Z"
+    },
+    {
       "title": "Barcelona'nın Galatasaray maçı kadrosu açıklandı: Yıldız oyuncu kadroda yok",
       "link": "https://www.sozcu.com.tr/barcelona-nin-galatasaray-maci-kadrosu-aciklandi-yildiz-oyuncu-kadroda-yok-p368336",
       "source": "Sözcü",
       "published_at": "2026-10-12T07:42:12Z"
+    },
+    {
+      "title": "Özbek kadın, kocasını dolandırdı",
+      "link": "https://www.haberturk.com/gundem/ozbek-kadin-kocasini-dolandirdi-3919032",
+      "source": "Habertürk",
+      "published_at": "2026-10-12T07:41:41Z"
     },
     {
       "title": "Norveç, kişisel verileri izinsiz paylaşan Microsoft'un reklam platformu Xandr'e para cezası verdi",
@@ -70,12 +94,6 @@
       "link": "https://www.haberturk.com/spor/a-milliler-slovenya-da-tur-pesinde-3919015",
       "source": "Habertürk",
       "published_at": "2026-10-12T07:34:49Z"
-    },
-    {
-      "title": "Özbek kadın, kocasını dolandırdı",
-      "link": "https://www.haberturk.com/gundem/ozbek-kadin-kocasini-dolandirdi-3919032",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T07:34:31Z"
     },
     {
       "title": "SON DAKİKA | Antalya'da deprem! AFAD büyüklüğünü açıkladı",
@@ -228,12 +246,6 @@
       "published_at": "2026-10-12T07:14:00Z"
     },
     {
-      "title": "Sıcaklık 4-6 derece düşüyor! 13 kent için \"sarı\" alarm... Meteoroloji saat verdi!",
-      "link": "https://www.haberturk.com/gundem/hava-durumu-istanbul-sicaklik-4-6-derece-dusuyor-13-kent-icin-sari-alarm-meteoroloji-saat-verdi-3918967",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T07:13:46Z"
-    },
-    {
       "title": "Dünyanın en büyük sınır kapısı açıldı: Gümrük işlemleri en fazla 5 dakika sürecek",
       "link": "https://www.sozcu.com.tr/dunyanin-en-buyuk-sinir-kapisi-acildi-gumruk-islemleri-en-fazla-5-dakika-surecek-p368318",
       "source": "Sözcü",
@@ -250,6 +262,12 @@
       "link": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-aston-villada-kriz-cikti-kirmizi-alarm-verildi-p368315",
       "source": "Sözcü",
       "published_at": "2026-10-12T07:13:09Z"
+    },
+    {
+      "title": "Ünlü oyuncu soyuldu: Az kalsın canından oluyordu",
+      "link": "https://www.sozcu.com.tr/unlu-oyuncu-soyuldu-az-kalsin-canindan-oluyordu-p368317",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T07:12:07Z"
     },
     {
       "title": "Borsa haftaya yükselişle başladı -12 Ekim 2026",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/2-bini-askin-vatandas-hastanelik-olmustu-tokat-ta-egitime-1-gun-ara-p368209",
       "source": "Sözcü",
       "published_at": "2026-10-12T04:53:21Z"
-    },
-    {
-      "title": "Dünyanın en yakışıklı erkeği Türkiye'den çıktı",
-      "link": "https://www.sozcu.com.tr/dilhan-divrikli-mister-global-2026-dunya-birincisi-oldu-p368249",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T04:51:21Z"
-    },
-    {
-      "title": "Altın madenine bir anda bombalar yağdı: 72 madenci can verdi",
-      "link": "https://www.sozcu.com.tr/altin-madenine-bir-anda-bombalar-yagdi-72-madenci-can-verdi-p368244",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T04:50:53Z"
-    },
-    {
-      "title": "Cenazede akılalmaz olay! Bir anda tabuttan çıkıp bakın ne istedi",
-      "link": "https://www.sozcu.com.tr/tabutta-canlanan-15-yasindaki-kizin-ilk-istegi-su-oldu-p368248",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T04:44:40Z"
     }
   ]
 }
