@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:24:11.134330Z",
+  "generated_at": "2026-10-12T18:29:15.097111Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,12 @@
       "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanda-patlama-sesleri-duyuldu-959930.html",
       "source": "TRT Haber",
       "published_at": "2026-10-12T18:12:00Z"
+    },
+    {
+      "title": "Katil İsrail'in Gazze'de Sarı Hat çevresindeki binaları patlatması Filistinlileri bir kez daha yerinden ediyor",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-sari-hat-cevresindeki-binalari-patlatmasi-filistinlileri-bir-kez-daha-yerinden-ediyor-959931.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-12T18:05:00Z"
     },
     {
       "title": "'Etkin pişmanlık' ifadesini geri çeken Kapki'nin evi yeniden arandı",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kabinesi-toplandi-959905.html",
       "source": "TRT Haber",
       "published_at": "2026-10-12T11:52:00Z"
-    },
-    {
-      "title": "Kuraklığa dayanıklı yeni çeşitler geliştiriliyor",
-      "link": "https://www.haberturk.com/gundem/foto/kurakliga-dayanikli-yeni-cesitler-gelistiriliyor-3919121",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T11:51:03Z"
     }
   ]
 }
