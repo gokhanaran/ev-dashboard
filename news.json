@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:34:52.627997Z",
+  "generated_at": "2026-10-12T07:39:55.996612Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -48,10 +48,28 @@
       "published_at": "2026-10-12T07:33:57Z"
     },
     {
+      "title": "Elinde poşetlerle evine gidiyordu... 2 çocuk annesinin trajik sonu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-elinde-posetle-evine-gidiyordu-2-cocuk-annesinin-trajik-sonu-erzurum-haberleri-3918977",
+      "source": "Habertürk",
+      "published_at": "2026-10-12T07:32:04Z"
+    },
+    {
+      "title": "Toplam ciro endeksi yıllık bazda yüzde 31,8 arttı",
+      "link": "https://www.trthaber.com/haber/ekonomi/toplam-ciro-endeksi-yillik-bazda-yuzde-318-artti-959871.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-12T07:31:00Z"
+    },
+    {
       "title": "Onur Büyüktopçu'yu üzen haber: Annesi tam rahata erdiği yaşta hastalığa yakalandı",
       "link": "https://www.sozcu.com.tr/onur-buyuktopcu-yu-uzen-haber-annesi-tam-rahata-erdigi-yasta-hastaliga-yakalandi-p368330",
       "source": "Sözcü",
       "published_at": "2026-10-12T07:30:12Z"
+    },
+    {
+      "title": "Taşlara kazınmış hafıza kayıt altında!",
+      "link": "https://www.haberturk.com/yasam/turkiyenin-taslara-kazinmis-hafizasi-kayit-altina-aliniyor-3919029",
+      "source": "Habertürk",
+      "published_at": "2026-10-12T07:28:51Z"
     },
     {
       "title": "Tırnağında leke olan herkesi ilgilendiriyor",
@@ -124,12 +142,6 @@
       "link": "https://www.trthaber.com/haber/dunya/irandan-suudi-arabistan-ile-husiler-arasindaki-krizkin-cozumu-icin-arabuluculuk-onerisi-959866.html",
       "source": "TRT Haber",
       "published_at": "2026-10-12T07:15:00Z"
-    },
-    {
-      "title": "Elinde poşetlerle evine gidiyordu... 2 çocuk annesinin trajik sonu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-elinde-posetle-evine-gidiyordu-2-cocuk-annesinin-trajik-sonu-erzurum-haberleri-3918977",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T07:14:33Z"
     },
     {
       "title": "Son dakika... Burs ve öğrenim kredisi başvuruları başladı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/dunya/abd-de-infaz-girisimi-basarisiz-olan-idam-mahkumu-taburcu-edildi-3918974",
       "source": "Habertürk",
       "published_at": "2026-10-12T04:28:28Z"
-    },
-    {
-      "title": "\"Parkinson teşhisi konuldu\"",
-      "link": "https://www.haberturk.com/magazin/onur-buyuktopcu-parkinson-teshisi-konuldu-3918937",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T04:27:40Z"
-    },
-    {
-      "title": "Bunlar neden gizli",
-      "link": "https://www.sozcu.com.tr/bunlari-aciklayin-p368228",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T04:21:01Z"
     }
   ]
 }
