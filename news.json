@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:24:46.186078Z",
+  "generated_at": "2026-10-12T07:29:49.449809Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Tırnağında leke olan herkesi ilgilendiriyor",
+      "link": "https://www.sozcu.com.tr/tirnaginda-leke-olan-herkesi-ilgilendiriyor-p368328",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T07:28:07Z"
+    },
+    {
       "title": "Şarj cihazı patladı uçakta yangın çıktı",
       "link": "https://www.sozcu.com.tr/sarj-cihazi-patladi-ucakta-yangin-cikti-p368327",
       "source": "Sözcü",
@@ -58,6 +64,12 @@
       "link": "https://www.haberturk.com/dunya/abd-baskani-trump-eski-gelini-olan-atina-buyukelcisi-ni-gorevden-alacak-mi-3919020",
       "source": "Habertürk",
       "published_at": "2026-10-12T07:20:30Z"
+    },
+    {
+      "title": "Ticaret ve perakende satış hacmi yıllık bazda arttı",
+      "link": "https://www.trthaber.com/haber/ekonomi/ticaret-ve-perakende-satis-hacmi-yillik-bazda-artti-959870.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-12T07:20:00Z"
     },
     {
       "title": "Brent petrolün varili 104,70 dolardan işlem görüyor",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/sosyetenin-tatil-beldesi-marsilya-ya-din-atasesi-p368231",
       "source": "Sözcü",
       "published_at": "2026-10-12T04:08:41Z"
-    },
-    {
-      "title": "Memurlar emeklilikte uyum bekliyor",
-      "link": "https://www.haberturk.com/ekonomi/memurlar-emeklilikte-uyum-bekliyor-3918881",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T04:08:14Z"
-    },
-    {
-      "title": "Netanyahu'dan güvenlik toplantısı",
-      "link": "https://www.haberturk.com/dunya/netanyahu-nun-iran-la-gerilimin-tirmanmasi-ihtimaline-iliskin-guvenlik-toplantisi-yaptigi-bildirildi-3918971",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T04:06:41Z"
     }
   ]
 }
