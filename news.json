@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:19:08.160359Z",
+  "generated_at": "2026-10-12T18:24:11.134330Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Suudi Arabistan'ın başkenti Riyad'da patlama sesleri",
+      "link": "https://www.sozcu.com.tr/suudi-arabistan-in-baskenti-riyad-da-patlama-sesleri-p368525",
+      "source": "Sözcü",
+      "published_at": "2026-10-12T18:19:54Z"
+    },
     {
       "title": "Fonziler Serbest Gazeteciler kelepçeli! İsmail Saymaz elektronik kelepçe ile canlı yayına bağlandı",
       "link": "https://www.sozcu.com.tr/ismail-saymaz-elektronik-kelepce-ile-canli-yayina-baglandi-p368521",
@@ -82,6 +88,12 @@
       "link": "https://www.trthaber.com/haber/dunya/israilli-isgalciler-bati-seriada-bu-ay-zeytin-hasadini-hedef-alan-136-saldiri-duzenledi-959928.html",
       "source": "TRT Haber",
       "published_at": "2026-10-12T17:20:00Z"
+    },
+    {
+      "title": "Ankara'da bu yollar kapatılacak",
+      "link": "https://www.haberturk.com/gundem/ankara-da-bu-yollar-kapatilacak-3919196",
+      "source": "Habertürk",
+      "published_at": "2026-10-12T16:54:58Z"
     },
     {
       "title": "MHP'li milletvekilinin yaralandığı kazanın görüntüleri ortaya çıktı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/foto/kurakliga-dayanikli-yeni-cesitler-gelistiriliyor-3919121",
       "source": "Habertürk",
       "published_at": "2026-10-12T11:51:03Z"
-    },
-    {
-      "title": "Arkadaşları 8 yaşındaki Emine'yi ölüme götürdü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-arkadaslari-8-yasindaki-emine-yi-olume-goturdu-mardin-haberleri-3919091",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T11:46:57Z"
-    },
-    {
-      "title": "Dolar kurunun 1 yıl sonra göreceği rakam belli oldu",
-      "link": "https://www.sozcu.com.tr/dolar-kurunun-1-yil-sonra-gorecegi-rakam-belli-oldu-p368431",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T11:46:28Z"
     }
   ]
 }
