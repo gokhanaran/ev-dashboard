@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:32:21.997793Z",
+  "generated_at": "2026-10-13T21:37:25.958898Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Üniforma giyip askerlerle dalga geçti, yaka paça gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/uniforma-giyip-askerlerle-dalga-gecti-yaka-paca-gozaltina-alindi-p368914",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T21:35:59Z"
+    },
     {
       "title": "Maçın oyuncusu Lamine Yamal oldu!",
       "link": "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-oyuncusu-odulu-lamine-yamal-a-verildi-3919506",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/bakan-fidan-iranli-mevkidasi-ile-gorustu-3919435",
       "source": "Habertürk",
       "published_at": "2026-10-13T15:12:21Z"
-    },
-    {
-      "title": "Arnavutköy’de 5 katlı binada yangın!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-arnavutkoyde-5-katli-binada-yangin-3919429",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T15:11:22Z"
     }
   ]
 }
