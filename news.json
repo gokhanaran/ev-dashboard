@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:33:11.563562Z",
+  "generated_at": "2026-10-13T16:38:15.959106Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Anne Oğul iki saat arayla hayatını kaybetti",
+      "link": "https://www.sozcu.com.tr/anne-ogul-iki-saat-arayla-hayatini-kaybetti-p368851",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T16:36:08Z"
+    },
+    {
+      "title": "Danimarka ile Almanya'yı bağlayacak tünel inşaatını etkileyen siber saldırı düzenlendi",
+      "link": "https://www.trthaber.com/haber/dunya/danimarka-ile-almanyayi-baglayacak-tunel-insaatini-etkileyen-siber-saldiri-duzenlendi-960026.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-13T16:33:00Z"
+    },
+    {
+      "title": "Bodrum FK, 2 maç sonra kazandı!",
+      "link": "https://www.haberturk.com/spor/sariyer-bodrum-fk-mac-sonucu-iste-sariyer-bodrum-fk-maci-ozeti-ve-golleri-1-lig-3919447",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T16:29:57Z"
+    },
+    {
+      "title": "Suriyeli mürettebatın bulunduğu gemi battı",
+      "link": "https://www.haberturk.com/dunya/suriyeli-murettebatin-bulundugu-gemi-batti-3919448",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T16:29:49Z"
+    },
     {
       "title": "'Ankara Abisi' lakaplı Yasin Oyanık gözaltına alındı",
       "link": "https://www.sozcu.com.tr/ankara-abisi-lakapli-yasin-oyanik-gozaltina-alindi-p368836",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/forex-operasyonunda-ortaya-cikti-yalan-makinesi-ile-ise-alim-3919367",
       "source": "Habertürk",
       "published_at": "2026-10-13T12:23:18Z"
-    },
-    {
-      "title": "İstanbul’da fırtına alarmı! AKOM tarih verip uyardı",
-      "link": "https://www.sozcu.com.tr/istanbul-da-firtina-alarmi-akom-tarih-verip-uyardi-p368749",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T12:20:16Z"
-    },
-    {
-      "title": "39 ilde yatırım dolandırıcılığı operasyonu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-39-ilde-yatirim-dolandiriciligi-operasyonu-3919383",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T12:19:40Z"
-    },
-    {
-      "title": "Netanyahu gitse de işgal kalır mı?",
-      "link": "https://www.haberturk.com/dunya/netanyahu-gitse-de-isgal-kalir-mi-israil-secimleri-ve-orta-dogunun-degismeyen-hesabi-3919387",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T12:18:48Z"
-    },
-    {
-      "title": "\"Palamutu tutalım ama az tutalım\"",
-      "link": "https://www.haberturk.com/ekonomi/av-yasagi-cagrisina-cevap-palamutu-tutalim-ama-az-tutalim-3919380",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T12:16:46Z"
     }
   ]
 }
