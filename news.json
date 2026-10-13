@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:26:18.660090Z",
+  "generated_at": "2026-10-13T00:36:23.658366Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kızılay 500 milyon liralık malını 100 milyona sattı",
+      "link": "https://www.sozcu.com.tr/kizilay-500-milyon-liralik-malini-100-milyona-satti-p368564",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T00:30:40Z"
+    },
     {
       "title": "Fenerbahçe arkasına bakmadan gönderdi! Performansıyla Premier Lig'i salladı",
       "link": "https://www.sozcu.com.tr/fenerbahce-arkasina-bakmadan-gonderdi-performansiyla-premier-lig-i-salladi-p368547",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-gida-guvenligi-mesaji-3919166",
       "source": "Habertürk",
       "published_at": "2026-10-12T14:59:01Z"
-    },
-    {
-      "title": "Yasemin Ergene'den eski eşi hakkında açıklama",
-      "link": "https://www.sozcu.com.tr/yasemin-ergene-den-eski-esi-hakkinda-aciklama-p368497",
-      "source": "Sözcü",
-      "published_at": "2026-10-12T14:58:29Z"
     }
   ]
 }
