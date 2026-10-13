@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:47:33.235387Z",
+  "generated_at": "2026-10-13T21:57:39.211204Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "İnfaz sonrası yaşanan skandalı ses kayıtları ortaya çıkardı: iki doz zehirli iğneye rağmen ölmemişti",
+      "link": "https://www.sozcu.com.tr/infaz-sonrasi-yasanan-skandali-ses-kayitlari-ortaya-cikardi-iki-doz-zehirli-igneye-ragmen-olmemisti-p368877",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T21:53:27Z"
+    },
+    {
+      "title": "TBMM Genel Kurulu kapandı",
+      "link": "https://www.haberturk.com/gundem/tbmm-genel-kurulu-kapandi-3919512",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T21:51:35Z"
+    },
+    {
+      "title": "\"Birçok açıdan seviye farkı vardı!\"",
+      "link": "https://www.haberturk.com/spor/davinson-sanchez-bircok-acidan-seviye-farki-vardi-3919510",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T21:41:11Z"
+    },
     {
       "title": "\"2-0'ı bulsak maç bizim elimizde olurdu\"",
       "link": "https://www.haberturk.com/spor/ugurcan-cakir-2-0-i-bulsak-mac-bizim-elimizde-olurdu-3919509",
@@ -420,12 +438,6 @@
       "published_at": "2026-10-13T18:21:48Z"
     },
     {
-      "title": "İnfaz sonrası yaşanan skandalı ses kayıtları ortaya çıkardı: iki doz zehirli iğneye rağmen ölmemişti",
-      "link": "https://www.sozcu.com.tr/infaz-sonrasi-yasanan-skandali-ses-kayitlari-ortaya-cikardi-iki-doz-zehirli-igneye-ragmen-olmemisti-p368877",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T18:21:14Z"
-    },
-    {
       "title": "Selçuk Yöntem'den yıllar sonra gelen Kim Milyoner Olmak İster itirafı",
       "link": "https://www.sozcu.com.tr/selcuk-yontem-den-yillar-sonra-gelen-kim-milyoner-olmak-ister-itirafi-p368875",
       "source": "Sözcü",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/arda-turan-dan-a-milli-takim-aciklamasi-daha-cok-sahada-kalip-kendimi-gelistirebilirim-3919434",
       "source": "Habertürk",
       "published_at": "2026-10-13T15:18:49Z"
-    },
-    {
-      "title": "Muğla'da arızalara ücretsiz yerinde müdahale",
-      "link": "https://www.haberturk.com/gundem/mugla-da-arizalara-ucretsiz-yerinde-mudahale-3919436",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T15:17:36Z"
-    },
-    {
-      "title": "Avrupa’nın en hareketsiz gençleri",
-      "link": "https://www.haberturk.com/gundem/avrupanin-en-hareketsiz-gencleri-3919433",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T15:14:17Z"
     }
   ]
 }
