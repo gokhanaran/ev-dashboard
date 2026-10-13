@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:24:17.255624Z",
+  "generated_at": "2026-10-13T08:29:20.987231Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -45,7 +45,7 @@
       "title": "\"Türkiye yolundan dönmeyecektir\"",
       "link": "https://www.haberturk.com/gundem/son-dakika-mhp-lideri-bahceli-den-aciklamalar-3919260",
       "source": "Habertürk",
-      "published_at": "2026-10-13T08:13:04Z"
+      "published_at": "2026-10-13T08:17:45Z"
     },
     {
       "title": "Barcelona'nın yıldızının Galatasaray korkusu",
@@ -310,6 +310,12 @@
       "link": "https://www.haberturk.com/ekonomi/cari-dengede-aylik-fazla-3919297",
       "source": "Habertürk",
       "published_at": "2026-10-13T07:30:25Z"
+    },
+    {
+      "title": "Avrupa'nın yeni kabusu: Market dolaplarına siber saldırı mı yapıldı?",
+      "link": "https://www.trthaber.com/haber/gundem/avrupanin-yeni-kabusu-market-dolaplarina-siber-saldiri-mi-yapildi-959973.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-13T07:30:00Z"
     },
     {
       "title": "MHP lideri Bahçeli'den açıklamalar",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/dolar-4936-liraya-yukseldi-euro-ve-sterlin-toparlanma-egiliminde-p368591",
       "source": "Sözcü",
       "published_at": "2026-10-13T05:21:24Z"
-    },
-    {
-      "title": "IMF Türkiye için büyüme tahminini düşürdü",
-      "link": "https://www.haberturk.com/ekonomi/imf-dunya-ekonomisinin-buyume-tahminini-yukseltti-3919239",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T05:17:07Z"
     }
   ]
 }
