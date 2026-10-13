@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:52:32.950083Z",
+  "generated_at": "2026-10-13T15:57:37.642285Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İBB 250 taksi plakasından 15'ini sattı",
+      "link": "https://www.haberturk.com/gundem/ibb-250-taksi-plakasindan-15-ini-satti-3919442",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T15:50:14Z"
+    },
     {
       "title": "Fon Kurulu'nun 5. toplantısı gerçekleştirildi",
       "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-kurulu-nun-5-toplantisi-gerceklestirildi-3919437",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-aileden-yanlis-tedavi-iddiasi-13-aylik-bebegin-supheli-olumu-3919361",
       "source": "Habertürk",
       "published_at": "2026-10-13T12:10:07Z"
-    },
-    {
-      "title": "Sevişme sahnelerini reddetti",
-      "link": "https://www.haberturk.com/magazin/amanda-seyfried-sevisme-sahnelerini-reddetti-3919375",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T12:08:40Z"
     }
   ]
 }
