@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:36:23.658366Z",
+  "generated_at": "2026-10-13T01:06:36.300705Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bizi savunmayıp sattılar sırtımızdan bıçaklandık",
+      "link": "https://www.sozcu.com.tr/bizi-savunmayip-sattilar-sirtimizdan-bicaklandik-p368563",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T01:00:07Z"
+    },
     {
       "title": "Kızılay 500 milyon liralık malını 100 milyona sattı",
       "link": "https://www.sozcu.com.tr/kizilay-500-milyon-liralik-malini-100-milyona-satti-p368564",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/bilecik-te-kacak-kaziya-sucustu-3919168",
       "source": "Habertürk",
       "published_at": "2026-10-12T15:08:56Z"
-    },
-    {
-      "title": "Gıda güvenliği mesajı",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-dan-gida-guvenligi-mesaji-3919166",
-      "source": "Habertürk",
-      "published_at": "2026-10-12T14:59:01Z"
     }
   ]
 }
