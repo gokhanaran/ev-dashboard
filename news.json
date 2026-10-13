@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:28:07.118172Z",
+  "generated_at": "2026-10-13T16:33:11.563562Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/ankara-abisi-lakapli-yasin-oyanik-gozaltina-alindi-p368836",
       "source": "Sözcü",
       "published_at": "2026-10-13T16:26:00Z"
+    },
+    {
+      "title": "Üsküdar Belediyesinin borcu açıklandı",
+      "link": "https://www.haberturk.com/gundem/uskudar-belediyesinin-borcu-6-65-milyar-liraya-butcesi-16-2-milyara-ulasti-3919446",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T16:23:07Z"
     },
     {
       "title": "Aliyev’in partisinden AKP’ye tepki: Bu zararlı politikadan vazgeçin",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/av-yasagi-cagrisina-cevap-palamutu-tutalim-ama-az-tutalim-3919380",
       "source": "Habertürk",
       "published_at": "2026-10-13T12:16:46Z"
-    },
-    {
-      "title": "Fenerbahçe'nin Aston Villa maçı kadrosu açıklandı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-nin-aston-villa-maci-kadrosu-aciklandi-p368782",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T12:16:19Z"
     }
   ]
 }
