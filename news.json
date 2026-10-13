@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:57:37.642285Z",
+  "generated_at": "2026-10-13T16:02:42.995476Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Donald Trump: Cumhurbaşkanı Erdoğan'a büyük saygı duyuyorum",
+      "link": "https://www.haberturk.com/dunya/trump-cumhurbaskani-erdogan-a-buyuk-saygim-var-3919440",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T15:54:03Z"
+    },
     {
       "title": "İBB 250 taksi plakasından 15'ini sattı",
       "link": "https://www.haberturk.com/gundem/ibb-250-taksi-plakasindan-15-ini-satti-3919442",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/danimarkada-ogretmenlere-fiziksel-mudahale-yetkisi-veren-yasa-tasarisi-hazirlandi-960004.html",
       "source": "TRT Haber",
       "published_at": "2026-10-13T12:11:00Z"
-    },
-    {
-      "title": "Aileden \"Yanlış tedavi\" iddiası... 13 aylık bebeğin şüpheli ölümü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-aileden-yanlis-tedavi-iddiasi-13-aylik-bebegin-supheli-olumu-3919361",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T12:10:07Z"
     }
   ]
 }
