@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:07:48.629248Z",
+  "generated_at": "2026-10-13T16:12:52.903472Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Quaresma sessiz kalamadı: Cristiano Ronaldo krizine sitem etti",
+      "link": "https://www.sozcu.com.tr/quaresma-sessiz-kalamadi-cristiano-ronaldo-krizine-sitem-etti-p368845",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T16:10:31Z"
+    },
     {
       "title": "Donald Trump: Cumhurbaşkanı Erdoğan'a büyük saygı duyuyorum",
       "link": "https://www.haberturk.com/dunya/trump-cumhurbaskani-erdogan-a-buyuk-saygim-var-3919440",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/rus-milyarder-turkiye-yatirimi-icin-iki-ozel-plaji-olan-devasa-araziyi-satin-aldi-p368780",
       "source": "Sözcü",
       "published_at": "2026-10-13T12:11:41Z"
-    },
-    {
-      "title": "Danimarka'da öğretmenlere fiziksel müdahale yetkisi veren yasa tasarısı hazırlandı",
-      "link": "https://www.trthaber.com/haber/dunya/danimarkada-ogretmenlere-fiziksel-mudahale-yetkisi-veren-yasa-tasarisi-hazirlandi-960004.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T12:11:00Z"
     }
   ]
 }
