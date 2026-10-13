@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:33:36.118946Z",
+  "generated_at": "2026-10-13T07:38:40.255458Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Ambulansın vakaya ulaşım süresini yanlış park uzatıyor",
+      "link": "https://www.haberturk.com/saglik/istanbul-da-ambulanslarin-vakaya-ulasim-suresini-yanlis-parklar-uzatiyor-haberler-3919299",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:34:18Z"
+    },
+    {
+      "title": "Öğrenci yurdunda şüpheli ölüm",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-ogrenci-yurdunda-supheli-olum-burdur-haberleri-3919300",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:34:17Z"
+    },
+    {
+      "title": "TÜİK dış ticaret endekslerini açıkladı",
+      "link": "https://www.trthaber.com/haber/ekonomi/tuik-dis-ticaret-endekslerini-acikladi-959974.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-13T07:31:00Z"
+    },
+    {
+      "title": "Cari dengede aylık fazla",
+      "link": "https://www.haberturk.com/ekonomi/cari-dengede-aylik-fazla-3919297",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:30:25Z"
+    },
+    {
+      "title": "MHP lideri Bahçeli'den açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mhp-lideri-bahceli-den-aciklamalar-3919260",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:29:45Z"
+    },
     {
       "title": "Metroda yangın paniği! Seferler aksadı",
       "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-metro-seferlerinde-aksama-3919271",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/altin-fiyatlarinda-dikkat-ceken-hareket-13-ekim-2026-canli-gram-altin-ve-ceyrek-altin-ne-kadar-altin-3919240",
       "source": "Habertürk",
       "published_at": "2026-10-13T03:49:11Z"
-    },
-    {
-      "title": "Küba, petrol sektörünü yabancı yatırımlara açmak için eski yasaları yürürlükten kaldırdı",
-      "link": "https://www.trthaber.com/haber/dunya/kuba-petrol-sektorunu-yabanci-yatirimlara-acmak-icin-eski-yasalari-yururlukten-kaldirdi-959950.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T03:45:00Z"
-    },
-    {
-      "title": "Avrupa'da yüzlerce marketin soğutma sistemine siber saldırı: Gıdalar imha edildi",
-      "link": "https://www.trthaber.com/haber/dunya/avrupada-yuzlerce-marketin-sogutma-sistemine-siber-saldiri-gidalar-imha-edildi-959949.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T03:40:00Z"
-    },
-    {
-      "title": "Ankara kapalı yollar listesi",
-      "link": "https://www.haberturk.com/bilgi/ankara-kapali-yollar-listesi-13-ekim-ankarada-hangi-yollar-saat-kaca-kadar-kapali-3919233",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T03:38:05Z"
-    },
-    {
-      "title": "Kademeli emeklilik için gözler TBMM’de!",
-      "link": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-son-dakika-kademeli-emeklilik-meclis-ten-gecti-mi-ne-zaman-cikacak-3918909",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T03:36:47Z"
-    },
-    {
-      "title": "İstanbul’da 4 mahallede 16 saatlik su kesintisi!",
-      "link": "https://www.haberturk.com/bilgi/foto/istanbulda-16-saatlik-su-kesintisi-iski-mahalleleri-tek-tek-acikladi-istanbulda-sular-ne-zaman-gelecek-su-kesintisi-yapilacak-mahalleler-hangileri-3919139",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T03:36:08Z"
     }
   ]
 }
