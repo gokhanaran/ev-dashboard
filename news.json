@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:42:29.805246Z",
+  "generated_at": "2026-10-13T21:47:33.235387Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "\"2-0'ı bulsak maç bizim elimizde olurdu\"",
+      "link": "https://www.haberturk.com/spor/ugurcan-cakir-2-0-i-bulsak-mac-bizim-elimizde-olurdu-3919509",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T21:38:42Z"
+    },
+    {
       "title": "Üniforma giyip askerlerle dalga geçti, yaka paça gözaltına alındı",
       "link": "https://www.sozcu.com.tr/uniforma-giyip-askerlerle-dalga-gecti-yaka-paca-gozaltina-alindi-p368914",
       "source": "Sözcü",
       "published_at": "2026-10-13T21:35:59Z"
     },
     {
+      "title": "Maçın oyuncusu Lamine Yamal oldu!",
+      "link": "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-oyuncusu-odulu-lamine-yamal-a-verildi-3919506",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T21:35:21Z"
+    },
+    {
       "title": "Evinizdeki akıllı cihazlar yapay zeka solucanlarının hedefi olabilir",
       "link": "https://www.trthaber.com/haber/dunya/evinizdeki-akilli-cihazlar-yapay-zeka-solucanlarinin-hedefi-olabilir-960046.html",
       "source": "TRT Haber",
       "published_at": "2026-10-13T21:33:00Z"
-    },
-    {
-      "title": "Maçın oyuncusu Lamine Yamal oldu!",
-      "link": "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-oyuncusu-odulu-lamine-yamal-a-verildi-3919506",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T21:26:51Z"
     },
     {
       "title": "Viking'den Bayern Münih'e büyük şok!",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/avrupanin-en-hareketsiz-gencleri-3919433",
       "source": "Habertürk",
       "published_at": "2026-10-13T15:14:17Z"
-    },
-    {
-      "title": "Ünlü cerrah ölümden döndü: Türkiye’nin ilk tam yüz naklini gerçekleştirmişti",
-      "link": "https://www.sozcu.com.tr/unlu-cerrah-olumden-dondu-turkiye-nin-ilk-tam-yuz-naklini-gerceklestirmisti-p368832",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T15:12:24Z"
     }
   ]
 }
