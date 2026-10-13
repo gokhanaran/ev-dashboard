@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:23:01.377279Z",
+  "generated_at": "2026-10-13T16:28:07.118172Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "'Ankara Abisi' lakaplı Yasin Oyanık gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/ankara-abisi-lakapli-yasin-oyanik-gozaltina-alindi-p368836",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T16:26:00Z"
+    },
+    {
       "title": "Aliyev’in partisinden AKP’ye tepki: Bu zararlı politikadan vazgeçin",
       "link": "https://www.sozcu.com.tr/aliyev-in-partisinden-akp-ye-tepki-bu-zararli-politikadan-vazgecin-p368849",
       "source": "Sözcü",
@@ -48,22 +54,28 @@
       "published_at": "2026-10-13T16:16:49Z"
     },
     {
+      "title": "Donald Trump: Cumhurbaşkanı Erdoğan'a büyük saygı duyuyorum",
+      "link": "https://www.haberturk.com/dunya/trump-cumhurbaskani-erdogan-a-buyuk-saygim-var-3919440",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T16:16:46Z"
+    },
+    {
       "title": "Ufuk Özkan'ın iyileşme hızı doktorlarını şaşkına çevirdi",
       "link": "https://www.sozcu.com.tr/ufuk-ozkan-saglik-durumuna-iliskin-aciklama-p368848",
       "source": "Sözcü",
       "published_at": "2026-10-13T16:16:41Z"
     },
     {
+      "title": "Borsa günü yükselişle tamamladı",
+      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3919445",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T16:16:15Z"
+    },
+    {
       "title": "Quaresma sessiz kalamadı: Cristiano Ronaldo krizine sitem etti",
       "link": "https://www.sozcu.com.tr/quaresma-sessiz-kalamadi-cristiano-ronaldo-krizine-sitem-etti-p368845",
       "source": "Sözcü",
       "published_at": "2026-10-13T16:10:31Z"
-    },
-    {
-      "title": "Donald Trump: Cumhurbaşkanı Erdoğan'a büyük saygı duyuyorum",
-      "link": "https://www.haberturk.com/dunya/trump-cumhurbaskani-erdogan-a-buyuk-saygim-var-3919440",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T16:08:44Z"
     },
     {
       "title": "NATO Genel Sekreter Yardımcısı Shekerinska: Türkiye'de uzun süredir fiili bir sanayi devrimine tanık oluyoruz",
@@ -160,12 +172,6 @@
       "link": "https://www.haberturk.com/gundem/mugla-da-arizalara-ucretsiz-yerinde-mudahale-3919436",
       "source": "Habertürk",
       "published_at": "2026-10-13T15:17:36Z"
-    },
-    {
-      "title": "'Ankara Abisi' lakaplı Yasin Oyanık gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/ankara-abisi-lakapli-yasin-oyanik-gozaltina-alindi-p368836",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T15:16:30Z"
     },
     {
       "title": "Avrupa’nın en hareketsiz gençleri",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/fenerbahce-nin-aston-villa-maci-kadrosu-aciklandi-p368782",
       "source": "Sözcü",
       "published_at": "2026-10-13T12:16:19Z"
-    },
-    {
-      "title": "Papa 14. Leo hastaneye yatırıldı",
-      "link": "https://www.trthaber.com/haber/dunya/papa-14-leo-hastaneye-yatirildi-960007.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T12:15:00Z"
     }
   ]
 }
