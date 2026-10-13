@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:53:52.418850Z",
+  "generated_at": "2026-10-13T07:58:56.519473Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,94 @@
   ],
   "items": [
     {
+      "title": "Arda'yı o halde görünce Mourinho çileden çıktı!",
+      "link": "https://www.sozcu.com.tr/ardayi-yerde-gorunce-mourinho-cileden-cikti-p368691",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:57:17Z"
+    },
+    {
+      "title": "Son dakika... Bahçeli çağrı yaptı: 'Türkiye S. Arabistan'a askeri destek sağlasın'",
+      "link": "https://www.sozcu.com.tr/son-dakika-bahceli-cagri-yapti-turkiye-s-arabistan-a-askeri-destek-saglasin-p368689",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:57:06Z"
+    },
+    {
+      "title": "Dakika 90'dan sonra yaşananlar inanılmaz: Futbolseverler yıllardır böylesine hasretti",
+      "link": "https://www.sozcu.com.tr/dakika-90-dan-sonra-yasananlar-inanilmaz-futbolseverler-yillardir-boylesine-hasretti-p368694",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:55:41Z"
+    },
+    {
+      "title": "300 bin liralık soruda takıldı kaldı: Şehriyâr kelimesinin anlamını bilemedi",
+      "link": "https://www.sozcu.com.tr/300-bin-liralik-soruda-takildi-kaldi-sehriyar-kelimesinin-anlamini-bilemedi-p368686",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:54:24Z"
+    },
+    {
+      "title": "Ne çok su istiyor ne de bakım: Tarlasına eken çiftçi servet kazanıyor",
+      "link": "https://www.sozcu.com.tr/ne-cok-su-istiyor-ne-de-bakim-tarlasina-eken-ciftci-servet-kazaniyor-p368692",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:53:10Z"
+    },
+    {
+      "title": "\"Türkiye yolundan dönmeyecektir\"",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mhp-lideri-bahceli-den-aciklamalar-3919260",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:52:21Z"
+    },
+    {
+      "title": "Soykırımcı İsrail, Batı Şeria'da 30 Filistinliyi gözaltına aldı",
+      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-30-filistinliyi-gozaltina-aldi-959977.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-13T07:52:00Z"
+    },
+    {
+      "title": "Pil devinde yeniden yapılanma",
+      "link": "https://www.haberturk.com/ekonomi/pil-devinde-yeniden-yapilanma-bagimsiz-sirket-olarak-yoluna-devam-edecek-3919309",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:51:52Z"
+    },
+    {
       "title": "İstanbul'da metroda kablolar patladı, seferler durduruldu",
       "link": "https://www.sozcu.com.tr/istanbul-da-metroda-kablolar-patladi-seferler-durduruldu-p368643",
       "source": "Sözcü",
       "published_at": "2026-10-13T07:51:38Z"
     },
     {
-      "title": "300 bin liralık soruda takıldı kaldı: Şehriyâr kelimesinin anlamını bilemedi",
-      "link": "https://www.sozcu.com.tr/300-bin-liralik-soruda-takildi-kaldi-sehriyar-kelimesinin-anlamini-bilemedi-p368686",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T07:45:39Z"
+      "title": "Anthropic’ten kritik AI uyarısı!",
+      "link": "https://www.haberturk.com/ekonomi/anthropicten-kritik-ai-uyarisi-yapay-zeka-modelleri-veri-merkezlerine-gerek-duymadan-kendini-kopyalayabilir-3919303",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:50:52Z"
+    },
+    {
+      "title": "Memorial ve Eczacıbaşı Spor Kulübü, meme kanseri farkındalığını fileye taşıdı",
+      "link": "https://www.haberturk.com/spor/memorial-ve-eczacibasi-spor-kulubu-meme-kanseri-farkindaligini-fileye-tasidi-3919308",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:50:22Z"
+    },
+    {
+      "title": "Elon Musk'tan Cumhuriyetçilere dev bağış",
+      "link": "https://www.haberturk.com/dunya/elon-musk-tan-cumhuriyetcilere-dev-bagis-3919298",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:47:16Z"
+    },
+    {
+      "title": "Polisle silahlı çatışmaya girdi! Rezidansta yaşandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-polisle-silahli-catismaya-girdi-trajik-sonla-bitti-urfa-haberleri-3919248",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:46:39Z"
+    },
+    {
+      "title": "DSÖ: Rusya'daki zatürre vakasında bulaş olduğuna dair kanıt bulunmadı",
+      "link": "https://www.haberturk.com/saglik/dso-rusya-daki-zaturre-vakasinda-bulas-olduguna-dair-kanit-bulunmadi-haberler-3919302",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:46:25Z"
+    },
+    {
+      "title": "Beşiktaş'ın rakibi Hapoel IBI",
+      "link": "https://www.haberturk.com/spor/besiktas-in-rakibi-hapoel-ibi-3919306",
+      "source": "Habertürk",
+      "published_at": "2026-10-13T07:45:45Z"
     },
     {
       "title": "Askeri tatbikatta akıl almaz hata: Kullandıkları araçlar gizli bilgileri kaydetti",
@@ -54,10 +132,10 @@
       "published_at": "2026-10-13T07:45:22Z"
     },
     {
-      "title": "DSÖ: Rusya'daki zatürre vakasında bulaş olduğuna dair kanıt bulunmadı",
-      "link": "https://www.haberturk.com/saglik/dso-rusya-daki-zaturre-vakasinda-bulas-olduguna-dair-kanit-bulunmadi-haberler-3919302",
+      "title": "306 milyonluk 'Change Oto' operasyonu: 14 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-306-milyonluk-change-oto-operasyonu-14-gozalti-3919305",
       "source": "Habertürk",
-      "published_at": "2026-10-13T07:44:11Z"
+      "published_at": "2026-10-13T07:44:52Z"
     },
     {
       "title": "Avrupa'da namağlup F.Bahçe, Villa karşısında!",
@@ -322,12 +400,6 @@
       "link": "https://www.haberturk.com/magazin/foto/mehmet-ali-erbil-annesinin-cenazesine-neden-katilmadigini-acikladi-3919258",
       "source": "Habertürk",
       "published_at": "2026-10-13T06:49:55Z"
-    },
-    {
-      "title": "Polisle silahlı çatışmaya girdi! Rezidansta yaşandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-polisle-silahli-catismaya-girdi-trajik-sonla-bitti-urfa-haberleri-3919248",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T06:48:52Z"
     },
     {
       "title": "\"Başkent oluşumuzun 103. yılı\"",
@@ -682,78 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/hamileligi-isverenden-gizlemeyin-3919160",
       "source": "Habertürk",
       "published_at": "2026-10-13T04:50:38Z"
-    },
-    {
-      "title": "Araç sahipleri iyice tutuştu: Stoklar bitti, sıkıntı tam 2 yıl sürecek",
-      "link": "https://www.sozcu.com.tr/arac-sahipleri-iyice-tutustu-stoklar-bitti-sikinti-tam-2-yil-surecek-p368589",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:47:45Z"
-    },
-    {
-      "title": "Özlem Özdil nişanlandı",
-      "link": "https://www.haberturk.com/magazin/foto/ozlem-ozdil-ve-eray-temiz-nisanlandi-3919179",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:46:03Z"
-    },
-    {
-      "title": "Norveç'te askeri tatbikatta veri güvenliği alarmı",
-      "link": "https://www.haberturk.com/dunya/norvec-te-askeri-tatbikatta-veri-guvenligi-alarmi-kiralik-araclarin-hassas-bilgileri-kaydettigi-3919246",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:45:15Z"
-    },
-    {
-      "title": "AKP’li isimden partisine eleştiri: Tabanı daha öfkeli",
-      "link": "https://www.sozcu.com.tr/akp-li-isimden-partisine-elestiri-tabani-daha-ofkeli-p368586",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:45:06Z"
-    },
-    {
-      "title": "BYD'den Türkiye açıklaması",
-      "link": "https://www.haberturk.com/ekonomi/byd-den-turkiye-ye-mesaj-var-haberturk-e-ozel-aciklama-3919222",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:43:47Z"
-    },
-    {
-      "title": "Altın ve dolar nefesini tuttu: Dengeleri değiştirecek haber yarın ABD'den gelecek",
-      "link": "https://www.sozcu.com.tr/altin-ve-dolar-nefesini-tuttu-dengeleri-degistirecek-haber-yarin-abdden-gelecek-p368584",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:40:17Z"
-    },
-    {
-      "title": "Eken bir senede zengin oluyor: Kilosu 247 bin lira",
-      "link": "https://www.sozcu.com.tr/eken-bir-senede-zengin-oluyor-kilosu-247-bin-lira-p368585",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:36:49Z"
-    },
-    {
-      "title": "İstanbul'da 12 yaşındaki çocuğu arka sokağa götürüp diri diri yaktılar",
-      "link": "https://www.sozcu.com.tr/istanbulda-12-yasindaki-cocugu-arka-sokaga-goturup-diri-diri-yaktilar-p368581",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:36:03Z"
-    },
-    {
-      "title": "'Breaking Bad'in yıldızı hayatını kaybetti",
-      "link": "https://www.haberturk.com/magazin/breaking-bad-in-yildizi-rj-mitte-hayatini-kaybetti-3919226",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:33:54Z"
-    },
-    {
-      "title": "\"Putin anlaşma yapmayı Zelenskiy'den daha fazla istiyor\"",
-      "link": "https://www.haberturk.com/dunya/putin-anlasma-yapmayi-zelenskiy-den-daha-fazla-istiyor-3919244",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:29:38Z"
-    },
-    {
-      "title": "Turizmin kalbinde petrol arayacağız",
-      "link": "https://www.sozcu.com.tr/turizmin-kalbinde-petrol-arayacagiz-p368583",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T04:29:19Z"
-    },
-    {
-      "title": "Grip olacağınızı hissediyorsanız ilk 24 saatte yapmanız gerekenler",
-      "link": "https://hthayat.haberturk.com/hasta-hissediyorum-ne-yapmaliyim-1088186",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T04:27:56Z"
     }
   ]
 }
