@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:38:40.255458Z",
+  "generated_at": "2026-10-13T07:43:44.472921Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Balıkçılar 'avlanmayın' çağrısı yaptı",
+      "link": "https://www.sozcu.com.tr/balikcilar-avlanmayin-cagrisi-yapti-p368682",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:41:13Z"
+    },
+    {
+      "title": "Barcelona'nın yıldızının Galatasaray korkusu",
+      "link": "https://www.sozcu.com.tr/barcelonanin-yildizinin-galatasaray-korkusu-p368683",
+      "source": "Sözcü",
+      "published_at": "2026-10-13T07:39:51Z"
+    },
+    {
       "title": "Ambulansın vakaya ulaşım süresini yanlış park uzatıyor",
       "link": "https://www.haberturk.com/saglik/istanbul-da-ambulanslarin-vakaya-ulasim-suresini-yanlis-parklar-uzatiyor-haberler-3919299",
       "source": "Habertürk",
-      "published_at": "2026-10-13T07:34:18Z"
+      "published_at": "2026-10-13T07:34:42Z"
     },
     {
       "title": "Öğrenci yurdunda şüpheli ölüm",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/endonezyada-veri-merkezleri-su-krizinin-odaginda-959952.html",
       "source": "TRT Haber",
       "published_at": "2026-10-13T03:59:00Z"
-    },
-    {
-      "title": "Moskova, Trumpın enerji ateşkesi açıklamasına neden sessiz kalıyor?",
-      "link": "https://www.trthaber.com/haber/dunya/moskova-trumpin-enerji-ateskesi-aciklamasina-neden-sessiz-kaliyor-959951.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T03:53:00Z"
-    },
-    {
-      "title": "Altın fiyatlarında dikkat çeken hareket!",
-      "link": "https://www.haberturk.com/bilgi/foto/altin-fiyatlarinda-dikkat-ceken-hareket-13-ekim-2026-canli-gram-altin-ve-ceyrek-altin-ne-kadar-altin-3919240",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T03:49:11Z"
     }
   ]
 }
