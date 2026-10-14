@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:42:06.955304Z",
+  "generated_at": "2026-10-14T01:57:16.955763Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Haramzadeler, lanet listeyi açıklayın",
+      "link": "https://www.sozcu.com.tr/haramzadeler-lanet-listeyi-aciklayin-p368926",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T01:50:03Z"
+    },
     {
       "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
       "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-suruklenen-gemi-kurtarildi-3919523",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/uskudar-belediyesinin-borcu-6-65-milyar-liraya-butcesi-16-2-milyara-ulasti-3919446",
       "source": "Habertürk",
       "published_at": "2026-10-13T16:23:07Z"
-    },
-    {
-      "title": "Beşiktaş'ın yıldızı isyan etti! İstanbul'un trafiği Nübel'i çıldırttı",
-      "link": "https://www.sozcu.com.tr/besiktas-in-yildizi-isyan-etti-istanbul-un-trafigi-nubel-i-cildirtti-p368846",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T16:16:49Z"
     }
   ]
 }
