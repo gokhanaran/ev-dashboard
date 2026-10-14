@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:23:39.555148Z",
+  "generated_at": "2026-10-14T06:28:43.702028Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Karton kutuları tek tek çatıya dizmeye başladılar",
+      "link": "https://www.sozcu.com.tr/karton-kutulari-tek-tek-catiya-dizmeye-basladilar-p368986",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:25:14Z"
+    },
     {
       "title": "Yollar göle döndü, kadın suya kapıldı!",
       "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-korku-dolu-dakikalar-yollar-gole-dondu-kadin-suya-kapildi-3919548",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/izmirde-80-isci-gida-zehirlenmesi-nedeniyle-hastanelere-basvurdu-960040.html",
       "source": "TRT Haber",
       "published_at": "2026-10-13T20:21:00Z"
-    },
-    {
-      "title": "Osman Sınav’ı tehdit eden ismi açıkladı: Kozinoğlu soruşturmasında ifade veren tanıktan çarpıcı iddia",
-      "link": "https://www.sozcu.com.tr/osman-sinav-i-tehdit-eden-ismi-acikladi-kozinoglu-sorusturmasinda-ifade-veren-taniktan-carpici-iddia-p368897",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:18:15Z"
     }
   ]
 }
