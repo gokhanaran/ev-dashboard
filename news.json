@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:33:47.459495Z",
+  "generated_at": "2026-10-14T06:38:52.213799Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,46 @@
   ],
   "items": [
     {
+      "title": "Kan tahlilinde çıkmayan sağlık sorunlarına dikkat!",
+      "link": "https://www.haberturk.com/saglik/kan-tahlilinde-cikmayan-saglik-sorunlarina-dikkat-3919554",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:34:46Z"
+    },
+    {
+      "title": "Rapor alan emekliler yandı! Bu parayı alamayacaklar",
+      "link": "https://www.sozcu.com.tr/emekli-olup-calisanlar-dikkat-rapor-alirsaniz-bu-parayi-alamayabilirsiniz-p368952",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:34:35Z"
+    },
+    {
+      "title": "Yollar göle döndü, kadın suya kapıldı!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-korku-dolu-dakikalar-yollar-gole-dondu-kadin-suya-kapildi-3919548",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:34:06Z"
+    },
+    {
+      "title": "Otomotiv devi kapanma planını devreye aldı",
+      "link": "https://www.sozcu.com.tr/otomotiv-devi-kapanma-planini-devreye-aldi-p368990",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:33:46Z"
+    },
+    {
       "title": "Mirza ve Leyla büyük bir yüzleşme yaşıyor!",
       "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-yeni-bolumuyle-bu-aksam-show-tv-de-3919551",
       "source": "Habertürk",
-      "published_at": "2026-10-14T06:30:10Z"
+      "published_at": "2026-10-14T06:32:54Z"
+    },
+    {
+      "title": "Acısız günü yok! Çaya da tatlıya da atıyor",
+      "link": "https://www.haberturk.com/yasam/acisiz-yasayamiyor-tatliya-bile-pul-biber-atip-yiyor-3919552",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:32:51Z"
     },
     {
       "title": "Karton kutuları tek tek çatıya dizmeye başladılar",
       "link": "https://www.sozcu.com.tr/karton-kutulari-tek-tek-catiya-dizmeye-basladilar-p368986",
       "source": "Sözcü",
       "published_at": "2026-10-14T06:25:14Z"
-    },
-    {
-      "title": "Yollar göle döndü, kadın suya kapıldı!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-korku-dolu-dakikalar-yollar-gole-dondu-kadin-suya-kapildi-3919548",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T06:24:18Z"
     },
     {
       "title": "Dolar dünyada sert düştü: Türkiye'de rekor kırdı",
@@ -192,14 +216,20 @@
       "published_at": "2026-10-14T05:39:14Z"
     },
     {
-      "title": "Halk TV'ye soruşturma: Kanalın yönetimine TMSF görevlendirildi",
-      "link": "https://www.trthaber.com/haber/gundem/halk-tvye-sorusturma-kanalin-yonetimine-tmsf-gorevlendirildi-960060.html",
+      "title": "Halk TV'nin sahibine mali soruşturma",
+      "link": "https://www.trthaber.com/haber/gundem/halk-tvnin-sahibine-mali-sorusturma-960060.html",
       "source": "TRT Haber",
       "published_at": "2026-10-14T05:39:00Z"
     },
     {
       "title": "NASAnın Perseverance keşif aracı, Marsta Dünya dışı mesafe rekoru kırdı",
       "link": "https://www.trthaber.com/haber/dunya/nasanin-perseverance-kesif-araci-marsta-dunya-disi-mesafe-rekoru-kirdi-960059.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-14T05:39:00Z"
+    },
+    {
+      "title": "Halk TV'ye soruşturma: Kanalın yönetimine TMSF görevlendirildi",
+      "link": "https://www.trthaber.com/haber/gundem/halk-tvye-sorusturma-kanalin-yonetimine-tmsf-gorevlendirildi-960060.html",
       "source": "TRT Haber",
       "published_at": "2026-10-14T05:39:00Z"
     },
@@ -724,36 +754,6 @@
       "link": "https://www.sozcu.com.tr/bir-meslek-grubu-icin-daha-yesil-pasaport-teklifini-meclise-sundu-p368904",
       "source": "Sözcü",
       "published_at": "2026-10-13T20:46:26Z"
-    },
-    {
-      "title": "Axios: Trump ve Netanyahu, İsrail ve ABD'deki seçimlerden önce İran'a saldırı ihtimalini görüştü",
-      "link": "https://www.trthaber.com/haber/dunya/axios-trump-ve-netanyahu-israil-ve-abddeki-secimlerden-once-irana-saldiri-ihtimalini-gorustu-960042.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T20:43:00Z"
-    },
-    {
-      "title": "Gökyüzünde beliren dev denizanası şaşkına çevirdi",
-      "link": "https://www.sozcu.com.tr/gokyuzunde-beliren-dev-denizanasi-saskina-cevirdi-p368900",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:37:47Z"
-    },
-    {
-      "title": "Kocaeli'de motosikletlere iki günlük yasak",
-      "link": "https://www.haberturk.com/gundem/kocaeli-valiligi-siddetli-yagis-beklentisi-nedeniyle-motosikletlerin-trafige-cikisini-yasakladi-3919487",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T20:35:17Z"
-    },
-    {
-      "title": "İstanbul Cumhuriyet Başsavcılığından fon soruşturmalarına ilişkin açıklama",
-      "link": "https://www.trthaber.com/haber/gundem/istanbul-cumhuriyet-bassavciligindan-fon-sorusturmalarina-iliskin-aciklama-960041.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T20:34:00Z"
-    },
-    {
-      "title": "1. Lig'de ayrılık!",
-      "link": "https://www.haberturk.com/spor/manisa-fk-teknik-direktor-ahmet-pektas-ile-yollarini-ayirdi-3919490",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T20:31:30Z"
     }
   ]
 }
