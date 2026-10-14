@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:01:37.357295Z",
+  "generated_at": "2026-10-14T01:06:41.644323Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "AKP’den gazeteciler ve muhalefete fon davası",
+      "link": "https://www.sozcu.com.tr/akp-den-gazeteciler-ve-muhalefete-fon-davasi-p368927",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T01:00:03Z"
+    },
     {
       "title": "Oğlu tarafından bıçaklanan baba öldü",
       "link": "https://www.haberturk.com/gundem/kayseri-de-oglu-tarafindan-bicaklanan-baba-oldu-3919522",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3919445",
       "source": "Habertürk",
       "published_at": "2026-10-13T16:16:15Z"
-    },
-    {
-      "title": "Quaresma sessiz kalamadı: Cristiano Ronaldo krizine sitem etti",
-      "link": "https://www.sozcu.com.tr/quaresma-sessiz-kalamadi-cristiano-ronaldo-krizine-sitem-etti-p368845",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T16:10:31Z"
     }
   ]
 }
