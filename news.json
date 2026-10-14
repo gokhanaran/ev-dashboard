@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:16:43.285845Z",
+  "generated_at": "2026-10-14T13:21:47.190180Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İmamoğlu savunma yapıyor",
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-buyuksehir-belediyesine-yonelik-yolsuzluk-davasinda-ekrem-imamoglu-savunma-yapiyor-3919622",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T13:10:04Z"
+    },
     {
       "title": "Beklenen veri geldi: Sürpriz rakam altını vurdu",
       "link": "https://www.sozcu.com.tr/son-dakika-abd-eylul-enflasyonu-aciklandi-p369107",
@@ -400,12 +406,6 @@
       "link": "https://www.sozcu.com.tr/meteoroloji-saat-verdi-gunlerce-surecek-istanbul-da-bu-sabah-kaydedilen-inanilmaz-goruntu-p369036",
       "source": "Sözcü",
       "published_at": "2026-10-14T11:30:26Z"
-    },
-    {
-      "title": "İmamoğlu savunma yapıyor",
-      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-buyuksehir-belediyesine-yonelik-yolsuzluk-davasinda-ekrem-imamoglu-savunma-yapiyor-3919622",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T11:28:04Z"
     },
     {
       "title": "FETÖ ve DEAŞ'a 4 ayrı operasyon!",
