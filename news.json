@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:06:41.644323Z",
+  "generated_at": "2026-10-14T01:37:02.403791Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fonda eriyen hayatlar",
+      "link": "https://www.sozcu.com.tr/fonda-eriyen-hayatlar-p368930",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T01:30:16Z"
+    },
     {
       "title": "AKP’den gazeteciler ve muhalefete fon davası",
       "link": "https://www.sozcu.com.tr/akp-den-gazeteciler-ve-muhalefete-fon-davasi-p368927",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ufuk-ozkan-saglik-durumuna-iliskin-aciklama-p368848",
       "source": "Sözcü",
       "published_at": "2026-10-13T16:16:41Z"
-    },
-    {
-      "title": "Borsa günü yükselişle tamamladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3919445",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T16:16:15Z"
     }
   ]
 }
