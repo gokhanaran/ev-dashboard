@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:13:31.536749Z",
+  "generated_at": "2026-10-14T06:18:35.442949Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Dolar dünyada sert düştü: Türkiye'de rekor kırdı",
+      "link": "https://www.sozcu.com.tr/dolarda-kan-kaybi-hizlandi-piyasalarda-tansiyon-yuksek-p368975",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:16:05Z"
+    },
+    {
+      "title": "Hadise'nin gözyaşları",
+      "link": "https://www.haberturk.com/magazin/foto/hadise-nin-gozyaslari-3919428",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:11:51Z"
+    },
+    {
       "title": "SON DAKİKA... Halk TV'ye kayyum atandı: Yayın durduruldu",
       "link": "https://www.sozcu.com.tr/son-dakika-halk-tv-ye-kayyum-atandi-yayin-durduruldu-p368939",
       "source": "Sözcü",
@@ -46,6 +58,24 @@
       "link": "https://www.sozcu.com.tr/son-dakika-h-halk-tv-nin-sahibi-cafer-mahiroglu-hakkinda-gozalti-karari-p368957",
       "source": "Sözcü",
       "published_at": "2026-10-14T06:10:46Z"
+    },
+    {
+      "title": "3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı",
+      "link": "https://www.haberturk.com/saglik/3-ayda-16-kisi-botoks-zehirlenmesi-nedeniyle-tedaviye-alindi-3919547",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:10:45Z"
+    },
+    {
+      "title": "Zirvedeki bağımlılığa karşı öncü adım",
+      "link": "https://www.haberturk.com/kesfet/yikici-etkilerine-karsi-onlem-3919033",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:09:05Z"
+    },
+    {
+      "title": "Bir askerimiz şehit oldu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bir-askerimiz-sehit-oldu-3919546",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:09:03Z"
     },
     {
       "title": "Dizel araç sahipleri yandı: Artık her kilometrede bunu ödeyecekler",
@@ -64,12 +94,6 @@
       "link": "https://www.sozcu.com.tr/lamine-yamal-gece-yarisi-galatasaray-aciklamasi-yapti-soyunma-odasinda-da-bunu-konustuk-p368979",
       "source": "Sözcü",
       "published_at": "2026-10-14T06:03:29Z"
-    },
-    {
-      "title": "Bir askerimiz şehit oldu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bir-askerimiz-sehit-oldu-3919546",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T06:02:36Z"
     },
     {
       "title": "Şarkıcı Berkay ve eşi Özlem Ada Şahin Dubai'ye gitti: Çocukları için yeni karar",
@@ -234,12 +258,6 @@
       "published_at": "2026-10-14T05:03:31Z"
     },
     {
-      "title": "Hadise'nin gözyaşları",
-      "link": "https://www.haberturk.com/magazin/foto/hadise-nin-gozyaslari-3919428",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T05:00:32Z"
-    },
-    {
       "title": "Milli Takım'da ibre efsane isme döndü",
       "link": "https://www.sozcu.com.tr/milli-takim-da-ibre-efsane-isme-dondu-p368948",
       "source": "Sözcü",
@@ -250,12 +268,6 @@
       "link": "https://www.haberturk.com/dunya/fransa-vizesinde-yeni-donem-randevu-icin-bekleme-listesi-baslayacak-3919528",
       "source": "Habertürk",
       "published_at": "2026-10-14T04:54:08Z"
-    },
-    {
-      "title": "Zirvedeki bağımlılığa karşı öncü adım",
-      "link": "https://www.haberturk.com/kesfet/yikici-etkilerine-karsi-onlem-3919033",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T04:53:29Z"
     },
     {
       "title": "ABD, Rum kesimini savaş makinesi yapıyor",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/aston-villa-maci-oncesi-fenerbahce-de-archie-brown-3-puan-icin-buradayim-3919485",
       "source": "Habertürk",
       "published_at": "2026-10-13T20:13:10Z"
-    },
-    {
-      "title": "Sabah Şampiyonlar Ligi'nde bir ilki başardı! Slavia Prag karşısında Tarihi zafer",
-      "link": "https://www.sozcu.com.tr/sabah-sampiyonlar-ligi-nde-bir-ilki-basardi-slavia-prag-karsisinda-tarihi-zafer-p368896",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:08:49Z"
-    },
-    {
-      "title": "Hürmüz'de iki ticari gemi vuruldu",
-      "link": "https://www.haberturk.com/dunya/hurmuz-bogazi-nda-iki-ticari-gemi-vuruldu-3919482",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T19:58:32Z"
     }
   ]
 }
