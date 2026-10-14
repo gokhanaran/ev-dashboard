@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:28:43.702028Z",
+  "generated_at": "2026-10-14T06:33:47.459495Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Mirza ve Leyla büyük bir yüzleşme yaşıyor!",
+      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-yeni-bolumuyle-bu-aksam-show-tv-de-3919551",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:30:10Z"
+    },
+    {
       "title": "Karton kutuları tek tek çatıya dizmeye başladılar",
       "link": "https://www.sozcu.com.tr/karton-kutulari-tek-tek-catiya-dizmeye-basladilar-p368986",
       "source": "Sözcü",
@@ -45,7 +51,7 @@
       "title": "Yollar göle döndü, kadın suya kapıldı!",
       "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-korku-dolu-dakikalar-yollar-gole-dondu-kadin-suya-kapildi-3919548",
       "source": "Habertürk",
-      "published_at": "2026-10-14T06:17:00Z"
+      "published_at": "2026-10-14T06:24:18Z"
     },
     {
       "title": "Dolar dünyada sert düştü: Türkiye'de rekor kırdı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/manisa-fk-teknik-direktor-ahmet-pektas-ile-yollarini-ayirdi-3919490",
       "source": "Habertürk",
       "published_at": "2026-10-13T20:31:30Z"
-    },
-    {
-      "title": "İzmirde 80 işçi gıda zehirlenmesi nedeniyle hastanelere başvurdu",
-      "link": "https://www.trthaber.com/haber/turkiye/izmirde-80-isci-gida-zehirlenmesi-nedeniyle-hastanelere-basvurdu-960040.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-13T20:21:00Z"
     }
   ]
 }
