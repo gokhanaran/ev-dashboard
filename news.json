@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:14:08.637858Z",
+  "generated_at": "2026-10-14T18:19:12.287609Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "KYK Yurdundaki gençler aynı anda ışıkları açıp sevinçle bağırdılar! Sebebi ise sonra ortaya çıktı",
+      "link": "https://www.sozcu.com.tr/kyk-yurdundaki-gencler-ayni-anda-isiklari-acip-sevincle-bagirdilar-sebebi-ise-sonra-ortaya-cikti-p369212",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T18:16:59Z"
+    },
     {
       "title": "İstanbul’dan sonra bir ‘okul tatili’ haberi daha",
       "link": "https://www.sozcu.com.tr/istanbul-dan-sonra-bir-okul-tatili-haberi-daha-p369209",
@@ -181,7 +187,7 @@
     },
     {
       "title": "\"İzmir’imiz için verimli bir görüşme yaptık\"",
-      "link": "https://www.haberturk.com/gundem/kurum-izmirimiz-icin-verimli-bir-gorusme-yaptik-3919749",
+      "link": "https://www.haberturk.com/kurum-izmirimiz-icin-verimli-bir-gorusme-yaptik-3919749",
       "source": "Habertürk",
       "published_at": "2026-10-14T17:10:03Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/altinda-gerileme-abd-verisi-etkili-oldu-3919696",
       "source": "Habertürk",
       "published_at": "2026-10-14T12:56:26Z"
-    },
-    {
-      "title": "Yarım saatten uzun süren sabah tutukluğuna dikkat!",
-      "link": "https://www.haberturk.com/saglik/yarim-saatten-uzun-suren-sabah-tutukluguna-dikkat-3919693",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T12:52:14Z"
     }
   ]
 }
