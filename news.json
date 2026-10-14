@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:37:02.403791Z",
+  "generated_at": "2026-10-14T01:42:06.955304Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+      "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-suruklenen-gemi-kurtarildi-3919523",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T01:34:50Z"
+    },
     {
       "title": "Fonda eriyen hayatlar",
       "link": "https://www.sozcu.com.tr/fonda-eriyen-hayatlar-p368930",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/besiktas-in-yildizi-isyan-etti-istanbul-un-trafigi-nubel-i-cildirtti-p368846",
       "source": "Sözcü",
       "published_at": "2026-10-13T16:16:49Z"
-    },
-    {
-      "title": "Ufuk Özkan'ın iyileşme hızı doktorlarını şaşkına çevirdi",
-      "link": "https://www.sozcu.com.tr/ufuk-ozkan-saglik-durumuna-iliskin-aciklama-p368848",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T16:16:41Z"
     }
   ]
 }
