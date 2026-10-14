@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:38:52.213799Z",
+  "generated_at": "2026-10-14T06:43:55.931444Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Pelin Karahan'dan aylar sonra gelen boşanma itirafı",
+      "link": "https://www.sozcu.com.tr/pelin-karahan-dan-aylar-sonra-gelen-bosanma-itirafi-p368994",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:42:53Z"
+    },
+    {
+      "title": "Dünya medyası Halk TV'ye kayyum atanmasını son dakika olarak duyurdu",
+      "link": "https://www.sozcu.com.tr/dunya-medyasi-halk-tvye-kayyum-atanmasini-son-dakika-olarak-duyurdu-p368993",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:40:10Z"
+    },
+    {
+      "title": "Brent petrolün varili 106,10 dolardan işlem görüyor",
+      "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10610-dolardan-islem-goruyor-960062.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-14T06:39:00Z"
+    },
+    {
+      "title": "4 ilde FETÖ operasyonu: 21 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-izmir-merkezli-4-ilde-feto-operasyonu-21-gozalti-3919558",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:37:08Z"
+    },
+    {
+      "title": "ABD İran'ın Hürmüz'ü kontrol iddiasını reddetti",
+      "link": "https://www.haberturk.com/dunya/abd-ordusu-iran-in-hurmuz-bogazi-uzerindeki-kontrol-iddiasini-reddetti-3919557",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T06:36:53Z"
+    },
     {
       "title": "Kan tahlilinde çıkmayan sağlık sorunlarına dikkat!",
       "link": "https://www.haberturk.com/saglik/kan-tahlilinde-cikmayan-saglik-sorunlarina-dikkat-3919554",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-barcelona-maci-canli-anlatim-gs-barcelona-uefa-sampiyonlar-ligi-maci-kac-kac-mac-skoru-3919268",
       "source": "Habertürk",
       "published_at": "2026-10-13T21:00:20Z"
-    },
-    {
-      "title": "Son dakika... Osman Kavala'nın yeniden yargılanma talebi reddedildi",
-      "link": "https://www.sozcu.com.tr/son-dakika-osman-kavala-nin-yeniden-yargilanma-talebi-reddedildi-p368827",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:57:32Z"
-    },
-    {
-      "title": "Son dakika...Suudi Arabistan'da ARAMCO Genel Merkezi yakınlarında patlama sesleri duyuldu",
-      "link": "https://www.sozcu.com.tr/son-dakika-suudi-arabistan-da-aramco-genel-merkezi-yakinlarinda-patlama-sesleri-duyuldu-p368881",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:56:28Z"
-    },
-    {
-      "title": "Galatasaray’ın gücü Barça’ya yetmedi! Sarı-kırmızılılar Devler Ligi’nde 2’de 0 yaptı",
-      "link": "https://www.sozcu.com.tr/galatasaray-barcelona-uefa-sampiyonlar-ligi-maci-canli-p368826",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:53:39Z"
-    },
-    {
-      "title": "Karadeniz’de gemiye saldırı: Kayıp denizciler aranıyor",
-      "link": "https://www.sozcu.com.tr/karadeniz-de-gemiye-saldiri-kayip-denizciler-araniyor-p368906",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:50:52Z"
-    },
-    {
-      "title": "Bir meslek grubu için daha 'yeşil pasaport' teklifi Meclis'e sundu",
-      "link": "https://www.sozcu.com.tr/bir-meslek-grubu-icin-daha-yesil-pasaport-teklifini-meclise-sundu-p368904",
-      "source": "Sözcü",
-      "published_at": "2026-10-13T20:46:26Z"
     }
   ]
 }
