@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:54:04.267823Z",
+  "generated_at": "2026-10-14T06:59:08.569277Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Netflix Dünya Kupası'na da el attı: 2030 için yayın hakkını satın aldı",
+      "link": "https://www.sozcu.com.tr/netflix-dunya-kupasi-na-da-el-atti-2030-icin-yayin-hakkini-satin-aldi-p369001",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T06:57:14Z"
+    },
     {
       "title": "Sahte alkol baskını! Gözaltılar var!",
       "link": "https://www.haberturk.com/gundem/sahte-alkol-baskini-gozaltilar-var-3919563",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/kultur-sanat/akustik-hikayeler-dasdas-ta-3919488",
       "source": "Habertürk",
       "published_at": "2026-10-13T21:14:40Z"
-    },
-    {
-      "title": "‘Dans Eden Melekler’ Kahire'de prömiyer yapacak",
-      "link": "https://www.haberturk.com/kultur-sanat/dans-eden-melekler-kahire-de-promiyer-yapacak-3919486",
-      "source": "Habertürk",
-      "published_at": "2026-10-13T21:14:06Z"
     }
   ]
 }
