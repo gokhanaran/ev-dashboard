@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:43:57.216893Z",
+  "generated_at": "2026-10-15T05:49:01.043375Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ne yağmur ne de uzaklık durdurabildi: Desteğe giden kalabalık salona sığmadı",
+      "link": "https://www.sozcu.com.tr/ne-yagmur-ne-de-uzaklik-durdurabildi-destege-giden-kalabalik-salona-sigmadi-p369298",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T05:43:28Z"
+    },
     {
       "title": "Hastalanan kızının tedavisi için Almanya'ya gitti",
       "link": "https://www.sozcu.com.tr/hastalanan-kizinin-tedavisi-icin-almanya-ya-gitti-p369301",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/ticaret-bakanligi-ndan-e-ticarette-et-urunlerinin-gramajina-iliskin-uyari-3919793",
       "source": "Habertürk",
       "published_at": "2026-10-14T20:38:20Z"
-    },
-    {
-      "title": "Zelenski: Trump'ın Rusya ile yaptığı dizel anlaşması nedeniyle ihanete uğramış hissettim",
-      "link": "https://www.trthaber.com/haber/dunya/zelenski-trumpin-rusya-ile-yaptigi-dizel-anlasmasi-nedeniyle-ihanete-ugramis-hissettim-960133.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-14T20:38:00Z"
     }
   ]
 }
