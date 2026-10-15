@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:37:45.396608Z",
+  "generated_at": "2026-10-15T00:47:51.618654Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika... İstanbul'da 15 Ekim'de okullar tatil",
+      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-da-15-ekim-de-okullar-tatil-p369189",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T00:47:12Z"
+    },
     {
       "title": "Halk TV’ye kayyum atanması dünya basınında yankılandı",
       "link": "https://www.sozcu.com.tr/halk-tv-ye-kayyum-atanmasi-dunya-basininda-yankilandi-p369261",
@@ -454,12 +460,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/antalyada-saganak-mahsur-kalan-22-kisi-kurtarildi-960130.html",
       "source": "TRT Haber",
       "published_at": "2026-10-14T20:23:00Z"
-    },
-    {
-      "title": "Son dakika... İstanbul'da 15 Ekim'de okullar tatil",
-      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-da-15-ekim-de-okullar-tatil-p369189",
-      "source": "Sözcü",
-      "published_at": "2026-10-14T20:22:11Z"
     },
     {
       "title": "Suudi Arabistan, Ürdün ve Kuveyt Kolombiya'nın İsrail büyükelçiliğini Kudüs'e taşımasını kınadı",
