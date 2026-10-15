@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:59:40.028751Z",
+  "generated_at": "2026-10-15T21:04:44.191998Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -36,22 +36,22 @@
   ],
   "items": [
     {
+      "title": "Beşiktaş Almanya'da kazandı 2'de 2 yaptı!",
+      "link": "https://www.haberturk.com/spor/hoffenheim-besiktas-maci-canli-anlatim-tsg-bjk-uefa-avrupa-ligi-maci-kac-kac-mac-skoru-ve-onemli-3919863",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T21:02:19Z"
+    },
+    {
       "title": "Beşiktaş'ta Orkun Kökçü şoku! Devam edemedi",
       "link": "https://www.sozcu.com.tr/besiktasta-orkun-kokcu-soku-devam-edemedi-p369617",
       "source": "Sözcü",
-      "published_at": "2026-10-15T20:58:33Z"
+      "published_at": "2026-10-15T21:00:37Z"
     },
     {
       "title": "Beşiktaş Almanya’da derin bir ‘Oh’ çekti",
       "link": "https://www.sozcu.com.tr/canli-veya-hoffenheim-besiktas-maci-canli-yayin-p369586",
       "source": "Sözcü",
       "published_at": "2026-10-15T20:56:09Z"
-    },
-    {
-      "title": "Beşiktaş Almanya'da kazandı 2'de 2 yaptı!",
-      "link": "https://www.haberturk.com/spor/hoffenheim-besiktas-maci-canli-anlatim-tsg-bjk-uefa-avrupa-ligi-maci-kac-kac-mac-skoru-ve-onemli-3919863",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T20:53:35Z"
     },
     {
       "title": "ABD'den İran'a yönelik yeni yaptırımlar",
@@ -82,6 +82,12 @@
       "link": "https://www.haberturk.com/gundem/trabzon-un-of-ilcesinde-silahli-saldiriya-ugrayan-esref-saral-yaralandi-3920081",
       "source": "Habertürk",
       "published_at": "2026-10-15T20:44:18Z"
+    },
+    {
+      "title": "Binlerce eşek arısı restoranları istila etti",
+      "link": "https://www.sozcu.com.tr/binlerce-esek-arisi-restoranlari-istila-etti-p369622",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T20:38:32Z"
     },
     {
       "title": "Fenerbahçe çift maç haftasında hata yapmadı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cumhurbaskani-erdogan-dan-aciklamalar-3919995",
       "source": "Habertürk",
       "published_at": "2026-10-15T15:04:07Z"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli: Yaraları devlet millet dayanışmasıyla saracağız",
-      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceli-yaralari-devlet-millet-dayanismasiyla-saracagiz-960213.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-15T15:04:00Z"
     }
   ]
 }
