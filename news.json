@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:29:16.990657Z",
+  "generated_at": "2026-10-15T20:34:21.233633Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,13 @@
       "title": "Canlı | Hoffenheim-Beşiktaş maçı canlı yayın",
       "link": "https://www.sozcu.com.tr/canli-veya-hoffenheim-besiktas-maci-canli-yayin-p369586",
       "source": "Sözcü",
-      "published_at": "2026-10-15T20:27:09Z"
+      "published_at": "2026-10-15T20:31:52Z"
+    },
+    {
+      "title": "Son dakika...Eşref Saral’a silahlı saldırı",
+      "link": "https://www.sozcu.com.tr/son-dakika-esref-saral-a-silahli-saldiri-p369619",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T20:31:40Z"
     },
     {
       "title": "Halk TV Programcısı Gazeteci Bahadır Özgür gözaltına alındı hesaplarına erişim engeli getirildi",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/samsunspor-bjelica-ile-imzaladi-p369552",
       "source": "Sözcü",
       "published_at": "2026-10-15T14:48:04Z"
-    },
-    {
-      "title": "Cep telefonlarında taksit sınırı yükseltildi. İşte yeni limit...",
-      "link": "https://www.sozcu.com.tr/cep-telefonlarinda-taksit-siniri-degisti-yeni-limitler-aciklandi-p369536",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T14:47:31Z"
     }
   ]
 }
