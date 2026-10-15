@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:46:46.497426Z",
+  "generated_at": "2026-10-15T11:51:50.232195Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,36 @@
   ],
   "items": [
     {
+      "title": "Üsküdar Belediye Başkan Vekili kazada yaralandı",
+      "link": "https://www.haberturk.com/gundem/uskudar-belediye-baskan-vekili-kazada-yaralandi-3919959",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T11:46:58Z"
+    },
+    {
+      "title": "Şiddetli yağış yön değiştirdi, birçok kenti sağanak vurdu!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberleri-siddetli-yagis-yon-degistirdi-sakarya-ve-kocaeli-de-etkili-saganak-3919889",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T11:45:09Z"
+    },
+    {
+      "title": "İzmir'de 3 ölü yunus sahile vurdu",
+      "link": "https://www.haberturk.com/gundem/izmir-de-3-olu-yunus-sahile-vurdu-3919957",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T11:44:32Z"
+    },
+    {
+      "title": "Türkiye'de liposuction sonrası ölüm iddiası",
+      "link": "https://www.haberturk.com/saglik/turkiye-de-liposuction-yag-aldirma-sonrasi-olum-iddiasi-2924505",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T11:44:29Z"
+    },
+    {
+      "title": "Yapay zekaya göre en sağlıklı et",
+      "link": "https://www.sozcu.com.tr/yapay-zekaya-gore-en-saglikli-et-p369478",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T11:43:09Z"
+    },
+    {
       "title": "Verdiği kilolar korkuttu: Oyuncu Didem Balçın zayıflama sırrını açıkladı",
       "link": "https://www.sozcu.com.tr/verdigi-kilolar-korkuttu-oyuncu-didem-balcin-zayiflama-sirrini-acikladi-p369477",
       "source": "Sözcü",
@@ -46,6 +76,12 @@
       "link": "https://www.haberturk.com/spor/besiktas-avrupa-da-2-de-2-pesinde-hoffenheim-besiktas-muhtemel-11-ler-3919863",
       "source": "Habertürk",
       "published_at": "2026-10-15T11:38:35Z"
+    },
+    {
+      "title": "Kiralanan banka hesapları suç zincirlerine kapı açabiliyor",
+      "link": "https://www.trthaber.com/haber/ekonomi/kiralanan-banka-hesaplari-suc-zincirlerine-kapi-acabiliyor-960194.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-15T11:36:00Z"
     },
     {
       "title": "Ayakkabısını ıslanmasın diye çıkarmış! 14 yaşındaki Mahmut gözyaşına boğdu",
@@ -286,12 +322,6 @@
       "link": "https://www.trthaber.com/haber/gundem/31-marta-kadar-butun-hesaplar-yas-dogrulama-sisteminden-gececek-960185.html",
       "source": "TRT Haber",
       "published_at": "2026-10-15T10:45:00Z"
-    },
-    {
-      "title": "Şiddetli yağış yön değiştirdi, birçok kenti sağanak vurdu!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberleri-siddetli-yagis-yon-degistirdi-sakarya-ve-kocaeli-de-etkili-saganak-3919889",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T10:38:15Z"
     },
     {
       "title": "Son dakika: Hamdi Akın'ın oğlu gözaltına alındı",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-en-cok-izlenen-dizi-oldu-3919895",
       "source": "Habertürk",
       "published_at": "2026-10-15T08:25:13Z"
-    },
-    {
-      "title": "Canan Karatay'dan zayıflama iğnesi uyarısı: Riski büyük",
-      "link": "https://www.sozcu.com.tr/canan-karatay-dan-zayiflama-ignesi-uyarisi-riski-buyuk-p369353",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T08:23:36Z"
-    },
-    {
-      "title": "Fenerbahçe maçı reytingleri altüst etti: Yeraltı reytingleri yeni diziye kaptırdı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-maci-reytingleri-altust-etti-yeralti-reytingleri-yeni-diziye-kaptirdi-p369388",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T08:22:17Z"
-    },
-    {
-      "title": "THY uçağı havada acil durum ilan etti: Yolcular felaketi yaşadı",
-      "link": "https://www.sozcu.com.tr/thy-ucagi-havada-acil-durum-ilan-etti-yolcular-felaketi-yasadi-p369380",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T08:12:34Z"
-    },
-    {
-      "title": "İsrail Cumhurbaşkanı Azerbaycan uçağına binip Türk hava sahası üzerinden geçti",
-      "link": "https://www.sozcu.com.tr/israil-cumhurbaskani-azerbaycan-ucagina-binip-turk-hava-sahasi-uzerinden-gecti-p369376",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T08:09:47Z"
-    },
-    {
-      "title": "Elvin Levinler'in yağmur paylaşımı tepki çekti: Geri adım attı",
-      "link": "https://www.sozcu.com.tr/elvin-levinler-in-yagmur-paylasimi-tepki-cekti-geri-adim-atti-p369377",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T08:06:47Z"
     }
   ]
 }
