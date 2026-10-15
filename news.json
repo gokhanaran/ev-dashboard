@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:26:31.560221Z",
+  "generated_at": "2026-10-15T11:31:35.281749Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,18 @@
       "link": "https://www.sozcu.com.tr/istanbul-un-ardindan-bir-buyuksehirde-daha-okullar-tatil-edildi-p369466",
       "source": "Sözcü",
       "published_at": "2026-10-15T11:25:32Z"
+    },
+    {
+      "title": "Saint-Gobain Yapı Kimyasalları’ndan Tuzla’da stratejik adım",
+      "link": "https://www.haberturk.com/ekonomi/saint-gobain-yapi-kimyasallarindan-tuzlada-stratejik-adim-3919950",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T11:24:00Z"
+    },
+    {
+      "title": "Türkiye'nin binek otomobil ihracatı 9 ayda 8,7 milyar dolar oldu",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-binek-otomobil-ihracati-9-ayda-87-milyar-dolar-oldu-960191.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-15T11:23:00Z"
     },
     {
       "title": "\"Annesi ve nişanlısı arasında kaldı\"",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/anadolu-efes-euroleague-de-zalgiris-kaunas-a-konuk-olacak-3919885",
       "source": "Habertürk",
       "published_at": "2026-10-15T07:49:19Z"
-    },
-    {
-      "title": "İstanbul'da okullar yarın da tatil",
-      "link": "https://www.trthaber.com/haber/gundem/istanbulda-okullar-yarin-da-tatil-960166.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-15T07:49:00Z"
-    },
-    {
-      "title": "TIR'a çarptı, alev aldı!",
-      "link": "https://www.haberturk.com/gundem/tir-a-carpti-alev-aldi-3919888",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T07:48:24Z"
     }
   ]
 }
