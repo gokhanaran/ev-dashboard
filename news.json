@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:39:25.204314Z",
+  "generated_at": "2026-10-15T20:49:31.913698Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,19 @@
       "title": "Canlı | Hoffenheim-Beşiktaş maçı canlı yayın",
       "link": "https://www.sozcu.com.tr/canli-veya-hoffenheim-besiktas-maci-canli-yayin-p369586",
       "source": "Sözcü",
-      "published_at": "2026-10-15T20:37:58Z"
+      "published_at": "2026-10-15T20:47:48Z"
+    },
+    {
+      "title": "Son dakika kararları peş peşe geldi: 6 ilde okullar tatil edildi!",
+      "link": "https://www.sozcu.com.tr/istanbul-bursa-sakarya-yalova-16-ekim-2026-okullar-tatil-mi-p369571",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T20:46:54Z"
+    },
+    {
+      "title": "26 il için yağış uyarısı: Bakan'dan evden çıkmayın çağrısı",
+      "link": "https://www.sozcu.com.tr/26-il-icin-yagis-uyarisi-bakandan-evden-cikmayin-cagrisi-p369621",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T20:45:51Z"
     },
     {
       "title": "Fenerbahçe çift maç haftasında hata yapmadı",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-trafik-yogunlugu-15-ekim-2026-p369551",
       "source": "Sözcü",
       "published_at": "2026-10-15T14:59:18Z"
-    },
-    {
-      "title": "Ünlü astrolog Nuray Sayarı'nın lüks villasını sağanak fena vurdu! Tavan çöktü, havuz taştı",
-      "link": "https://www.sozcu.com.tr/unlu-astrolog-nuray-sayari-nin-luks-villasini-saganak-fena-vurdu-tavan-coktu-havuz-tasti-p369554",
-      "source": "Sözcü",
-      "published_at": "2026-10-15T14:56:36Z"
-    },
-    {
-      "title": "Tokat'ta 1500 öğrenciye çalışma imkanı",
-      "link": "https://www.haberturk.com/gundem/tokat-ta-1500-ogrenciye-calisma-imkani-3920022",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T14:55:57Z"
     }
   ]
 }
