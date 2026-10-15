@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:24:22.622716Z",
+  "generated_at": "2026-10-15T00:22:35.539626Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,100 @@
   ],
   "items": [
     {
+      "title": "Halk TV kapatıldı",
+      "link": "https://www.sozcu.com.tr/halk-tv-kapatildi-p369260",
+      "source": "Sözcü",
+      "published_at": "2026-10-15T00:00:56Z"
+    },
+    {
+      "title": "İstanbul Valisi Gül: Zorunlu olmadıkça evinizden çıkmayın",
+      "link": "https://www.sozcu.com.tr/istanbul-valisi-gul-den-halka-onemli-uyari-zorunlu-olmadikca-yarin-evden-cikmayin-p369205",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T23:59:22Z"
+    },
+    {
+      "title": "5 ilde okullar tatil edildi!",
+      "link": "https://www.haberturk.com/gundem/yalova-valiligi-siddetli-yagis-nedeniyle-okullarin-tatil-edildigini-duyurdu-3919790",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T23:28:53Z"
+    },
+    {
+      "title": "Düzce'de eğitime kuvvetli yağış engeli",
+      "link": "https://www.trthaber.com/haber/turkiye/duzcede-egitime-kuvvetli-yagis-engeli-960137.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-14T23:13:00Z"
+    },
+    {
       "title": "Yardım çağrısında bulundular",
       "link": "https://www.haberturk.com/magazin/murat-boz-dan-yardim-cagrisi-unlu-sarkici-murat-boz-studyoda-mahsur-kaldi-son-dakika-magazin-3919738",
       "source": "Habertürk",
-      "published_at": "2026-10-14T22:20:08Z"
+      "published_at": "2026-10-14T23:11:57Z"
+    },
+    {
+      "title": "İstanbul'dan acı haber geldi: 2 kişi hayatını kaybetti",
+      "link": "https://www.sozcu.com.tr/saganak-yagmur-degil-ihmal-can-aldi-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti-p369224",
+      "source": "Sözcü",
+      "published_at": "2026-10-14T23:04:11Z"
+    },
+    {
+      "title": "İstanbul'da metrekareye 242 kilogram yağış düştü",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-metrekareye-242-kilogram-yagis-dustu-3919821",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T23:02:25Z"
+    },
+    {
+      "title": "Bursa Deniz Otobüslerinin 12 seferi iptal edildi",
+      "link": "https://www.trthaber.com/haber/turkiye/bursa-deniz-otobuslerinin-12-seferi-iptal-edildi-960136.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-14T22:57:00Z"
+    },
+    {
+      "title": "İstanbul'da meydana gelen selde 1 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-meydana-gelen-selde-1-kisi-hayatini-kaybetti-960135.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-14T22:52:00Z"
+    },
+    {
+      "title": "İstanbul'da sel 1 can aldı",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-sel-1-can-aldi-3919819",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:46:19Z"
+    },
+    {
+      "title": "\"Dengeyi kurmak için zamana ihtiyacımız var\"",
+      "link": "https://www.haberturk.com/spor/unai-emery-dengeyi-kurmak-icin-zamana-ihtiyacimiz-var-3919818",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:41:02Z"
     },
     {
       "title": "Fon düzenlemesi komisyonda kabul edildi",
       "link": "https://www.haberturk.com/gundem/fon-duzenlemesi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-3919814",
       "source": "Habertürk",
-      "published_at": "2026-10-14T22:12:07Z"
+      "published_at": "2026-10-14T22:31:49Z"
+    },
+    {
+      "title": "Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
+      "link": "https://www.haberturk.com/bilgi/migros-1-alana-1-bedava-indirimlerinde-neler-var-migros-1-alana-1-bedava-kampanyasi-devam-ediyor-mu-bitti-mi-3919817",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:28:58Z"
+    },
+    {
+      "title": "Yalova’da okullar tatil mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/yalovada-okullar-tatil-mi-15-ekim-yalovada-okul-var-mi-ders-islenecek-mi-valilik-duyurdu-3919792",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:28:55Z"
+    },
+    {
+      "title": "\"Çok önemli bir galibiyet\"",
+      "link": "https://www.haberturk.com/spor/nicolas-jackson-cok-onemli-bir-galibiyet-3919816",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:28:11Z"
+    },
+    {
+      "title": "İzmir'de FETÖ şüphelisi yakalandı",
+      "link": "https://www.haberturk.com/gundem/izmir-de-feto-suphelisi-yakalandi-3919815",
+      "source": "Habertürk",
+      "published_at": "2026-10-14T22:23:26Z"
     },
     {
       "title": "\"İyi ki doğdun aşkım\"",
@@ -214,12 +298,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/a101-aktuel-urunler-katalogu-15-ekim-2026-atv-motosiklet-elektrikli-isitici-fan-a101-aktuel-urunler-katalogunda-neler-var-3919775",
       "source": "Habertürk",
       "published_at": "2026-10-14T21:15:31Z"
-    },
-    {
-      "title": "Yalova’da okullar tatil mi?",
-      "link": "https://www.haberturk.com/bilgi/foto/yalovada-okullar-tatil-mi-15-ekim-yalovada-okul-var-mi-ders-islenecek-mi-valilik-duyurdu-3919792",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T21:14:23Z"
     },
     {
       "title": "Arda Turan'lı Shakhtar üç puanı kaptı!",
@@ -676,84 +754,6 @@
       "link": "https://www.sozcu.com.tr/aston-villa-fenerbahce-uefa-sampiyonlar-ligi-maci-canli-p369175",
       "source": "Sözcü",
       "published_at": "2026-10-14T17:49:34Z"
-    },
-    {
-      "title": "\"Trabzonspor'a karşı savunma yapmayacağız!\"",
-      "link": "https://www.haberturk.com/spor/miika-nuutinen-trabzonspor-a-karsi-savunma-yapmayacagiz-3919759",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:48:37Z"
-    },
-    {
-      "title": "Sakarya Karasu'da 1 okul yarın tatil edildi",
-      "link": "https://www.haberturk.com/gundem/sakarya-karasu-da-1-okul-yarin-tatil-edildi-3919758",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:47:02Z"
-    },
-    {
-      "title": "Megakent İstanbul'u sağanak vurdu! Yollar taştı su baskınları oldu! Yıllardır böyle bir yağmur görülmedi",
-      "link": "https://www.sozcu.com.tr/istanbul-da-saganak-yagislar-hayati-felc-etti-yollar-gole-dondu-p369196",
-      "source": "Sözcü",
-      "published_at": "2026-10-14T17:43:16Z"
-    },
-    {
-      "title": "Thomas Reis'ten flaş Salah açıklaması!",
-      "link": "https://www.haberturk.com/spor/trabzonspor-da-thomas-reis-ten-flas-muhammed-salah-aciklamasi-3919755",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:40:16Z"
-    },
-    {
-      "title": "ABD Savunma Bakanı Hegseth: Otonom bir harp komutanlığına ihtiyacımız var",
-      "link": "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-hegseth-otonom-bir-harp-komutanligina-ihtiyacimiz-var-960124.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-14T17:39:00Z"
-    },
-    {
-      "title": "İstanbul Valisi Gül: İstanbul'da yarın sokağa çıkmayın",
-      "link": "https://www.sozcu.com.tr/istanbul-valisi-gul-den-halka-onemli-uyari-zorunlu-olmadikca-yarin-evden-cikmayin-p369205",
-      "source": "Sözcü",
-      "published_at": "2026-10-14T17:34:28Z"
-    },
-    {
-      "title": "Bakan Fidan Azerbaycan'da",
-      "link": "https://www.haberturk.com/dunya/disisleri-bakani-hakan-fidan-azerbaycan-a-gidiyor-3919644",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:32:42Z"
-    },
-    {
-      "title": "Bakan Çiftçi: 8 bin personel sahada",
-      "link": "https://www.haberturk.com/gundem/bakan-ciftci-8-bin-personel-sahada-3919751",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:30:27Z"
-    },
-    {
-      "title": "Denizin dibindeki gemi 82 yıldır tehlike saçıyor: İçinde 1.400 ton patlayıcı var",
-      "link": "https://www.sozcu.com.tr/denizin-dibindeki-gemi-82-yildir-tehlike-saciyor-icinde-1-400-ton-patlayici-var-p369206",
-      "source": "Sözcü",
-      "published_at": "2026-10-14T17:28:48Z"
-    },
-    {
-      "title": "Fenerbahçe-Göztepe maçı ertelendi",
-      "link": "https://www.haberturk.com/spor/fenerbahce-medicana-goztepe-yuppo-maci-ertelendi-3919753",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:21:40Z"
-    },
-    {
-      "title": "AKSUNGUR'dan TOLUN ile ilk atışta tam isabet",
-      "link": "https://www.trthaber.com/haber/savunma/aksungurdan-tolun-ile-ilk-atista-tam-isabet-960123.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-14T17:21:00Z"
-    },
-    {
-      "title": "Av tüfeğiyle okula ateş açtı",
-      "link": "https://www.haberturk.com/gundem/av-tufegiyle-okula-ates-acti-3919750",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:15:36Z"
-    },
-    {
-      "title": "\"İzmir’imiz için verimli bir görüşme yaptık\"",
-      "link": "https://www.haberturk.com/kurum-izmirimiz-icin-verimli-bir-gorusme-yaptik-3919749",
-      "source": "Habertürk",
-      "published_at": "2026-10-14T17:10:03Z"
     }
   ]
 }
