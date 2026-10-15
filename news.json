@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:27:42.561710Z",
+  "generated_at": "2026-10-15T17:32:45.281267Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye Sigorta Genel Müdürü Taha Çakmak istifa etti",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-turkiye-sigorta-genel-muduru-taha-cakmak-istifa-etti-3920055",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T17:27:37Z"
+    },
+    {
+      "title": "Ekrem İmamoğlu hakkında yeni soruşturma",
+      "link": "https://www.haberturk.com/gundem/ekrem-imamoglu-nun-durusmada-yargi-mensuplarina-yonelik-sozlerine-sorusturma-acildi-3920042",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T17:26:33Z"
+    },
+    {
+      "title": "Galatasaray'da Gençlerbirliği mesaisi!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-genclerbirligi-mesaisi-3920053",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T17:25:12Z"
+    },
     {
       "title": "Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
       "link": "https://www.haberturk.com/bilgi/migros-1-alana-1-bedava-indirimlerinde-neler-var-migros-1-alana-1-bedava-kampanyasi-devam-ediyor-mu-bitti-mi-3919817",
@@ -172,12 +190,6 @@
       "link": "https://www.haberturk.com/spor/mardin-1969-spor-karagumruk-mac-sonucu-iste-mardin-1969-spor-fatih-karagumruk-maci-ozeti-ve-golleri-1-lig-3920043",
       "source": "Habertürk",
       "published_at": "2026-10-15T16:14:25Z"
-    },
-    {
-      "title": "Ekrem İmamoğlu hakkında yeni soruşturma",
-      "link": "https://www.haberturk.com/gundem/ekrem-imamoglu-nun-durusmada-yargi-mensuplarina-yonelik-sozlerine-sorusturma-acildi-3920042",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T16:13:22Z"
     },
     {
       "title": "Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak'ın mal varlığına tedbir ve yurtdışı yasağı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-vefat-etti-960200.html",
       "source": "TRT Haber",
       "published_at": "2026-10-15T12:59:00Z"
-    },
-    {
-      "title": "Köy okullarındaki çocuklar bilim ve sanatla buluşuyor",
-      "link": "https://www.haberturk.com/gundem/koy-okullarindaki-cocuklar-bilim-ve-sanatla-bulusuyor-3919989",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T12:58:51Z"
-    },
-    {
-      "title": "\"Film izlerken uyuyakaldım\"",
-      "link": "https://www.haberturk.com/magazin/teoman-film-izlerken-uyuyakaldim-3919968",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T12:50:41Z"
     }
   ]
 }
