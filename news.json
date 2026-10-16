@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:03:23.904893Z",
+  "generated_at": "2026-10-16T14:08:28.578723Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bedelli askerlikte 28 gün şartı kalkıyor mu? Resmi açıklama geldi",
+      "link": "https://www.sozcu.com.tr/bedelli-askerlikte-28-gun-sarti-kalkiyor-mu-resmi-aciklama-geldi-p369883",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T14:07:02Z"
+    },
     {
       "title": "Soner Olgun vefat etti",
       "link": "https://www.haberturk.com/magazin/unlu-sarkici-soner-olgun-vefat-etti-3918744",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/dundar-ziya-gultekin-son-yolculuguna-ugurlaniyor-3920217",
       "source": "Habertürk",
       "published_at": "2026-10-16T10:32:38Z"
-    },
-    {
-      "title": "Son dakika: Gözaltına alınan Murat Ağırel'den mesaj var!",
-      "link": "https://www.sozcu.com.tr/son-dakika-gozaltina-alinan-murat-agirel-den-mesaj-var-p369784",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T10:32:36Z"
     }
   ]
 }
