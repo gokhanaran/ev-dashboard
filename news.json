@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:38:18.455393Z",
+  "generated_at": "2026-10-16T23:22:46.791837Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,102 @@
     }
   ],
   "items": [
+    {
+      "title": "Siirt'te 88 kişi gıdadan zehirlendi",
+      "link": "https://www.haberturk.com/gundem/siirt-te-gida-zehirlenmesi-88-kisi-hastanelik-oldu-3920366",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T23:16:59Z"
+    },
+    {
+      "title": "Yurt genelinde sağanak ve fırtına uyarısı",
+      "link": "https://www.haberturk.com/gundem/icisleri-bakanligindan-yurt-genelinde-saganak-ve-firtina-uyarisi-3920365",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T22:50:22Z"
+    },
+    {
+      "title": "Siirt'te gıda zehirlenmesi şüphesiyle hastaneye kaldırılan kişi sayısı 88'e yükseldi",
+      "link": "https://www.trthaber.com/haber/turkiye/siirtte-gida-zehirlenmesi-suphesiyle-hastaneye-kaldirilan-kisi-sayisi-88e-yukseldi-960370.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T22:43:00Z"
+    },
+    {
+      "title": "AÖL sınavları ne zaman?",
+      "link": "https://www.haberturk.com/bilgi/foto/aol-sinavlari-ne-zaman-hangi-tarihte-yapilacak-acik-ogretim-lisesi-meb-aol-sinav-takvimi-3920364",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T22:30:51Z"
+    },
+    {
+      "title": "Eski eşten duygusal veda",
+      "link": "https://www.haberturk.com/magazin/ozlem-koldas-tan-soner-olgun-a-duygusal-veda-3920363",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T22:27:22Z"
+    },
+    {
+      "title": "Masterchef dokunulmazlığı kim kazandı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazligi-kim-kazandi-masterchef-turkiye-eleme-adaylari-belli-oldu-mu-bireysel-dokunulmazligi-kim-aldi-3920329",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T22:26:50Z"
+    },
+    {
+      "title": "AFAD: Ülke genelinde müdahale çalışmalarında 60 bin 395 personel ve 8 bin 927 araç görev yapmaktadır",
+      "link": "https://www.trthaber.com/haber/turkiye/afad-ulke-genelinde-mudahale-calismalarinda-60-bin-395-personel-ve-8-bin-927-arac-gorev-yapmaktadir-960369.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T22:19:00Z"
+    },
+    {
+      "title": "Donetsk'teki önemli şehri aldıklarını bildirdi",
+      "link": "https://www.haberturk.com/dunya/donetsk-teki-onemli-sehri-kontrol-altina-aldiklarini-bildirdi-3920360",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T22:03:42Z"
+    },
+    {
+      "title": "Son dakika...İstanbul Valiliği duyurdu: Hafta sonu yapılmayacak",
+      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-valiligi-duyurdu-hafta-sonu-yapilmayacak-p369898",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T21:59:15Z"
+    },
+    {
+      "title": "31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
+      "link": "https://www.sozcu.com.tr/31-bin-54-sozlesmeli-saglik-personeli-alinacak-karar-resmi-gazetede-p369948",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T21:57:33Z"
+    },
+    {
+      "title": "Kubilay Kaan Kundakçı cinayeti davasında karar çıktı: Kalaycıoğlu'na beraat, Kadayıfçıoğlu'na müebbet",
+      "link": "https://www.sozcu.com.tr/aleyna-kalaycioglu-hakkinda-karar-p369888",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T21:56:50Z"
+    },
+    {
+      "title": "27 yıl sonra bir ilk",
+      "link": "https://www.haberturk.com/magazin/ebru-gundes-ten-27-yil-sonra-bir-ilk-3920348",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T21:50:03Z"
+    },
+    {
+      "title": "16 ilde yasa dışı bahis ve sanal kumar operasyonu: 29 zanlı tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/16-ilde-yasa-disi-bahis-ve-sanal-kumar-operasyonu-29-zanli-tutuklandi-960368.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T21:50:00Z"
+    },
+    {
+      "title": "Sözleşmeli 31 bin sağlık personeli alınacak",
+      "link": "https://www.haberturk.com/gundem/sozlesmeli-31-bin-saglik-personeli-istihdami-resmi-gazete-de-3920358",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T21:46:49Z"
+    },
+    {
+      "title": "\"Severek ayrıldık\"",
+      "link": "https://www.haberturk.com/magazin/foto/sibel-kirer-severek-ayrildik-3920356",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T21:46:34Z"
+    },
+    {
+      "title": "SPK Hedef Portföy fonlarını olağan tasfiye sürecine dahil etti",
+      "link": "https://www.trthaber.com/haber/ekonomi/spk-hedef-portfoy-fonlarini-olagan-tasfiye-surecine-dahil-etti-960367.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T21:42:00Z"
+    },
     {
       "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
       "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
@@ -58,18 +154,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-cafer-mahiroglu-na-yonelik-sorusturmada-4-tutuklama-3920357",
       "source": "Habertürk",
       "published_at": "2026-10-16T21:33:48Z"
-    },
-    {
-      "title": "\"Severek ayrıldık\"",
-      "link": "https://www.haberturk.com/magazin/foto/sibel-kirer-severek-ayrildik-3920356",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T21:33:07Z"
-    },
-    {
-      "title": "Kubilay Kaan Kundakçı cinayeti davasında karar çıktı: Kalaycıoğlu'na beraat, Kadayıfçıoğlu'na müebbet",
-      "link": "https://www.sozcu.com.tr/aleyna-kalaycioglu-hakkinda-karar-p369888",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T21:28:17Z"
     },
     {
       "title": "Arda Güler fotoğraf paylaştı! Mbappe'nin cevabı olay oldu",
@@ -258,12 +342,6 @@
       "published_at": "2026-10-16T20:09:07Z"
     },
     {
-      "title": "27 yıl sonra bir ilk",
-      "link": "https://www.haberturk.com/magazin/ebru-gundes-ten-27-yil-sonra-bir-ilk-3920348",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T20:08:35Z"
-    },
-    {
       "title": "Kocaeli Valiliği duyurdu: Hafta sonu eğitim ve spor faaliyetleri iptal edildi",
       "link": "https://www.sozcu.com.tr/kocaeli-valiligi-duyurdu-hafta-sonu-kurs-ve-musabakalara-ara-p369923",
       "source": "Sözcü",
@@ -388,12 +466,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-da-manuchar-markoishvili-donemi-3920331",
       "source": "Habertürk",
       "published_at": "2026-10-16T18:36:17Z"
-    },
-    {
-      "title": "Masterchef dokunulmazlığı kim kazandı?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazligi-kim-kazandi-masterchef-turkiye-eleme-adaylari-belli-oldu-mu-bireysel-dokunulmazligi-kim-aldi-3920329",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T18:31:26Z"
     },
     {
       "title": "Yunanistan Batı Trakya Türklerinin okullarını kapattı",
@@ -678,82 +750,10 @@
       "published_at": "2026-10-16T16:08:45Z"
     },
     {
-      "title": "Son dakika...İstanbul Valiliği duyurdu: Hafta sonu yapılmayacak",
-      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-valiligi-duyurdu-hafta-sonu-yapilmayacak-p369898",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T16:00:09Z"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan: Kamboçya Güneydoğu Asya bölgesinde önemli bir ortağımız",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kambocya-guneydogu-asya-bolgesinde-onemli-bir-ortagimiz-960346.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T15:58:00Z"
-    },
-    {
-      "title": "Galatasaray maçı öncesi Lille'de büyük şok!",
-      "link": "https://www.haberturk.com/spor/galatasaray-maci-oncesi-lille-e-ayase-ueda-soku-3920298",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T15:56:25Z"
-    },
-    {
-      "title": "İstanbul'da sınavlara ara verildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-e-sinavlara-ara-verildi-3920295",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T15:55:56Z"
-    },
-    {
-      "title": "Kocaeli'nde selde kaybolan muhtardan acı haber! Cansız bedeni İzmit Körfezi'nde bulundu",
-      "link": "https://www.sozcu.com.tr/sel-sularina-kapilan-muhtar-cansiz-bedeni-bulundu-p369895",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T15:55:51Z"
-    },
-    {
-      "title": "Yemen'de şiddetli çatışmalar yaşanıyor",
-      "link": "https://www.haberturk.com/dunya/yemen-de-siddetli-catismalar-yasaniyor-3920296",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T15:54:10Z"
-    },
-    {
-      "title": "ABD, Sudan'daki çatışmalar için insani ateşkes çağrısı yaptı",
-      "link": "https://www.trthaber.com/haber/dunya/abd-sudandaki-catismalar-icin-insani-ateskes-cagrisi-yapti-960345.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T15:53:00Z"
-    },
-    {
-      "title": "Kocaeli'de sağanak sonucu kaybolan kişinin cesedi bulundu",
-      "link": "https://www.trthaber.com/haber/turkiye/kocaelide-saganak-sonucu-kaybolan-kisinin-cesedi-bulundu-960344.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T15:52:00Z"
-    },
-    {
-      "title": "Kocaeli'de 1 cansız bedene ulaşıldı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kocaeli-de-1-cansiz-bedene-ulasildi-3920287",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T15:39:16Z"
-    },
-    {
-      "title": "İstanbul'da yağış nedeniyle hafta sonu eğitim ve sınavlara ara verildi",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-yagis-nedeniyle-hafta-sonu-egitim-ve-sinavlara-ara-verildi-960343.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T15:37:00Z"
-    },
-    {
-      "title": "Ekrem İmamoğlu savunma yaptı",
-      "link": "https://www.haberturk.com/gundem/ibb-ye-yonelik-yolsuzluk-davasinda-ekrem-imamoglu-savunma-yapti-3920292",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T15:33:34Z"
-    },
-    {
-      "title": "Sergen Yalçın'dan olay gönderme! 'Gördük işte çöpleri'",
-      "link": "https://www.sozcu.com.tr/sergen-yalcin-dan-olay-gonderme-gorduk-iste-copleri-p369897",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T15:32:20Z"
-    },
-    {
-      "title": "İstanbul’da bazı vapur seferleri iptal edildi: Belirtilen saatlerden sonra sefer gerçekleştirilmeyecek",
-      "link": "https://www.sozcu.com.tr/istanbul-da-bazi-vapur-seferleri-iptal-edildi-belirtilen-saatlerden-sonra-sefer-p369896",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T15:29:14Z"
     }
   ]
 }
