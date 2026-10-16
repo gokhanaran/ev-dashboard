@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:25:12.078048Z",
+  "generated_at": "2026-10-16T18:30:16.821420Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 27
+      "items": 28
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Memurun fazla mesai ücreti belli oldu",
+      "link": "https://www.sozcu.com.tr/memurun-fazla-mesai-ucreti-belli-oldu-p369913",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T18:29:33Z"
+    },
+    {
+      "title": "Üsküdar'da başkanvekili seçiminin tarihi belli oldu",
+      "link": "https://www.sozcu.com.tr/uskudar-secimleri-tarihi-belli-oldu-p369911",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T18:27:26Z"
+    },
+    {
+      "title": "Yunanistan Batı Trakya Türklerinin okullarını kapattı",
+      "link": "https://www.trthaber.com/haber/turk-dunyasi/yunanistan-bati-trakya-turklerinin-okullarini-kapatti-960351.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T18:25:00Z"
+    },
     {
       "title": "Muğla Büyükşehir Belediye Başkanı Aras, CHP'den istifa etti",
       "link": "https://www.sozcu.com.tr/mugla-buyuksehir-belediye-baskani-aras-chp-den-istifa-etti-p369903",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/magazin/alpay-a-veda-3920206",
       "source": "Habertürk",
       "published_at": "2026-10-16T13:05:31Z"
-    },
-    {
-      "title": "Galatasaray'ın Gençlerbirliği kadrosu belli oldu! 4 eksik var",
-      "link": "https://www.sozcu.com.tr/galatasaray-in-genclerbirligi-kadrosu-belli-oldu-4-eksik-var-p369867",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T13:04:20Z"
-    },
-    {
-      "title": "Oh be!",
-      "link": "https://www.sozcu.com.tr/oh-be-p369866",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T13:00:50Z"
-    },
-    {
-      "title": "TFF'den saygı duruşu kararı!",
-      "link": "https://www.haberturk.com/spor/tff-den-saygi-durusu-karari-3920270",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T13:00:12Z"
     }
   ]
 }
