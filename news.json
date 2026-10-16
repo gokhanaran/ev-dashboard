@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:37:01.937134Z",
+  "generated_at": "2026-10-16T00:07:19.074527Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Daimi Temsilci Yıldız, İsrail'i kınadı",
+      "link": "https://www.haberturk.com/dunya/turkiye-nin-bm-daimi-temsilcisi-yildiz-israil-i-kinadi-3920098",
+      "source": "Habertürk",
+      "published_at": "2026-10-15T23:58:56Z"
+    },
     {
       "title": "ErzincanErzurum kara yolu heyelanın ardından yeniden ulaşıma açıldı",
       "link": "https://www.trthaber.com/haber/turkiye/erzincan-erzurum-kara-yolu-heyelanin-ardindan-yeniden-ulasima-acildi-960234.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbuldaki-siddetli-yagisin-arkasinda-uc-meteorolojik-etken-p369540",
       "source": "Sözcü",
       "published_at": "2026-10-15T16:06:53Z"
-    },
-    {
-      "title": "İstanbul'a 200 milyon TL kaynak ayrıldı",
-      "link": "https://www.haberturk.com/gundem/istanbul-a-200-milyon-tl-kaynak-ayrildi-3920039",
-      "source": "Habertürk",
-      "published_at": "2026-10-15T16:04:41Z"
     }
   ]
 }
