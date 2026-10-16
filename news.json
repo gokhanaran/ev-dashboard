@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:47:46.341115Z",
+  "generated_at": "2026-10-16T20:52:49.905232Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 29
+      "items": 30
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T20:49:44Z"
+    },
     {
       "title": "Mahiroğlu soruşturmasında 7 tutuklama talebi",
       "link": "https://www.haberturk.com/gundem/son-dakika-mahiroglu-sorusturmasinda-12-sevk-3920304",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/dev-derbinin-tarihi-degisebilir-galatasaray-fenerbahce-maci-icin-flas-iddia-p369884",
       "source": "Sözcü",
       "published_at": "2026-10-16T14:15:06Z"
-    },
-    {
-      "title": "Selden etkilenen 3 ile 40 milyon lira kaynak aktarıldı",
-      "link": "https://www.trthaber.com/haber/turkiye/selden-etkilenen-3-ile-40-milyon-lira-kaynak-aktarildi-960335.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T14:11:00Z"
     }
   ]
 }
