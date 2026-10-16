@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:30:16.821420Z",
+  "generated_at": "2026-10-16T18:40:23.872580Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Galatasaray'da Markoishvili dönemi!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-manuchar-markoishvili-donemi-3920331",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T18:36:17Z"
+    },
+    {
+      "title": "Masterchef dokunulmazlığı kim kazandı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazligi-kim-kazandi-masterchef-turkiye-eleme-adaylari-belli-oldu-mu-bireysel-dokunulmazligi-kim-aldi-3920329",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T18:31:26Z"
+    },
     {
       "title": "Memurun fazla mesai ücreti belli oldu",
       "link": "https://www.sozcu.com.tr/memurun-fazla-mesai-ucreti-belli-oldu-p369913",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/bati-seriada-israillilerin-yaraladigi-washington-post-fotomuhabiri-saldiriyi-anlatti-960328.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T13:09:00Z"
-    },
-    {
-      "title": "İran: ABDnin güç kullanmak yerine mantık çerçevesinde diyalog kurması daha iyi olacaktır",
-      "link": "https://www.trthaber.com/haber/dunya/iran-abdnin-guc-kullanmak-yerine-mantik-cercevesinde-diyalog-kurmasi-daha-iyi-olacaktir-960326.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T13:07:00Z"
-    },
-    {
-      "title": "Alpay'a veda",
-      "link": "https://www.haberturk.com/magazin/alpay-a-veda-3920206",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T13:05:31Z"
     }
   ]
 }
