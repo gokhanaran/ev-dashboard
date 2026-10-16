@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:08:28.578723Z",
+  "generated_at": "2026-10-16T14:13:32.724080Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/bedelli-askerlikte-28-gun-sarti-kalkiyor-mu-resmi-aciklama-geldi-p369883",
       "source": "Sözcü",
       "published_at": "2026-10-16T14:07:02Z"
+    },
+    {
+      "title": "Bakan Çiftçi'den önemli açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-ciftci-den-onemli-aciklamalar-3920280",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T14:05:10Z"
     },
     {
       "title": "Soner Olgun vefat etti",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/119u-yerli-131-ilac-daha-geri-odeme-listesine-alindi-960304.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T10:35:00Z"
-    },
-    {
-      "title": "Dündar Ziya Gültekin için tören",
-      "link": "https://www.haberturk.com/gundem/dundar-ziya-gultekin-son-yolculuguna-ugurlaniyor-3920217",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T10:32:38Z"
     }
   ]
 }
