@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:57:53.001984Z",
+  "generated_at": "2026-10-16T21:02:56.348830Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 30
+      "items": 20
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,19 @@
       "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
       "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
       "source": "Sözcü",
-      "published_at": "2026-10-16T20:56:04Z"
+      "published_at": "2026-10-16T20:59:52Z"
+    },
+    {
+      "title": "Afette can kaybı 5'e çıktı! İstanbul'da 3 kayıp aranıyor",
+      "link": "https://www.haberturk.com/gundem/istanbul-sel-son-durum-selde-can-kaybi-ne-oldu-son-dakika-haberi-3920108",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T20:57:56Z"
+    },
+    {
+      "title": "\"Bir karakter ortaya koyduk ve kazandık\"",
+      "link": "https://www.haberturk.com/spor/dusan-alimpijevic-bir-karakter-ortaya-koyduk-ve-kazandik-3920354",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T20:50:12Z"
     },
     {
       "title": "Isparta'da çekici ile minibüs çarpıştı: 17 yaralı",
@@ -76,12 +88,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-tan-orkun-kokcu-icin-sakatlik-aciklamasi-3920352",
       "source": "Habertürk",
       "published_at": "2026-10-16T20:28:34Z"
-    },
-    {
-      "title": "Afette can kaybı 5'e çıktı! İstanbul'da 3 kayıp aranıyor",
-      "link": "https://www.haberturk.com/gundem/istanbul-sel-son-durum-selde-can-kaybi-ne-oldu-son-dakika-haberi-3920108",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T20:23:12Z"
     },
     {
       "title": "Kocaeli'de eğitim ve spora ara",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/kubilay-kaan-kundakci-cinayeti-davasinda-karar-aciklandi-960337.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T14:26:00Z"
-    },
-    {
-      "title": "TBMM Başkanı Kurtulmuş: Terörsüz Türkiye süreci başarılı şekilde yürüyor",
-      "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-sureci-basarili-sekilde-yuruyor-960336.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T14:18:00Z"
     }
   ]
 }
