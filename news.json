@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:02:47.810611Z",
+  "generated_at": "2026-10-16T09:07:51.908902Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "BBVA'dan kur ve faiz değerlendirmesi: İndirim için iki sebep",
+      "link": "https://www.sozcu.com.tr/bbvadan-kur-ve-faiz-degerlendirmesi-indirim-icin-iki-sebep-p369779",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T09:06:27Z"
+    },
+    {
+      "title": "Sabah operasyonunda yeni gözaltı kararları",
+      "link": "https://www.sozcu.com.tr/sabah-operasyonunda-yeni-gozalti-kararlari-p369676",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T09:04:59Z"
+    },
+    {
       "title": "Son dakika... CHP 48 ismi ihraç etti",
       "link": "https://www.sozcu.com.tr/son-dakika-chp-48-ismi-ihrac-etti-p369778",
       "source": "Sözcü",
-      "published_at": "2026-10-16T09:02:00Z"
+      "published_at": "2026-10-16T09:04:58Z"
+    },
+    {
+      "title": "Bayburt'un köyünden Avrupa'ya uzanan başarı",
+      "link": "https://www.haberturk.com/yasam/bayburt-un-koyunden-avrupa-ya-uzanan-muzecilik-basarisi-3920181",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T09:04:48Z"
+    },
+    {
+      "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere topçu saldırıları düzenledi",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi-960293.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T09:00:00Z"
     },
     {
       "title": "Üniversite için İstanbul'a geldi, Şampiyonlar Ligi'ne damga vurdu!",
@@ -52,6 +76,12 @@
       "link": "https://www.haberturk.com/gundem/istanbul-sel-son-durum-selde-can-kaybi-ne-oldu-son-dakika-haberi-3920108",
       "source": "Habertürk",
       "published_at": "2026-10-16T08:58:00Z"
+    },
+    {
+      "title": "Türkiye yollarındaki elektrikli otomobil sayısı yüzde 52,4 arttı",
+      "link": "https://www.trthaber.com/haber/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-yuzde-524-artti-960292.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T08:55:00Z"
     },
     {
       "title": "G.Saray'da Leroy Sane endişesi!",
@@ -154,6 +184,12 @@
       "link": "https://www.haberturk.com/ekonomi/ilker-selim-zorluoglu-yapay-zek-uygulamalarini-finans-ve-enerji-alanlarina-tasiyacagiz-3920170",
       "source": "Habertürk",
       "published_at": "2026-10-16T08:28:20Z"
+    },
+    {
+      "title": "Kendine 'hamam böceği' diyen gençler koca ülkeyi kökünden sarstı",
+      "link": "https://www.sozcu.com.tr/kendine-hamam-bocegi-diye-gencler-koca-ulkeyi-kokunden-sarsti-p369767",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T08:28:17Z"
     },
     {
       "title": "5G abone sayısı 48 milyona yaklaştı",
@@ -430,12 +466,6 @@
       "link": "https://www.haberturk.com/elazig-da-kurban-kesim-alani-aciklandi-3791571",
       "source": "Habertürk",
       "published_at": "2026-10-16T07:36:02Z"
-    },
-    {
-      "title": "Sabah operasyonunda yeni gözaltı kararları",
-      "link": "https://www.sozcu.com.tr/sabah-operasyonunda-yeni-gozalti-kararlari-p369676",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T07:34:16Z"
     },
     {
       "title": "Memurlar EYT’den nasıl yararlanır?",
@@ -724,36 +754,6 @@
       "link": "https://www.sozcu.com.tr/ismail-kartal-in-ozru-kabahatinden-buyuk-p369623",
       "source": "Sözcü",
       "published_at": "2026-10-16T06:09:51Z"
-    },
-    {
-      "title": "Küresel piyasalar pozitif seyrediyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-pozitif-seyrediyor-960262.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T06:07:00Z"
-    },
-    {
-      "title": "İstanbul'da yasa dışı bahis mesajlarıyla haksız kazanç sağlayan 24 şüpheli yakalandı",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-yasa-disi-bahis-mesajlariyla-haksiz-kazanc-saglayan-24-supheli-yakalandi-960261.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T06:07:00Z"
-    },
-    {
-      "title": "Fon rezaleti AKP oylarına darbe vurdu! \"Aç gözlülerin verdiği zararı görüyor musunuz?\"",
-      "link": "https://www.sozcu.com.tr/fon-rezaleti-akp-oylarina-darbe-vurdu-ac-gozlulerin-verdigi-zarari-goruyor-musunuz-p369694",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T06:04:40Z"
-    },
-    {
-      "title": "Son haline yorum yağdı",
-      "link": "https://www.haberturk.com/goksel-in-son-haline-yorum-yagdi-magazin-haberleri-3791545-magazin",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T05:56:59Z"
-    },
-    {
-      "title": "\"Gerçek hayattan izler taşıyor\"",
-      "link": "https://www.haberturk.com/magazin/dila-danisman-kizilcik-serbeti-ni-anlatti-gercek-hayattan-izler-tasiyor-3920040",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T05:49:19Z"
     }
   ]
 }
