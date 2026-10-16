@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:20:07.408726Z",
+  "generated_at": "2026-10-16T18:25:12.078048Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,34 @@
   ],
   "items": [
     {
+      "title": "Muğla Büyükşehir Belediye Başkanı Aras, CHP'den istifa etti",
+      "link": "https://www.sozcu.com.tr/mugla-buyuksehir-belediye-baskani-aras-chp-den-istifa-etti-p369903",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T18:21:19Z"
+    },
+    {
       "title": "Futbolda erteleme alarmı! Fenerbahçe-Alanyaspor maçı ertelenecek mi?",
       "link": "https://www.sozcu.com.tr/futbolda-erteleme-alarmi-p369912",
       "source": "Sözcü",
       "published_at": "2026-10-16T18:19:02Z"
     },
     {
+      "title": "Tarım işçilerini taşıyan midibüs ile TIR çarpıştı: 17 yaralı",
+      "link": "https://www.haberturk.com/gundem/tarim-iscilerini-tasiyan-midibus-ile-tir-carpisti-17-yarali-3920327",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T18:17:50Z"
+    },
+    {
       "title": "Hafta sonu sınavlar yapılacak mı?",
       "link": "https://www.haberturk.com/bilgi/foto/hafta-sonu-sinavlar-yapilacak-mi-iptal-mi-edildi-istanbul-valiligi-duyurdu-3920297",
       "source": "Habertürk",
-      "published_at": "2026-10-16T18:14:41Z"
+      "published_at": "2026-10-16T18:15:42Z"
+    },
+    {
+      "title": "Asensio'dan Fenerbahçe'ye kötü haber!",
+      "link": "https://www.haberturk.com/spor/alanyaspor-maci-oncesi-fenerbahce-ye-marco-asensio-dan-kotu-haber-3920326",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T18:14:43Z"
     },
     {
       "title": "Evinde çıplak dolaşan adam mahalleliyle kavga etti: Penceredeki adama odun fırlattılar",
@@ -154,12 +172,6 @@
       "link": "https://www.sozcu.com.tr/halk-tv-sorusturmasinda-karar-p369902",
       "source": "Sözcü",
       "published_at": "2026-10-16T17:36:15Z"
-    },
-    {
-      "title": "Muğla Büyükşehir Belediye Başkanı Aras, CHP'den istifa etti",
-      "link": "https://www.sozcu.com.tr/mugla-buyuksehir-belediye-baskani-aras-chp-den-istifa-etti-p369903",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T17:34:51Z"
     },
     {
       "title": "İstanbul'da hafta sonu yağış alarmı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/tff-den-saygi-durusu-karari-3920270",
       "source": "Habertürk",
       "published_at": "2026-10-16T13:00:12Z"
-    },
-    {
-      "title": "41 il için 'sarı' ve 'turuncu' kodlu uyarı: Sağanak bekleniyor",
-      "link": "https://www.trthaber.com/haber/turkiye/41-il-icin-sari-ve-turuncu-kodlu-uyari-saganak-bekleniyor-960327.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T12:59:00Z"
-    },
-    {
-      "title": "İran: ABD çekilirse Hürmüz açılır",
-      "link": "https://www.haberturk.com/dunya/iran-ordusu-sozcusu-abd-nin-bolgeyi-terk-etmesi-durumunda-hurmuz-bogazi-nin-acilacagini-soyledi-3920268",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T12:56:03Z"
     }
   ]
 }
