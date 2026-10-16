@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:02:56.348830Z",
+  "generated_at": "2026-10-16T21:07:59.449772Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Halk TV soruşturmasında 4 kişi tutuklandı",
+      "link": "https://www.sozcu.com.tr/halk-tv-sorusturmasinda-karar-p369902",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T21:06:10Z"
+    },
+    {
+      "title": "Burdur'da motosikletlerin trafiğe çıkışı yasaklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/burdurda-motosikletlerin-trafige-cikisi-yasaklandi-960362.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T21:02:00Z"
+    },
     {
       "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
       "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/iran-a-karsi-en-buyuk-kozuydu-trump-in-ove-ove-bitiremedigi-bombalardan-10-tane-bile-yok-p369885",
       "source": "Sözcü",
       "published_at": "2026-10-16T14:27:00Z"
-    },
-    {
-      "title": "Bakan Çiftçi 5 ile dikkat çekti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-ciftci-den-onemli-aciklamalar-3920280",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T14:26:34Z"
-    },
-    {
-      "title": "Kubilay Kaan Kundakçı cinayeti davasında karar açıklandı",
-      "link": "https://www.trthaber.com/haber/gundem/kubilay-kaan-kundakci-cinayeti-davasinda-karar-aciklandi-960337.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T14:26:00Z"
     }
   ]
 }
