@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:59:50.764780Z",
+  "generated_at": "2026-10-16T18:04:54.891313Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Fenerbahçe'ye bir kötü haber daha! Alanyaspor maçı öncesi Asensio gelişmesi",
+      "link": "https://www.sozcu.com.tr/fenerbahce-ye-bir-kotu-haber-daha-alanyaspor-maci-oncesi-asensio-gelismesi-p369908",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T18:02:30Z"
+    },
+    {
+      "title": "Sakarya'da eğitime iki gün ara",
+      "link": "https://www.haberturk.com/gundem/sakarya-valiligi-siddetli-yagis-nedeniyle-bazi-egitim-faaliyetlerini-durdurdu-3920320",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T17:57:25Z"
+    },
     {
       "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
       "link": "https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/binali-yildirimin-in-aciklamalari-akp-deki-catlagi-buyuttu-azerbaycan-herzog-un-ucagi-icin-geri-adim-p369845",
       "source": "Sözcü",
       "published_at": "2026-10-16T12:48:47Z"
-    },
-    {
-      "title": "Tesla'nın yeni otomobili 'uçuyor'",
-      "link": "https://www.haberturk.com/ekonomi/tesla-roadster-ucabiliyor-mu-yeni-modelin-ozellikleri-aciklandi-3920128",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T12:48:46Z"
-    },
-    {
-      "title": "İsrailli şirketler, soykırım yaptıkları Gazze'nin yeniden inşasına ilişkin milyar dolarlık ihalelere göz dikti",
-      "link": "https://www.trthaber.com/haber/dunya/israilli-sirketler-soykirim-yaptiklari-gazzenin-yeniden-insasina-iliskin-milyar-dolarlik-ihalelere-goz-dikti-960323.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T12:46:00Z"
     }
   ]
 }
