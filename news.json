@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:28:46.403528Z",
+  "generated_at": "2026-10-16T14:33:50.626115Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,46 @@
   ],
   "items": [
     {
+      "title": "İsrailli yerleşimciler Amerikalı ödüllü gazeteciye saldırdı",
+      "link": "https://www.sozcu.com.tr/israilli-yerlesimciler-amerikali-odullu-gazeteciye-saldirdi-p369890",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T14:32:29Z"
+    },
+    {
+      "title": "Mansur Yavaş'tan Ankaralılara uyarı: Bu akşama dikkat",
+      "link": "https://www.sozcu.com.tr/mansur-yavastan-ankaralilara-uyari-bu-aksama-dikkat-p369889",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T14:32:26Z"
+    },
+    {
       "title": "İran'a karşı en büyük kozuydu: Trump'ın öve öve bitiremediği bombalardan 10 tane bile yok",
       "link": "https://www.sozcu.com.tr/iran-a-karsi-en-buyuk-kozuydu-trump-in-ove-ove-bitiremedigi-bombalardan-10-tane-bile-yok-p369885",
       "source": "Sözcü",
       "published_at": "2026-10-16T14:27:00Z"
+    },
+    {
+      "title": "Bakan Çiftçi 5 ile dikkat çekti",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-ciftci-den-onemli-aciklamalar-3920280",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T14:26:34Z"
+    },
+    {
+      "title": "Kubilay Kaan Kundakçı cinayeti davasında karar açıklandı",
+      "link": "https://www.trthaber.com/haber/gundem/kubilay-kaan-kundakci-cinayeti-davasinda-karar-aciklandi-960337.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T14:26:00Z"
+    },
+    {
+      "title": "Kubilay Kaan Kundakçı cinayetinde karar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-kubilay-kaan-kundakci-cinayetinde-karar-3920283",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T14:23:39Z"
+    },
+    {
+      "title": "TBMM Başkanı Kurtulmuş: Terörsüz Türkiye süreci başarılı şekilde yürüyor",
+      "link": "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-terorsuz-turkiye-sureci-basarili-sekilde-yuruyor-960336.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T14:18:00Z"
     },
     {
       "title": "9,9 büyüklüğünde deprem olacak diye bildirim atılınca ülkede ortalık karıştı",
@@ -718,42 +754,6 @@
       "link": "https://www.haberturk.com/gundem/meric-te-kaybolan-cocuklar-araniyor-3920223",
       "source": "Habertürk",
       "published_at": "2026-10-16T10:56:29Z"
-    },
-    {
-      "title": "Türkiye'nin anlaştığı ülkeden Akdeniz'de sınırları zorlayan Yunanistan'a net uyarı",
-      "link": "https://www.sozcu.com.tr/turkiye-nin-anlastigi-ulkeden-akdeniz-i-parsel-parsel-bolen-yunanistan-a-net-uyari-p369808",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T10:51:15Z"
-    },
-    {
-      "title": "Tüketim harcamaları belli oldu",
-      "link": "https://www.haberturk.com/ekonomi/tuketim-harcamalarinda-istanbul-ilk-sirada-3920204",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T10:50:41Z"
-    },
-    {
-      "title": "Chelsea'nin kaptanı ameliyat edildi",
-      "link": "https://www.haberturk.com/spor/chelsea-da-reece-james-ameliyat-edildi-3920222",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T10:50:22Z"
-    },
-    {
-      "title": "Doktorlar şokta: 16 yaşındaki çocuğun gözünde diş büyüdü",
-      "link": "https://www.sozcu.com.tr/sislik-sikayetiyle-hastaneye-gitti-goz-cukurunda-kopek-disi-bulundu-p369815",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T10:50:20Z"
-    },
-    {
-      "title": "İrandan Trump rotasına tepki: ABDnin bölgedeki varlığından endişeliyiz",
-      "link": "https://www.trthaber.com/haber/dunya/irandan-trump-rotasina-tepki-abdnin-bolgedeki-varligindan-endiseliyiz-960306.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T10:49:00Z"
-    },
-    {
-      "title": "Samsunspor'da Bjelica ilk idmanına çıktı",
-      "link": "https://www.haberturk.com/spor/samsunspor-da-nenad-bjelica-ilk-antrenmanina-cikti-3920221",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T10:47:51Z"
     }
   ]
 }
