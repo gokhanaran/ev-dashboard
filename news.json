@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:09:58.831169Z",
+  "generated_at": "2026-10-16T18:15:03.085741Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Üsküdar'da başkan vekili seçim tarihi belli oldu",
+      "link": "https://www.sozcu.com.tr/uskudar-secimleri-tarihi-belli-oldu-p369911",
+      "source": "Sözcü",
+      "published_at": "2026-10-16T18:13:17Z"
+    },
     {
       "title": "İsmail Kartal'dan Asensio ve Kante kararı! Alanyaspor maçında 2 isim oynayacak mı?",
       "link": "https://www.sozcu.com.tr/ismail-kartal-dan-asensio-ve-kante-karari-alanyaspor-macinda-2-isim-oynayacak-mi-p369887",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/tarihin-en-buyuk-depremi-sanildi-99luk-alarm-japonyayi-ayaga-kaldirdi-960324.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T12:49:00Z"
-    },
-    {
-      "title": "Binali Yıldırımın'ın açıklamaları AKP'deki çatlağı büyüttü: Azerbaycan Herzog'un uçağı için geri adım atmadı",
-      "link": "https://www.sozcu.com.tr/binali-yildirimin-in-aciklamalari-akp-deki-catlagi-buyuttu-azerbaycan-herzog-un-ucagi-icin-geri-adim-p369845",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T12:48:47Z"
     }
   ]
 }
