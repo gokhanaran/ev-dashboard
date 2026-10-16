@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:54:46.323723Z",
+  "generated_at": "2026-10-16T17:59:50.764780Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
+      "link": "https://www.trthaber.com/haber/turkiye/osym-istanbulda-hafta-sonu-yapilacak-sinavlari-erteledi-960357.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T17:54:00Z"
+    },
+    {
+      "title": "\"Keşke Metin hocanın ayrılığı olmasaydı!\"",
+      "link": "https://www.haberturk.com/spor/genclerbirligi-baskani-arda-cakmak-tan-ht-spor-a-ozel-aciklamalar-keske-metin-hocanin-ayriligi-olmasaydi-3920318",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T17:50:26Z"
+    },
+    {
+      "title": "Mahiroğlu soruşturmasında 7 tutuklama",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mahiroglu-sorusturmasinda-12-sevk-3920304",
+      "source": "Habertürk",
+      "published_at": "2026-10-16T17:45:38Z"
+    },
     {
       "title": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı ile görüştü",
       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-kambocya-basbakani-ile-gorustu-3920293",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/israilli-sirketler-soykirim-yaptiklari-gazzenin-yeniden-insasina-iliskin-milyar-dolarlik-ihalelere-goz-dikti-960323.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T12:46:00Z"
-    },
-    {
-      "title": "Son dakika... CHP 48 ismi ihraç etti",
-      "link": "https://www.sozcu.com.tr/son-dakika-chp-48-ismi-ihrac-etti-p369778",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T12:45:23Z"
-    },
-    {
-      "title": "Tokat'ta Gülbahar Hatun Camisi ibadete açıldı",
-      "link": "https://www.haberturk.com/gundem/tokat-ta-gulbahar-hatun-camisi-ibadete-acildi-3920264",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T12:44:11Z"
-    },
-    {
-      "title": "CHP'den 48 kişi ihraç edildi",
-      "link": "https://www.trthaber.com/haber/gundem/chpden-48-kisi-ihrac-edildi-960322.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T12:44:00Z"
     }
   ]
 }
