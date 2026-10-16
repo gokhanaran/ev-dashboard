@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:18:36.848600Z",
+  "generated_at": "2026-10-16T14:23:41.094450Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/dev-derbinin-tarihi-degisebilir-galatasaray-fenerbahce-maci-icin-flas-iddia-p369884",
       "source": "Sözcü",
       "published_at": "2026-10-16T14:15:06Z"
+    },
+    {
+      "title": "Selden etkilenen 3 ile 40 milyon lira kaynak aktarıldı",
+      "link": "https://www.trthaber.com/haber/turkiye/selden-etkilenen-3-ile-40-milyon-lira-kaynak-aktarildi-960335.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-16T14:11:00Z"
     },
     {
       "title": "Hayat Sitesi davasında karar",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/umraniyespor-da-tayfun-ridvan-albayrak-donemi-sona-erdi-3920220",
       "source": "Habertürk",
       "published_at": "2026-10-16T10:43:26Z"
-    },
-    {
-      "title": "Soykırımcı İsrail'in saldırıları altındaki Gazze'de açlık seviyesi felaket düzeyinde",
-      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-saldirilari-altindaki-gazzede-aclik-seviyesi-felaket-duzeyinde-960305.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T10:41:00Z"
     }
   ]
 }
