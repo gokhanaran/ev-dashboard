@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:44:19.636827Z",
+  "generated_at": "2026-10-17T19:54:25.555879Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,42 @@
   ],
   "items": [
     {
+      "title": "Erman Toroğlu'ndan Yasin Kol'la ilgili flaş sözler! 'Senin gözlemciliğini bitiririm demiş'",
+      "link": "https://www.sozcu.com.tr/erman-toroglu-sozcu-tv-de-yorumluyor-fenerbahce-ve-galatasaray-maclarinin-tartismali-pozisyonlari-p370142",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T19:52:32Z"
+    },
+    {
+      "title": "Olaylı maçta Barcelona kazandı! Yamal'a kafa attılar",
+      "link": "https://www.sozcu.com.tr/olayli-macta-barcelona-kazandi-yamal-a-kafa-attilar-p370158",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T19:50:51Z"
+    },
+    {
+      "title": "Bayern, Leipzig'e karşı gol oldu yağdı",
+      "link": "https://www.haberturk.com/spor/bayern-munih-6-1-rb-leipzig-mac-sonucu-goller-ve-ozeti-almanya-bundesliga-3920555",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T19:50:01Z"
+    },
+    {
+      "title": "\"Tekliflere açığım, para lazım\"",
+      "link": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T19:49:48Z"
+    },
+    {
+      "title": "'Terör örgütüyle pazarlık yapılmadı'",
+      "link": "https://www.haberturk.com/gundem/icisleri-bakani-ciftci-terorsuz-turkiye-surecinde-taviz-verilmedigini-belirtti-3920554",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T19:47:47Z"
+    },
+    {
+      "title": "\"En kötü ilk yarılarımızdan birini oynadık\"",
+      "link": "https://www.haberturk.com/spor/joao-pereira-alanyaya-geldigimizden-bu-yana-en-kotu-ilk-yarilarimizdan-biriydi-3920553",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T19:45:02Z"
+    },
+    {
       "title": "İsmail Kartal, Asensio ile ilgili tarih verdi! 'Yarın a'dan z'ye kulüp açıklayacak'",
       "link": "https://www.sozcu.com.tr/ismail-kartal-asensio-ile-ilgili-tarih-verdi-yarin-a-dan-z-ye-kulup-aciklayacak-p370156",
       "source": "Sözcü",
@@ -52,12 +88,6 @@
       "link": "https://www.haberturk.com/gundem/bolu-da-kartalkaya-manisa-da-alasehir-in-yuksek-kesimleri-karla-kaplandi-3920495",
       "source": "Habertürk",
       "published_at": "2026-10-17T19:37:16Z"
-    },
-    {
-      "title": "\"Tekliflere açığım, para lazım\"",
-      "link": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T19:35:17Z"
     },
     {
       "title": "\"Oyuncularla aramda bir problem yok\"",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/simdiye-kadar-1700-isyeri-ve-440-arac-sahibi-sigorta-sirketlerine-basvurdu-3920476",
       "source": "Habertürk",
       "published_at": "2026-10-17T13:39:50Z"
-    },
-    {
-      "title": "Canlı | Gençlerbirliği-Galatasaray maçı canlı yayın",
-      "link": "https://www.sozcu.com.tr/canli-veya-genclerbirligi-galatasaray-maci-canli-yayin-p370065",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T13:39:44Z"
-    },
-    {
-      "title": "Kadınlar derbisinde zafer Beşiktaş'ın!",
-      "link": "https://www.haberturk.com/spor/besiktas-boa-81-fenerbahce-tarfin-69-mac-sonucu-kadinlar-derbisinde-zafer-besiktas-in--3920475",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:37:36Z"
-    },
-    {
-      "title": "Bakan Çiftçi'den kuvvetli yağış ve fırtına uyarısı",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftciden-kuvvetli-yagis-ve-firtina-uyarisi-960424.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T13:36:00Z"
-    },
-    {
-      "title": "Onuachu, Beşiktaş maçında yok!",
-      "link": "https://www.haberturk.com/spor/trabzonspor-a-paul-onuachu-dan-kotu-haber-besiktas-macinda-yok-3920480",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:31:28Z"
-    },
-    {
-      "title": "Okan Buruk'tan 4 değişiklik!",
-      "link": "https://www.haberturk.com/spor/galatasaray-da-okan-buruk-tan-4-degisiklik-3920479",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:27:11Z"
     }
   ]
 }
