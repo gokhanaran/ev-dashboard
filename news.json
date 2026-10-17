@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:52:46.914684Z",
+  "generated_at": "2026-10-17T04:07:56.478553Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Komşusunun evinde fenalaşan kadın öldü",
+      "link": "https://www.haberturk.com/gundem/eskisehir-de-komsusunun-evinde-fenalasan-kadin-oldu-3920370",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T03:58:14Z"
+    },
     {
       "title": "Köprü yıkıldı! Evde mahsur kaldılar... 2'si çocuk 8 kişiydi...",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kopru-yikildi-evde-mahsur-kaldilar-2-si-cocuk-8-kisiydi-sakarya-haberleri-3920250",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/dmm-besten-kitlesel-cikislar-yasandigi-iddialarini-yalanladi-960350.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T16:53:00Z"
-    },
-    {
-      "title": "Cafer Mahiroğlu soruşturmasında 7 tutuklama",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mahiroglu-sorusturmasinda-12-sevk-3920304",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T16:45:37Z"
     }
   ]
 }
