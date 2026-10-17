@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:05:50.388974Z",
+  "generated_at": "2026-10-17T22:10:54.697851Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İçeride 2’si çocuk 5 kişi vardı! Eve el yapımı patlayıcıyla saldırı",
+      "link": "https://www.sozcu.com.tr/iceride-2si-cocuk-5-kisi-vardi-eve-el-yapimi-patlayici-atildi-p370170",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T22:06:18Z"
+    },
     {
       "title": "Kocaeli’de alarm: Tahliye çağrısı yapıldı",
       "link": "https://www.sozcu.com.tr/kocaeli-de-alarm-tahliye-cagrisi-yapildi-p370169",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/turkiye-nin-yapay-zeka-girisim-haritasi-guncellendi-3920497",
       "source": "Habertürk",
       "published_at": "2026-10-17T14:45:40Z"
-    },
-    {
-      "title": "Trabzonspor, Beşiktaş maçı hazırlıklarını sürdürüyor",
-      "link": "https://www.sozcu.com.tr/trabzonspor-besiktas-maci-hazirliklarini-surduruyor-p370128",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T14:41:16Z"
     }
   ]
 }
