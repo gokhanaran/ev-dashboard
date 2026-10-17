@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:04:32.926034Z",
+  "generated_at": "2026-10-17T22:05:50.388974Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 29
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,142 @@
   ],
   "items": [
     {
+      "title": "Kocaeli’de alarm: Tahliye çağrısı yapıldı",
+      "link": "https://www.sozcu.com.tr/kocaeli-de-alarm-tahliye-cagrisi-yapildi-p370169",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:58:06Z"
+    },
+    {
+      "title": "'Tir Tir Salı' İstanbul Modern'de",
+      "link": "https://www.haberturk.com/kultur-sanat/tir-tir-sali-istanbul-modern-de-3920562",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T21:56:41Z"
+    },
+    {
+      "title": "Fransa'da sokaklar savaş alanına döndü! 143 yıllık tarihi belediye binası ateşe verildi",
+      "link": "https://www.sozcu.com.tr/fransada-sokaklar-savas-alanina-dondu-143-yillik-tarihi-belediye-binasi-atese-verildi-p370168",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:52:32Z"
+    },
+    {
+      "title": "İstanbul’da facianın eşiğinden dönüldü: Sesi duyan kendini sokağa attı",
+      "link": "https://www.sozcu.com.tr/istanbul-da-facianin-esiginden-donuldu-sesi-duyan-kendini-sokaga-atti-p370153",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:50:27Z"
+    },
+    {
+      "title": "İstanbul’da bugün çok sayıda yol trafiğe kapatılacak: Alternatif güzergahlar açıklandı",
+      "link": "https://www.sozcu.com.tr/istanbul-da-yarin-cok-sayida-yol-trafige-kapatilacak-alternatif-guzergahlar-aciklandi-p370148",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:50:09Z"
+    },
+    {
+      "title": "Usta yazar Jean Echenoz romanın sınırlarını anlattı",
+      "link": "https://www.haberturk.com/kultur-sanat/usta-yazar-jean-echenoz-romanin-sinirlarini-anlatti-3920561",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T21:46:17Z"
+    },
+    {
+      "title": "Son dakika...İBB davasında 7 tahliye kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-7-tahliye-karari-p370141",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:43:55Z"
+    },
+    {
+      "title": "Galatasaray'ın rakibi Lille, evinde berabere kaldı",
+      "link": "https://www.sozcu.com.tr/galatasaray-in-rakibi-lille-evinde-berabere-kaldi-p370167",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:16:37Z"
+    },
+    {
+      "title": "Trump’tan dünyayı endişelendirecek İran açıklaması",
+      "link": "https://www.sozcu.com.tr/trump-tan-dunyayi-endiselendirecek-iran-aciklamasi-p370163",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:04:16Z"
+    },
+    {
+      "title": "36 il için meteorolojik uyarı",
+      "link": "https://www.haberturk.com/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-alarm-verildigini-acikladi-3920532",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T21:04:06Z"
+    },
+    {
+      "title": "Yaptığı satış sonrası sevinçten yağmur altında halay çekti",
+      "link": "https://www.sozcu.com.tr/yaptigi-satis-sonrasi-sevincten-yagmur-altinda-halay-cekti-p370155",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T21:03:10Z"
+    },
+    {
+      "title": "İstanbul'da bugün bu yollar kapalı",
+      "link": "https://www.haberturk.com/gundem/istanbul-un-zeytinburnu-ilcesinde-yarin-bazi-yollar-trafige-kapatilacak-3920535",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T21:02:04Z"
+    },
+    {
+      "title": "G.Saray'ın rakibi Lille berabere kaldı!",
+      "link": "https://www.haberturk.com/spor/lille-brest-mac-sonucu-iste-lille-brest-maci-ozeti-ve-golleri-fransa-ligue-1-3920558",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T20:49:47Z"
+    },
+    {
+      "title": "Fenerbahçe'ye Asensio'dan kötü haber geldi! Ameliyat olacak",
+      "link": "https://www.sozcu.com.tr/fenerbahce-ye-asensio-dan-kotu-haber-geldi-ameliyat-olacak-p370162",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T20:36:37Z"
+    },
+    {
+      "title": "Pınar Güneş'i öldürdüğü öne sürülen 17 yaşındaki şüpheli tutuklandı",
+      "link": "https://www.sozcu.com.tr/pinar-gunesi-oldurdugu-one-surulen-17-yasindaki-supheli-tutuklandi-p370161",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T20:35:01Z"
+    },
+    {
+      "title": "Takasbank'tan finansman iddialarına yanıt",
+      "link": "https://www.haberturk.com/ekonomi/takasbank-tpp-ve-tefas-uzerinden-finansman-saglandigi-iddialarini-reddetti-3920557",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T20:32:45Z"
+    },
+    {
+      "title": "\"Tekliflere açığım, para lazım\"",
+      "link": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T20:25:14Z"
+    },
+    {
+      "title": "Vali Gül'den Ayazağa'da önemli açıklamalar",
+      "link": "https://www.haberturk.com/gundem/istanbul-valisi-davut-gul-ayazaga-daki-yikim-ve-yardim-takvimini-acikladi-3920515",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T20:22:05Z"
+    },
+    {
+      "title": "Bölgede sıcak saatler: Hedefler peş peşe vuruldu, yüzlerce ölü ve yaralı var",
+      "link": "https://www.sozcu.com.tr/bolgede-sicak-saatler-hedefler-pes-pese-vuruldu-yuzlerce-olu-ve-yarali-var-p370160",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T20:15:56Z"
+    },
+    {
+      "title": "Selden etkilenen esnafa 80 milyon lira",
+      "link": "https://www.haberturk.com/ekonomi/bakan-bolat-istanbul-daki-sel-magduru-esnafa-nakdi-destek-saglanacagini-acikladi-3920556",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T20:14:34Z"
+    },
+    {
       "title": "Trafik magandalığı pahalıya patladı: Sürücüye rekor ceza kesildi",
       "link": "https://www.sozcu.com.tr/trafik-magandaligi-pahaliya-patladi-surucuye-rekor-ceza-kesildi-p370159",
       "source": "Sözcü",
       "published_at": "2026-10-17T20:03:10Z"
     },
     {
-      "title": "\"Tekliflere açığım, para lazım\"",
-      "link": "https://www.haberturk.com/magazin/peker-acikalin-tekliflere-acigim-para-lazim-3920546",
+      "title": "Sahalara dönen Mert Hakan: Çok mutluyum",
+      "link": "https://www.haberturk.com/spor/mert-hakan-yandas-568-gun-sonra-sahalara-dondu-3920540",
       "source": "Habertürk",
-      "published_at": "2026-10-17T19:54:53Z"
+      "published_at": "2026-10-17T20:00:49Z"
+    },
+    {
+      "title": "İstanbul'da selden etkilenen esnafa 80 milyon lira nakdi destek",
+      "link": "https://www.trthaber.com/haber/gundem/istanbulda-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-960439.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T20:00:00Z"
     },
     {
       "title": "Erman Toroğlu'ndan Yasin Kol'la ilgili flaş sözler! 'Senin gözlemciliğini bitiririm demiş'",
@@ -126,22 +252,10 @@
       "published_at": "2026-10-17T19:26:21Z"
     },
     {
-      "title": "Vali Gül'den Ayazağa'da önemli açıklamalar",
-      "link": "https://www.haberturk.com/gundem/istanbul-valisi-davut-gul-ayazaga-daki-yikim-ve-yardim-takvimini-acikladi-3920515",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T19:24:15Z"
-    },
-    {
       "title": "Özer Çak yazdı: VAR kararı ve Taylor’ın sınavı!",
       "link": "https://www.haberturk.com/spor/var-karari-ve-taylorin-sinavi-3920548",
       "source": "Habertürk",
       "published_at": "2026-10-17T19:18:22Z"
-    },
-    {
-      "title": "Yaptığı satış sonrası sevinçten yağmur altında halay çekti",
-      "link": "https://www.sozcu.com.tr/yaptigi-satis-sonrasi-sevincten-yagmur-altinda-halay-cekti-p370155",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T19:16:54Z"
     },
     {
       "title": "Balık tutarken timsah saldırısında öldü",
@@ -178,12 +292,6 @@
       "link": "https://www.sozcu.com.tr/ismail-kartal-dan-greenwood-aciklamasi-onu-dusunecegiz-p370152",
       "source": "Sözcü",
       "published_at": "2026-10-17T18:54:34Z"
-    },
-    {
-      "title": "İstanbul’da facianın eşiğinden dönüldü: Sesi duyan kendini sokağa attı",
-      "link": "https://www.sozcu.com.tr/istanbul-da-facianin-esiginden-donuldu-sesi-duyan-kendini-sokaga-atti-p370153",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T18:54:30Z"
     },
     {
       "title": "Dini festivalde izdiham çıktı: 17 ölü, 25 yaralı",
@@ -258,12 +366,6 @@
       "published_at": "2026-10-17T18:03:29Z"
     },
     {
-      "title": "36 il için meteorolojik uyarı",
-      "link": "https://www.haberturk.com/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-alarm-verildigini-acikladi-3920532",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T18:02:41Z"
-    },
-    {
       "title": "Sadettin Saran'ın yeni imajı gündem oldu",
       "link": "https://www.sozcu.com.tr/sadettin-saran-in-yeni-imaji-gundem-oldu-p370147",
       "source": "Sözcü",
@@ -292,12 +394,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-ibb-davasinda-7-tutuklu-sanik-tahliye-edildi-3920523",
       "source": "Habertürk",
       "published_at": "2026-10-17T17:53:29Z"
-    },
-    {
-      "title": "Son dakika...İBB davasında 7 tahliye kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-7-tahliye-karari-p370141",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T17:52:28Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan vefatının 8. yılında Ara Güler'i andı",
@@ -516,6 +612,12 @@
       "published_at": "2026-10-17T15:54:15Z"
     },
     {
+      "title": "Gölet kıyısında balık tutuyordu: Timsah saldırısında yaşamını yitirdi",
+      "link": "https://www.sozcu.com.tr/golet-kiyisinda-balik-tutuyordu-timsah-saldirisinda-yasamini-yitirdi-p370137",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T15:53:48Z"
+    },
+    {
       "title": "\"Hafta içi yorgunluğu maça yansıdı\"",
       "link": "https://www.haberturk.com/spor/ugurcan-cakir-hafta-ici-yorgunlugu-maca-yansidi-3920508",
       "source": "Habertürk",
@@ -652,108 +754,6 @@
       "link": "https://www.sozcu.com.tr/trabzonspor-besiktas-maci-hazirliklarini-surduruyor-p370128",
       "source": "Sözcü",
       "published_at": "2026-10-17T14:41:16Z"
-    },
-    {
-      "title": "\"Atak sonlandırmada sorunlar yaşadık\"",
-      "link": "https://www.haberturk.com/spor/mustafa-dalci-atak-sonlandirmada-sorunlar-yasadik-3920494",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:32:42Z"
-    },
-    {
-      "title": "\"Yakında yeni bir petrol müjdesi verebiliriz\"",
-      "link": "https://www.haberturk.com/ekonomi/enerji-ve-tabii-kaynaklar-bakani-alparslan-bayraktar-gabar-dan-yakinda-yeni-bir-petrol-mujdesi-3920493",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:30:36Z"
-    },
-    {
-      "title": "Kentte kar sürprizi! Her yer beyaza büründü",
-      "link": "https://www.sozcu.com.tr/kentte-kar-surprizi-her-yer-beyaza-burundu-p370125",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T14:28:35Z"
-    },
-    {
-      "title": "Ev sahibi elindeki belgeye inandı kapıyı açtı: Arama bahanesiyle yaptıkları şoke etti",
-      "link": "https://www.sozcu.com.tr/ev-sahibi-elindeki-belgeye-inandi-kapiyi-acti-arama-bahanesiyle-yaptiklari-soke-etti-p370126",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T14:28:26Z"
-    },
-    {
-      "title": "\"Oyuncularımı tebrik ediyorum\"",
-      "link": "https://www.haberturk.com/spor/serkan-ozbalta-ciddi-cikmamiz-gereken-musabakaydi-ve-oyuncularimi-tebrik-ediyorum-3920492",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:21:58Z"
-    },
-    {
-      "title": "Yeniden mahkemelik oldular",
-      "link": "https://www.haberturk.com/magazin/foto/shakira-ve-piqu-yeniden-mahkemelik-oldu-3920483",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:20:45Z"
-    },
-    {
-      "title": "“Türkiye jeotermal enerjide uluslararası liderlik sergileyebilir”",
-      "link": "https://www.haberturk.com/ekonomi/brommer-turkiye-jeotermal-enerjide-uluslararasi-liderlik-sergileyebilir-3920489",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:18:20Z"
-    },
-    {
-      "title": "Şile'de iki toprak kayması! Yol kapandı",
-      "link": "https://www.haberturk.com/gundem/sile-de-iki-bolgede-toprak-kaydi-yol-trafige-kapandi-3920491",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:16:42Z"
-    },
-    {
-      "title": "Bakan Çiftçi'den yağış ve fırtına uyarısı",
-      "link": "https://www.haberturk.com/gundem/icisleri-bakani-mustafa-ciftci-bircok-ilde-beklenen-siddetli-yagisa-karsi-uyardi-3920488",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:15:48Z"
-    },
-    {
-      "title": "Mehmet Ali Erbil’den olay yaratan servet itirafı: 'Her hafta bir ev alırdık'",
-      "link": "https://www.sozcu.com.tr/mehmet-ali-erbil-den-olay-yaratan-servet-itirafi-her-hafta-bir-ev-alirdik-p370121",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T13:59:04Z"
-    },
-    {
-      "title": "Pedro Neto attı, Chelsea kazandı!",
-      "link": "https://www.haberturk.com/spor/everton-0-chelsea-2-mac-sonucu-ozeti-ve-golleri-3920485",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:56:02Z"
-    },
-    {
-      "title": "Antalya'da fırtına ve sağanak etkili oluyor",
-      "link": "https://www.trthaber.com/haber/turkiye/antalyada-firtina-ve-saganak-etkili-oluyor-960425.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T13:56:00Z"
-    },
-    {
-      "title": "Şanzıman yağı ömürlük mü?",
-      "link": "https://www.haberturk.com/ekonomi/sanziman-yagi-omurluk-mu-zf-aftermarket-genel-muduru-selim-aydinlioglu-otospor-da-acikladi-3920486",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:53:53Z"
-    },
-    {
-      "title": "Gözü gibi baktığı bahçesi yok oldu",
-      "link": "https://www.haberturk.com/gundem/sakarya-da-tasan-dere-nagihan-tongaz-in-bahcesini-dere-yatagina-donusturdu-3920481",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:52:20Z"
-    },
-    {
-      "title": "Hasatta verim patladı fiyatlar çakıldı: Kilosu 600 lira yerine 100 liraya satılıyor",
-      "link": "https://www.sozcu.com.tr/hasatta-verim-patladi-fiyatlar-cakildi-kilosu-600-lira-yerine-100-liraya-satiliyor-p370120",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T13:51:35Z"
-    },
-    {
-      "title": "İBB davasında İmamoğlu'nun çapraz sorgusuna geçildi",
-      "link": "https://www.sozcu.com.tr/ibb-davasinda-imamoglu-nun-capraz-sorgusuna-gecildi-p370118",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T13:46:57Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan 38 bin sağlık çalışanı müjdesi",
-      "link": "https://www.haberturk.com/saglik/canli-cumhurbaskani-erdogan-dan-aciklamalar-son-dakika-haberi-3920442",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T13:46:15Z"
     }
   ]
 }
