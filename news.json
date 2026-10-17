@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:01:01.327485Z",
+  "generated_at": "2026-10-17T17:06:04.973256Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Liverpool deplasmanda 3 puanı aldı",
+      "link": "https://www.haberturk.com/spor/brentford-1-2-liverpool-mac-sonucu-ve-ozeti-ingiltere-premier-lig-3920528",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T17:00:12Z"
+    },
     {
       "title": "Can Bonomo'nun acı günü",
       "link": "https://www.haberturk.com/magazin/can-bonomonun-babasi-yasar-bonomo-hayatini-kaybetti-3920522",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-saglikta-38-bin-personel-alinacak-960417.html",
       "source": "TRT Haber",
       "published_at": "2026-10-17T11:19:00Z"
-    },
-    {
-      "title": "Galatasaray'dan kaçar gibi giden yıldız futbolcu yine saç baş yoldurttu! Oyuna girdikten 28 dakika sonra kırmızı gördü",
-      "link": "https://www.sozcu.com.tr/galatasaraydan-kacar-gibi-giden-yildiz-futbolcu-yine-sac-bas-yoldurttu-oyuna-girdikten-28-dakika-son-p370074",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T11:17:04Z"
     }
   ]
 }
