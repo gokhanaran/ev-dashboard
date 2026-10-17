@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:07:56.478553Z",
+  "generated_at": "2026-10-17T04:18:03.681873Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İşte \"sarı\" ve \"turuncu\" alarm verilen 44 kentimiz",
+      "link": "https://www.haberturk.com/gundem/44-kent-icin-alarm-hava-durumu-son-dakika-iste-sari-ve-turuncu-alarm-verilen-44-kentimiz-3920371",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T04:10:52Z"
+    },
+    {
+      "title": "Meteorolojiden kuvvetli yağış, fırtına ve kar uyarısı",
+      "link": "https://www.trthaber.com/haber/gundem/meteorolojiden-kuvvetli-yagis-firtina-ve-kar-uyarisi-960371.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T04:05:00Z"
+    },
     {
       "title": "Komşusunun evinde fenalaşan kadın öldü",
       "link": "https://www.haberturk.com/gundem/eskisehir-de-komsusunun-evinde-fenalasan-kadin-oldu-3920370",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/trabzonspor-besiktas-macinin-hazirliklarina-basladi-3920308",
       "source": "Habertürk",
       "published_at": "2026-10-16T16:57:36Z"
-    },
-    {
-      "title": "Tasarruf finansmanında sözleşmeler değişmeyecek",
-      "link": "https://www.haberturk.com/ekonomi/katilimevim-ve-birevim-in-emlak-katilim-a-devrinde-mevcut-sozlesmeler-korunacak-3920305",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T16:55:08Z"
-    },
-    {
-      "title": "DMM 'BES'ten kitlesel çıkışlar yaşandığı' iddialarını yalanladı",
-      "link": "https://www.trthaber.com/haber/gundem/dmm-besten-kitlesel-cikislar-yasandigi-iddialarini-yalanladi-960350.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T16:53:00Z"
     }
   ]
 }
