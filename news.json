@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:26:22.004218Z",
+  "generated_at": "2026-10-17T08:31:25.036142Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,46 @@
   ],
   "items": [
     {
+      "title": "Son dakika: Etimesgut Belediyesi soruşturmasında 7 kişi tutuklandı",
+      "link": "https://www.sozcu.com.tr/etimesgut-belediyesi-sorusturmasinda-7-kisi-tutuklandi-p370032",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T08:30:01Z"
+    },
+    {
+      "title": "Alıp kullansınlar diye 10 adet F-16'yı başka ülkeye hibe ettiler",
+      "link": "https://www.sozcu.com.tr/alip-kullansinlar-diye-10-adet-f-16-yi-baska-ulkeye-hibe-ettiler-p370030",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T08:27:00Z"
+    },
+    {
+      "title": "Elektrikli araçlara eylülde 3,1 milyon şarj işlemi yapıldı",
+      "link": "https://www.trthaber.com/haber/ekonomi/elektrikli-araclara-eylulde-31-milyon-sarj-islemi-yapildi-960390.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T08:23:00Z"
+    },
+    {
+      "title": "Gece müzeciliğinde rekor! Zirve'de Efes var",
+      "link": "https://www.haberturk.com/kultur-sanat/gece-muzeciliginde-ziyaretci-sayisi-yuzde-32-artti-3920413",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T08:21:50Z"
+    },
+    {
+      "title": "EuroLeague'de temsilcilerimizden 3'te 3!",
+      "link": "https://www.haberturk.com/spor/euroleague-de-temsilcilerimizden-3-te-3-3920417",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T08:20:39Z"
+    },
+    {
+      "title": "Esnaftı, tezgâhını açtı... Silah bir anda patladı: Kanlı pazar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-esnafti-tezghini-acti-silah-bir-anda-patladi-kanli-pazar-3920414",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T08:19:59Z"
+    },
+    {
       "title": "Yasak aşk cinayetinde 2 kadına büyük ceza!",
       "link": "https://www.haberturk.com/son-dakika-cinayetle-biten-yasak-ask-davasinda-2-kadina-agir-ceza-burdur-haberleri-3876331",
       "source": "Habertürk",
-      "published_at": "2026-10-17T08:17:51Z"
+      "published_at": "2026-10-17T08:19:55Z"
     },
     {
       "title": "23'üncü yaş gününde hayata gelinlikle veda",
@@ -718,42 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/16-ilde-yasa-disi-bahis-ve-sanal-kumar-operasyonu-29-zanli-tutuklandi-960368.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T21:50:00Z"
-    },
-    {
-      "title": "Sözleşmeli 31 bin sağlık personeli alınacak",
-      "link": "https://www.haberturk.com/gundem/sozlesmeli-31-bin-saglik-personeli-istihdami-resmi-gazete-de-3920358",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T21:46:49Z"
-    },
-    {
-      "title": "\"Severek ayrıldık\"",
-      "link": "https://www.haberturk.com/magazin/foto/sibel-kirer-severek-ayrildik-3920356",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T21:46:34Z"
-    },
-    {
-      "title": "SPK Hedef Portföy fonlarını olağan tasfiye sürecine dahil etti",
-      "link": "https://www.trthaber.com/haber/ekonomi/spk-hedef-portfoy-fonlarini-olagan-tasfiye-surecine-dahil-etti-960367.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T21:42:00Z"
-    },
-    {
-      "title": "Son dakika... SPK'dan 37 kişi hakkında suç duyurusu kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-spk-dan-37-kisi-hakkinda-suc-duyurusu-karari-p369935",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T21:36:46Z"
-    },
-    {
-      "title": "Halk TV soruşturmasında 4 kişi tutuklandı",
-      "link": "https://www.sozcu.com.tr/halk-tv-sorusturmasinda-karar-p369902",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T21:35:19Z"
-    },
-    {
-      "title": "Putin bir şehri aldıklarını duyurdu: Rusya’nın yeni hedefini açıkladı",
-      "link": "https://www.sozcu.com.tr/putin-bir-sehri-aldiklarini-duyurdu-rusya-nin-yeni-hedefini-acikladi-p369946",
-      "source": "Sözcü",
-      "published_at": "2026-10-16T21:34:52Z"
     }
   ]
 }
