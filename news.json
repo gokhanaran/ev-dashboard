@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:06:45.777849Z",
+  "generated_at": "2026-10-17T09:11:49.150088Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,46 @@
   ],
   "items": [
     {
+      "title": "Ne vize istiyor ne oturum izni: Avrupa toprağı Türklere kapısını açtı",
+      "link": "https://www.sozcu.com.tr/ne-vize-istiyor-ne-oturum-izni-avrupa-topragi-turklere-kapisini-acti-p370044",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T09:10:43Z"
+    },
+    {
+      "title": "Manifest'in İngiltere konseri olay oldu: Sahnede Türk bayrağı açtılar",
+      "link": "https://www.sozcu.com.tr/manifest-in-ingiltere-konseri-olay-oldu-sahnede-turk-bayragi-actilar-p370040",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T09:10:40Z"
+    },
+    {
+      "title": "Vali Gül açıkladı: İstanbul'da pazartesi okullar tatil edilecek mi?",
+      "link": "https://www.sozcu.com.tr/vali-gul-acikladi-istanbul-da-okullar-tatil-mi-olacak-p370042",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T09:08:29Z"
+    },
+    {
+      "title": "Vatandaşlara stoklayın uyarısı yapıldı: 5 tanesi 200 liradan satılıyor",
+      "link": "https://www.sozcu.com.tr/vatandaslara-stoklayin-uyarisi-yapildi-5-tanesi-200-liradan-satiliyor-p370043",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T09:07:03Z"
+    },
+    {
       "title": "Mourinho'dan Arda Güler tepkisi! 'Görünen o ki...' diyerek kızdı",
       "link": "https://www.sozcu.com.tr/mourinhodan-arda-guler-tepkisi-gorunen-o-ki-p370041",
       "source": "Sözcü",
       "published_at": "2026-10-17T09:04:45Z"
     },
     {
-      "title": "Vali Gül açıkladı: İstanbul'da pazartesi okullar tatil edilecek mi?",
-      "link": "https://www.sozcu.com.tr/vali-gul-acikladi-istanbul-da-okullar-tatil-mi-olacak-p370042",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T09:03:13Z"
+      "title": "Lider Galatasaray, Ankara'da sahneye çıkıyor!",
+      "link": "https://www.haberturk.com/spor/lider-galatasaray-ankara-da-sahneye-cikiyor-genclerbirligi-galatasaray-muhtemel-11-ler-3920379",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T09:04:40Z"
     },
     {
       "title": "İstanbul Valisi Gül: Kayıp 3 kişinin kimlikleri belli",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-sel-can-kaybi-sel-felaketinde-son-durum-3920394",
       "source": "Habertürk",
-      "published_at": "2026-10-17T09:02:55Z"
+      "published_at": "2026-10-17T09:04:04Z"
     },
     {
       "title": "İzmir Ege Üniversitesi'ne gece yarısı baskını!",
@@ -70,6 +94,12 @@
       "link": "https://www.sozcu.com.tr/vali-gul-acikladi-istanbul-da-okullar-tatil-mi-olacak-p370042",
       "source": "Sözcü",
       "published_at": "2026-10-17T09:01:02Z"
+    },
+    {
+      "title": "İstanbul Valisi Gül: Sel mağdurlarına para yardımı yapıldı",
+      "link": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-sel-magdurlarina-para-yardimi-yapildi-960399.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T08:58:00Z"
     },
     {
       "title": "Kaybolan köpekbalığı, şehirde 'memur' oldu: Binlerce kişi önünde sıra oluyor",
@@ -588,12 +618,6 @@
       "published_at": "2026-10-17T06:41:00Z"
     },
     {
-      "title": "Lider Galatasaray, Ankara'da sahneye çıkıyor!",
-      "link": "https://www.haberturk.com/spor/lider-galatasaray-ankara-da-sahneye-cikiyor-genclerbirligi-galatasaray-muhtemel-11-ler-3920379",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T06:35:22Z"
-    },
-    {
       "title": "Dünyanın aradığı 'Kripto Balinası', İstanbul'da yakalandı",
       "link": "https://www.sozcu.com.tr/dunyanin-aradigi-kripto-balinasi-istanbul-da-yakalandi-p369989",
       "source": "Sözcü",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/istanbul-sel-son-durum-selde-can-kaybi-ne-oldu-son-dakika-haberi-3920108",
       "source": "Habertürk",
       "published_at": "2026-10-17T05:02:13Z"
-    },
-    {
-      "title": "\"Evlilikten geri adım attım\"",
-      "link": "https://www.haberturk.com/magazin/foto/muge-zop-evlilikten-geri-adim-attim-3920343",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T05:01:36Z"
-    },
-    {
-      "title": "İstanbul Valisi Gül'den, Şile'de acil afet koordinasyon ekibine ziyaret",
-      "link": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gulden-silede-acil-afet-koordinasyon-ekibine-ziyaret-960376.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T05:00:00Z"
-    },
-    {
-      "title": "Ünlü oyuncular Mısır'da",
-      "link": "https://www.haberturk.com/magazin/ozge-gurel-ve-yigit-kocak-el-gouna-film-festivali-nin-acilisinda-3920300",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T04:58:58Z"
-    },
-    {
-      "title": "Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
-      "link": "https://www.sozcu.com.tr/yandas-gazeteci-iddia-etti-ahmet-aras-akp-ye-katilacak-p369959",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T04:51:43Z"
     }
   ]
 }
