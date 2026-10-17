@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:55:43.829199Z",
+  "generated_at": "2026-10-17T13:00:46.306628Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Belgeyi bankaya sunmayanın kredi kartı bloke edilecek",
+      "link": "https://www.sozcu.com.tr/belgeyi-bankaya-sunmayanin-kredi-karti-bloke-edilecek-p370096",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T12:57:16Z"
+    },
     {
       "title": "Hastalık sürecinde ihmal iddiası",
       "link": "https://www.haberturk.com/magazin/foto/ozlem-koldas-tan-soner-olgun-un-hastalik-surecinde-ihmal-iddiasi-3912683",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/izmirde-panelvanin-carptigi-cift-hayatini-kaybetti-960396.html",
       "source": "TRT Haber",
       "published_at": "2026-10-17T08:42:00Z"
-    },
-    {
-      "title": "AKP'ye Üsküdar'da soğuk duş: Anket sonuçları açıklandı",
-      "link": "https://www.sozcu.com.tr/akp-ye-uskudar-da-soguk-dus-anket-sonuclari-aciklandi-p370009",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T08:40:16Z"
     }
   ]
 }
