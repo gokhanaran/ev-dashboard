@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:10:54.697851Z",
+  "generated_at": "2026-10-17T22:36:09.730507Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Adana’da bir eve el yapımı patlayıcı atıldı",
+      "link": "https://www.haberturk.com/gundem/adanada-bir-eve-el-yapimi-patlayici-atildi-3920563",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T22:27:15Z"
+    },
     {
       "title": "İçeride 2’si çocuk 5 kişi vardı! Eve el yapımı patlayıcıyla saldırı",
       "link": "https://www.sozcu.com.tr/iceride-2si-cocuk-5-kisi-vardi-eve-el-yapimi-patlayici-atildi-p370170",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/sapancada-saganak-yollar-coktu-kopruler-yikildi-960426.html",
       "source": "TRT Haber",
       "published_at": "2026-10-17T14:46:00Z"
-    },
-    {
-      "title": "Yapay zeka girişimi sayısı yükseldi",
-      "link": "https://www.haberturk.com/ekonomi/turkiye-nin-yapay-zeka-girisim-haritasi-guncellendi-3920497",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T14:45:40Z"
     }
   ]
 }
