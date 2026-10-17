@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:38:18.195316Z",
+  "generated_at": "2026-10-17T04:43:22.424829Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,19 @@
       "title": "Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
       "link": "https://www.sozcu.com.tr/yandas-gazeteci-iddia-etti-ahmet-aras-akp-ye-katilacak-p369959",
       "source": "Sözcü",
-      "published_at": "2026-10-17T04:35:06Z"
+      "published_at": "2026-10-17T04:39:57Z"
+    },
+    {
+      "title": "Katil 10 yıl sonra cinayeti itiraf etti",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-katil-10-yil-sonra-cinayeti-itiraf-etti-osmaniye-haberleri-3920372",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T04:39:10Z"
+    },
+    {
+      "title": "Bakan Fidan'ın Bağdat mesaisi: Gazze'den Kıbrıs'a kritik dosyalar masada",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidanin-bagdat-mesaisi-gazzeden-kibrisa-kritik-dosyalar-masada-960374.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T04:31:00Z"
     },
     {
       "title": "BUDO'nun bazı seferleri iptal edildi",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/migros-1-alana-1-bedava-indirimlerinde-neler-var-migros-1-alana-1-bedava-kampanyasi-devam-ediyor-mu-bitti-mi-3919817",
       "source": "Habertürk",
       "published_at": "2026-10-16T17:20:58Z"
-    },
-    {
-      "title": "Türkiye'den Irak Devlet Bakanı olan Seman Ağa için açıklama: Doğru bir adım",
-      "link": "https://www.trthaber.com/haber/gundem/turkiyeden-irak-devlet-bakani-olan-seman-aga-icin-aciklama-dogru-bir-adim-960353.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T17:15:00Z"
-    },
-    {
-      "title": "Eli kanlı İsrail, Filistinli çocukların çoğuna hücre cezası verdi",
-      "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israil-filistinli-cocuklarin-coguna-hucre-cezasi-verdi-960354.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T17:10:00Z"
     }
   ]
 }
