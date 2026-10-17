@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:33:14.320969Z",
+  "generated_at": "2026-10-17T04:38:18.195316Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yandaş gazeteci iddia etti: Ahmet Aras AKP’ye katılacak",
+      "link": "https://www.sozcu.com.tr/yandas-gazeteci-iddia-etti-ahmet-aras-akp-ye-katilacak-p369959",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T04:35:06Z"
+    },
     {
       "title": "BUDO'nun bazı seferleri iptal edildi",
       "link": "https://www.trthaber.com/haber/turkiye/budonun-bazi-seferleri-iptal-edildi-960373.html",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israil-filistinli-cocuklarin-coguna-hucre-cezasi-verdi-960354.html",
       "source": "TRT Haber",
       "published_at": "2026-10-16T17:10:00Z"
-    },
-    {
-      "title": "Türkiye ile Kamboçya arasında 'Askeri Çerçeve Anlaşması' imzalandı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-kambocya-arasinda-askeri-cerceve-anlasmasi-imzalandi-960352.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-16T17:06:00Z"
     }
   ]
 }
