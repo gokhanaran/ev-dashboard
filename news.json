@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:18:03.681873Z",
+  "generated_at": "2026-10-17T04:23:07.549272Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'a turuncu kodlu uyarı: Kuvvetli yağış ve fırtına bekleniyor",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbula-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-960372.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-17T04:12:00Z"
+    },
     {
       "title": "İşte \"sarı\" ve \"turuncu\" alarm verilen 44 kentimiz",
       "link": "https://www.haberturk.com/gundem/44-kent-icin-alarm-hava-durumu-son-dakika-iste-sari-ve-turuncu-alarm-verilen-44-kentimiz-3920371",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/cenk-tosun-dan-yillar-sonra-gelen-itiraf-gitmem-hataydi-p369904",
       "source": "Sözcü",
       "published_at": "2026-10-16T16:58:27Z"
-    },
-    {
-      "title": "Trabzonspor'da Beşiktaş mesaisi!",
-      "link": "https://www.haberturk.com/spor/trabzonspor-besiktas-macinin-hazirliklarina-basladi-3920308",
-      "source": "Habertürk",
-      "published_at": "2026-10-16T16:57:36Z"
     }
   ]
 }
