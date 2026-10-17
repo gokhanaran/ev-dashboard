@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:31:00.639136Z",
+  "generated_at": "2026-10-17T13:36:02.990877Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 23
+      "items": 24
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Ayazağa'da dere yatağındaki yapıların yıkımına başlandı",
+      "link": "https://www.sozcu.com.tr/selin-ardindan-ayazagada-dere-yatagindaki-yapilarin-yikimina-baslandi-p370110",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T13:34:44Z"
+    },
+    {
+      "title": "Onuachu, Beşiktaş maçında yok!",
+      "link": "https://www.haberturk.com/spor/trabzonspor-a-paul-onuachu-dan-kotu-haber-besiktas-macinda-yok-3920480",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T13:31:28Z"
+    },
+    {
       "title": "Canlı | Gençlerbirliği-Galatasaray maçı canlı yayın",
       "link": "https://www.sozcu.com.tr/canli-veya-genclerbirligi-galatasaray-maci-canli-yayin-p370065",
       "source": "Sözcü",
       "published_at": "2026-10-17T13:27:27Z"
+    },
+    {
+      "title": "Okan Buruk'tan 4 değişiklik!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-okan-buruk-tan-4-degisiklik-3920479",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T13:27:11Z"
     },
     {
       "title": "Bu aleti kullandıktan sonra fişten çekmeyen yandı",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-sel-magdurlarina-para-yardimi-yapildi-960399.html",
       "source": "TRT Haber",
       "published_at": "2026-10-17T08:58:00Z"
-    },
-    {
-      "title": "Türkiye ortalamasını aştılar: Konut yatırımcısına en çok kazandıran 10 il açıklandı",
-      "link": "https://www.sozcu.com.tr/turkiye-ortalamasini-astilar-konut-yatirimcisina-en-cok-kazandiran-10-il-aciklandi-p370039",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T08:56:32Z"
-    },
-    {
-      "title": "Etimesgut soruşturmasında 7 tutuklama",
-      "link": "https://www.haberturk.com/gundem/etimesgut-belediyesi-ne-yonelik-yolsuzluk-sorusturmasinda-7-supheli-tutuklandi-3920423",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T08:52:53Z"
-    },
-    {
-      "title": "LNG tankeri devrildi! Sızıntı paniği",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bakirkoy-de-tanker-devrildi-gaz-sizintisi-nedeniyle-yol-trafige-kapatildi-3920392",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T08:50:14Z"
     }
   ]
 }
