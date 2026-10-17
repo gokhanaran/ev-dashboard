@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:20:55.610293Z",
+  "generated_at": "2026-10-17T13:25:58.033364Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bu aleti kullandıktan sonra fişten çekmeyen yandı",
+      "link": "https://www.sozcu.com.tr/bu-aleti-kullandiktan-sonra-fisten-cekmeyen-yandi-p370104",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T13:22:52Z"
+    },
     {
       "title": "Erzurumspor FK 3 puanı 2 golle aldı",
       "link": "https://www.sozcu.com.tr/erzurumspor-fk-3-puani-2-golle-aldi-p370103",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bakirkoy-de-tanker-devrildi-gaz-sizintisi-nedeniyle-yol-trafige-kapatildi-3920392",
       "source": "Habertürk",
       "published_at": "2026-10-17T08:50:14Z"
-    },
-    {
-      "title": "Aylık 650 bin lira kazanmaya başladı: Ek işiyle tek bir fotoğraftan servet çıkardı",
-      "link": "https://www.sozcu.com.tr/aylik-650-bin-lira-kazanmaya-basladi-ek-isiyle-tek-bir-fotograftan-servet-cikardi-p370038",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T08:50:05Z"
     }
   ]
 }
