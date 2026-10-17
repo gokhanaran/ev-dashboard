@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:36:02.990877Z",
+  "generated_at": "2026-10-17T13:41:05.498773Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "Canlı | Gençlerbirliği-Galatasaray maçı canlı yayın",
+      "link": "https://www.sozcu.com.tr/canli-veya-genclerbirligi-galatasaray-maci-canli-yayin-p370065",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T13:39:44Z"
+    },
+    {
       "title": "Ayazağa'da dere yatağındaki yapıların yıkımına başlandı",
       "link": "https://www.sozcu.com.tr/selin-ardindan-ayazagada-dere-yatagindaki-yapilarin-yikimina-baslandi-p370110",
       "source": "Sözcü",
       "published_at": "2026-10-17T13:34:44Z"
     },
     {
+      "title": "Hasarın maliyeti 20 milyar TL olarak tahmin ediliyor",
+      "link": "https://www.haberturk.com/ekonomi/simdiye-kadar-1700-isyeri-ve-440-arac-sahibi-sigorta-sirketlerine-basvurdu-3920476",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T13:33:09Z"
+    },
+    {
       "title": "Onuachu, Beşiktaş maçında yok!",
       "link": "https://www.haberturk.com/spor/trabzonspor-a-paul-onuachu-dan-kotu-haber-besiktas-macinda-yok-3920480",
       "source": "Habertürk",
       "published_at": "2026-10-17T13:31:28Z"
-    },
-    {
-      "title": "Canlı | Gençlerbirliği-Galatasaray maçı canlı yayın",
-      "link": "https://www.sozcu.com.tr/canli-veya-genclerbirligi-galatasaray-maci-canli-yayin-p370065",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T13:27:27Z"
     },
     {
       "title": "Okan Buruk'tan 4 değişiklik!",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/vali-gul-acikladi-istanbul-da-okullar-tatil-mi-olacak-p370042",
       "source": "Sözcü",
       "published_at": "2026-10-17T09:01:02Z"
-    },
-    {
-      "title": "İstanbul Valisi Gül: Sel mağdurlarına para yardımı yapıldı",
-      "link": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-sel-magdurlarina-para-yardimi-yapildi-960399.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T08:58:00Z"
     }
   ]
 }
