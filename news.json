@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:50:41.573107Z",
+  "generated_at": "2026-10-17T12:55:43.829199Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Hastalık sürecinde ihmal iddiası",
+      "link": "https://www.haberturk.com/magazin/foto/ozlem-koldas-tan-soner-olgun-un-hastalik-surecinde-ihmal-iddiasi-3912683",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T12:52:35Z"
+    },
+    {
       "title": "Ankara kulislerinde dolaşan AKP'ye transfer iddialarına Özel'den tokat gibi sözler",
       "link": "https://www.sozcu.com.tr/ankara-kulislerinde-dolasan-akp-ye-transfer-iddialarina-ozel-den-tokat-gibi-sozler-p370094",
       "source": "Sözcü",
-      "published_at": "2026-10-17T12:47:50Z"
+      "published_at": "2026-10-17T12:52:23Z"
     },
     {
       "title": "Mehmet Ali Erbil'in gözyaşları",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/akp-ye-uskudar-da-soguk-dus-anket-sonuclari-aciklandi-p370009",
       "source": "Sözcü",
       "published_at": "2026-10-17T08:40:16Z"
-    },
-    {
-      "title": "Okulların 2027 yılı pansiyon ücretleri belli oldu",
-      "link": "https://www.trthaber.com/haber/egitim/okullarin-2027-yili-pansiyon-ucretleri-belli-oldu-960397.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T08:38:00Z"
     }
   ]
 }
