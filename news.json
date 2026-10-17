@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:35:42.070640Z",
+  "generated_at": "2026-10-17T16:40:45.855282Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika...İBB davasında 7 tahliye kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-7-tahliye-karari-p370141",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T16:39:15Z"
+    },
     {
       "title": "Okan Buruk’tan İbrahim Hacıosmanoğlu’nu çıldırtacak sözler! ‘Şu anda denetleyecek durumda değiller’",
       "link": "https://www.sozcu.com.tr/okan-buruk-tan-ibrahim-haciosmanoglu-nu-cildirtacak-sozler-su-anda-denetleyecek-durumda-degiller-p370140",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-ozgur-ozel-14-kere-ust-uste-kaybedip-milletin-umutlarini-kirandan-genel-baskan-olmaz-3920453",
       "source": "Habertürk",
       "published_at": "2026-10-17T11:03:01Z"
-    },
-    {
-      "title": "Danıştay’dan Akbelen kararı",
-      "link": "https://www.haberturk.com/gundem/danistaydan-akbelen-karari-679-parseli-acele-kamulastirilma-karari-hukuka-uygun-3920451",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T11:00:09Z"
     }
   ]
 }
