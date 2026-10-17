@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:40:45.855282Z",
+  "generated_at": "2026-10-17T16:45:49.722812Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Canlı | Fenerbahçe-Alanyaspor maçı canlı yayın",
+      "link": "https://www.sozcu.com.tr/canli-veya-fenerbahce-alanyaspor-maci-canli-yayin-p370123",
+      "source": "Sözcü",
+      "published_at": "2026-10-17T16:43:19Z"
+    },
+    {
       "title": "Son dakika...İBB davasında 7 tahliye kararı",
       "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-7-tahliye-karari-p370141",
       "source": "Sözcü",
@@ -48,10 +54,10 @@
       "published_at": "2026-10-17T16:34:36Z"
     },
     {
-      "title": "Canlı | Fenerbahçe-Alanyaspor maçı canlı yayın",
-      "link": "https://www.sozcu.com.tr/canli-veya-fenerbahce-alanyaspor-maci-canli-yayin-p370123",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T16:34:14Z"
+      "title": "İBB davasında 7 tutuklu sanık tahliye edildi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-ibb-davasinda-7-tutuklu-sanik-tahliye-edildi-3920523",
+      "source": "Habertürk",
+      "published_at": "2026-10-17T16:33:48Z"
     },
     {
       "title": "Vali Gül'den Ayazağa'da önemli açıklamalar",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/toyota-dan-ab-ye-turkiye-cagrisi-made-in-europe-tartismasi-3920448",
       "source": "Habertürk",
       "published_at": "2026-10-17T11:03:58Z"
-    },
-    {
-      "title": "\"Milletin umutlarını kırandan genel başkan olmaz\"",
-      "link": "https://www.haberturk.com/gundem/son-dakika-ozgur-ozel-14-kere-ust-uste-kaybedip-milletin-umutlarini-kirandan-genel-baskan-olmaz-3920453",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T11:03:01Z"
     }
   ]
 }
