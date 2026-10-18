@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:37:18.970217Z",
+  "generated_at": "2026-10-18T05:47:25.109943Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kadın başbakan 'çok bulaşık yıkıyorum' diyerek mecliste isyan etti",
+      "link": "https://www.sozcu.com.tr/kadin-basbakan-cok-bulasik-yikiyorum-diyerek-mecliste-isyan-etti-p370225",
+      "source": "Sözcü",
+      "published_at": "2026-10-18T05:41:54Z"
+    },
     {
       "title": "Tartıştığı Muratcan'ı pompalıyla kovaladı, öldürdü!",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-o-anlar-kamerada-eskisehir-de-bir-kisi-tartistigi-muratcan-altun-u-pompaliyla-kovaladi-oldurdu-3920573",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ayazaga-da-kaybolan-iki-kisinin-son-anlari-kameralara-boyle-yansidi-3920498",
       "source": "Habertürk",
       "published_at": "2026-10-17T16:48:22Z"
-    },
-    {
-      "title": "Hull City deplasmanda mağlup!",
-      "link": "https://www.haberturk.com/spor/fulham-hull-city-mac-sonucu-iste-fulham-hull-city-maci-ozeti-ve-golleri-ingiltere-premier-lig-3920525",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T16:45:38Z"
     }
   ]
 }
