@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:07:40.919279Z",
+  "generated_at": "2026-10-18T06:12:44.983016Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Yeşil sahalarda korkunç çarpışma! Apar topar hastaneye kaldırılıp ameliyat edildi",
+      "link": "https://www.sozcu.com.tr/yesil-sahalarda-korkunc-carpisma-apar-topar-hastaneye-kaldirilip-ameliyat-edildi-p370233",
+      "source": "Sözcü",
+      "published_at": "2026-10-18T06:10:03Z"
+    },
+    {
+      "title": "Ünlü çift proteinli kolaya ortak oldu",
+      "link": "https://www.sozcu.com.tr/unlu-cift-proteinli-kolaya-ortak-oldu-p370238",
+      "source": "Sözcü",
+      "published_at": "2026-10-18T06:07:41Z"
+    },
+    {
       "title": "Cebimizdeki paradaki imzalar suç dosyasına girdi",
       "link": "https://www.sozcu.com.tr/cebimizdeki-paradaki-imzalar-suc-dosyasina-girdi-p370199",
       "source": "Sözcü",
       "published_at": "2026-10-18T06:06:37Z"
+    },
+    {
+      "title": "Parmak iziyle çözülen ilk cinayet!",
+      "link": "https://www.haberturk.com/gundem/parmak-iziyle-cozulen-ilk-cinayet-osmanli-polisinin-gaz-lambasinda-buldugu-tarihi-delil-3920576",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T06:06:28Z"
     },
     {
       "title": "Bundan sonra çöpe atmadan önce 2 kere düşüneceksiniz: Üzümün sapında büyük hazine",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/akaryakitta-dev-zam-kapida-p370145",
       "source": "Sözcü",
       "published_at": "2026-10-17T17:43:21Z"
-    },
-    {
-      "title": "Bakan Fidan: Irak Türkmen Cephesi'nden bir bakan çıkması önemliydi",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irak-turkmen-cephesinden-bir-bakan-cikmasi-onemliydi-960436.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T17:40:00Z"
-    },
-    {
-      "title": "Günün en şanssız ismi! Gol atmadan hat-trick yaptı",
-      "link": "https://www.sozcu.com.tr/gunun-en-sanssiz-ismi-gol-atmadan-hat-trick-yapti-p370146",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T17:37:58Z"
-    },
-    {
-      "title": "İstanbul'da bazı yollar yarın trafiğe kapatılacak",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-yarin-trafige-kapatilacak-960435.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-17T17:37:00Z"
     }
   ]
 }
