@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:52:28.916634Z",
+  "generated_at": "2026-10-18T05:57:33.033468Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.haberturk.com/dunya/son-dakika-haberi-akciger-ameliyati-geciren-vatikan-devlet-baskani-papa-14uncu-leo-taburcu-edildi-3920575",
       "source": "Habertürk",
       "published_at": "2026-10-18T05:46:39Z"
+    },
+    {
+      "title": "İstanbul'da toprak kayması nedeniyle 9 katlı bina tahliye edildi",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-toprak-kaymasi-nedeniyle-9-katli-bina-tahliye-edildi-960444.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-18T05:46:00Z"
     },
     {
       "title": "Kara yollarında durum",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/canli-veya-fenerbahce-alanyaspor-maci-canli-yayin-p370123",
       "source": "Sözcü",
       "published_at": "2026-10-17T17:09:31Z"
-    },
-    {
-      "title": "Manchester City yoluna kayıpsız devam etti",
-      "link": "https://www.haberturk.com/spor/manchester-city-3-2-ipswich-town-mac-sonucu-ve-ozeti-ingiltere-premier-lig-3920529",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T17:06:13Z"
     }
   ]
 }
