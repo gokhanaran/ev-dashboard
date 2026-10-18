@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:06:05.036129Z",
+  "generated_at": "2026-10-18T18:11:09.013192Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Isparta'da kanyonda mahsur kalan 14 kişilik İHH gönüllülerinden 1 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-14-kisilik-ihh-gonullulerinden-1-kisi-hayatini-kaybetti-960479.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-18T18:04:00Z"
+    },
+    {
+      "title": "Askerlik yerleri ne zaman açıklanacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/askerlik-yerleri-ne-zaman-aciklanacak-askerlik-yerleri-sorgulama-ekrani-msb-2026-kasim-celbi-e-devlet-sorgulama-3920339",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T18:03:27Z"
+    },
     {
       "title": "Bakanlıktan RAMS Park açıklaması! Herkes toprak kayması ve çatlak olup olmadığı merak ediyordu",
       "link": "https://www.sozcu.com.tr/bakanliktan-rams-park-aciklamasi-herkes-toprak-kaymasi-ve-catlak-olup-olmadigi-merak-ediyordu-p370408",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/52-yasinda-ucuncu-bebegini-bekleyen-hilary-swank-elestirilere-rest-cekti-p370327",
       "source": "Sözcü",
       "published_at": "2026-10-18T10:40:15Z"
-    },
-    {
-      "title": "Selde can kaybı 6'ya yükseldi",
-      "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-6ya-yukseldi-960463.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-18T10:37:00Z"
-    },
-    {
-      "title": "İstanbul'daki selde can kaybı 5'e yükseldi",
-      "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-selde-can-kaybi-5e-yukseldi-960463.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-18T10:37:00Z"
     }
   ]
 }
