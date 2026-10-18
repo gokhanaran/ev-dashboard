@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:10:42.433928Z",
+  "generated_at": "2026-10-18T23:15:46.311900Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bursa'da 53 kişi hastanelik oldu",
+      "link": "https://www.haberturk.com/gundem/bursa-da-53-kisi-hastanelik-oldu-3920696",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T23:08:21Z"
+    },
     {
       "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden 3'ü kurtarıldı",
       "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-3u-kurtarildi-960485.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kasimpasadan-samsunspora-farkli-tarife-p370358",
       "source": "Sözcü",
       "published_at": "2026-10-18T13:43:23Z"
-    },
-    {
-      "title": "Kilisede ayini yöneten rahibin canlı yayında korkunç ölümü",
-      "link": "https://www.sozcu.com.tr/kilisede-ayini-yoneten-rahibin-korkunc-olumu-p370338",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T13:36:39Z"
     }
   ]
 }
