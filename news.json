@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:44:38.903630Z",
+  "generated_at": "2026-10-18T10:49:42.602034Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Soner Olgun son yolculuğuna uğurlanıyor",
+      "link": "https://www.haberturk.com/magazin/soner-olgun-a-veda-3920597",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T10:45:48Z"
+    },
+    {
+      "title": "Hürmüz'de '6 gün' umudu",
+      "link": "https://www.sozcu.com.tr/hurmuz-de-6-gun-umudu-p370321",
+      "source": "Sözcü",
+      "published_at": "2026-10-18T10:43:56Z"
+    },
+    {
+      "title": "Özdemir Bayraktar'ı andı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haber-ak-parti-sozcusu-omer-celik-vefatinin-5-inci-yilinda-ozdemir-bayraktar-i-andi-3920624",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T10:41:59Z"
+    },
     {
       "title": "52 yaşında üçüncü bebeğini bekleyen Hilary Swank eleştirilere rest çekti",
       "link": "https://www.sozcu.com.tr/52-yasinda-ucuncu-bebegini-bekleyen-hilary-swank-elestirilere-rest-cekti-p370327",
@@ -120,12 +138,6 @@
       "published_at": "2026-10-18T10:03:15Z"
     },
     {
-      "title": "Hürmüz'de '6 gün' umudu",
-      "link": "https://www.sozcu.com.tr/hurmuz-de-6-gun-umudu-p370321",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T09:59:21Z"
-    },
-    {
       "title": "7 maçta 7 gol! Trabzonspor'un derbideki kozu Salah",
       "link": "https://www.sozcu.com.tr/7-macta-7-gol-trabzonsporun-derbideki-kozu-salah-p370318",
       "source": "Sözcü",
@@ -142,12 +154,6 @@
       "link": "https://www.haberturk.com/dunya/vance-2028-secimlerinde-aday-olacak-mi-3920616",
       "source": "Habertürk",
       "published_at": "2026-10-18T09:58:34Z"
-    },
-    {
-      "title": "Soner Olgun son yolculuğuna uğurlanıyor",
-      "link": "https://www.haberturk.com/magazin/soner-olgun-a-veda-3920597",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T09:50:20Z"
     },
     {
       "title": "İstanbul'daki 5 bin kişilik çılgın konserde şoke eden ölüm",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
       "source": "TRT Haber",
       "published_at": "2026-10-18T05:10:00Z"
-    },
-    {
-      "title": "Babasını kaybeden Can Bonomo'dan duygusal mesaj",
-      "link": "https://www.sozcu.com.tr/can-bonomo-babasini-kaybetti-top-bende-p370203",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T05:08:39Z"
     }
   ]
 }
