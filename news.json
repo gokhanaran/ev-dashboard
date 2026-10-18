@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:46:16.349019Z",
+  "generated_at": "2026-10-18T00:56:21.864177Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Evde bıçaklanan kişi hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/eskisehir-de-evde-bicaklanan-kisi-hayatini-kaybetti-3920567",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T00:51:45Z"
+    },
     {
       "title": "Tarım işçilerinin kaldığı çadır alanını su bastı",
       "link": "https://www.haberturk.com/gundem/mevsimlik-tarim-iscilerinin-kaldigi-cadir-alanini-su-basti-3920566",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/genclerbirligi-galatasaray-mac-sonucu-iste-genclerbirligi-gs-maci-ozeti-ve-golleri-super-lig-3920379",
       "source": "Habertürk",
       "published_at": "2026-10-17T15:09:50Z"
-    },
-    {
-      "title": "İstanbul’un o ilçesinde yollar kapandı: Yağış sonrası toprak kaydı",
-      "link": "https://www.sozcu.com.tr/istanbul-un-o-ilcesinde-yollar-kapandi-yagis-sonrasi-toprak-kaydi-p370132",
-      "source": "Sözcü",
-      "published_at": "2026-10-17T15:03:17Z"
     }
   ]
 }
