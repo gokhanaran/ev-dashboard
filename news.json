@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:10:07.621585Z",
+  "generated_at": "2026-10-18T15:15:11.660877Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Dört gollü maçta kazanan yok!",
+      "link": "https://www.haberturk.com/spor/kayserispor-batman-petrolspor-mac-sonucu-iste-kayserispor-batman-petrolspor-maci-ozeti-ve-golleri-1-lig-3920653",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T15:09:07Z"
+    },
     {
       "title": "Pelin Karahan'dan yıllar sonra gelen Muhteşem Yüzyıl itirafı",
       "link": "https://www.sozcu.com.tr/pelin-karahan-dan-yillar-sonra-gelen-muhtesem-yuzyil-itirafi-p370383",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/futbolda-yarim-asirlik-kart-sistemini-degistirdiler-p370217",
       "source": "Sözcü",
       "published_at": "2026-10-18T08:47:25Z"
-    },
-    {
-      "title": "Ferman Akgül Paris’te protestoların ortasında kaldı: Eve gitmekte zorlandı",
-      "link": "https://www.sozcu.com.tr/ferman-akgul-paris-te-protestolarin-ortasinda-kaldi-eve-gitmekte-zorlandi-p370298",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T08:45:45Z"
     }
   ]
 }
