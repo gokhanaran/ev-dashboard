@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:55:33.396018Z",
+  "generated_at": "2026-10-18T23:10:42.433928Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden 3'ü kurtarıldı",
+      "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-3u-kurtarildi-960485.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-18T22:58:00Z"
+    },
     {
       "title": "Regaip, Miraç ve Berat Kandili ne zaman?",
       "link": "https://www.haberturk.com/bilgi/foto/kandil-gunleri-2026-2027-diyanet-takvimi-ile-regaip-mirac-ve-berat-kandili-ne-zaman-basliyor-hangi-tarihte-3920691",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kilisede-ayini-yoneten-rahibin-korkunc-olumu-p370338",
       "source": "Sözcü",
       "published_at": "2026-10-18T13:36:39Z"
-    },
-    {
-      "title": "Özdemir Bayraktar'ı andı",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-ozdemir-bayraktar-i-andi-3920647",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T13:36:21Z"
     }
   ]
 }
