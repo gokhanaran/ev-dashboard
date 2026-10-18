@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:56:21.864177Z",
+  "generated_at": "2026-10-18T01:16:31.822925Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fransa'da sokaklar savaş alanına döndü",
+      "link": "https://www.haberturk.com/dunya/fransa-da-sokaklar-savas-alanina-dondu-3920568",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T01:09:28Z"
+    },
     {
       "title": "Evde bıçaklanan kişi hayatını kaybetti",
       "link": "https://www.haberturk.com/gundem/eskisehir-de-evde-bicaklanan-kisi-hayatini-kaybetti-3920567",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/galatasarayda-leao-soku-61de-girdi-77de-cikti-p370129",
       "source": "Sözcü",
       "published_at": "2026-10-17T15:11:47Z"
-    },
-    {
-      "title": "Galatasaray Deniz'le 'Gül'dü!",
-      "link": "https://www.haberturk.com/spor/genclerbirligi-galatasaray-mac-sonucu-iste-genclerbirligi-gs-maci-ozeti-ve-golleri-super-lig-3920379",
-      "source": "Habertürk",
-      "published_at": "2026-10-17T15:09:50Z"
     }
   ]
 }
