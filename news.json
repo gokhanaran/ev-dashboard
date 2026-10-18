@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:49:42.602034Z",
+  "generated_at": "2026-10-18T10:54:45.793461Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Emekli maaşında yeni zam hesabı! İşte kuruşu kuruşuna 3 senaryo",
+      "link": "https://www.sozcu.com.tr/emekli-maasinda-yeni-zam-hesabi-iste-kurusu-kurusuna-3-senaryo-p370330",
+      "source": "Sözcü",
+      "published_at": "2026-10-18T10:52:01Z"
+    },
+    {
+      "title": "Fransa'da sarı yelekliler eylemde",
+      "link": "https://www.haberturk.com/dunya/fransa-da-sari-yelekliler-eylemde-3920584",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T10:48:07Z"
+    },
     {
       "title": "Soner Olgun son yolculuğuna uğurlanıyor",
       "link": "https://www.haberturk.com/magazin/soner-olgun-a-veda-3920597",
@@ -492,12 +504,6 @@
       "published_at": "2026-10-18T07:03:18Z"
     },
     {
-      "title": "Fransa'da sarı yelekliler eylemde",
-      "link": "https://www.haberturk.com/dunya/fransa-da-sari-yelekliler-eylemde-3920584",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T07:00:09Z"
-    },
-    {
       "title": "ABD'de bir aracın futbol sahasındakilere çarpması sonucu 2 kişi öldü, 11 kişi yaralandı",
       "link": "https://www.trthaber.com/haber/dunya/abdde-bir-aracin-futbol-sahasindakilere-carpmasi-sonucu-2-kisi-oldu-11-kisi-yaralandi-960449.html",
       "source": "TRT Haber",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/avrupa-yakasi-nin-gaffur-u-peker-acikalin-dan-yapimcilara-cagri-para-lazim-para-p370210",
       "source": "Sözcü",
       "published_at": "2026-10-18T05:10:33Z"
-    },
-    {
-      "title": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
-      "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-18T05:10:00Z"
     }
   ]
 }
