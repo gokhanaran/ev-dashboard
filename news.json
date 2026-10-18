@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:55:56.855329Z",
+  "generated_at": "2026-10-18T18:01:01.096801Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Başakşehir evinde hata yapmadı!",
+      "link": "https://www.haberturk.com/spor/basaksehir-gaziantep-fk-mac-sonucu-iste-basaksehir-gaziantep-fk-maci-ozeti-ve-golleri-super-lig-3920673",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T17:54:25Z"
+    },
     {
       "title": "Eski komşusuyla tartıştı: Son eşyalarını alırken can verdi",
       "link": "https://www.sozcu.com.tr/eski-komsusuyla-tartisti-son-esyalarini-alirken-can-verdi-p370406",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/suleyman-saim-tekcan-hayatini-kaybetti-3920619",
       "source": "Habertürk",
       "published_at": "2026-10-18T10:34:03Z"
-    },
-    {
-      "title": "Son dakika... İstanbul'da sel felaketinde can kaybı 5'e yükseldi",
-      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-da-sel-felaketinde-can-kaybi-5-e-yukseldi-p370324",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T10:33:31Z"
     }
   ]
 }
