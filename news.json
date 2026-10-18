@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:54:12.859477Z",
+  "generated_at": "2026-10-18T21:09:21.164175Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 18
+      "items": 8
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Milli futbolcu Arda Güler'den jeneriklik gol",
+      "link": "https://www.trthaber.com/haber/spor/milli-futbolcu-arda-gulerden-jeneriklik-gol-960483.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-18T21:03:00Z"
+    },
+    {
+      "title": "Arda şov yaptı, R.Madrid farka koştu!",
+      "link": "https://www.haberturk.com/spor/real-madrid-sevilla-mac-sonucu-iste-real-madrid-sevilla-maci-ozeti-ve-golleri-ispanya-laliga-3920690",
+      "source": "Habertürk",
+      "published_at": "2026-10-18T21:02:17Z"
+    },
     {
       "title": "Merkez Bankası faiz kararı ne zaman açıklanacak?",
       "link": "https://www.haberturk.com/bilgi/foto/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-merkez-bankasi-faiz-toplanti-takvimi-2026-2027-3920678",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/burak-sergen-ve-esi-gizem-sergen-fenerbahce-macinda-tribunden-ask-pozu-p370357",
       "source": "Sözcü",
       "published_at": "2026-10-18T12:58:01Z"
-    },
-    {
-      "title": "İstanbul'daki sel faciasında son durum!",
-      "link": "https://www.haberturk.com/gundem/istanbul-daki-sel-faciasinda-son-durum-3920585",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T12:55:22Z"
-    },
-    {
-      "title": "Fenerbahçe maçı öncesi kriz çıktı! En iyi oyuncusunu İstanbul'a getirmiyor",
-      "link": "https://www.sozcu.com.tr/fenerbahce-maci-oncesi-kriz-cikti-en-iyi-oyuncusunu-istanbul-a-getirmiyor-p370356",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T12:54:40Z"
     }
   ]
 }
