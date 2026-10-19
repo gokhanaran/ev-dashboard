@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:00:48.874810Z",
+  "generated_at": "2026-10-19T13:05:52.838645Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Domatesler salkım salkım ağaçtan hasat ediliyor: Kilosu çok pahalı",
+      "link": "https://www.sozcu.com.tr/domatesler-salkim-salkim-agactan-hasat-ediliyor-kilosu-cok-pahali-p370682",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T13:04:34Z"
+    },
+    {
+      "title": "Sürpriz gelişme! Galatasaray-Fenerbahçe maçının tarihi değişiyor",
+      "link": "https://www.sozcu.com.tr/tffden-flas-hamle-galatasarayfenerbahce-macinin-tarihi-degisebilir-p370680",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T13:01:50Z"
+    },
     {
       "title": "Son dakika: Tutuklu Bayrampaşa Belediye Başkanı Hasan Mutlu ameliyata alındı",
       "link": "https://www.sozcu.com.tr/son-dakika-tutuklu-bayrampasa-belediye-baskani-hasan-mutlu-ameliyata-alindi-p370648",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-sel-felaketinde-can-kaybi-6-oldu-ayvansaray-iskelesinde-cansiz-beden-bulundu-3920712",
       "source": "Habertürk",
       "published_at": "2026-10-19T09:21:01Z"
-    },
-    {
-      "title": "Rekabet Kurulu, 10 yemek şirketi hakkında soruşturma başlattı",
-      "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-10-yemek-sirketi-hakkinda-sorusturma-baslatti-960514.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T09:21:00Z"
-    },
-    {
-      "title": "Mobil abone sayısı 105 milyona ulaşacak",
-      "link": "https://www.haberturk.com/ekonomi/mobil-abone-sayisi-105-milyona-ulasacak-3920794",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T09:17:16Z"
     }
   ]
 }
