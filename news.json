@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:51:17.048596Z",
+  "generated_at": "2026-10-19T19:56:21.172925Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
+      "link": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T19:51:08Z"
+    },
+    {
       "title": "Sarıgül kardeşler, Aylin Kotil, Murat Ağırel tutuklandı",
       "link": "https://www.haberturk.com/ekonomi/son-dakika-mal-varligi-aklama-sorusturmasinda-tutuklama-talebi-3920913",
       "source": "Habertürk",
-      "published_at": "2026-10-19T19:46:17Z"
+      "published_at": "2026-10-19T19:48:39Z"
     },
     {
       "title": "Süleyman Soylu'dan fon krizini eleştiren cemaate gönderme",
@@ -70,6 +76,12 @@
       "link": "https://www.haberturk.com/can-baytak-karikaturleri-ekim-2026-3917701",
       "source": "Habertürk",
       "published_at": "2026-10-19T19:43:17Z"
+    },
+    {
+      "title": "ABD'nin bazı eyaletlerinde ara seçimler için erken oy kullanma işlemi başladı",
+      "link": "https://www.trthaber.com/haber/dunya/abdnin-bazi-eyaletlerinde-ara-secimler-icin-erken-oy-kullanma-islemi-basladi-960570.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T19:42:00Z"
     },
     {
       "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül dahil 15 kişi tutuklandı",
@@ -220,12 +232,6 @@
       "link": "https://www.sozcu.com.tr/canli-veya-trabzonspor-besiktas-maci-canli-anlatimi-super-lig-8-hafta-p370681",
       "source": "Sözcü",
       "published_at": "2026-10-19T18:53:52Z"
-    },
-    {
-      "title": "Borsa İstanbul'da işlem gören yarım asırlık holding konkordato ilan etti",
-      "link": "https://www.sozcu.com.tr/ral-yatirim-holding-konkordato-ilan-etti-p370739",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T18:37:42Z"
     },
     {
       "title": "Yeni Parti'den CHP'ye yanıt",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/trafik-kazasi-geciren-mhp-li-vekille-ilgili-yeni-gelisme-p370698",
       "source": "Sözcü",
       "published_at": "2026-10-19T13:57:29Z"
-    },
-    {
-      "title": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
-      "link": "https://www.trthaber.com/haber/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor-960548.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T13:56:00Z"
     }
   ]
 }
