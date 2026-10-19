@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:31:00.731889Z",
+  "generated_at": "2026-10-19T19:36:04.874479Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Ozan Tufan: 'Gol sözü vermiştim'",
+      "link": "https://www.sozcu.com.tr/ozan-tufan-gol-sozu-vermistim-p370751",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T19:33:09Z"
+    },
+    {
+      "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül dahil 15 kişi tutuklandı",
+      "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T19:32:55Z"
+    },
+    {
+      "title": "\"Önemli bir galibiyet aldık\"",
+      "link": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-stefan-savic-onemli-bir-galibiyet-aldik-3920946",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:27:43Z"
+    },
+    {
       "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül tutuklandı",
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
       "source": "Sözcü",
       "published_at": "2026-10-19T19:27:09Z"
+    },
+    {
+      "title": "\"Eşime ve çocuğuma gol sözü vermiştim\"",
+      "link": "https://www.haberturk.com/spor/ozan-tufan-esime-ve-cocuguma-gol-sozu-vermistim-3920945",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:27:03Z"
     },
     {
       "title": "\"Sahada istediğimizi yapamadık\"",
@@ -282,6 +306,12 @@
       "published_at": "2026-10-19T17:28:36Z"
     },
     {
+      "title": "Yeni Parti'den fon krizindeki istifalara tepki: Esas sorumlular koltukta",
+      "link": "https://www.sozcu.com.tr/yeni-parti-den-fon-krizindeki-istifalara-tepki-p370732",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T17:26:24Z"
+    },
+    {
       "title": "Breaking Bad’in Hank Schrader’ı iflas etti",
       "link": "https://www.sozcu.com.tr/breaking-bad-in-hank-schrader-i-iflas-etti-p370731",
       "source": "Sözcü",
@@ -322,6 +352,12 @@
       "link": "https://www.trthaber.com/haber/dunya/zelenski-rusyanin-saldirilarinda-28-trafo-merkezinin-hasar-gordugunu-belirtti-960560.html",
       "source": "TRT Haber",
       "published_at": "2026-10-19T17:03:00Z"
+    },
+    {
+      "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheli tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-aklama-sorusturmasinda-15-supheli-tutuklandi-960558.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T16:57:00Z"
     },
     {
       "title": "İstanbul'da kara para aklama soruşturmasında 15 şüpheliye tutuklama talebi",
@@ -718,42 +754,6 @@
       "link": "https://www.sozcu.com.tr/domatesler-salkim-salkim-agactan-hasat-ediliyor-kilosu-cok-pahali-p370682",
       "source": "Sözcü",
       "published_at": "2026-10-19T13:34:22Z"
-    },
-    {
-      "title": "Kadir İnanır'ın bir yeğeni daha ortaya çıktı: Şahit olduğu anları tek tek anlattı",
-      "link": "https://www.sozcu.com.tr/kadir-inanir-in-bir-yegeni-daha-ortaya-cikti-sahit-oldugu-anlari-tek-tek-anlatti-p370690",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:26:23Z"
-    },
-    {
-      "title": "Galatasaray'a Singo müjdesi!",
-      "link": "https://www.sozcu.com.tr/galatasaraya-singo-mujdesi-tam-15-ay-sonra-p370689",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:25:12Z"
-    },
-    {
-      "title": "Yoğun bakımdan sedyeyle çıkan anne, 5 yaşındaki kızının tabutu başında gözyaşlarına boğuldu",
-      "link": "https://www.sozcu.com.tr/yogun-bakimdan-sedyeyle-cikan-anne-5-yasindaki-kizinin-tabutu-basinda-gozyaslarina-boguldu-p370688",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:24:32Z"
-    },
-    {
-      "title": "Rapor: İngiltere, ekonomik refahı ve güvenliği için AB'ye yeniden üye olmalı",
-      "link": "https://www.trthaber.com/haber/dunya/rapor-ingiltere-ekonomik-refahi-ve-guvenligi-icin-abye-yeniden-uye-olmali-960545.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T13:20:00Z"
-    },
-    {
-      "title": "En düşük emekli aylığı için yeni adım: Teklif Meclis’te",
-      "link": "https://www.sozcu.com.tr/en-dusuk-emekli-ayligi-icin-yeni-adim-teklif-meclis-te-p370638",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:19:03Z"
-    },
-    {
-      "title": "Milli Takım'da Sergen Yalçın dönemi!",
-      "link": "https://www.haberturk.com/spor/a-milli-takim-da-sergen-yalcin-sesleri-3920845",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T13:17:55Z"
     }
   ]
 }
