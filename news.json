@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:20:52.950087Z",
+  "generated_at": "2026-10-19T19:25:56.731772Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül tutuklandı",
+      "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T19:21:30Z"
+    },
+    {
+      "title": "İran’dan vatandaşlarına seyahat uyarısı",
+      "link": "https://www.haberturk.com/dunya/irandan-vatandaslarina-fransa-belcika-ve-italyaya-seyahat-uyarisi-3920943",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:20:22Z"
+    },
+    {
+      "title": "Katar: Gazzede ateşkesin ikinci aşamasının uygulanması için çabalarımız sürüyor",
+      "link": "https://www.trthaber.com/haber/dunya/katar-gazzede-ateskesin-ikinci-asamasinin-uygulanmasi-icin-cabalarimiz-suruyor-960567.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T19:17:00Z"
+    },
     {
       "title": "Bursaspor'un kazandığı maça Iheneacho damgası! Türk futbol tarihinde ilk",
       "link": "https://www.sozcu.com.tr/bursaspor-un-kazandigi-maca-iheneacho-damgasi-turk-futbol-tarihinde-ilk-p370750",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/mhpli-zuhal-karakoc-trafik-kazasinin-ardindan-taburcu-edildi-3920863",
       "source": "Habertürk",
       "published_at": "2026-10-19T13:16:47Z"
-    },
-    {
-      "title": "Yemende füze saldırısı: 53 ölü, 200 yaralı",
-      "link": "https://www.trthaber.com/haber/dunya/yemende-fuze-saldirisi-53-olu-200-yarali-960544.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T13:16:00Z"
-    },
-    {
-      "title": "Fransa'da göstericilerin yaktığı ateş Avrupa'ya yayıldı: 7 ülke alev alev",
-      "link": "https://www.sozcu.com.tr/fransa-da-gostericilerin-yaktigi-ates-avrupa-ya-yayildi-7-ulke-alev-alev-p370685",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:14:18Z"
-    },
-    {
-      "title": "Yapay zeka şirketi Anthropic, hisselerinin yüzde 5'ini kamu yararına ayıracak",
-      "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-sirketi-anthropic-hisselerinin-yuzde-5ini-kamu-yararina-ayiracak-960543.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T13:12:00Z"
     }
   ]
 }
