@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:25:56.731772Z",
+  "generated_at": "2026-10-19T19:31:00.731889Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,13 @@
       "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül tutuklandı",
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
       "source": "Sözcü",
-      "published_at": "2026-10-19T19:21:30Z"
+      "published_at": "2026-10-19T19:27:09Z"
+    },
+    {
+      "title": "\"Sahada istediğimizi yapamadık\"",
+      "link": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-salih-ozcan-istedigimizi-yapamadik-3920944",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:24:05Z"
     },
     {
       "title": "İran’dan vatandaşlarına seyahat uyarısı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/a-milli-takim-da-sergen-yalcin-sesleri-3920845",
       "source": "Habertürk",
       "published_at": "2026-10-19T13:17:55Z"
-    },
-    {
-      "title": "MHP’li Zuhal Karakoç, taburcu edildi",
-      "link": "https://www.haberturk.com/gundem/mhpli-zuhal-karakoc-trafik-kazasinin-ardindan-taburcu-edildi-3920863",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T13:16:47Z"
     }
   ]
 }
