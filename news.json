@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:59:35.639909Z",
+  "generated_at": "2026-10-19T01:04:39.594009Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bu faizlerle ayakta kalamayız",
+      "link": "https://www.sozcu.com.tr/bu-faizlerle-ayakta-kalamayiz-p370445",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T01:00:15Z"
+    },
     {
       "title": "2 katı ödeme mağdura yapılsın",
       "link": "https://www.sozcu.com.tr/2-kati-odeme-magdura-yapilsin-p370444",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-konserde-fenalastilar-can-kaybi-var-3920611",
       "source": "Habertürk",
       "published_at": "2026-10-18T13:50:06Z"
-    },
-    {
-      "title": "Süper model sakatlandı",
-      "link": "https://www.haberturk.com/magazin/foto/unlu-model-gisele-bundchen-sakatlandi-3920648",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T13:49:36Z"
     }
   ]
 }
