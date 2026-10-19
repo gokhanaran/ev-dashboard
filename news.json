@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:36:04.874479Z",
+  "generated_at": "2026-10-19T19:41:08.937503Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,34 @@
   ],
   "items": [
     {
+      "title": "\"Çok önemli bir üç puan oldu\"",
+      "link": "https://www.haberturk.com/spor/fabinho-cok-onemli-bir-uc-puan-oldu-3920948",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:35:38Z"
+    },
+    {
       "title": "Ozan Tufan: 'Gol sözü vermiştim'",
       "link": "https://www.sozcu.com.tr/ozan-tufan-gol-sozu-vermistim-p370751",
       "source": "Sözcü",
       "published_at": "2026-10-19T19:33:09Z"
     },
     {
+      "title": "\"Sen neredeysen, ben oradayım!\"",
+      "link": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-bolum-tanitimi-3920947",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:32:58Z"
+    },
+    {
       "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül dahil 15 kişi tutuklandı",
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-p370717",
       "source": "Sözcü",
       "published_at": "2026-10-19T19:32:55Z"
+    },
+    {
+      "title": "Sarıgül kardeşler, Aylin Kotil, Murat Ağırel tutuklandı",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-mal-varligi-aklama-sorusturmasinda-tutuklama-talebi-3920913",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T19:32:37Z"
     },
     {
       "title": "\"Önemli bir galibiyet aldık\"",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/tffden-flas-hamle-galatasarayfenerbahce-macinin-tarihi-degisebilir-p370680",
       "source": "Sözcü",
       "published_at": "2026-10-19T13:38:31Z"
-    },
-    {
-      "title": "Trafikte kâbus! İçerisinde çocuk bulunan araca saldırdı, camı kırdı!",
-      "link": "https://www.haberturk.com/gundem/trafikte-kbus-icerisinde-cocuk-bulunan-araca-saldirdi-cami-kirdi-3920865",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T13:35:53Z"
-    },
-    {
-      "title": "Bakan Kacır: Ülkemizin kurulu veri merkezi gücünü en az 1 gigavata çıkaracağız",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-ulkemizin-kurulu-veri-merkezi-gucunu-en-az-1-gigavata-cikaracagiz-960546.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-19T13:35:00Z"
-    },
-    {
-      "title": "Domatesler salkım salkım ağaçtan hasat ediliyor",
-      "link": "https://www.sozcu.com.tr/domatesler-salkim-salkim-agactan-hasat-ediliyor-kilosu-cok-pahali-p370682",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T13:34:22Z"
     }
   ]
 }
