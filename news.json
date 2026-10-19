@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:55:44.639769Z",
+  "generated_at": "2026-10-19T13:00:48.874810Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika: Tutuklu Bayrampaşa Belediye Başkanı Hasan Mutlu ameliyata alındı",
+      "link": "https://www.sozcu.com.tr/son-dakika-tutuklu-bayrampasa-belediye-baskani-hasan-mutlu-ameliyata-alindi-p370648",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T12:59:24Z"
+    },
+    {
+      "title": "Cindy Crawford'dan 27 yaşında ölen oğluna yürek yakan veda: “Sonsuza dek öyle kalacak''",
+      "link": "https://www.sozcu.com.tr/cindy-crawford-dan-27-yasinda-olen-ogluna-yurek-yakan-veda-sonsuza-dek-oyle-kalacak-p370679",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T12:55:03Z"
+    },
+    {
+      "title": "\"Muhtarlar, yol arkadaşlarımız\"",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-ciftci-muhtarlarimiz-devletimizin-sahadaki-en-yakin-yol-arkadaslaridir-3920860",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T12:53:36Z"
+    },
+    {
+      "title": "İstanbul'da konserdeki ölümlerin sebebi belli oldu!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-konserdeki-olumlerin-sebebi-belli-oldu-3920859",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T12:53:05Z"
+    },
     {
       "title": "10 yıllık vize şartı değişti: Sınır kapıları o mesleklere açılıyor",
       "link": "https://www.sozcu.com.tr/10-yillik-vize-sarti-degisti-sinir-kapilari-o-mesleklere-aciliyor-p370676",
@@ -88,6 +112,12 @@
       "link": "https://www.haberturk.com/gundem/alzheimer-hastasi-kadindan-aci-haber-3920851",
       "source": "Habertürk",
       "published_at": "2026-10-19T12:42:29Z"
+    },
+    {
+      "title": "Bakan Çiftçi: Muhtarlarımız devletimizin sahadaki en yakın yol arkadaşlarıdır",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-muhtarlarimiz-devletimizin-sahadaki-en-yakin-yol-arkadaslaridir-960540.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T12:42:00Z"
     },
     {
       "title": "Galatasaray'dan Leao açıklaması geldi! Lille maçında oynayacak mı?",
@@ -358,12 +388,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/sicakliklar-hafta-sonuna-kadar-mevsim-normallerinde-seyredecek-960531.html",
       "source": "TRT Haber",
       "published_at": "2026-10-19T11:48:00Z"
-    },
-    {
-      "title": "Son dakika: Tutuklu Bayrampaşa Belediye Başkanı Hasan Mutlu ameliyata alındı",
-      "link": "https://www.sozcu.com.tr/son-dakika-tutuklu-bayrampasa-belediye-baskani-hasan-mutlu-ameliyata-alindi-p370648",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T11:43:50Z"
     },
     {
       "title": "Minik köpeğini koynunda taşıdı",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/mobil-abone-sayisi-105-milyona-ulasacak-3920794",
       "source": "Habertürk",
       "published_at": "2026-10-19T09:17:16Z"
-    },
-    {
-      "title": "Fenerbahçe, Slavia Prag karşısında ilk peşinde",
-      "link": "https://www.sozcu.com.tr/fenerbahce-slavia-prag-karsisinda-ilk-pesinde-p370599",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T09:16:40Z"
-    },
-    {
-      "title": "Guardiola'dan Filistin mesajı",
-      "link": "https://www.haberturk.com/spor/pep-guardiola-dan-filistin-icin-dayanisma-cagrisi-3920792",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T09:15:27Z"
-    },
-    {
-      "title": "Meme kanserinde erken teşhis farkındalığı için koştular",
-      "link": "https://www.haberturk.com/saglik/meme-kanserinde-erken-teshis-farkindaligi-icin-kostular-3920785",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T09:15:02Z"
-    },
-    {
-      "title": "Fitch'ten Türkiye'ye çifte uyarı: Risk var",
-      "link": "https://www.sozcu.com.tr/fitch-risk-var-turkiyeye-cifte-uyari-p370594",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T09:12:53Z"
     }
   ]
 }
