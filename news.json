@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:35:18.431395Z",
+  "generated_at": "2026-10-19T06:40:21.373573Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Putin'den Çin'de Ukrayna görüşmesi iddiası",
+      "link": "https://www.haberturk.com/dunya/putin-in-ukrayna-ile-ilgili-si-ve-trump-ile-cin-de-uclu-gorusme-yapmayi-onerdigi-iddia-edildi-3920726",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T06:38:52Z"
+    },
+    {
+      "title": "Son dakika: Böylesi hiç görülmedi: Üreme ticareti! 41 kadın 811 kez yumurta satmış!",
+      "link": "https://www.sozcu.com.tr/boylesi-hic-gorulmedi-ureme-ticareti-42-kadin-811-kez-yumurta-satmis-p370515",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T06:38:26Z"
+    },
+    {
+      "title": "Sel felaketinde can kaybı 6 oldu! Ayvansaray iskelesinde cansız beden bulundu!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-sel-felaketinde-can-kaybi-6-oldu-ayvansaray-iskelesinde-cansiz-beden-bulundu-3920712",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T06:36:34Z"
+    },
+    {
       "title": "Son dakika: Böylesi hiç görülmedi: Üreme ticareti! 42 kadın 811 kez yumurta satmış!",
       "link": "https://www.sozcu.com.tr/boylesi-hic-gorulmedi-ureme-ticareti-42-kadin-811-kez-yumurta-satmis-p370515",
       "source": "Sözcü",
@@ -48,10 +66,28 @@
       "published_at": "2026-10-19T06:33:17Z"
     },
     {
+      "title": "Altın güne yükselişle başladı, işte fiyatlar...",
+      "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-yukselisle-basladi-iste-fiyatlar-960496.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T06:32:00Z"
+    },
+    {
+      "title": "Çukurova Belediyesine yolsuzluk ve rüşvet operasyonu: 44 gözaltı",
+      "link": "https://www.trthaber.com/haber/gundem/cukurova-belediyesine-yolsuzluk-ve-rusvet-operasyonu-44-gozalti-960494.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T06:29:00Z"
+    },
+    {
       "title": "Ev sahipleri bunu isteyemeyecek: O şart artık geçerli değil",
       "link": "https://www.sozcu.com.tr/ev-sahipleri-artik-bunu-isteyemeyecek-o-sart-artik-gecerli-degil-p370510",
       "source": "Sözcü",
       "published_at": "2026-10-19T06:27:40Z"
+    },
+    {
+      "title": "Bakan Gürlek duyurdu: Yasa dışı üreme hücresi ticaretine operasyon!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-duyurdu-yasa-disi-ureme-hucresi-ticaretine-operasyon-3920721",
+      "source": "Habertürk",
+      "published_at": "2026-10-19T06:27:07Z"
     },
     {
       "title": "Faruk Sabancı sevgilisi için Kapalıçarşı'nın kapısını çaldı: Özel güne özel jest",
@@ -82,12 +118,6 @@
       "link": "https://www.haberturk.com/magazin/foto/tarkan-a-afrika-surprizi-3920720",
       "source": "Habertürk",
       "published_at": "2026-10-19T06:19:21Z"
-    },
-    {
-      "title": "Bakan Gürlek duyurdu: Yasa dışı üreme hücresi ticaretine operasyon!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-duyurdu-yasa-disi-ureme-hucresi-ticaretine-operasyon-3920721",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T06:19:19Z"
     },
     {
       "title": "Fransa'da sokaklar karıştı!",
@@ -136,12 +166,6 @@
       "link": "https://www.sozcu.com.tr/avrupa-ulkesi-turklere-kapilarini-acti-1-milyon-liranin-uzerinde-maas-veriyor-p370503",
       "source": "Sözcü",
       "published_at": "2026-10-19T06:08:43Z"
-    },
-    {
-      "title": "Sel felaketinde can kaybı 6 oldu! Ayvansaray iskelesinde cansız beden bulundu!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-sel-felaketinde-can-kaybi-6-oldu-ayvansaray-iskelesinde-cansiz-beden-bulundu-3920712",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T06:07:55Z"
     },
     {
       "title": "OpenAI'ın yapay zeka modeli izinsiz kripto para kullandı",
@@ -730,30 +754,6 @@
       "link": "https://www.sozcu.com.tr/kanada-da-askeri-uste-facia-4-asker-oldu-p370427",
       "source": "Sözcü",
       "published_at": "2026-10-18T20:22:11Z"
-    },
-    {
-      "title": "Kış lastiği zorunluluğu ne zaman başlıyor?",
-      "link": "https://www.haberturk.com/bilgi/foto/kis-lastigi-zorunlulugu-ne-zaman-basliyor-takvim-degisti-kis-lastigi-zorunlulugu-hangi-araclari-kapsiyor-3920689",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T20:18:33Z"
-    },
-    {
-      "title": "Derbide zafer Beşiktaş'ın!",
-      "link": "https://www.haberturk.com/spor/besiktas-83-galatasaray-mct-technic-80-mac-sonucu-3920687",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T20:14:34Z"
-    },
-    {
-      "title": "Serenay Sarıkaya'ya restoranda gelen not gündem oldu",
-      "link": "https://www.sozcu.com.tr/serenay-sarikaya-ya-restoranda-gelen-not-gundem-oldu-p370426",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T20:10:36Z"
-    },
-    {
-      "title": "Kıran kırana geçen derbi Beşiktaş’ın: Potada Galatasaray’ı devirdi",
-      "link": "https://www.sozcu.com.tr/kiran-kirana-gecen-derbi-besiktasin-potada-galatasarayi-devirdi-p370425",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T20:01:35Z"
     }
   ]
 }
