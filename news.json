@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:49:53.726746Z",
+  "generated_at": "2026-10-19T23:54:57.785749Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,13 @@
       "title": "Sergen'e koltuk gelecek yönetime pranga",
       "link": "https://www.sozcu.com.tr/sergen-e-koltuk-gelecek-yonetime-pranga-p370765",
       "source": "Sözcü",
-      "published_at": "2026-10-19T23:48:34Z"
+      "published_at": "2026-10-19T23:50:43Z"
+    },
+    {
+      "title": "Ankara'da kaçakçılık operasyonu: 11 şüpheli hakkında işlem başlatıldı",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-kacakcilik-operasyonu-11-supheli-hakkinda-islem-baslatildi-960577.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T23:47:00Z"
     },
     {
       "title": "Ankara'da aranan 169 kişi yakalandı",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/ambulansa-yol-vermeyen-surucuye-46-bin-lira-ceza-960557.html",
       "source": "TRT Haber",
       "published_at": "2026-10-19T15:47:00Z"
-    },
-    {
-      "title": "Borsa günü düşüşle tamamladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3920903",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T15:45:00Z"
     }
   ]
 }
