@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:04:39.594009Z",
+  "generated_at": "2026-10-19T01:39:59.539585Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Çalışmak zorundayım çalışmazsam açım",
+      "link": "https://www.sozcu.com.tr/calismak-zorundayim-calismazsam-acim-p370446",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T01:30:15Z"
+    },
     {
       "title": "Bu faizlerle ayakta kalamayız",
       "link": "https://www.sozcu.com.tr/bu-faizlerle-ayakta-kalamayiz-p370445",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/yapay-zekaya-aldandi-felaketi-yasadi-p370341",
       "source": "Sözcü",
       "published_at": "2026-10-18T13:51:25Z"
-    },
-    {
-      "title": "Konserde fenalaştılar! 2 can kaybı var!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-konserde-fenalastilar-can-kaybi-var-3920611",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T13:50:06Z"
     }
   ]
 }
