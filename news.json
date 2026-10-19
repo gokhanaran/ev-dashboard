@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:05:03.668751Z",
+  "generated_at": "2026-10-19T06:10:06.142641Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Avrupa ülkesi Türklere kapılarını açtı: 1 milyon liranın üzerinde maaş veriyor",
+      "link": "https://www.sozcu.com.tr/avrupa-ulkesi-turklere-kapilarini-acti-1-milyon-liranin-uzerinde-maas-veriyor-p370503",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T06:08:43Z"
+    },
+    {
+      "title": "63 odalı saray yaptı",
+      "link": "https://www.sozcu.com.tr/63-odali-saray-yapti-p370447",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T06:06:00Z"
+    },
+    {
+      "title": "SON DAKİKA... Çukurova Belediyesi'ne operasyon: Çok sayıda gözaltı kararı var",
+      "link": "https://www.sozcu.com.tr/son-dakika-cukurova-belediyesi-ne-operasyon-cok-sayida-gozalti-karari-var-p370468",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T06:05:16Z"
+    },
+    {
+      "title": "Ankara'da bu iddia konuşuluyor: CHP'den belediye başkanları için yeni ihraç listesi",
+      "link": "https://www.sozcu.com.tr/ankara-da-bu-iddia-konusuluyor-chp-den-belediye-baskanlari-icin-yeni-ihrac-listesi-p370500",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T06:05:14Z"
+    },
+    {
       "title": "SON DAKİKA | İstanbul'daki selde can kaybı 6'ya yükseldi",
       "link": "https://www.sozcu.com.tr/son-dakika-veya-istanbul-daki-selde-can-kaybi-6-ya-yukseldi-p370490",
       "source": "Sözcü",
-      "published_at": "2026-10-19T06:03:39Z"
+      "published_at": "2026-10-19T06:04:50Z"
     },
     {
       "title": "MasterChef kim elendi? 18 Ekim Pazar MasterChef'te veda eden isim belli oldu: İşte o yarışmacı...",
@@ -70,6 +94,12 @@
       "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-bir-tanitim-daha-3920702",
       "source": "Habertürk",
       "published_at": "2026-10-19T05:55:46Z"
+    },
+    {
+      "title": "'Alihan Kuriş Suç Örgütü' soruşturmasında 22 gözaltı",
+      "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-22-gozalti-960489.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-19T05:55:00Z"
     },
     {
       "title": "Alihan Kuriş operasyonu: 22 şüpheli gözaltında",
@@ -112,6 +142,12 @@
       "link": "https://www.sozcu.com.tr/cekicle-tek-tek-kirip-18-saat-kaynatiyorlar-kilosu-500-lirayi-gecti-p370494",
       "source": "Sözcü",
       "published_at": "2026-10-19T05:40:50Z"
+    },
+    {
+      "title": "2 ülke daha vizesiz seyahat listesinde: Türk pasaportuyla gidilebiliyor",
+      "link": "https://www.sozcu.com.tr/2-ulke-daha-vizesiz-seyahat-listesinde-turk-pasaportuyla-gidilebiliyor-p370493",
+      "source": "Sözcü",
+      "published_at": "2026-10-19T05:37:53Z"
     },
     {
       "title": "Elden ele dolaşan para yüz binlerce liraya satılıyor",
@@ -208,12 +244,6 @@
       "link": "https://www.sozcu.com.tr/taha-cakmak-parayi-iade-etti-mi-p370404",
       "source": "Sözcü",
       "published_at": "2026-10-19T05:20:00Z"
-    },
-    {
-      "title": "SON DAKİKA... Çukurova Belediyesi'ne operasyon: Çok sayıda gözaltı kararı var",
-      "link": "https://www.sozcu.com.tr/son-dakika-cukurova-belediyesi-ne-operasyon-cok-sayida-gozalti-karari-var-p370468",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T05:15:44Z"
     },
     {
       "title": "7 mesleğe yeşil pasaport için ilk adım atıldı",
@@ -412,12 +442,6 @@
       "link": "https://www.sozcu.com.tr/karadeniz-de-guc-gosterisi-gozler-mohamed-salah-ile-dusan-vlahovic-te-p370438",
       "source": "Sözcü",
       "published_at": "2026-10-19T03:03:32Z"
-    },
-    {
-      "title": "63 odalı saray yaptı",
-      "link": "https://www.sozcu.com.tr/63-odali-saray-yapti-p370447",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T02:10:16Z"
     },
     {
       "title": "Çalışmak zorundayım çalışmazsam açım",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/isparta-da-kanyonda-mahsur-kalan-ihh-gonullulerinden-biri-hayatini-kaybetti-3920676",
       "source": "Habertürk",
       "published_at": "2026-10-18T18:33:26Z"
-    },
-    {
-      "title": "Başakşehir sahasında kazandı",
-      "link": "https://www.sozcu.com.tr/basaksehir-sahasinda-kazandi-p370412",
-      "source": "Sözcü",
-      "published_at": "2026-10-18T18:31:56Z"
-    },
-    {
-      "title": "Bakanlıktan Galatasaray açıklaması!",
-      "link": "https://www.haberturk.com/spor/cevre-ve-sehircilik-bakanligi-ndan-galatasaray-stadi-yla-ilgili-aciklama-3920675",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T18:30:04Z"
-    },
-    {
-      "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'ndan RAMS Park açıklaması!",
-      "link": "https://www.haberturk.com/spor/cevre-ve-sehircilik-bakanligi-ndan-galatasaray-stadi-yla-ilgili-aciklama-3920675",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T18:29:20Z"
-    },
-    {
-      "title": "Çevre ve Şehircilik Bakanlığı'ndan RAMS Park açıklaması!",
-      "link": "https://www.haberturk.com/spor/cevre-ve-sehircilik-bakanligi-ndan-galatasaray-stadi-yla-ilgili-aciklama-3920675",
-      "source": "Habertürk",
-      "published_at": "2026-10-18T18:22:36Z"
     }
   ]
 }
