@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:39:38.829781Z",
+  "generated_at": "2026-10-20T23:44:42.564517Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Spotify'dan \"yapay zeka\" kararı",
+      "link": "https://www.haberturk.com/kultur-sanat/spotify-dan-yapay-zeka-iceriklerine-iliskin-karar-3921273",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T23:32:04Z"
+    },
     {
       "title": "Spotify'dan yapay zeka içeriklerine ilişkin karar",
       "link": "https://www.haberturk.com/kultur-sanat/spotify-dan-yapay-zeka-iceriklerine-iliskin-karar-3921273",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-libyanin-toprak-butunlugune-destek-mesaji-960670.html",
       "source": "TRT Haber",
       "published_at": "2026-10-20T16:17:00Z"
-    },
-    {
-      "title": "İmamoğlu davasında ara karar",
-      "link": "https://www.haberturk.com/gundem/imamoglu-davasinda-ara-karar-3921209",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T16:16:35Z"
     }
   ]
 }
