@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:35:38.788391Z",
+  "generated_at": "2026-10-20T04:40:43.158425Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,46 @@
   ],
   "items": [
     {
+      "title": "Fransa’da protestolar büyüyor! Sokağa çıkma yasağı Paris’e uzandı",
+      "link": "https://www.sozcu.com.tr/fransa-da-protestolar-buyuyor-sokaga-cikma-yasagi-paris-e-uzandi-p370802",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T04:39:54Z"
+    },
+    {
       "title": "Nihat Kahveci'den tek kelimelik derbi yorumu",
       "link": "https://www.sozcu.com.tr/nihat-kahveci-den-tek-kelimelik-derbi-yorumu-p370804",
       "source": "Sözcü",
       "published_at": "2026-10-20T04:35:11Z"
     },
     {
+      "title": "Yamal'ın annesi İstanbul'u gezdi",
+      "link": "https://www.haberturk.com/magazin/foto/lamine-yamal-in-annesi-sheila-ebana-istanbul-u-gezdi-3920927",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T04:34:48Z"
+    },
+    {
+      "title": "Netanyahu'dan Trump'a İran mesajı",
+      "link": "https://www.haberturk.com/dunya/netanyahu-dan-trump-a-iran-mesaji-bitirmemiz-gereken-bir-is-var-3920979",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T04:34:16Z"
+    },
+    {
       "title": "Marketlerin '1 alana 1 bedava oyunu' ifşa oldu",
       "link": "https://www.sozcu.com.tr/marketlerin-1-alana-1-bedava-oyunu-ifsa-oldu-p370801",
       "source": "Sözcü",
       "published_at": "2026-10-20T04:32:50Z"
+    },
+    {
+      "title": "İşçinin tazminatı nasıl hesaplanır?",
+      "link": "https://www.haberturk.com/ekonomi/iscinin-tazminati-nasil-hesaplanir-3920885",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T04:32:29Z"
+    },
+    {
+      "title": "Doğu Karadeniz için yağmur uyarısı! Sıcaklıklar mevsim normali altında",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-dogu-karadeniz-icin-yagmur-uyarisi-sicakliklar-mevsim-normali-altinda-20-ekim-hava-durumu-3920978",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T04:30:26Z"
     },
     {
       "title": "Erman Toroğlu'ndan Sergen Yalçın açıklaması! 'Şu aşamada milli takıma olmaz'",
@@ -724,36 +754,6 @@
       "link": "https://www.sozcu.com.tr/anadolu-efes-deplasmanda-yikildi-p370740",
       "source": "Sözcü",
       "published_at": "2026-10-19T18:13:29Z"
-    },
-    {
-      "title": "Erokspor, Anadolu Efes'i devirdi!",
-      "link": "https://www.haberturk.com/spor/esenler-erokspor-73-anadolu-efes-70-mac-sonucu-3920933",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T18:12:12Z"
-    },
-    {
-      "title": "Belçikalı mevkidaşı ile görüştü",
-      "link": "https://www.haberturk.com/dunya/disisleri-bakani-hakan-fidan-belcikali-mevkidasi-prevot-ile-gorustu-3920931",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T18:10:13Z"
-    },
-    {
-      "title": "Cristiano Ronaldo'ya şok ceza! 30 gün futboldan men",
-      "link": "https://www.sozcu.com.tr/cristiano-ronaldo-ya-sok-ceza-30-gun-futboldan-men-p370738",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T18:07:39Z"
-    },
-    {
-      "title": "Dwayne Johnson eridi bitti! 22 kilo verince tanınmaz hale geldi",
-      "link": "https://www.sozcu.com.tr/dwayne-johnson-eridi-bitti-22-kilo-verince-taninmaz-hale-geldi-p370737",
-      "source": "Sözcü",
-      "published_at": "2026-10-19T18:05:21Z"
-    },
-    {
-      "title": "Şile'deki yolsuzluk davasında çarpıcı ifadeler",
-      "link": "https://www.haberturk.com/gundem/sile-belediye-baskani-ozgur-kabadayi-nin-yargilandigi-davada-saniklar-savunma-yapti-3920929",
-      "source": "Habertürk",
-      "published_at": "2026-10-19T18:03:41Z"
     }
   ]
 }
