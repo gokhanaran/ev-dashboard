@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:46:04.648960Z",
+  "generated_at": "2026-10-20T19:51:08.998529Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "MEB’in yayımladığı kılavuza tepki",
+      "link": "https://www.sozcu.com.tr/meb-in-yayimladigi-kilavuza-tepki-p371115",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T19:48:44Z"
+    },
     {
       "title": "Trpisovsky: 'Böyle bir başlangıç istemiyorduk'",
       "link": "https://www.sozcu.com.tr/trpisovsky-boyle-bir-baslangic-istemiyorduk-p371112",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/dua-lipa-ve-callum-turner-ciftinin-opera-aski-3921076",
       "source": "Habertürk",
       "published_at": "2026-10-20T14:40:49Z"
-    },
-    {
-      "title": "Aliyev'den Türkiye hamlesi! 7 isim için yakalama kararı çıkarttı",
-      "link": "https://www.sozcu.com.tr/aliyevden-turkiye-hamlesi-7-isim-icin-yakalama-karari-cikartti-p371059",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T14:36:49Z"
     }
   ]
 }
