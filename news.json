@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:56:12.875107Z",
+  "generated_at": "2026-10-20T20:01:16.623426Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/ismail-kartal-dan-istifa-aciklamasi-galatasaray-i-yenip-barisiriz-p371116",
       "source": "Sözcü",
       "published_at": "2026-10-20T19:53:35Z"
+    },
+    {
+      "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
+      "link": "https://www.trthaber.com/haber/dunya/fransadaki-eylemlerde-149-kisi-tutuklandi-960685.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-20T19:49:00Z"
     },
     {
       "title": "MEB’in yayımladığı kılavuza tepki",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/son-dakika-hazine-ve-maliye-bakani-simsek-bloomberg-ht-haberturk-ortak-yayininda-3920985",
       "source": "Habertürk",
       "published_at": "2026-10-20T14:55:31Z"
-    },
-    {
-      "title": "Üç füzeyle katliam! Ölü sayısı her geçen saat artıyor",
-      "link": "https://www.sozcu.com.tr/uc-fuzeyle-katliam-olu-sayisi-her-gecen-saat-artiyor-p371061",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T14:48:04Z"
     }
   ]
 }
