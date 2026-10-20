@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:07:19.219664Z",
+  "generated_at": "2026-10-20T15:12:22.130054Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Dünyaca ünlü oyuncu cinsiyet değiştirdi",
+      "link": "https://www.sozcu.com.tr/dunyaca-unlu-oyuncu-cinsiyet-degistirdi-p371065",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:08:49Z"
+    },
     {
       "title": "Gazeteci İsmail Arı gözaltına alındı",
       "link": "https://www.sozcu.com.tr/ismail-ari-gozaltina-alindi-20-ekim-2026-p371064",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/mekke-ittifak-anlasmasi-trt-haberde-960642.html",
       "source": "TRT Haber",
       "published_at": "2026-10-20T11:45:00Z"
-    },
-    {
-      "title": "Ali Lukunku'dan HT Spor'a özel açıklamalar!",
-      "link": "https://www.haberturk.com/spor/ali-lukunku-dan-ht-spor-a-ozel-aciklamalar-galatasaray-inanilmazdi-3921027",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T11:43:14Z"
     }
   ]
 }
