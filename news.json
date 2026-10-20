@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:02:16.441287Z",
+  "generated_at": "2026-10-20T15:07:19.219664Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Gazeteci İsmail Arı gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/ismail-ari-gozaltina-alindi-20-ekim-2026-p371064",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:06:37Z"
+    },
+    {
+      "title": "Bir milletvekili daha AKP'nin yolunu tuttu",
+      "link": "https://www.sozcu.com.tr/bir-milletvekili-daha-akp-nin-yolunu-tuttu-p371006",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:02:05Z"
+    },
+    {
       "title": "Gökyüzünü milyonlarca böcek kapladı",
       "link": "https://www.sozcu.com.tr/gokyuzunu-milyonlarca-bocek-kapladi-p371063",
       "source": "Sözcü",
@@ -57,7 +69,7 @@
       "title": "\"Gönüllü iade yapmayanlara Adalet Bakanlığı hukuki süreç başlatacak\"",
       "link": "https://www.haberturk.com/ekonomi/son-dakika-hazine-ve-maliye-bakani-simsek-bloomberg-ht-haberturk-ortak-yayininda-3920985",
       "source": "Habertürk",
-      "published_at": "2026-10-20T14:53:17Z"
+      "published_at": "2026-10-20T14:55:31Z"
     },
     {
       "title": "Üç füzeyle katliam! Ölü sayısı her geçen saat artıyor",
@@ -468,12 +480,6 @@
       "published_at": "2026-10-20T12:50:00Z"
     },
     {
-      "title": "Bir milletvekili daha AKP'nin yolunu tuttu",
-      "link": "https://www.sozcu.com.tr/bir-milletvekili-daha-akp-nin-yolunu-tuttu-p371006",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T12:47:50Z"
-    },
-    {
       "title": "AYM'nin YENİ Parti görüşmesi yarın",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-anayasa-mahkemesi-yeni-parti-nin-isminin-hukumsuz-sayilmasi-talebini-yarin-gorusecek-3921155",
       "source": "Habertürk",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/ali-lukunku-dan-ht-spor-a-ozel-aciklamalar-galatasaray-inanilmazdi-3921027",
       "source": "Habertürk",
       "published_at": "2026-10-20T11:43:14Z"
-    },
-    {
-      "title": "Libya ve Türkiye arasında imzalanan deniz yetki anlaşmasına onay",
-      "link": "https://www.trthaber.com/haber/gundem/libya-ve-turkiye-arasinda-imzalanan-deniz-yetki-anlasmasina-onay-960645.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-20T11:40:00Z"
     }
   ]
 }
