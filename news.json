@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:25:50.017143Z",
+  "generated_at": "2026-10-20T19:30:54.081834Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-960684.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-20T19:23:00Z"
+    },
     {
       "title": "İran'dan ABD'ye 7 şartlı rest: Hürmüz’ün açılması buna bağlı",
       "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-7-sartli-rest-hurmuz-un-acilmasi-buna-bagli-p371111",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/hepsiburada-efsane-kasim-oncesinde-is-ortaklariyla-bulustu-3921185",
       "source": "Habertürk",
       "published_at": "2026-10-20T14:22:09Z"
-    },
-    {
-      "title": "Survivor 2027'de sürpriz isim! Bir dönemin yıldızı geri dönüyor",
-      "link": "https://www.sozcu.com.tr/survivor-2027-de-surpriz-isim-bir-donemin-yildizi-geri-donuyor-p371050",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T14:18:27Z"
     }
   ]
 }
