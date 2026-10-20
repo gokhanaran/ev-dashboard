@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:44:42.564517Z",
+  "generated_at": "2026-10-20T23:59:52.167412Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bursa'da otomobile çarpan motosikletin sürücüsü öldü",
+      "link": "https://www.trthaber.com/haber/turkiye/bursada-otomobile-carpan-motosikletin-surucusu-oldu-960694.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-20T23:51:00Z"
+    },
+    {
+      "title": "Trump yönetimi 300 binden fazla vizeyi iptal etti",
+      "link": "https://www.trthaber.com/haber/dunya/trump-yonetimi-300-binden-fazla-vizeyi-iptal-etti-960693.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-20T23:47:00Z"
+    },
     {
       "title": "Spotify'dan \"yapay zeka\" kararı",
       "link": "https://www.haberturk.com/kultur-sanat/spotify-dan-yapay-zeka-iceriklerine-iliskin-karar-3921273",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/deniz-suyunu-icme-suyuna-cevirecekler-gunde-800-milyon-litre-uretilecek-p371081",
       "source": "Sözcü",
       "published_at": "2026-10-20T16:26:31Z"
-    },
-    {
-      "title": "101 yıl sonra yeniden kapılarını açmaya hazırlanıyor",
-      "link": "https://www.haberturk.com/gundem/foto/101-yil-sonra-yeniden-kapilarini-acmaya-hazirlaniyor-3921210",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T16:23:20Z"
-    },
-    {
-      "title": "MİT Başkanı Kalın'dan Libya'nın toprak bütünlüğüne destek mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-libyanin-toprak-butunlugune-destek-mesaji-960670.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-20T16:17:00Z"
     }
   ]
 }
