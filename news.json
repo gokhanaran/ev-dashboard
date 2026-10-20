@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:17:24.790654Z",
+  "generated_at": "2026-10-20T15:22:27.847599Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Pastırma sıcakları ne zaman?",
+      "link": "https://www.haberturk.com/bilgi/foto/pastirma-sicaklari-ne-zaman-2026-pastirma-yazi-hangi-donem-oluyor-sicaklik-kac-gun-surecek-3920695",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T15:19:45Z"
+    },
+    {
+      "title": "Selçuk İnan'dan sakatlık açıklaması! 3 ismin son durumunu açıkladı",
+      "link": "https://www.sozcu.com.tr/selcuk-inan-dan-sakatlik-aciklamasi-3-ismin-son-durumunu-acikladi-p371066",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:19:14Z"
+    },
+    {
+      "title": "Gazeteci İsmail Arı gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/ismail-ari-gozaltina-alindi-20-ekim-2026-p371064",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:18:32Z"
+    },
+    {
+      "title": "Bahçetepe için tahliye talep edildi",
+      "link": "https://www.haberturk.com/gundem/gaziosmanpasa-belediye-baskani-bahcetepe-icin-beraat-ve-ceza-istendi-3921190",
+      "source": "Habertürk",
+      "published_at": "2026-10-20T15:18:19Z"
+    },
+    {
+      "title": "Sergen Yalçın’ın ekibi belli oldu! Hepsi Süper Lig’den",
+      "link": "https://www.sozcu.com.tr/sergen-yalcinin-ekibi-belli-oldu-hepsi-super-ligden-p371067",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T15:17:54Z"
+    },
     {
       "title": "Fenerbahçe - Slavia Prag maçı yayın bilgileri",
       "link": "https://www.haberturk.com/bilgi/foto/fenerbahce-slavia-prag-maci-canli-izle-fenerbahce-slavia-prag-hangi-kanalda-canli-yayinlanacak-sifresiz-mi-3921192",
@@ -66,16 +96,16 @@
       "published_at": "2026-10-20T15:08:49Z"
     },
     {
-      "title": "Gazeteci İsmail Arı gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/ismail-ari-gozaltina-alindi-20-ekim-2026-p371064",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T15:06:37Z"
-    },
-    {
       "title": "Bir milletvekili daha AKP'nin yolunu tuttu",
       "link": "https://www.sozcu.com.tr/bir-milletvekili-daha-akp-nin-yolunu-tuttu-p371006",
       "source": "Sözcü",
       "published_at": "2026-10-20T15:02:05Z"
+    },
+    {
+      "title": "Çelik: Meşru yatırımcının, mağdur edilenin korunması için gereken hassasiyet gösteriliyor",
+      "link": "https://www.trthaber.com/haber/gundem/celik-mesru-yatirimcinin-magdur-edilenin-korunmasi-icin-gereken-hassasiyet-gosteriliyor-960663.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-20T15:02:00Z"
     },
     {
       "title": "Gökyüzünü milyonlarca böcek kapladı",
@@ -106,12 +136,6 @@
       "link": "https://www.sozcu.com.tr/uc-fuzeyle-katliam-olu-sayisi-her-gecen-saat-artiyor-p371061",
       "source": "Sözcü",
       "published_at": "2026-10-20T14:48:04Z"
-    },
-    {
-      "title": "Bahçetepe için tahliye talep edildi",
-      "link": "https://www.haberturk.com/gundem/gaziosmanpasa-belediye-baskani-bahcetepe-icin-beraat-ve-ceza-istendi-3921190",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T14:48:03Z"
     },
     {
       "title": "\"Gönüllü iade olmazsa Adalet Bakanlığı süreci işletecek\"",
@@ -730,30 +754,6 @@
       "link": "https://www.sozcu.com.tr/ates-kecisi-yili-basliyor-3-burc-2027-yilinda-paraya-para-demeyecek-p370996",
       "source": "Sözcü",
       "published_at": "2026-10-20T11:51:56Z"
-    },
-    {
-      "title": "Lille, Galatasaray maçına hazır!",
-      "link": "https://www.haberturk.com/spor/lille-galatasaray-macina-hazir-ayase-ueda-idmana-cikmadi-3921092",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T11:47:13Z"
-    },
-    {
-      "title": "Habertürk’e Tüketici Özel Ödülü",
-      "link": "https://www.haberturk.com/ekonomi/29-geleneksel-tuketici-odulleri-bakan-bolat-her-alanda-tuketici-haklarinin-korunmasi-onemli-haberturke-tuketici-ozel-odulu-3921128",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T11:45:38Z"
-    },
-    {
-      "title": "Kılıçdaroğlu'ndan Mekke anlaşması açıklaması",
-      "link": "https://www.haberturk.com/gundem/chp-genel-baskani-kemal-kilicdaroglu-partisinin-grup-toplantisinda-konusuyor-3921102",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T11:45:27Z"
-    },
-    {
-      "title": "Trabzonspor ara vermedi! Avrupa hazırlıkları başladı",
-      "link": "https://www.sozcu.com.tr/trabzonspor-ara-vermedi-avrupa-hazirliklari-basladi-p370993",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T11:45:15Z"
     }
   ]
 }
