@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:14:38.653642Z",
+  "generated_at": "2026-10-20T10:19:41.656341Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Zeynep Sönmez Japonya Açık'ta ikinci turda",
+      "link": "https://www.sozcu.com.tr/zeynep-sonmez-japonya-acik-ta-ikinci-turda-p370965",
+      "source": "Sözcü",
+      "published_at": "2026-10-20T10:17:00Z"
+    },
     {
       "title": "Kültepe'de 78 yıllık kazı tarihinde bir ilk",
       "link": "https://www.trthaber.com/haber/kultur-sanat/kultepede-78-yillik-kazi-tarihinde-bir-ilk-960635.html",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-15-yas-altindaki-cocuklara-sosyal-ag-hizmeti-sunulamayacak-960615.html",
       "source": "TRT Haber",
       "published_at": "2026-10-20T07:30:00Z"
-    },
-    {
-      "title": "16 yaşındaki kız çocuğu kâbusu yaşadı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-16-yasindaki-kiz-cocugu-kbusu-yasadi-sanliurfa-haberleri-3921030",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T07:28:55Z"
     }
   ]
 }
