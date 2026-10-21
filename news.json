@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:46:34.271372Z",
+  "generated_at": "2026-10-21T14:59:09.128462Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 19
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -36,724 +36,724 @@
   ],
   "items": [
     {
-      "title": "Beşiktaş, Crystal Palace maçına iki eksikle hazır",
-      "link": "https://www.sozcu.com.tr/besiktas-crystal-palace-macina-iki-eksikle-hazir-p371330",
+      "title": "Azerbaycan listesi karıştı: Ahmet Çakar o 'Ahmet Çakar' değilmiş!",
+      "link": "https://www.sozcu.com.tr/azerbaycan-listesi-karisti-ahmet-cakar-o-ahmet-cakar-degilmis-p371414",
       "source": "Sözcü",
-      "published_at": "2026-10-21T10:44:11Z"
+      "published_at": "2026-10-21T14:57:06Z"
     },
     {
-      "title": "\"Bazı hikâyeler fikrini değiştirir\"",
-      "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nin-nursema-si-ceren-karakoc-bazi-hikyeler-fikrini-degistirir-3921375",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:40:34Z"
-    },
-    {
-      "title": "Fransız zincir marketin hisseleri protestolarla çakıldı",
-      "link": "https://www.haberturk.com/ekonomi/carrefour-hisseleri-protestolarla-cakildi-3921388",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:40:18Z"
-    },
-    {
-      "title": "Son dakika: Altınbaş ailesine fon soruşturması: Nusret Altınbaş aranıyor, ailenin mal varlıklarına el konuldu!",
-      "link": "https://www.sozcu.com.tr/son-dakika-altinbas-ailesine-fon-sorusturmasi-nusret-altinbas-a-yakalama-karari-p371240",
+      "title": "Butlan CHP'sinden Bakan Tekin'e samimi karşılama",
+      "link": "https://www.sozcu.com.tr/butlan-chp-sinden-bakan-tekin-e-samimi-karsilama-p371413",
       "source": "Sözcü",
-      "published_at": "2026-10-21T10:39:42Z"
-    },
-    {
-      "title": "Müsavat Dervişoğlu, Eşref Fakıbaba'nın istifasını istedi",
-      "link": "https://www.sozcu.com.tr/musavat-dervisoglu-esref-fakibaba-nin-istifasini-istedi-p371325",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:37:00Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:35:01Z"
-    },
-    {
-      "title": "Sigorta sektörünün prim üretimi 1 trilyon lirayı aştı",
-      "link": "https://www.haberturk.com/ekonomi/sigorta-sektorunun-prim-uretimi-1-trilyon-lirayi-asti-3921405",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:33:40Z"
-    },
-    {
-      "title": "Yeğenini sokakta öldüren dayı mahkemede \"Pes\" dedirtti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-amine-bozkurt-cinayeti-yegenini-sokakta-oldurdu-mahkemede-pes-dedirtti-3921363",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:32:19Z"
-    },
-    {
-      "title": "PSG tribünlerinde skandal pankart: Barcelona soluğu UEFA'da aldı",
-      "link": "https://www.sozcu.com.tr/psg-tribunlerindeki-pankart-cilgina-cevirdi-barcelona-solugu-uefada-aldi-p371329",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:31:03Z"
-    },
-    {
-      "title": "Brüksel'deki öğrenci gösterilerinde polis şiddeti iddialarına ilişkin 26 şikayet",
-      "link": "https://www.trthaber.com/haber/dunya/brukseldeki-ogrenci-gosterilerinde-polis-siddeti-iddialarina-iliskin-26-sikayet-960761.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:30:00Z"
-    },
-    {
-      "title": "Fon soruşturmasında yeni dalga",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-dalga-31-kisi-hakkinda-gozalti-karari-3921316",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:28:54Z"
-    },
-    {
-      "title": "Pakistanda yolcu otobüsünün devrilmesi sonucu 10 kişi öldü, 32 kişi yaralandı",
-      "link": "https://www.trthaber.com/haber/dunya/pakistanda-yolcu-otobusunun-devrilmesi-sonucu-10-kisi-oldu-32-kisi-yaralandi-960760.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:28:00Z"
-    },
-    {
-      "title": "PSG tribünlerindeki pankart çılgına çevirdi: Barcelona soluğu UEFA'da aldı",
-      "link": "https://www.sozcu.com.tr/psg-tribunlerindeki-pankart-cilgina-cevirdi-barcelona-solugu-uefada-aldi-p371329",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:26:00Z"
-    },
-    {
-      "title": "Banka müşterilerini ilgilendiren karar verildi: ATM kuralları değişti",
-      "link": "https://www.sozcu.com.tr/banka-musterilerini-ilgilendiren-karar-verildi-atm-kurallari-degisti-p371253",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:23:44Z"
-    },
-    {
-      "title": "Yapay zeka güvenliği devre dışı bıraktı",
-      "link": "https://www.haberturk.com/ekonomi/yapay-zeka-kendi-guvenlik-onlemlerini-devre-disi-birakti-3921403",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:23:41Z"
-    },
-    {
-      "title": "Erdoğan’dan fon krizine ilişkin flaş açıklama",
-      "link": "https://www.sozcu.com.tr/erdogan-dan-fon-krizine-iliskin-flas-aciklama-p371331",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:23:15Z"
-    },
-    {
-      "title": "Türkiye, Katar, Pakistan ve Endonezya'dan dev savunma anlaşması",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-katar-pakistan-ve-endonezyadan-dev-savunma-anlasmasi-960759.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:22:00Z"
-    },
-    {
-      "title": "Türkiye ve 3 ülkeden Doha'da Bedir Mutabakatı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-3-ulkeden-dohada-bedir-mutabakati-960759.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:22:00Z"
-    },
-    {
-      "title": "BirGün muhabiri İsmail Arı'ya tutuklama talebi",
-      "link": "https://www.sozcu.com.tr/birgun-muhabiri-ismail-ari-adliyeye-sevk-edildi-p371261",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:21:55Z"
-    },
-    {
-      "title": "SON DAKİKA... AYM'den YENİ Parti hakkında karar: İsminin kaldırılması talebine ret",
-      "link": "https://www.sozcu.com.tr/son-dakika-aym-den-yeni-parti-hakkinda-karar-isminin-kaldirilmasi-talebine-ret-p371289",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:17:30Z"
-    },
-    {
-      "title": "Turkcell’den 6G’ye geçiş için kritik test",
-      "link": "https://www.haberturk.com/ekonomi/turkcellden-6gye-gecis-icin-kritik-test-3921399",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:16:46Z"
-    },
-    {
-      "title": "Ekim ayının sonuna kadar evrenden 'altın bilet' alacak 5 burç",
-      "link": "https://www.sozcu.com.tr/ekim-ayinin-sonuna-kadar-evrenden-altin-bilet-alacak-5-burc-p371327",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:16:09Z"
-    },
-    {
-      "title": "\"Çok zaman kaybettik\"",
-      "link": "https://www.haberturk.com/cok-zaman-kaybettik-3921114",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:14:58Z"
-    },
-    {
-      "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
-      "link": "https://www.haberturk.com/dunya/fransa-daki-eylemlerde-149-kisi-tutuklandi-3921268",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:14:42Z"
-    },
-    {
-      "title": "İtalya'da protestolara karşı yeni güvenlik önlemleri",
-      "link": "https://www.haberturk.com/dunya/italya-da-protestolara-karsi-yeni-guvenlik-onlemleri-3921297",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:14:21Z"
-    },
-    {
-      "title": "Şahinin göç yolculuğu: 14 ülke, 6 bin kilometre",
-      "link": "https://www.trthaber.com/haber/yasam/sahinin-goc-yolculugu-14-ulke-6-bin-kilometre-960758.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:14:00Z"
-    },
-    {
-      "title": "Fransa, İspanya, Arnavutluk... Avrupa'yı saran protesto hareketi",
-      "link": "https://www.haberturk.com/dunya/fransa-ispanya-ve-arnavutluk-gibi-bircok-avrupa-ulkesinde-neden-sert-protestolar-yasaniyor-3921039",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:13:46Z"
-    },
-    {
-      "title": "Kafa kafaya katliam gibi kaza: 4 ölü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kafa-kafaya-katliam-gibi-kaza-4-olu-afyonkarahisar-haberleri-3921304",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:13:33Z"
-    },
-    {
-      "title": "İran: Altyapımızı hedef alırlarsa Hürmüz Boğazı'nın altından geçen internet kablolarını yok edebiliriz",
-      "link": "https://www.trthaber.com/haber/dunya/iran-altyapimizi-hedef-alirlarsa-hurmuz-bogazinin-altindan-gecen-internet-kablolarini-yok-edebiliriz-960757.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:10:00Z"
-    },
-    {
-      "title": "Taksiciler yolu ringe çevirdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-taksiciler-yolu-ringe-cevirdi-taksici-kavgasi-kamerada-3921396",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T10:09:49Z"
-    },
-    {
-      "title": "Azerbaycan'dan Fatih Erbakan ve 30 Türk vatandaşına ülkeye giriş yasağı",
-      "link": "https://www.sozcu.com.tr/azerbaycan-dan-31-turk-vatandasina-ulkeye-giris-yasagi-p371324",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T10:09:23Z"
-    },
-    {
-      "title": "Tanzanya'ya bir yılda ikinci demir yolu aracı ihracatı",
-      "link": "https://www.trthaber.com/haber/ekonomi/tanzanyaya-bir-yilda-ikinci-demir-yolu-araci-ihracati-960755.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:02:00Z"
-    },
-    {
-      "title": "Beton mikseriyle yola harç döken sürücüye 109 bin lira ceza",
-      "link": "https://www.trthaber.com/haber/turkiye/beton-mikseriyle-yola-harc-doken-surucuye-109-bin-lira-ceza-960754.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T10:02:00Z"
-    },
-    {
-      "title": "İnsan dışkısını beton harcına karıştırmaya başladılar",
-      "link": "https://www.sozcu.com.tr/insan-diskisini-beton-harcina-karistirmaya-basladilar-p371322",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:59:18Z"
-    },
-    {
-      "title": "'Griptir, geçer' dediler: Yürüyemez hale geldi!",
-      "link": "https://www.sozcu.com.tr/grip-denilerek-taburcu-edildi-rubyye-haftalar-sonra-adem-teshisi-p371320",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:58:56Z"
-    },
-    {
-      "title": "Bakan Gürlek OECD Toplantısı kapsamında 4 ülkeden mevkidaşıyla görüştü",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-oecd-toplantisi-kapsaminda-4-ulkeden-mevkidasiyla-gorustu-960753.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:58:00Z"
-    },
-    {
-      "title": "Alkollü mekana gitmedi kuzeni öldürdü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-alkollu-mekana-gitmedi-kuzeni-oldurdu-kocaeli-haberleri-3921389",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:53:56Z"
-    },
-    {
-      "title": "Carrefour hisseleri protestolarla çakıldı",
-      "link": "https://www.haberturk.com/ekonomi/carrefour-hisseleri-protestolarla-cakildi-3921388",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:52:07Z"
-    },
-    {
-      "title": "\"Magazin haberi gibi konuşamayız\"",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-iyi-parti-genel-baskani-musavat-dervisoglu-partisinin-grup-toplantisinda-konustu-3921390",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:49:10Z"
-    },
-    {
-      "title": "Demet Akalın'dan Hülya Avşar'a miras tepkisi",
-      "link": "https://www.haberturk.com/magazin/foto/demet-akalin-dan-hulya-avsar-a-miras-tepkisi-3921386",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:47:16Z"
-    },
-    {
-      "title": "Dünyanın en iyi mercimek yemekleri",
-      "link": "https://hthayat.haberturk.com/dunyanin-en-iyi-mercimek-yemekleri-1088245",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:42:17Z"
-    },
-    {
-      "title": "CHP'nin 38. Kurultay davasında mütalaa açıklandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-chp-nin-38-kurultay-davasinda-mutalaa-aciklandi-3921374",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:41:59Z"
-    },
-    {
-      "title": "PSG'ye Kvaratskhelia şoku!",
-      "link": "https://www.haberturk.com/spor/kvaratskhelia-dan-psg-ye-kotu-haber-capraz-bagi-koptu-3921384",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:35:53Z"
-    },
-    {
-      "title": "Demet Akalın ve Hülya Avşar'ı karşı karşıya getiren miras tartışması",
-      "link": "https://www.sozcu.com.tr/demet-akalin-ve-hulya-avsar-i-karsi-karsiya-getiren-miras-tartismasi-p371311",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:34:45Z"
-    },
-    {
-      "title": "Emine Erdoğan: Savaş bölgelerindeki çocukların sesi olmak insanlık vazifemiz",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-savas-bolgelerindeki-cocuklarin-sesi-olmak-insanlik-vazifemiz-960756.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:34:00Z"
-    },
-    {
-      "title": "\"Avrupa basketbol tarihindeki en büyük yatırım olacak\"",
-      "link": "https://www.haberturk.com/spor/mark-tatum-avrupa-basketbolu-tarihindeki-en-buyuk-yatirim-olacak-3921382",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:30:30Z"
-    },
-    {
-      "title": "Deprem bölgesindeki 11 ilin ihracatı 15,6 milyar doları aştı",
-      "link": "https://www.trthaber.com/haber/ekonomi/deprem-bolgesindeki-11-ilin-ihracati-156-milyar-dolari-asti-960751.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:30:00Z"
-    },
-    {
-      "title": "30 gün gökyüzünde yaşadı, finalde rekor ödülü kaptı",
-      "link": "https://www.sozcu.com.tr/30-gun-gokyuzunde-yasadi-finalde-rekor-odulu-kapti-p371308",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:27:27Z"
-    },
-    {
-      "title": "Türkiye'nin uzay ve havacılık faaliyetleri için 100 milyar liraya yakın ödenek",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-uzay-ve-havacilik-faaliyetleri-icin-100-milyar-liraya-yakin-odenek-960750.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:25:00Z"
-    },
-    {
-      "title": "Galatasaray'ın rakibinde sakatlık şoku: Ameliyat olacak",
-      "link": "https://www.sozcu.com.tr/galatasaray-in-rakibinde-sakatlik-soku-ameliyat-olacak-p371307",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:18:35Z"
-    },
-    {
-      "title": "Türkler akın akın gittiği rotayı bu ülkeye kırdı: Çok ucuz",
-      "link": "https://www.sozcu.com.tr/turkler-akin-akin-gittigi-rotayi-bu-ulkeye-kirdi-cok-ucuz-vize-de-istemiyor-p371305",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:12:02Z"
-    },
-    {
-      "title": "Rusya'dan ABD'ye dizel taşıyan ilk tankerin yarın yola çıkması planlanıyor",
-      "link": "https://www.trthaber.com/haber/dunya/rusyadan-abdye-dizel-tasiyan-ilk-tankerin-yarin-yola-cikmasi-planlaniyor-960749.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:09:00Z"
-    },
-    {
-      "title": "Limak 50. yılını İstanbul'da kutladı",
-      "link": "https://www.haberturk.com/ekonomi/limak-50-yilini-istanbul-da-kutladi-3921376",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:08:24Z"
-    },
-    {
-      "title": "Son dakika... CHP Kurultay davasında yeni gelişme: İmamoğlu ve 8 kişi hakkında ceza istendi",
-      "link": "https://www.sozcu.com.tr/son-dakika-chp-kurultay-davasinda-yeni-gelisme-imamoglu-ve-8-kisi-hakkinda-ceza-istendi-p371301",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:08:13Z"
-    },
-    {
-      "title": "CHP kurultay ceza davasında mütalaa açıklandı",
-      "link": "https://www.trthaber.com/haber/gundem/chp-kurultay-ceza-davasinda-mutalaa-aciklandi-960748.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:08:00Z"
-    },
-    {
-      "title": "'Güldür Güldür Show'dan bir tanıtım daha",
-      "link": "https://www.haberturk.com/magazin/guldur-guldur-show-un-yeni-bolum-tanitimi-yayinlandi-3921373",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:05:41Z"
-    },
-    {
-      "title": "Türkiye'nin o ülkeyle çizdiği bu harita Avrupa'yı ayağa kaldırdı",
-      "link": "https://www.sozcu.com.tr/turkiye-libya-deniz-yetki-anlasmasi-avrupa-yi-ayaga-kaldirdi-p371295",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T09:03:30Z"
-    },
-    {
-      "title": "Yarısı Bizden Kampanyası ile dönüşümü tamamlanan konut sayısı 123 bini aştı",
-      "link": "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-ile-donusumu-tamamlanan-konut-sayisi-123-bini-asti-960747.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:01:00Z"
-    },
-    {
-      "title": "Uşak'ta fabrika yangını: Gökyüzü siyaha büründü",
-      "link": "https://www.trthaber.com/haber/turkiye/usakta-fabrika-yangini-gokyuzu-siyaha-burundu-960746.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T09:00:00Z"
-    },
-    {
-      "title": "Coca Cola'nın kahve sevdası pahalıya patladı: 5,1 milyar dolarlık hüsran",
-      "link": "https://www.sozcu.com.tr/coca-cola-nin-kahve-sevdasi-pahaliya-patladi-5-1-milyar-dolarlik-husran-p371302",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:59:28Z"
-    },
-    {
-      "title": "Hizan yaylalarında hasat başladı",
-      "link": "https://www.haberturk.com/gundem/foto/hizan-yaylalarinda-hasat-basladi-3921370",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:59:13Z"
-    },
-    {
-      "title": "Güney Kore'den Kuzey'e kritik iddia",
-      "link": "https://www.haberturk.com/dunya/guney-kore-medyasi-kuzey-kore-de-internet-siteleri-24-saatten-fazla-aralikli-kesinti-yasadi-3921372",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:57:06Z"
-    },
-    {
-      "title": "18'lik yıldız Liverpool tarihine geçti, geri dönüşün mimarı oldu",
-      "link": "https://www.sozcu.com.tr/18-lik-yildiz-liverpool-tarihine-gecti-geri-donusun-mimari-oldu-p371300",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:56:43Z"
-    },
-    {
-      "title": "Kent yaşamında afet riskleri: Habertürk’e konuşan uzmanlardan kritik uyarılar",
-      "link": "https://www.haberturk.com/gundem/kent-yasaminda-afet-riskleri-haberturke-konusan-uzmanlardan-kritik-uyarilar-guvenli-yapilasma-dogru-planlama-3921328",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:56:36Z"
-    },
-    {
-      "title": "'Sevdan Bir Ateş'te sarsıcı itiraf",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-te-sarsici-itiraf-3921366",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:53:16Z"
-    },
-    {
-      "title": "Perde arkasını anlattı",
-      "link": "https://www.haberturk.com/magazin/unlu-model-romee-strijd-den-victoria-s-secret-secmelerine-tepki-3921365",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:52:00Z"
-    },
-    {
-      "title": "Dervişoğlu'ndan Saray danışmanına 'seçim tarihi' tepkisi: \"Milletvekillerine şantaj mı yapıyorsunuz?\"",
-      "link": "https://www.sozcu.com.tr/dervisoglu-ndan-ucum-a-secim-tarihi-tepkisi-milletvekillerine-santaj-mi-yapiyorsunuz-p371287",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:51:48Z"
-    },
-    {
-      "title": "El Nino sel ve kuraklığı artırıyor",
-      "link": "https://www.haberturk.com/gundem/el-nino-sel-ve-kurakligi-artiriyor-3921369",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:51:04Z"
-    },
-    {
-      "title": "SunExpress ilk dokuz ayda 12,5 milyon yolcu taşıdı",
-      "link": "https://www.haberturk.com/ekonomi/sunexpressilk-dokuz-ayda-12-5-milyon-yolcu-tasidi-3921371",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:49:52Z"
-    },
-    {
-      "title": "Merakla beklenen anlaşma sağlanırsa Arda Güler servet kazanacak",
-      "link": "https://www.sozcu.com.tr/merakla-beklenen-anlasma-saglanirsa-arda-gulerin-maasi-ikiye-katlanacak-p371293",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:48:57Z"
-    },
-    {
-      "title": "Ne kurutuyorlar ne de bekletiyorlar: Sıvı halde şişelere doldurup satıyorlar",
-      "link": "https://www.sozcu.com.tr/ne-kurutuyorlar-ne-de-bekletiyorlar-sivi-halde-siselere-doldurup-satiyorlar-p371297",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:48:32Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Bu milletin kardeşliğinden artık ellerinizi çekin",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-milletin-kardesliginden-artik-ellerinizi-cekin-960745.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:48:00Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, grup toplantısında konuşuyor",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-grup-toplantisinda-konusuyor-960745.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:48:00Z"
-    },
-    {
-      "title": "Pompa alev aldı: Şirketler kasasını parayla doldurdu",
-      "link": "https://www.sozcu.com.tr/pompa-alev-aldi-sirketler-kasasini-parayla-doldurdu-p371288",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:45:51Z"
-    },
-    {
-      "title": "Bakan Güler, Katarlı mevkidaşı ile görüştü",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-guler-katarli-mevkidasi-ile-gorustu-960744.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:45:00Z"
-    },
-    {
-      "title": "Getty Images iflas başvurusunda bulundu",
-      "link": "https://www.haberturk.com/ekonomi/getty-images-abd-de-iflas-basvurusunda-bulundu-3921364",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:44:04Z"
-    },
-    {
-      "title": "VFS Global'den 'randevu dolandırıcılığı' uyarısı",
-      "link": "https://www.haberturk.com/ekonomi/vfs-global-den-randevu-dolandiriciligi-uyarisi-3921368",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:42:45Z"
-    },
-    {
-      "title": "Gürültü tartışmasında komşusunu öldüren sanığa müebbet hapis istemi",
-      "link": "https://www.trthaber.com/haber/turkiye/gurultu-tartismasinda-komsusunu-olduren-saniga-muebbet-hapis-istemi-960743.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:41:00Z"
-    },
-    {
-      "title": "Baba oğul cinayetinde 'yasak aşk' iddiası",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-baba-ogul-cinayetinde-yasak-ask-iddiasi-manisa-haberleri-3921287",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:40:18Z"
-    },
-    {
-      "title": "Köprüde kan izleri ve berbere ensesinden tek kurşun",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-koprude-kan-izleri-ve-berbere-ensesinden-tek-kursun-bartin-haberleri-3921302",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:39:20Z"
-    },
-    {
-      "title": "Terastan düşüp ölmüştü! Sıcak gelişme...",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-terastan-dusup-olmustu-arkadasi-tutuklandi-burdur-haberleri-3921324",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:38:49Z"
-    },
-    {
-      "title": "Son anketin sonucu açıklandı: Erdoğan ile Yavaş arasındaki fark belli oldu",
-      "link": "https://www.sozcu.com.tr/son-anketin-sonucu-aciklandi-erdogan-ile-yavas-arasindaki-fark-belli-oldu-p371284",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:37:03Z"
-    },
-    {
-      "title": "7'ye katlıyor",
-      "link": "https://www.haberturk.com/kesfet/cirolari-7-katina-cikiyor-3921070",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:32:38Z"
-    },
-    {
-      "title": "Fransa'da yağmalanan ürünler ikinci ele düştü",
-      "link": "https://www.haberturk.com/ekonomi/fransa-da-yagmalanan-urunler-ikinci-ele-dustu-3921362",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:32:28Z"
-    },
-    {
-      "title": "Türkiye'nin kültürel mirası sınır kapılarında korundu",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/turkiyenin-kulturel-mirasi-sinir-kapilarinda-korundu-960742.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:30:00Z"
-    },
-    {
-      "title": "Dünyanın en yaşlı ağacı! 4858 yaşında",
-      "link": "https://www.haberturk.com/yasam/dunyanin-en-yasli-agaci-4858-yasinda-3921112",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:29:54Z"
-    },
-    {
-      "title": "Anayasa Mahkemesi'nden karar! Yeni Parti isim değiştirmiyor",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yeni-parti-nin-ismi-aym-gundeminde-yeni-parti-nin-adi-degisecek-mi-son-dakika-3921293",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:29:18Z"
-    },
-    {
-      "title": "Kuru yemişleri suda bekletin çünkü…",
-      "link": "https://hthayat.haberturk.com/kuru-yemisleri-suda-bekletin-cunku-1078913",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:27:59Z"
-    },
-    {
-      "title": "Sigorta sektörünün prim üretimi 9 ayda 1 trilyon lirayı aştı",
-      "link": "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-960741.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:27:00Z"
-    },
-    {
-      "title": "Göztepe'de Stoilov tarih vermişti, söylediklerinde haklı çıktı",
-      "link": "https://www.sozcu.com.tr/goztepe-de-stoilov-tarih-vermisti-soylediklerinde-hakli-cikti-p371292",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:26:59Z"
-    },
-    {
-      "title": "Yeni Parti'nin ismi değişmeyecek",
-      "link": "https://www.trthaber.com/haber/gundem/yeni-partinin-ismi-degismeyecek-960740.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:26:00Z"
-    },
-    {
-      "title": "YENİ Parti'de kongre tarihleri belirlendi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-yeni-parti-nin-81-ildeki-il-kongreleri-24-27-ekim-tarihlerinde-yapilacak-3921361",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:24:13Z"
-    },
-    {
-      "title": "“Kadın girişimciler ve KOBİ’ler için işlerini büyütme merkezi olacak”",
-      "link": "https://www.haberturk.com/ekonomi/recep-suleyman-ozdil-kadin-girisimciler-ve-kobiler-icin-islerini-buyutme-merkezi-olacak-3921346",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:23:22Z"
-    },
-    {
-      "title": "Zerrin Özer'in acı günü",
-      "link": "https://www.haberturk.com/magazin/zerrin-ozer-e-bir-yil-icerisinde-ikinci-abla-acisi-nilgun-ozer-hayatini-kaybetti-3921303",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:22:00Z"
-    },
-    {
-      "title": "Skywell yangınlarında batarya gerçeği",
-      "link": "https://www.haberturk.com/ekonomi/skywell-yanginlarinin-perde-arkasi-yuzde-60-inda-ayni-sorun-3921359",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:21:16Z"
-    },
-    {
-      "title": "Anayasa Mahkemesi Başkanlığı için seçim süreci başlıyor",
-      "link": "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basliyor-960739.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:21:00Z"
-    },
-    {
-      "title": "Türkiye'nin coğrafi işaretli ürünleri Paris'te vitrine çıktı",
-      "link": "https://www.trthaber.com/haber/yasam/turkiyenin-cografi-isaretli-urunleri-pariste-vitrine-cikti-960738.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:19:00Z"
-    },
-    {
-      "title": "Sanchez'den Milei'ye alaylı \"hoş geldin\" mesajı",
-      "link": "https://www.haberturk.com/dunya/ispanya-basbakani-sanchez-den-arjantin-devlet-baskani-milei-ye-alayli-hos-geldin-mesaji-3921354",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:17:47Z"
-    },
-    {
-      "title": "Trabzonspor'un konuğu Hearts",
-      "link": "https://www.haberturk.com/spor/trabzonspor-un-uefa-konferans-ligi-nde-konugu-hearts-3921358",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:11:50Z"
-    },
-    {
-      "title": "Yaşlı adam maskesi takıp iki banka soydu: Yakayı böyle ele verdi",
-      "link": "https://www.sozcu.com.tr/yasli-adam-maskesi-takan-40-yasindaki-soyguncu-bankayi-basti-p371277",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:08:29Z"
-    },
-    {
-      "title": "Euroleague'de Türk derbisi!",
-      "link": "https://www.haberturk.com/spor/euroleague-de-turk-derbisi-anadolu-efes-besiktas-3921355",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:06:49Z"
-    },
-    {
-      "title": "'Muhteşem Yüzyıl' itirafı",
-      "link": "https://www.haberturk.com/magazin/pelin-karahan-dan-muhtesem-yuzyil-itirafi-3921341",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:06:42Z"
-    },
-    {
-      "title": "Grip erken başladı! Kanser hastaları aşı olmalı mı?",
-      "link": "https://www.haberturk.com/saglik/grip-erken-basladi-kanser-hastalari-asi-olmali-mi-haberler-3921356",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:06:34Z"
-    },
-    {
-      "title": "Emir Sarıgül adliyeye sevk edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-emir-sarigul-adliyeye-sevk-edildi-3921350",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:05:21Z"
-    },
-    {
-      "title": "Yıllarca ara tatile denk gelen 10 Kasım için bu kez 'ortak sınav' konuldu",
-      "link": "https://www.sozcu.com.tr/yillarca-ara-tatile-denk-gelen-10-kasim-icin-bu-kez-ortak-sinav-karari-p371275",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:05:11Z"
-    },
-    {
-      "title": "Hızlı tren hat uzunluğu 2029'da 5 bin 389 kilometreye çıkarılacak",
-      "link": "https://www.trthaber.com/haber/gundem/hizli-tren-hat-uzunlugu-2029da-5-bin-389-kilometreye-cikarilacak-960736.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:04:00Z"
-    },
-    {
-      "title": "NBA'de heyecan başladı: LeBron James yeni takımıyla ilk kez sahne aldı",
-      "link": "https://www.sozcu.com.tr/lebron-james-yeni-takimiyla-ilk-kez-sahne-aldi-galibiyetle-basladi-p371278",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T08:02:37Z"
-    },
-    {
-      "title": "İnsansız Deniz Sistemleri Tatbikatı TURNAs2026 başladı",
-      "link": "https://www.trthaber.com/haber/savunma/insansiz-deniz-sistemleri-tatbikati-turnas-2026-basladi-960735.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T08:01:00Z"
-    },
-    {
-      "title": "\"Netanyahu'nun saldırı planına Trump karşı çıktı\"",
-      "link": "https://www.haberturk.com/dunya/netanyahu-nun-saldiri-planina-trump-karsi-cikti-iddiasi-3921352",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:00:32Z"
-    },
-    {
-      "title": "Katil İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 7 kişi hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti-960733.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T07:59:00Z"
-    },
-    {
-      "title": "Dolmabahçe'de hedef 9'da 9!",
-      "link": "https://www.haberturk.com/spor/foto/besiktas-in-avrupa-ligi-nde-rakibi-crystal-palace-hedef-dolmabahce-de-9-da-9-yapmak-3921338",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:58:34Z"
-    },
-    {
-      "title": "Bakan Gürlek'ten OECD ülkelerine Gazze çağrısı",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlekten-oecd-ulkelerine-gazze-cagrisi-960737.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T07:58:00Z"
-    },
-    {
-      "title": "En çok dil konuşulan ülkeler",
-      "link": "https://www.haberturk.com/gundem/en-cok-dil-konusulan-ulkeler-3921351",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:56:58Z"
-    },
-    {
-      "title": "Türkiye'deki otoyollarda gişeler bir bir kaldırılıyor",
-      "link": "https://www.sozcu.com.tr/turkiye-deki-otoyollarda-giseler-bir-bir-kaldiriliyor-p371265",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:54:56Z"
-    },
-    {
-      "title": "Rus devlet yetkilileri Galatasaray'ın stadına geldi: Tek bir futbolcuyla görüştüler",
-      "link": "https://www.sozcu.com.tr/rus-devlet-yetkilileri-galatasaray-in-stadina-geldi-tek-bir-futbolcuyla-gorustuler-p371271",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:51:55Z"
-    },
-    {
-      "title": "LeBron oynadı Philadelphia kazandı!",
-      "link": "https://www.haberturk.com/spor/lebron-james-philadelphia-ile-ilk-macinda-12-sayi-kaydetti-3921348",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:49:23Z"
-    },
-    {
-      "title": "Yaşlanmaya meydan okuyan denizanası, insan ömrünü uzatmanın anahtarı olabilir mi?",
-      "link": "https://www.trthaber.com/haber/dunya/yaslanmaya-meydan-okuyan-denizanasi-insan-omrunu-uzatmanin-anahtari-olabilir-mi-960734.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T07:49:00Z"
-    },
-    {
-      "title": "4 çocuk babasıydı... Akaryakıt yüklüydü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-4-cocuk-babasiydi-akaryakit-yukluydu-sanliurfa-haberleri-3921345",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:47:20Z"
+      "published_at": "2026-10-21T14:55:23Z"
     },
     {
       "title": "Korkunç iddia! 30 bin lira için 15 yaşındaki çocuğu başından vurdular!",
       "link": "https://www.haberturk.com/gundem/son-dakika-korkunc-iddia-30-bin-lira-icin-15-yasindaki-cocugu-basindan-vurdular-3921330",
       "source": "Habertürk",
-      "published_at": "2026-10-21T07:43:28Z"
+      "published_at": "2026-10-21T14:49:52Z"
     },
     {
-      "title": "\"Fon sürecinin bankacılık sektörüne şu ana kadar etkisi olmadı\"",
-      "link": "https://www.haberturk.com/ekonomi/garanti-bbva-ceo-su-akten-fon-surecinin-bankacilik-sektorune-su-ana-kadar-etkisi-olmadi-3921339",
+      "title": "Son dakika...Dünyaca ünlü yatırım bankasından kritik Türkiye kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-dunyaca-unlu-yatirim-bankasindan-kritik-turkiye-karari-p371411",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:49:10Z"
+    },
+    {
+      "title": "CHP'de 1 belediye başkanı ve 2 meclis üyesi için ihraç istemi",
+      "link": "https://www.sozcu.com.tr/chp-de-biri-belediye-baskani-3-ihrac-istemi-p371407",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:49:03Z"
+    },
+    {
+      "title": "Adaya bıraktıkları 100 koyun büyük bir felakete neden oldu",
+      "link": "https://www.sozcu.com.tr/adaya-biraktiklari-100-koyun-buyuk-bir-felakete-neden-oldu-p371412",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:48:16Z"
+    },
+    {
+      "title": "Sosyal medyada paylaşıldı, yakalandı",
+      "link": "https://www.haberturk.com/gundem/sosyal-medyada-paylasildi-yakalandi-3921492",
       "source": "Habertürk",
-      "published_at": "2026-10-21T07:39:23Z"
+      "published_at": "2026-10-21T14:48:04Z"
+    },
+    {
+      "title": "Sevda vahşet kurbanı! Arkadaşlık teklifini reddetti, öldürüldü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-sevda-vahset-kurbani-arkadaslik-teklifini-reddetti-olduruldu-3921476",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:47:50Z"
+    },
+    {
+      "title": "\"Yatırımcı ile manipülatörü birbirine karıştırmayacağız\"",
+      "link": "https://www.haberturk.com/ekonomi/cevdet-yilmaz-yatirimci-ile-manipulatoru-birbirine-karistirmadan-surecleri-hayata-gecirecegiz-3921479",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:45:14Z"
+    },
+    {
+      "title": "'Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu",
+      "link": "https://www.sozcu.com.tr/manifest-in-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-p371404",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:44:41Z"
+    },
+    {
+      "title": "Atatürk’ün emaneti Kızılay Maden Suyu 100 yaşında",
+      "link": "https://www.haberturk.com/ekonomi/ataturkun-emanetinden-bugune-kizilay-maden-suyu-100-yasinda-3921497",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:44:39Z"
+    },
+    {
+      "title": "MEB'den yurt dışındaki Türk çocuklarına 7 seviyeli ders kitabı seti",
+      "link": "https://www.trthaber.com/haber/egitim/mebden-yurt-disindaki-turk-cocuklarina-7-seviyeli-ders-kitabi-seti-960797.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:43:00Z"
+    },
+    {
+      "title": "Yapay zeka dedektörleri edebiyat dünyasını karıştırdı: Yazarlar haksız yere suçlanıyor",
+      "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-dedektorleri-edebiyat-dunyasini-karistirdi-yazarlar-haksiz-yere-suclaniyor-960796.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:39:00Z"
+    },
+    {
+      "title": "Paris ve Lyon'da kısmi sokağa çıkma yasağı 1 gün uzatıldı",
+      "link": "https://www.trthaber.com/haber/dunya/paris-ve-lyonda-kismi-sokaga-cikma-yasagi-1-gun-uzatildi-960795.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:35:00Z"
+    },
+    {
+      "title": "Bakan Göktaş: Önceliğimiz çocuğun haklarını koruyan güçlü bir sosyal koruma sistemi olmalı",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-onceligimiz-cocugun-haklarini-koruyan-guclu-bir-sosyal-koruma-sistemi-olmali-960798.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:29:00Z"
+    },
+    {
+      "title": "Utanç kanunu için tarihi adım: 178 yıl sonra yeni akıllarına geldi",
+      "link": "https://www.sozcu.com.tr/utanc-kanunu-icin-tarihi-adim-178-yil-sonra-yeni-akillarina-geldi-p371409",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:27:16Z"
+    },
+    {
+      "title": "ABden SpaceXe Ukraynada hizmetleri yeniden başlatma çağrısı",
+      "link": "https://www.trthaber.com/haber/dunya/abden-spacexe-ukraynada-hizmetleri-yeniden-baslatma-cagrisi-960794.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:27:00Z"
+    },
+    {
+      "title": "Galatasaray'ın gençleri Lille'e kaybetti",
+      "link": "https://www.sozcu.com.tr/galatasarayin-gencleri-lillee-kaybetti-p371408",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:26:30Z"
+    },
+    {
+      "title": "İş Sanat'tan 'Bir Neslin Yükselişi' sergisi",
+      "link": "https://www.haberturk.com/kultur-sanat/is-sanat-tan-bir-neslin-yukselisi-sergisi-3921493",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:26:13Z"
+    },
+    {
+      "title": "Fransa'da hafta sonu yapılacak olan gösteriler yasaklandı",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-hafta-sonu-yapilacak-olan-gosteriler-yasaklandi-960792.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:21:00Z"
+    },
+    {
+      "title": "C. Palace maçı için ilk 11 açıklaması!",
+      "link": "https://www.haberturk.com/spor/vincenzo-italiano-dan-crystal-palace-maci-icin-ilk-11-aciklamasi-3921477",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:19:14Z"
+    },
+    {
+      "title": "Nobel ödüllü bilim insanı Aziz Sancar'ın evi müze oldu",
+      "link": "https://www.trthaber.com/haber/kultur-sanat/nobel-odullu-bilim-insani-aziz-sancarin-evi-muze-oldu-960791.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:18:00Z"
+    },
+    {
+      "title": "Burak Yılmaz'dan Lille açıklaması",
+      "link": "https://www.haberturk.com/spor/burak-yilmaz-dan-fransa-basinina-lille-aciklamasi-3921488",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:17:45Z"
+    },
+    {
+      "title": "Yunanistan'da şike depremi!",
+      "link": "https://www.haberturk.com/spor/yunanistan-da-sike-depremi-basketbol-federasyonu-baskani-liolios-ve-5-hakem-gozaltina-alindi-3921486",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:13:03Z"
+    },
+    {
+      "title": "Gökten otomobil büyüklüğünde metal parçası düştü",
+      "link": "https://www.sozcu.com.tr/gokten-otomobil-buyuklugunde-metal-parcasi-dustu-p371405",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:12:55Z"
+    },
+    {
+      "title": "Akış'a 3 yıla kadar hapis talebi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-tolga-akis-a-3-yila-kadar-hapis-3921483",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:12:37Z"
+    },
+    {
+      "title": "Şehit ailesini ziyaret etti",
+      "link": "https://www.haberturk.com/gundem/emniyet-genel-muduru-fidan-sehit-polis-memurunun-ailesini-ziyaret-etti-3921485",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:09:42Z"
+    },
+    {
+      "title": "Eskişehir'de \"Mukaddes Emanetler\" sergisi",
+      "link": "https://www.haberturk.com/gundem/foto/eskisehir-de-mukaddes-emanetler-sergisi-3921470",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:07:37Z"
+    },
+    {
+      "title": "Eli kanlı İsrailin İran planına Trumptan ret",
+      "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilin-iran-planina-trumptan-ret-960790.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:06:00Z"
+    },
+    {
+      "title": "2026'nın en çok kazanan futbolcuları belli oldu! Listede Türkiye'den tek isim var",
+      "link": "https://www.sozcu.com.tr/2026-nin-en-cok-kazanan-futbolculari-belli-oldu-listede-turkiye-den-tek-isim-var-p371390",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:05:08Z"
+    },
+    {
+      "title": "Samsung’dan Helix’e 1 milyar dolarlık yatırım",
+      "link": "https://www.haberturk.com/ekonomi/samsungdan-yapay-zeka-altyapi-sirketi-helixe-1-milyar-dolarlik-yatirim-3921484",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T14:03:11Z"
+    },
+    {
+      "title": "'Hayır' dediği için canından oldu! 22 yaşındaki Sevda mesire alanında katledildi",
+      "link": "https://www.sozcu.com.tr/sevda-arkadaslik-teklifini-reddettigi-kisi-tarafindan-olduruldu-p371389",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T14:01:24Z"
+    },
+    {
+      "title": "Dünya kritik eşiği aşmak üzere",
+      "link": "https://www.trthaber.com/haber/dunya/dunya-kritik-esigi-asmak-uzere-960789.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T14:01:00Z"
+    },
+    {
+      "title": "28 bin Euro'ya çalışacak eleman bulamıyorlar!",
+      "link": "https://www.haberturk.com/bilgi/yillik-28-bin-euro-maas-veriyorlar-ama-calisacak-eleman-bulamiyorlar-3921482",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:58:42Z"
+    },
+    {
+      "title": "Galatasaray Fransa'da ilk puanlarını arıyor! İki bölgede sürpriz tercih",
+      "link": "https://www.sozcu.com.tr/galatasaray-fransa-da-ilk-puanlarini-ariyor-iki-bolgede-surpriz-tercih-p371400",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:57:38Z"
+    },
+    {
+      "title": "Mekke Anlaşması TBMM Dışişleri Komisyonu'nda",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-anlasmasi-tbmm-disisleri-komisyonu-nda-3921471",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:56:08Z"
+    },
+    {
+      "title": "AB'den Booking.com'a soruşturma",
+      "link": "https://www.haberturk.com/ekonomi/ab-den-bookingcom-a-sorusturma-3921480",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:56:07Z"
+    },
+    {
+      "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM'de",
+      "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmmde-960788.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:56:00Z"
+    },
+    {
+      "title": "Peynirden daha çok kalsiyum içeriyor: Kemikleri beton gibi yapacak",
+      "link": "https://www.sozcu.com.tr/peynirden-daha-cok-kalsiyum-iceren-baharat-ortaya-cikti-p371396",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:48:03Z"
+    },
+    {
+      "title": "Alman ordusu, Rusya kaynaklı sabotaj tehdidini ciddi seviyesine yükseltti",
+      "link": "https://www.trthaber.com/haber/dunya/alman-ordusu-rusya-kaynakli-sabotaj-tehdidini-ciddi-seviyesine-yukseltti-960786.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:48:00Z"
+    },
+    {
+      "title": "Sivrisineklere karşı lazer silahı geliştirdi: 1 gecede evdeki tüm sivrileri avlamış",
+      "link": "https://www.sozcu.com.tr/sivrisineklere-karsi-lazer-silahi-gelistirdi-1-gecede-evdeki-tum-sivrileri-avlamis-p371378",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:47:30Z"
+    },
+    {
+      "title": "SON DAKİKA... Ahmet Eşref Fakıbaba hem İYİ Parti'den hem de milletvekilliğinden istifa etti",
+      "link": "https://www.sozcu.com.tr/son-dakika-iyi-partili-ahmet-esref-fakibaba-istifa-etti-p371332",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:46:48Z"
+    },
+    {
+      "title": "Trumpın Ukrayna politikası Cumhuriyetçileri kızdırdı",
+      "link": "https://www.trthaber.com/haber/dunya/trumpin-ukrayna-politikasi-cumhuriyetcileri-kizdirdi-960787.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:45:00Z"
+    },
+    {
+      "title": "Gazeteci İsmail Arı tutuklandı",
+      "link": "https://www.haberturk.com/gundem/dun-gozaltina-alinan-gazeteci-ismail-ari-tutuklandi-3921478",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:44:34Z"
+    },
+    {
+      "title": "Canına tak etti, İstanbul’dan taşındı: Begüm Kütük nedenini açıkladı",
+      "link": "https://www.sozcu.com.tr/canina-tak-etti-istanbul-dan-tasindi-begum-kutuk-nedenini-acikladi-p371395",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:44:34Z"
+    },
+    {
+      "title": "ABD'li Bloomberg'den müthiş iddia: Fon krizinden önce Tera'da yumruklar konuşmuş",
+      "link": "https://www.sozcu.com.tr/abd-li-bloomberg-25-ten-fazla-kisiyle-gorustu-tera-da-yumruklar-konustu-uyarilar-karsiliksiz-kaldi-p371372",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:36:51Z"
+    },
+    {
+      "title": "Fenerbahçe'de Asensio ameliyat oldu",
+      "link": "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-asensio-ameliyat-oldu-3921472",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:28:33Z"
+    },
+    {
+      "title": "Bedir Mutabakat Zaptı dört ülkenin savunma sanayisi kabiliyetlerini buluşturacak",
+      "link": "https://www.trthaber.com/haber/gundem/bedir-mutabakat-zapti-dort-ulkenin-savunma-sanayisi-kabiliyetlerini-bulusturacak-960785.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:26:00Z"
+    },
+    {
+      "title": "Nevşehir merkezli dolandırıcılık operasyonunda 12 kişi yakalandı",
+      "link": "https://www.trthaber.com/haber/turkiye/nevsehir-merkezli-dolandiricilik-operasyonunda-12-kisi-yakalandi-960784.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:26:00Z"
+    },
+    {
+      "title": "\"Bazı hikâyeler fikrini değiştirir\"",
+      "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nin-nursema-si-ceren-karakoc-bazi-hikyeler-fikrini-degistirir-3921375",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:24:50Z"
+    },
+    {
+      "title": "Bulaşık makinesinde uyuşturucu saklamışlar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bulasik-makinesinden-skunk-asansor-boslugundan-el-yapimi-patlayici-cikti-3921475",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:23:24Z"
+    },
+    {
+      "title": "Fenerbahçe'de deprem: Asensio ve Ake'den İsmail Kartal'ı yıkan haber",
+      "link": "https://www.sozcu.com.tr/fenerbahce-de-derbi-oncesi-cifte-sok-donus-tarihleri-belli-oldu-p371388",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:22:09Z"
+    },
+    {
+      "title": "Rusya Letonya'ya protesto notası verdi",
+      "link": "https://www.trthaber.com/haber/dunya/rusya-letonyaya-protesto-notasi-verdi-960783.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:22:00Z"
+    },
+    {
+      "title": "AB, Booking.com hakkında soruşturma başlattı",
+      "link": "https://www.trthaber.com/haber/dunya/ab-bookingcom-hakkinda-sorusturma-baslatti-960782.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:20:00Z"
+    },
+    {
+      "title": "Ake'den Fenerbahçe'ye kötü haber!",
+      "link": "https://www.haberturk.com/spor/son-dakika-ake-den-fenerbahce-ye-kotu-haber-3921473",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:19:49Z"
+    },
+    {
+      "title": "Erbakan’dan Aliyev'e ilk tepki geldi: 'Biz gelemesek de olur, yasak kalksın'",
+      "link": "https://www.sozcu.com.tr/erbakandan-aliyeve-basortusu-yasagi-kalksin-biz-gelemesek-de-olur-p371386",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:17:44Z"
+    },
+    {
+      "title": "1 yaşındaki bebeğin akciğerinden çıktı!",
+      "link": "https://www.haberturk.com/saglik/konya-da-1-yasindaki-bebegin-akcigerinden-ceviz-cikti-haberler-3921466",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:14:45Z"
+    },
+    {
+      "title": "'Aziz Sancar Müzesi' Mardin'den açıldı",
+      "link": "https://www.haberturk.com/kultur-sanat/aziz-sancar-muzesi-mardin-den-acildi-3921462",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:14:44Z"
+    },
+    {
+      "title": "Yılmaz: Sorunların aşılmasıyla piyasalarımız yoluna daha güçlü şekilde devam edecek",
+      "link": "https://www.trthaber.com/haber/gundem/yilmaz-sorunlarin-asilmasiyla-piyasalarimiz-yoluna-daha-guclu-sekilde-devam-edecek-960779.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:11:00Z"
+    },
+    {
+      "title": "DMM, 'AFAD dalgıçlarının toplu olarak görevi bıraktığı' iddialarını yalanladı",
+      "link": "https://www.trthaber.com/haber/gundem/dmm-afad-dalgiclarinin-toplu-olarak-gorevi-biraktigi-iddialarini-yalanladi-960780.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:10:00Z"
+    },
+    {
+      "title": "Zerrin Özer'in bir yılda ikinci abla acısı: Peş peşe gelen kayıplarla yıkıldı",
+      "link": "https://www.sozcu.com.tr/zerrin-ozer-in-bir-yilda-ikinci-abla-acisi-pes-pese-gelen-kayiplarla-yikildi-p371380",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:07:44Z"
+    },
+    {
+      "title": "AKP'ye geçen belediyede maaş krizi! Personel iş bırakma kararı aldı",
+      "link": "https://www.sozcu.com.tr/akp-ye-gecen-belediyede-maas-krizi-personel-is-birakma-karari-aldi-p371314",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T13:06:56Z"
+    },
+    {
+      "title": "Hind Recebi katleden İsrailli komutanın tutuklanması istendi",
+      "link": "https://www.trthaber.com/haber/dunya/hind-recebi-katleden-israilli-komutanin-tutuklanmasi-istendi-960781.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:06:00Z"
+    },
+    {
+      "title": "\"Prensimi bulamadım\"",
+      "link": "https://www.haberturk.com/magazin/foto/feyza-civelek-ruh-esimi-istiyorum-3921464",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:05:23Z"
+    },
+    {
+      "title": "\"8 aydır Bodrum'dayım\"",
+      "link": "https://www.haberturk.com/magazin/dilara-aksuyek-8-aydir-bodrum-dayim-3921467",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T13:03:24Z"
+    },
+    {
+      "title": "Bayraktar AKINCI'dan mühimmat atış testlerinde tam isabet",
+      "link": "https://www.trthaber.com/haber/savunma/bayraktar-akincidan-muhimmat-atis-testlerinde-tam-isabet-960778.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T13:00:00Z"
+    },
+    {
+      "title": "İstanbul'da rezidansta cinayet!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-rezidansta-cinayet-3921454",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:59:15Z"
+    },
+    {
+      "title": "Barcelona'ya mağlubiyetin ardından bir şok daha",
+      "link": "https://www.sozcu.com.tr/barcelona-ya-maglubiyetin-ardindan-bir-sok-daha-p371379",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:55:56Z"
+    },
+    {
+      "title": "70 yıllık husumet barışla sona erdi",
+      "link": "https://www.haberturk.com/gundem/70-yillik-husumet-barisla-sona-erdi-3921465",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:53:21Z"
+    },
+    {
+      "title": "Italiano, Orkun Kökçü'nün yerini dolduracak ismi duyurdu",
+      "link": "https://www.sozcu.com.tr/italiano-orkun-kokcunun-yerini-dolduracak-ismi-duyurdu-p371377",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:53:01Z"
+    },
+    {
+      "title": "Burhanettin Duran: Bedir Mutabakat Zaptı stratejik ortaklığın güçlendirilmesi açısından önemli",
+      "link": "https://www.trthaber.com/haber/gundem/burhanettin-duran-bedir-mutabakat-zapti-stratejik-ortakligin-guclendirilmesi-acisindan-onemli-960777.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:52:00Z"
+    },
+    {
+      "title": "\"C plaka\" sahibi servisçilerden ihale tepkisi",
+      "link": "https://www.haberturk.com/gundem/c-plaka-sahibi-serviscilerden-ihale-tepkisi-3921463",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:47:51Z"
+    },
+    {
+      "title": "Katil İsrail Filistinli gencin kanser hastası babasıyla vedalaşmasına izin vermedi",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israil-filistinli-gencin-kanser-hastasi-babasiyla-vedalasmasina-izin-vermedi-960776.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:47:00Z"
+    },
+    {
+      "title": "Putin ve Witkoff arasında kritik görüşme",
+      "link": "https://www.haberturk.com/dunya/putin-ve-witkoff-arasinda-kritik-gorusme-abd-ukrayna-da-baris-istiyor-3921453",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:42:58Z"
+    },
+    {
+      "title": "Türkiye ve 3 ülke arasında 'Bedir' Mutabakat Zaptı imzalandı",
+      "link": "https://www.haberturk.com/gundem/bedir-mutabakati-nedir-turkiye-ve-3-ulke-arasinda-bedir-mutabakat-zapti-imzalandi-son-dakika-3921413",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:41:57Z"
+    },
+    {
+      "title": "11 yaşındaki kız çocuğuna cinsel istismar! Sapığa 30 yıl hapis",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-11-yasindaki-kiz-cocuguna-cinsel-istismar-sapiga-30-yil-hapis-antalya-haberleri-3921435",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:40:41Z"
+    },
+    {
+      "title": "Sigara içen herkesi ilgilendiriyor: Türkiye’de her 10 sigaranın 9’unda tespit edildi",
+      "link": "https://www.sozcu.com.tr/sigara-icen-herkesi-ilgilendiriyor-turkiye-de-her-10-sigaranin-9-unda-tespit-edildi-p371374",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:40:17Z"
+    },
+    {
+      "title": "Doları tahtından sallayacak hamle: 30'dan fazla ülke sıraya girdi",
+      "link": "https://www.sozcu.com.tr/dolari-tahtindan-sallayacak-hamle-30dan-fazla-ulke-siraya-girdi-p371373",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:40:09Z"
+    },
+    {
+      "title": "Nuri Aslan, SKUP Projesi'ni anlattı",
+      "link": "https://www.haberturk.com/gundem/nuri-aslan-skup-projesi-ni-anlatti-3921461",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:40:07Z"
+    },
+    {
+      "title": "'Cicim ayı' katliamı! 20 günlük eşine acımadı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haber-cicim-ayi-katliami-20-gunluk-esine-acimadi-osmaniye-haberleri-3921407",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:40:06Z"
+    },
+    {
+      "title": "Fakıbaba istifa etti",
+      "link": "https://www.haberturk.com/gundem/fakibaba-i-stifa-edecegim-3921412",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:39:31Z"
+    },
+    {
+      "title": "Azerbaycan'dan Fatih Erbakan ve 30 Türk vatandaşına ülkeye giriş yasağı",
+      "link": "https://www.sozcu.com.tr/azerbaycan-dan-31-turk-vatandasina-ulkeye-giris-yasagi-p371324",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:38:47Z"
+    },
+    {
+      "title": "Elisabeth Likya Yolu'nda kayboldu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-friederike-elisabeth-newrzella-likya-yolu-nda-kayboldu-3921460",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:37:38Z"
+    },
+    {
+      "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
+      "link": "https://www.trthaber.com/haber/gundem/kanada-basbakani-mark-carney-turkiyeye-geliyor-960775.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:37:00Z"
+    },
+    {
+      "title": "Asgari ücret zammı bu oranın altında kalmayacak",
+      "link": "https://www.sozcu.com.tr/asgari-ucret-zammi-bu-oranin-altinda-kalmayacak-p371370",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:34:07Z"
+    },
+    {
+      "title": "17 zehir taciri tutuklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-batman-merkezli-4-ilde-uyusturucu-saticilarina-yonelik-duzenlenen-operasyonda-17-tutuklama-3921457",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:30:30Z"
+    },
+    {
+      "title": "Bakan Fidan AB Yüksek Temsilcisi ile görüştü",
+      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-ab-dis-iliskiler-ve-guvenlik-politikasi-yuksek-temsilcisi-kallas-ile-gorustu-3921456",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:25:55Z"
+    },
+    {
+      "title": "Tesla ve SpaceX birleşebilir: Elon Musk ortaklığı değerlendirdiklerini açıkladı",
+      "link": "https://www.trthaber.com/haber/dunya/tesla-ve-spacex-birlesebilir-elon-musk-ortakligi-degerlendirdiklerini-acikladi-960773.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:25:00Z"
+    },
+    {
+      "title": "13 yaş farkı aşka engel olmadı: Ahu Yağtu ve Bora Cengiz ilk kez el ele",
+      "link": "https://www.sozcu.com.tr/13-yas-farki-aska-engel-olmadi-ahu-yagtu-ve-bora-cengiz-ilk-kez-el-ele-p371365",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:24:43Z"
+    },
+    {
+      "title": "Alkollü mekana gitmedi kuzeni öldürdü",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-alkollu-mekana-gitmedi-kuzeni-oldurdu-kocaeli-haberleri-3921389",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:23:53Z"
+    },
+    {
+      "title": "Bitcoin 84 bin doları gördü: Fed öncesi kritik eşik",
+      "link": "https://www.sozcu.com.tr/bitcoin-84-bin-dolari-gordu-fed-oncesi-kritik-esik-p371362",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:22:08Z"
+    },
+    {
+      "title": "Daha 17 yaşında... Korkutan bekleyiş",
+      "link": "https://www.haberturk.com/gundem/daha-17-yasinda-korkutan-bekleyis-hatice-ennur-ates-3-gundur-kayip-araniyor-son-dakika-haberi-3921452",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:21:29Z"
+    },
+    {
+      "title": "İnsan dışkısını beton harcına karıştırmaya başladılar",
+      "link": "https://www.sozcu.com.tr/insan-diskisini-beton-harcina-karistirmaya-basladilar-p371322",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:17:00Z"
+    },
+    {
+      "title": "Ünlü oyuncunun üç çocuklu hayatı",
+      "link": "https://www.haberturk.com/magazin/foto/amber-heard-un-uc-cocuklu-hayati-3921436",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:16:20Z"
+    },
+    {
+      "title": "Vize ve randevu derdi yok: Türkler uçaktan indiği gibi sınırı geçiyor",
+      "link": "https://www.sozcu.com.tr/vize-yok-randevu-derdi-yok-turkler-ucaktan-indigi-gibi-siniri-geciyor-p371312",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:15:25Z"
+    },
+    {
+      "title": "Sokak hayvanlarının toplanmasında hedef sayılara ilişkin son durum ele alındı",
+      "link": "https://www.trthaber.com/haber/gundem/sokak-hayvanlarinin-toplanmasinda-hedef-sayilara-iliskin-son-durum-ele-alindi-960774.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:15:00Z"
+    },
+    {
+      "title": "Karada yer kalmadı suyun üstüne çıktılar: Çiftlik kurup inek beslemeye başladılar",
+      "link": "https://www.sozcu.com.tr/karada-yer-kalmadi-suyun-ustune-ciktilar-ciftlik-kurup-inek-beslemeye-basladilar-p371357",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T12:13:23Z"
+    },
+    {
+      "title": "\"Sadece Samsunspor maçına odaklıyım\"",
+      "link": "https://www.haberturk.com/spor/amed-sf-teknik-direktoru-besnik-hasi-sadece-samsunspor-macina-odakliyim-3921450",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:12:25Z"
+    },
+    {
+      "title": "TRT Akademi şan eğitiminin yeni adresi İzmir oldu",
+      "link": "https://www.trthaber.com/haber/trt-akademi/trt-akademi-san-egitiminin-yeni-adresi-izmir-oldu-960772.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:12:00Z"
+    },
+    {
+      "title": "İş Bankası Çiftçi Kadın İmece Kart’ı kullanıma sundu",
+      "link": "https://www.haberturk.com/ekonomi/is-bankasi-ciftci-kadin-imece-karti-kullanima-sundu-3921448",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:11:36Z"
+    },
+    {
+      "title": "\"Rekabetçilik yarışında geri düştük\"",
+      "link": "https://www.haberturk.com/ekonomi/tim-baskani-gultepe-rekabetcilik-yarisinda-geri-dustuk-3921449",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:11:16Z"
+    },
+    {
+      "title": "Perde arkasını anlattı",
+      "link": "https://www.haberturk.com/magazin/unlu-model-romee-strijd-den-victoria-s-secret-secmelerine-tepki-3921365",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:09:41Z"
+    },
+    {
+      "title": "Aslan, Devler Ligi'nde siftah peşinde!",
+      "link": "https://www.haberturk.com/spor/aslan-devler-ligi-nde-siftah-pesinde-lille-galatasaray-muhtemel-11-ler-3921314",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:07:59Z"
+    },
+    {
+      "title": "\"C.Palace maçına hazırız\"",
+      "link": "https://www.haberturk.com/spor/wilfred-ndidi-crystal-palace-macina-haziriz-3921447",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:07:54Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:07:03Z"
+    },
+    {
+      "title": "Filistin'e destek veren yazara İngiltere'de yasak",
+      "link": "https://www.trthaber.com/haber/dunya/filistine-destek-veren-yazara-ingilterede-yasak-960771.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T12:07:00Z"
+    },
+    {
+      "title": "Aynadaki ben neden benden farklı?",
+      "link": "https://hthayat.haberturk.com/kendi-yuzune-yabancilasmak-aynadaki-ben-neden-benden-farkli-1088244",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:06:56Z"
+    },
+    {
+      "title": "\"Hakkari'de bir ilki gerçekleştiriyoruz\"",
+      "link": "https://www.haberturk.com/gundem/foto/hakkari-de-bir-ilki-gerceklestiriyoruz-3921430",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:05:07Z"
+    },
+    {
+      "title": "Her iki kişiden biri online market veya hızlı teslimat kullanıyor",
+      "link": "https://www.haberturk.com/ekonomi/her-iki-kisiden-biri-online-market-veya-hizli-teslimat-kullaniyor-3921443",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T12:02:09Z"
+    },
+    {
+      "title": "Uykudan önceki lokmalar karaciğeri tehdit ediyor",
+      "link": "https://www.trthaber.com/haber/dunya/uykudan-onceki-lokmalar-karacigeri-tehdit-ediyor-960770.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T11:59:00Z"
+    },
+    {
+      "title": "Bakan Kurum: 500 bin sosyal konutun 80 bini bitme aşamasına geldi",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-500-bin-sosyal-konutun-80-bini-bitme-asamasina-geldi-960769.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T11:56:00Z"
+    },
+    {
+      "title": "Milli Takım'da Sergen Yalçın'ın imza günü belli oldu",
+      "link": "https://www.sozcu.com.tr/milli-takimda-sergen-yalcinin-imza-gunu-belli-oldu-p371355",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T11:55:33Z"
+    },
+    {
+      "title": "TFF'den Sergen Yalçın için imza töreni!",
+      "link": "https://www.haberturk.com/spor/sergen-yalcin-icin-imza-toreni-duzenlenecek-3921441",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T11:54:49Z"
+    },
+    {
+      "title": "İran Cumhurbaşkanı: Hem tehdit edip hem müzakereden bahsedemezsiniz",
+      "link": "https://www.trthaber.com/haber/dunya/iran-cumhurbaskani-hem-tehdit-edip-hem-muzakereden-bahsedemezsiniz-960768.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-21T11:52:00Z"
+    },
+    {
+      "title": "T.C. Hatay 12. Asliye Ceza Mahkemesi",
+      "link": "https://www.haberturk.com/resmi-ilanlar/tc-hatay-12-asliye-ceza-mahkemesi-3921439",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T11:49:41Z"
+    },
+    {
+      "title": "Thomas Reis, Avrupa'da çıtayı yükseltti",
+      "link": "https://www.sozcu.com.tr/thomas-reis-avrupa-da-citayi-yukseltti-p371354",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T11:49:27Z"
+    },
+    {
+      "title": "Ağızları açık bırakan iddia: 50 milyon dolarlık sütyeni bir Türk satın aldı",
+      "link": "https://www.sozcu.com.tr/agizlari-acik-birakan-iddia-50-milyon-dolarlik-sutyeni-bir-turk-satin-aldi-p371352",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T11:48:00Z"
+    },
+    {
+      "title": "UEFA'dan Atilla Karaoğlan'a görev",
+      "link": "https://www.sozcu.com.tr/uefa-dan-atilla-karaoglan-a-gorev-p371353",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T11:47:50Z"
+    },
+    {
+      "title": "\"3 puanı hanemize yazdıracağız\"",
+      "link": "https://www.haberturk.com/spor/trabzonspor-teknik-direktoru-thomas-reis-3-puani-hanemize-yazdiracagiz-3921433",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T11:47:42Z"
+    },
+    {
+      "title": "Silahlı saldırgan araç gasp edip kaçtı!",
+      "link": "https://www.haberturk.com/gundem/silahli-saldirgan-arac-gasp-edip-kacti-3921429",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T11:44:29Z"
     }
   ]
 }
