@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:49:44.637859Z",
+  "generated_at": "2026-10-21T15:54:47.973125Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Pendikspor'un yeni teknik direktörü belli oldu",
+      "link": "https://www.sozcu.com.tr/pendikspor-un-yeni-teknik-direktoru-belli-oldu-p371430",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T15:52:43Z"
+    },
     {
       "title": "Trabzonspor'un eski futbolcusu vefat etti!",
       "link": "https://www.haberturk.com/spor/trabzonspor-un-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti-3921508",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/sokak-hayvanlarinin-toplanmasinda-hedef-sayilara-iliskin-son-durum-ele-alindi-960774.html",
       "source": "TRT Haber",
       "published_at": "2026-10-21T12:15:00Z"
-    },
-    {
-      "title": "Karada yer kalmadı suyun üstüne çıktılar: Çiftlik kurup inek beslemeye başladılar",
-      "link": "https://www.sozcu.com.tr/karada-yer-kalmadi-suyun-ustune-ciktilar-ciftlik-kurup-inek-beslemeye-basladilar-p371357",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T12:13:23Z"
     }
   ]
 }
