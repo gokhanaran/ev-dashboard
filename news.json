@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:01:08.023836Z",
+  "generated_at": "2026-10-21T10:06:10.735841Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,40 @@
   ],
   "items": [
     {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T09:59:24Z"
+    },
+    {
       "title": "İnsan dışkısını beton harcına karıştırmaya başladılar",
       "link": "https://www.sozcu.com.tr/insan-diskisini-beton-harcina-karistirmaya-basladilar-p371322",
       "source": "Sözcü",
       "published_at": "2026-10-21T09:59:18Z"
     },
     {
+      "title": "'Griptir, geçer' dediler: Yürüyemez hale geldi!",
+      "link": "https://www.sozcu.com.tr/grip-denilerek-taburcu-edildi-rubyye-haftalar-sonra-adem-teshisi-p371320",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T09:58:56Z"
+    },
+    {
+      "title": "Fransız zincir marketin hisseleri protestolarla çakıldı",
+      "link": "https://www.haberturk.com/ekonomi/carrefour-hisseleri-protestolarla-cakildi-3921388",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T09:55:27Z"
+    },
+    {
+      "title": "Alkollü mekana gitmedi kuzeni öldürdü",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-alkollu-mekana-gitmedi-kuzeni-oldurdu-kocaeli-haberleri-3921389",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T09:53:56Z"
+    },
+    {
       "title": "Carrefour hisseleri protestolarla çakıldı",
       "link": "https://www.haberturk.com/ekonomi/carrefour-hisseleri-protestolarla-cakildi-3921388",
       "source": "Habertürk",
       "published_at": "2026-10-21T09:52:07Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:51:44Z"
     },
     {
       "title": "\"Magazin haberi gibi konuşamayız\"",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/fenerbahce-apar-topar-gondermisti-5-dakikada-yaptiklarini-gorenler-inanamiyor-p371247",
       "source": "Sözcü",
       "published_at": "2026-10-21T06:57:44Z"
-    },
-    {
-      "title": "Göçük faciası! Can kaybı var!",
-      "link": "https://www.haberturk.com/gundem/altyapi-calismasinda-gocuk-can-kaybi-var-3921325",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T06:54:42Z"
-    },
-    {
-      "title": "\"Mavi Vatan'daki haklarımızı güçlü şekilde savunacağız\"",
-      "link": "https://www.haberturk.com/dunya/ak-parti-sozcusu-celik-mavi-vatan-daki-haklarimizi-guclu-sekilde-savunacagiz-3921311",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T06:53:17Z"
-    },
-    {
-      "title": "Yapay zeka girişimi sayısı yükseldi",
-      "link": "https://www.haberturk.com/ekonomi/turkiye-nin-yapay-zeka-girisim-haritasi-guncellendi-3920497",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T06:50:38Z"
     }
   ]
 }
