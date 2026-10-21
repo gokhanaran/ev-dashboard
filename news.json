@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:44:41.565966Z",
+  "generated_at": "2026-10-21T15:49:44.637859Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Trabzonspor'un eski futbolcusu vefat etti!",
+      "link": "https://www.haberturk.com/spor/trabzonspor-un-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti-3921508",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T15:47:49Z"
+    },
+    {
+      "title": "Vakfın hayır şartı 321 yıl sonra yerine getirildi",
+      "link": "https://www.haberturk.com/gundem/vakfin-hayir-sarti-321-yil-sonra-yerine-getirildi-3921509",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T15:47:11Z"
+    },
+    {
+      "title": "Son dakika...Dünyaca ünlü yatırım bankasından kritik Türkiye kararı",
+      "link": "https://www.sozcu.com.tr/son-dakika-dunyaca-unlu-yatirim-bankasindan-kritik-turkiye-karari-p371411",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T15:47:00Z"
+    },
+    {
+      "title": "Azerbaycan ile Türkiye arasında iplerin gerildiği günlerde... Erdoğan ile Aliyev görüştü",
+      "link": "https://www.sozcu.com.tr/erdogan-aliyev-gorusmesi-21-ekim-2026-p371428",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T15:46:52Z"
+    },
+    {
+      "title": "Amedspor teknik direktörü Besnik Hasi'den Galatasaray açıklaması",
+      "link": "https://www.sozcu.com.tr/amedspor-teknik-direktoru-besnik-hasi-den-galatasaray-aciklamasi-p371427",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T15:44:20Z"
+    },
+    {
+      "title": "Maçın ilk 11'leri belli oldu!",
+      "link": "https://www.haberturk.com/spor/aslan-devler-ligi-nde-siftah-pesinde-lille-galatasaray-muhtemel-11-ler-3921314",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T15:43:51Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Aliyev ile görüştü",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-aliyev-ile-gorustu-3921505",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T15:42:54Z"
+    },
+    {
+      "title": "Derince köyünde katledilen 22 kişi törenle anıldı",
+      "link": "https://www.haberturk.com/gundem/derince-koyunde-katledilen-22-kisi-torenle-anildi-3921507",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T15:41:17Z"
+    },
     {
       "title": "13 Kasım için ortaya atılan iddianın aslı belli oldu",
       "link": "https://www.sozcu.com.tr/13-kasim-icin-ortaya-atilan-iddianin-asli-belli-oldu-p371426",
@@ -58,12 +106,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abd-rusya-ve-ukrayna-uclu-gorusme-yapacak-960803.html",
       "source": "TRT Haber",
       "published_at": "2026-10-21T15:37:00Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Aliyev ile görüştü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-aliyev-ile-gorustu-3921505",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T15:35:46Z"
     },
     {
       "title": "Galatasaray'ın ilk 11'i belli oldu",
@@ -166,12 +208,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-sevda-vahset-kurbani-arkadaslik-teklifini-reddetti-olduruldu-3921476",
       "source": "Habertürk",
       "published_at": "2026-10-21T14:54:15Z"
-    },
-    {
-      "title": "Son dakika...Dünyaca ünlü yatırım bankasından kritik Türkiye kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-dunyaca-unlu-yatirim-bankasindan-kritik-turkiye-karari-p371411",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T14:49:10Z"
     },
     {
       "title": "CHP'de 1 belediye başkanı ve 2 meclis üyesi için ihraç istemi",
@@ -718,42 +754,6 @@
       "link": "https://www.sozcu.com.tr/karada-yer-kalmadi-suyun-ustune-ciktilar-ciftlik-kurup-inek-beslemeye-basladilar-p371357",
       "source": "Sözcü",
       "published_at": "2026-10-21T12:13:23Z"
-    },
-    {
-      "title": "\"Sadece Samsunspor maçına odaklıyım\"",
-      "link": "https://www.haberturk.com/spor/amed-sf-teknik-direktoru-besnik-hasi-sadece-samsunspor-macina-odakliyim-3921450",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T12:12:25Z"
-    },
-    {
-      "title": "TRT Akademi şan eğitiminin yeni adresi İzmir oldu",
-      "link": "https://www.trthaber.com/haber/trt-akademi/trt-akademi-san-egitiminin-yeni-adresi-izmir-oldu-960772.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T12:12:00Z"
-    },
-    {
-      "title": "İş Bankası Çiftçi Kadın İmece Kart’ı kullanıma sundu",
-      "link": "https://www.haberturk.com/ekonomi/is-bankasi-ciftci-kadin-imece-karti-kullanima-sundu-3921448",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T12:11:36Z"
-    },
-    {
-      "title": "\"Rekabetçilik yarışında geri düştük\"",
-      "link": "https://www.haberturk.com/ekonomi/tim-baskani-gultepe-rekabetcilik-yarisinda-geri-dustuk-3921449",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T12:11:16Z"
-    },
-    {
-      "title": "Perde arkasını anlattı",
-      "link": "https://www.haberturk.com/magazin/unlu-model-romee-strijd-den-victoria-s-secret-secmelerine-tepki-3921365",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T12:09:41Z"
-    },
-    {
-      "title": "Aslan, Devler Ligi'nde siftah peşinde!",
-      "link": "https://www.haberturk.com/spor/aslan-devler-ligi-nde-siftah-pesinde-lille-galatasaray-muhtemel-11-ler-3921314",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T12:07:59Z"
     }
   ]
 }
