@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:48:28.200346Z",
+  "generated_at": "2026-10-21T19:58:35.753086Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 24
+      "items": 25
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika... AKP'nin fon teklifinin 3.maddesine verdiği önerge kabul edildi",
+      "link": "https://www.sozcu.com.tr/son-dakika-akp-nin-fon-teklifinin-3-maddesine-verdigi-onerge-kabul-edildi-p371475",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T19:56:01Z"
+    },
+    {
+      "title": "Herkes onun performansını konuşuyor! Gecenin yıldızı oldu",
+      "link": "https://www.sozcu.com.tr/herkes-onun-performansini-konusuyor-gecenin-yildizi-oldu-p371467",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T19:54:54Z"
+    },
+    {
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "link": "https://www.haberturk.com/spor/uefa-dan-halil-umut-meler-e-gorev-3921553",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:49:35Z"
+    },
+    {
+      "title": "\"Bununla evlenecek misin?\"",
+      "link": "https://www.haberturk.com/magazin/serdar-ortac-tan-aslihan-malbora-ya-bununla-evlenecek-misin-3921549",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:49:17Z"
+    },
+    {
+      "title": "\"Galibiyeti hak ettik!\"",
+      "link": "https://www.haberturk.com/spor/lille-galatasaray-maci-sonrasi-ugurcan-cakir-galibiyeti-hak-ettik-3921551",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:47:53Z"
+    },
+    {
+      "title": "Özel, Zeytinburnu'nda konuştu",
+      "link": "https://www.haberturk.com/ozgur-ozel-zeytinburnu-nda-konustu-3921550",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:47:37Z"
+    },
+    {
+      "title": "Fon teklifindeki 3. önerge kabul edildi",
+      "link": "https://www.haberturk.com/ekonomi/ak-parti-nin-fon-teklifine-iliskin-onergesiyle-bloke-islemler-tasfiyeye-dahil-edildi-3921552",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:47:30Z"
+    },
     {
       "title": "Emir Sarıgül tutuklama talebiyle hakimliğe sevk edildi",
       "link": "https://www.sozcu.com.tr/emir-sarigul-hakkinda-karar-p371456",
@@ -82,12 +124,6 @@
       "link": "https://www.haberturk.com/spor/lucas-torreira-zor-olacagini-biliyorduk-3921546",
       "source": "Habertürk",
       "published_at": "2026-10-21T19:26:28Z"
-    },
-    {
-      "title": "Herkes onun performansını konuşuyor! Gecenin yıldızı oldu",
-      "link": "https://www.sozcu.com.tr/herkes-onun-performansini-konusuyor-gecenin-yildizi-oldu-p371467",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T19:25:29Z"
     },
     {
       "title": "Suudi Arabistan: Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü",
@@ -718,42 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/ataturkun-emanetinden-bugune-kizilay-maden-suyu-100-yasinda-3921497",
       "source": "Habertürk",
       "published_at": "2026-10-21T14:44:39Z"
-    },
-    {
-      "title": "MEB'den yurt dışındaki Türk çocuklarına 7 seviyeli ders kitabı seti",
-      "link": "https://www.trthaber.com/haber/egitim/mebden-yurt-disindaki-turk-cocuklarina-7-seviyeli-ders-kitabi-seti-960797.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T14:43:00Z"
-    },
-    {
-      "title": "Yapay zeka dedektörleri edebiyat dünyasını karıştırdı: Yazarlar haksız yere suçlanıyor",
-      "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-dedektorleri-edebiyat-dunyasini-karistirdi-yazarlar-haksiz-yere-suclaniyor-960796.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T14:39:00Z"
-    },
-    {
-      "title": "Paris ve Lyon'da kısmi sokağa çıkma yasağı 1 gün uzatıldı",
-      "link": "https://www.trthaber.com/haber/dunya/paris-ve-lyonda-kismi-sokaga-cikma-yasagi-1-gun-uzatildi-960795.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T14:35:00Z"
-    },
-    {
-      "title": "Bakan Göktaş: Önceliğimiz çocuğun haklarını koruyan güçlü bir sosyal koruma sistemi olmalı",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-goktas-onceligimiz-cocugun-haklarini-koruyan-guclu-bir-sosyal-koruma-sistemi-olmali-960798.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T14:29:00Z"
-    },
-    {
-      "title": "Utanç kanunu için tarihi adım: 178 yıl sonra yeni akıllarına geldi",
-      "link": "https://www.sozcu.com.tr/utanc-kanunu-icin-tarihi-adim-178-yil-sonra-yeni-akillarina-geldi-p371409",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T14:27:16Z"
-    },
-    {
-      "title": "ABden SpaceXe Ukraynada hizmetleri yeniden başlatma çağrısı",
-      "link": "https://www.trthaber.com/haber/dunya/abden-spacexe-ukraynada-hizmetleri-yeniden-baslatma-cagrisi-960794.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T14:27:00Z"
     }
   ]
 }
