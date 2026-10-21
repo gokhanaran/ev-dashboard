@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:21:18.780314Z",
+  "generated_at": "2026-10-21T10:26:21.546878Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 19
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,52 @@
   ],
   "items": [
     {
+      "title": "Banka müşterilerini ilgilendiren karar verildi: ATM kuralları değişti",
+      "link": "https://www.sozcu.com.tr/banka-musterilerini-ilgilendiren-karar-verildi-atm-kurallari-degisti-p371253",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T10:23:44Z"
+    },
+    {
+      "title": "Erdoğan’dan fon krizine ilişkin flaş açıklama",
+      "link": "https://www.sozcu.com.tr/erdogan-dan-fon-krizine-iliskin-flas-aciklama-p371331",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T10:23:15Z"
+    },
+    {
+      "title": "BirGün muhabiri İsmail Arı'ya tutuklama talebi",
+      "link": "https://www.sozcu.com.tr/birgun-muhabiri-ismail-ari-adliyeye-sevk-edildi-p371261",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T10:21:55Z"
+    },
+    {
+      "title": "Beşiktaş, Crystal Palace maçına iki eksikle hazır",
+      "link": "https://www.sozcu.com.tr/besiktas-crystal-palace-macina-iki-eksikle-hazir-p371330",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T10:20:50Z"
+    },
+    {
       "title": "SON DAKİKA... AYM'den YENİ Parti hakkında karar: İsminin kaldırılması talebine ret",
       "link": "https://www.sozcu.com.tr/son-dakika-aym-den-yeni-parti-hakkinda-karar-isminin-kaldirilmasi-talebine-ret-p371289",
       "source": "Sözcü",
       "published_at": "2026-10-21T10:17:30Z"
+    },
+    {
+      "title": "Turkcell’den 6G’ye geçiş için kritik test",
+      "link": "https://www.haberturk.com/ekonomi/turkcellden-6gye-gecis-icin-kritik-test-3921399",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:16:46Z"
+    },
+    {
+      "title": "Ekim ayının sonuna kadar evrenden 'altın bilet' alacak 5 burç",
+      "link": "https://www.sozcu.com.tr/ekim-ayinin-sonuna-kadar-evrenden-altin-bilet-alacak-5-burc-p371327",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T10:16:09Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:15:10Z"
     },
     {
       "title": "Müsavat Dervişoğlu, Eşref Fakıbaba'nın istifasını istedi",
@@ -48,16 +90,40 @@
       "published_at": "2026-10-21T10:15:00Z"
     },
     {
+      "title": "\"Çok zaman kaybettik\"",
+      "link": "https://www.haberturk.com/cok-zaman-kaybettik-3921114",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:14:58Z"
+    },
+    {
+      "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
+      "link": "https://www.haberturk.com/dunya/fransa-daki-eylemlerde-149-kisi-tutuklandi-3921268",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:14:42Z"
+    },
+    {
+      "title": "İtalya'da protestolara karşı yeni güvenlik önlemleri",
+      "link": "https://www.haberturk.com/dunya/italya-da-protestolara-karsi-yeni-guvenlik-onlemleri-3921297",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:14:21Z"
+    },
+    {
       "title": "Şahinin göç yolculuğu: 14 ülke, 6 bin kilometre",
       "link": "https://www.trthaber.com/haber/yasam/sahinin-goc-yolculugu-14-ulke-6-bin-kilometre-960758.html",
       "source": "TRT Haber",
       "published_at": "2026-10-21T10:14:00Z"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3921349",
+      "title": "Fransa, İspanya, Arnavutluk... Avrupa'yı saran protesto hareketi",
+      "link": "https://www.haberturk.com/dunya/fransa-ispanya-ve-arnavutluk-gibi-bircok-avrupa-ulkesinde-neden-sert-protestolar-yasaniyor-3921039",
       "source": "Habertürk",
-      "published_at": "2026-10-21T10:11:55Z"
+      "published_at": "2026-10-21T10:13:46Z"
+    },
+    {
+      "title": "Kafa kafaya katliam gibi kaza: 4 ölü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kafa-kafaya-katliam-gibi-kaza-4-olu-afyonkarahisar-haberleri-3921304",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T10:13:33Z"
     },
     {
       "title": "İran: Altyapımızı hedef alırlarsa Hürmüz Boğazı'nın altından geçen internet kablolarını yok edebiliriz",
@@ -154,12 +220,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-chp-nin-38-kurultay-davasinda-mutalaa-aciklandi-3921374",
       "source": "Habertürk",
       "published_at": "2026-10-21T09:41:59Z"
-    },
-    {
-      "title": "Kafa kafaya katliam gibi kaza: 4 ölü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kafa-kafaya-katliam-gibi-kaza-4-olu-afyonkarahisar-haberleri-3921304",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T09:41:54Z"
     },
     {
       "title": "Yeğenini sokakta öldüren dayı mahkemede \"Pes\" dedirtti",
@@ -552,12 +612,6 @@
       "published_at": "2026-10-21T08:05:11Z"
     },
     {
-      "title": "\"Çok zaman kaybettik\"",
-      "link": "https://www.haberturk.com/cok-zaman-kaybettik-3921114",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T08:04:50Z"
-    },
-    {
       "title": "Hızlı tren hat uzunluğu 2029'da 5 bin 389 kilometreye çıkarılacak",
       "link": "https://www.trthaber.com/haber/gundem/hizli-tren-hat-uzunlugu-2029da-5-bin-389-kilometreye-cikarilacak-960736.html",
       "source": "TRT Haber",
@@ -700,60 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-kisi-gozaltinda-galvaniz-fabrikasinda-feci-olum-ankara-haberleri-3921295",
       "source": "Habertürk",
       "published_at": "2026-10-21T07:25:23Z"
-    },
-    {
-      "title": "Fon soruşturmasında yeni gelişme: Altınbaş Holding sahibi hakkında yakalama kararı",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-sahibi-hakkinda-yakalama-karari-960729.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T07:25:00Z"
-    },
-    {
-      "title": "Oyuncu Berfin Ant'ın iş adamı sevgilisi kabusu yaşattı!",
-      "link": "https://www.sozcu.com.tr/oyuncu-berfin-ant-in-is-adami-sevgilisi-kabusu-yasatti-p371257",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:24:40Z"
-    },
-    {
-      "title": "Fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
-      "link": "https://www.haberturk.com/saglik/fotografiniz-ne-kadar-hasta-oldugunuzu-gosterebilir-mi-haberler-3921322",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:24:14Z"
-    },
-    {
-      "title": "\"Hangi maçta 3 puan alacaksın?\"",
-      "link": "https://www.haberturk.com/spor/foto/spor-yazarlari-fenerbahce-nin-slavia-prag-macini-degerlendirdi-hangi-macta-3-puan-alacaksin-3921332",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:23:14Z"
-    },
-    {
-      "title": "Banka müşterilerini ilgilendiren karar verildi: ATM kuralları değişti",
-      "link": "https://www.sozcu.com.tr/banka-musterilerini-ilgilendiren-karar-verildi-atm-kurallari-degisti-p371253",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:22:24Z"
-    },
-    {
-      "title": "Yerel yönetimler reformunda son aşama",
-      "link": "https://www.haberturk.com/gundem/yerel-yonetimler-reformunda-son-asama-3921334",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:19:07Z"
-    },
-    {
-      "title": "Tartışma yarattı",
-      "link": "https://www.haberturk.com/magazin/prens-harry-sozleriyle-tartisma-yaratti-bazi-insanlar-islerin-yolunda-gitmesini-istemiyor-3921323",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T07:15:22Z"
-    },
-    {
-      "title": "9 işçinin ölümünden sorumlu olan Kanadalı İstanbul'da 5 yıldızlı otelde 'ev hapsinde'",
-      "link": "https://www.sozcu.com.tr/9-iscinin-olumunden-sorumlu-olan-kanadali-istanbul-da-5-yildizli-otelde-ev-hapsinde-p371252",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:14:20Z"
-    },
-    {
-      "title": "Büyük umutlarla başlamıştı: Organize İşler IMBD'de 2,3 puanla sınıfta kaldı",
-      "link": "https://www.sozcu.com.tr/buyuk-umutlarla-baslamisti-organize-isler-imbd-de-2-3-puanla-sinifta-kaldi-p371251",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T07:12:41Z"
     }
   ]
 }
