@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:23:22.930572Z",
+  "generated_at": "2026-10-21T23:38:33.034972Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Brüksel'de Brükselli gibi olmak",
+      "link": "https://www.haberturk.com/htgastro/seyahat/lokalin-pesinde-burokrasinin-arkasindaki-surrealist-bruksel-3921459",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T23:32:47Z"
+    },
     {
       "title": "Suudi Arabistan'da havalimanına saldırı",
       "link": "https://www.haberturk.com/dunya/suudi-arabistan-daki-bir-havalimanina-saldiri-3921578",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sile-belediyesi-davasi-ertelendi-3921522",
       "source": "Habertürk",
       "published_at": "2026-10-21T16:57:48Z"
-    },
-    {
-      "title": "Fon skandalında son durum! Bakan Gürlek, sayıları açıkladı",
-      "link": "https://www.sozcu.com.tr/fon-skandalinda-son-durum-bakan-gurlek-sayilari-acikladi-p371431",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T16:46:59Z"
     }
   ]
 }
