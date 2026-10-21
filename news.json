@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:55:55.412249Z",
+  "generated_at": "2026-10-21T05:00:58.337037Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Uçak biletini geçti! Sabiha Gökçen’de bir döner 3 bin liraya satılıyor",
+      "link": "https://www.sozcu.com.tr/ucak-biletini-gecti-sabiha-gokcen-de-bir-doner-3-bin-liraya-satiliyor-p371184",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T04:57:11Z"
+    },
     {
       "title": "İstanbul'da yaşayanlar bu güne dikkat! 5 bölgede su baskını riski var",
       "link": "https://www.sozcu.com.tr/istanbul-da-yasayanlar-bu-gune-dikkat-5-bolgede-su-baskini-riski-var-p371171",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/meb-in-yayimladigi-kilavuza-tepki-p371115",
       "source": "Sözcü",
       "published_at": "2026-10-20T19:48:44Z"
-    },
-    {
-      "title": "Evlerin altına özel sistem yerleştirecekler: Sular yükselince evler de yükselecek",
-      "link": "https://www.sozcu.com.tr/evlerin-altina-ozel-sistem-yerlestirecekler-sular-yukselince-evler-de-yukselecek-p371113",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T19:42:50Z"
     }
   ]
 }
