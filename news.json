@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:58:35.753086Z",
+  "generated_at": "2026-10-21T20:03:39.873964Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,58 @@
   ],
   "items": [
     {
+      "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
+      "link": "https://www.sozcu.com.tr/emir-sarigul-hakkinda-karar-p371456",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T20:02:58Z"
+    },
+    {
+      "title": "Suudi Arabistan'a İHA saldırısı",
+      "link": "https://www.haberturk.com/dunya/suudi-arabistan-a-yonelik-saldiri-2-kisi-hayatini-kaybetti-3921555",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T20:00:33Z"
+    },
+    {
+      "title": "Okan Buruk'tan Lille zaferi sonrası derbi mesajı",
+      "link": "https://www.sozcu.com.tr/okan-buruktan-lille-zaferi-sonrasi-derbi-mesaji-p371477",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T20:00:01Z"
+    },
+    {
+      "title": "\"Galibiyeti hak ettik!\"",
+      "link": "https://www.haberturk.com/spor/lille-galatasaray-maci-sonrasi-ugurcan-cakir-galibiyeti-hak-ettik-3921551",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:58:55Z"
+    },
+    {
+      "title": "\"Bununla evlenecek misin?\"",
+      "link": "https://www.haberturk.com/magazin/serdar-ortac-tan-aslihan-malbora-ya-bununla-evlenecek-misin-3921549",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:58:19Z"
+    },
+    {
+      "title": "\"Aldatıldım\"",
+      "link": "https://www.haberturk.com/magazin/foto/somer-sivrioglu-nun-nisanlisi-didem-belen-aldatildim-3921299",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:56:21Z"
+    },
+    {
       "title": "Son dakika... AKP'nin fon teklifinin 3.maddesine verdiği önerge kabul edildi",
       "link": "https://www.sozcu.com.tr/son-dakika-akp-nin-fon-teklifinin-3-maddesine-verdigi-onerge-kabul-edildi-p371475",
       "source": "Sözcü",
       "published_at": "2026-10-21T19:56:01Z"
+    },
+    {
+      "title": "\"Büyük takım refleksi gösterdik\"",
+      "link": "https://www.haberturk.com/spor/yunus-akgun-buyuk-takim-refleksi-gosterdik-3921554",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:55:24Z"
+    },
+    {
+      "title": "\"F.Bahçe derbisini dört gözle bekliyoruz\"",
+      "link": "https://www.haberturk.com/spor/lille-galatasaray-maci-sonrasi-victor-osimhen-den-fenerbahce-derbisi-sozleri-3921543",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T19:54:54Z"
     },
     {
       "title": "Herkes onun performansını konuşuyor! Gecenin yıldızı oldu",
@@ -52,18 +100,6 @@
       "link": "https://www.haberturk.com/spor/uefa-dan-halil-umut-meler-e-gorev-3921553",
       "source": "Habertürk",
       "published_at": "2026-10-21T19:49:35Z"
-    },
-    {
-      "title": "\"Bununla evlenecek misin?\"",
-      "link": "https://www.haberturk.com/magazin/serdar-ortac-tan-aslihan-malbora-ya-bununla-evlenecek-misin-3921549",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T19:49:17Z"
-    },
-    {
-      "title": "\"Galibiyeti hak ettik!\"",
-      "link": "https://www.haberturk.com/spor/lille-galatasaray-maci-sonrasi-ugurcan-cakir-galibiyeti-hak-ettik-3921551",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T19:47:53Z"
     },
     {
       "title": "Özel, Zeytinburnu'nda konuştu",
@@ -718,42 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-sevda-vahset-kurbani-arkadaslik-teklifini-reddetti-olduruldu-3921476",
       "source": "Habertürk",
       "published_at": "2026-10-21T14:54:15Z"
-    },
-    {
-      "title": "CHP'de 1 belediye başkanı ve 2 meclis üyesi için ihraç istemi",
-      "link": "https://www.sozcu.com.tr/chp-de-biri-belediye-baskani-3-ihrac-istemi-p371407",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T14:49:03Z"
-    },
-    {
-      "title": "Adaya bıraktıkları 100 koyun büyük bir felakete neden oldu",
-      "link": "https://www.sozcu.com.tr/adaya-biraktiklari-100-koyun-buyuk-bir-felakete-neden-oldu-p371412",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T14:48:16Z"
-    },
-    {
-      "title": "Sosyal medyada paylaşıldı, yakalandı",
-      "link": "https://www.haberturk.com/gundem/sosyal-medyada-paylasildi-yakalandi-3921492",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T14:48:04Z"
-    },
-    {
-      "title": "\"Yatırımcı ile manipülatörü birbirine karıştırmayacağız\"",
-      "link": "https://www.haberturk.com/ekonomi/cevdet-yilmaz-yatirimci-ile-manipulatoru-birbirine-karistirmadan-surecleri-hayata-gecirecegiz-3921479",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T14:45:14Z"
-    },
-    {
-      "title": "'Manifest'in kurucusu Tolga Akış için istenen ceza belli oldu",
-      "link": "https://www.sozcu.com.tr/manifest-in-kurucusu-tolga-akis-icin-istenen-ceza-belli-oldu-p371404",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T14:44:41Z"
-    },
-    {
-      "title": "Atatürk’ün emaneti Kızılay Maden Suyu 100 yaşında",
-      "link": "https://www.haberturk.com/ekonomi/ataturkun-emanetinden-bugune-kizilay-maden-suyu-100-yasinda-3921497",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T14:44:39Z"
     }
   ]
 }
