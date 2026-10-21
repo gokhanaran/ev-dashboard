@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:50:52.747578Z",
+  "generated_at": "2026-10-21T04:55:55.412249Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da yaşayanlar bu güne dikkat! 5 bölgede su baskını riski var",
+      "link": "https://www.sozcu.com.tr/istanbul-da-yasayanlar-bu-gune-dikkat-5-bolgede-su-baskini-riski-var-p371171",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T04:52:37Z"
+    },
+    {
+      "title": "Altında sert düşüş!",
+      "link": "https://www.sozcu.com.tr/altinda-sert-dusus-p371181",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T04:52:18Z"
+    },
+    {
+      "title": "İnşaat alanında bulundu, kentte alarma geçildi: Binlerce kişi tahliye ediliyor",
+      "link": "https://www.sozcu.com.tr/insaat-alaninda-bulundu-kentte-alarma-gecildi-binlerce-kisi-tahliye-ediliyor-p371136",
+      "source": "Sözcü",
+      "published_at": "2026-10-21T04:51:40Z"
+    },
+    {
+      "title": "Apple, iPhone için ABD'de üretimi genişletiyor",
+      "link": "https://www.haberturk.com/ekonomi/apple-iphone-icin-abd-de-uretimi-genisletiyor-3921290",
+      "source": "Habertürk",
+      "published_at": "2026-10-21T04:49:05Z"
+    },
     {
       "title": "‘Tesadüfen yaşıyoruz’ dedirten ölüm",
       "link": "https://www.sozcu.com.tr/tesadufen-yasiyoruz-dedirten-olum-p371179",
@@ -226,12 +250,6 @@
       "link": "https://www.haberturk.com/dunya/libya-devlet-yuksek-konseyi-deniz-yetki-onayindan-memnun-3921279",
       "source": "Habertürk",
       "published_at": "2026-10-21T03:54:35Z"
-    },
-    {
-      "title": "İstanbul'da yaşayanlar bu güne dikkat! 5 bölgede su baskını riski var",
-      "link": "https://www.sozcu.com.tr/istanbul-da-yasayanlar-bu-gune-dikkat-5-bolgede-su-baskini-riski-var-p371171",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T03:52:47Z"
     },
     {
       "title": "Fon Kanun Teklifi TBMM Genel Kurulu'nda",
@@ -570,12 +588,6 @@
       "published_at": "2026-10-20T21:14:22Z"
     },
     {
-      "title": "İnşaat alanında bulundu, kentte alarma geçildi: Binlerce kişi tahliye ediliyor",
-      "link": "https://www.sozcu.com.tr/insaat-alaninda-bulundu-kentte-alarma-gecildi-binlerce-kisi-tahliye-ediliyor-p371136",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T21:13:58Z"
-    },
-    {
       "title": "Barcelona 11 maç sonra kaybetti! Paris'te gol düellosu",
       "link": "https://www.sozcu.com.tr/barcelona-11-mac-sonra-kaybetti-paris-te-gol-duellosu-p371135",
       "source": "Sözcü",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/evlerin-altina-ozel-sistem-yerlestirecekler-sular-yukselince-evler-de-yukselecek-p371113",
       "source": "Sözcü",
       "published_at": "2026-10-20T19:42:50Z"
-    },
-    {
-      "title": "Trpisovsky: 'Böyle bir başlangıç istemiyorduk'",
-      "link": "https://www.sozcu.com.tr/trpisovsky-boyle-bir-baslangic-istemiyorduk-p371112",
-      "source": "Sözcü",
-      "published_at": "2026-10-20T19:41:22Z"
-    },
-    {
-      "title": "Pastırma sıcakları ne zaman?",
-      "link": "https://www.haberturk.com/bilgi/foto/pastirma-sicaklari-ne-zaman-2026-pastirma-yazi-hangi-donem-oluyor-sicaklik-kac-gun-surecek-3920695",
-      "source": "Habertürk",
-      "published_at": "2026-10-20T19:41:06Z"
     }
   ]
 }
