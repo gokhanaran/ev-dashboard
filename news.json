@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:10:29.791814Z",
+  "generated_at": "2026-10-22T04:15:32.952967Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
-      "title": "Tuzla’da ayakkabı fabrikasında yangın",
-      "link": "https://www.haberturk.com/gundem/tuzlada-ayakkabi-fabrikasinda-yangin-3921583",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T04:08:59Z"
+      "title": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
+      "link": "https://www.sozcu.com.tr/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vuruldu-p371523",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T04:14:07Z"
+    },
+    {
+      "title": "Ehliyetini 5 yıl boyunca kullanmayan sürücülere 1 milyon 300 bin lira ödenecek",
+      "link": "https://www.sozcu.com.tr/ehliyetini-5-yil-boyunca-kullanmayan-suruculere-1-milyon-300-bin-lira-odenecek-p371527",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T04:13:14Z"
     },
     {
       "title": "İstanbul'da ayakkabı fabrikasında yangın",
@@ -48,10 +54,22 @@
       "published_at": "2026-10-22T04:08:38Z"
     },
     {
+      "title": "İhbara giden polislere ateş açan şüpheli etkisiz hale getirildi",
+      "link": "https://www.trthaber.com/haber/turkiye/ihbara-giden-polislere-ates-acan-supheli-etkisiz-hale-getirildi-960837.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-22T04:08:00Z"
+    },
+    {
       "title": "Milli Eğitim Bakanı’ndan Kılıçdaroğlu’na nikah daveti ziyareti",
       "link": "https://www.sozcu.com.tr/milli-egitim-bakani-ndan-kilicdaroglu-na-nikah-daveti-ziyareti-p371413",
       "source": "Sözcü",
       "published_at": "2026-10-22T03:57:27Z"
+    },
+    {
+      "title": "Tuzla'da ayakkabı fabrikasında yangın",
+      "link": "https://www.trthaber.com/haber/turkiye/tuzlada-ayakkabi-fabrikasinda-yangin-960836.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-22T03:46:00Z"
     },
     {
       "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
@@ -92,12 +110,6 @@
     {
       "title": "Emekliye AKP-MHP’den kötü haber",
       "link": "https://www.sozcu.com.tr/emekliye-akp-mhp-den-kotu-haber-p371521",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T02:30:03Z"
-    },
-    {
-      "title": "Memurlar bütçeyi protesto etti",
-      "link": "https://www.sozcu.com.tr/memurlar-butceyi-protesto-etti-p371520",
       "source": "Sözcü",
       "published_at": "2026-10-22T02:30:03Z"
     },
@@ -144,12 +156,6 @@
       "published_at": "2026-10-22T02:30:03Z"
     },
     {
-      "title": "Aliyev, Erbakan’a giriş yasağı koydu",
-      "link": "https://www.sozcu.com.tr/aliyev-erbakan-a-giris-yasagi-koydu-p371502",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T02:30:03Z"
-    },
-    {
       "title": "Gazeteci İsmail Arı ikinci kez tutuklandı",
       "link": "https://www.sozcu.com.tr/gazeteci-ismail-ari-ikinci-kez-tutuklandi-p371501",
       "source": "Sözcü",
@@ -170,6 +176,18 @@
     {
       "title": "Dervişoğlu sert çıktı: Milleti soyanlar yarın cennetten arsa bile satar!",
       "link": "https://www.sozcu.com.tr/dervisoglu-sert-cikti-milleti-soyanlar-yarin-cennetten-arsa-bile-satar-p371493",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T02:30:03Z"
+    },
+    {
+      "title": "Memurlar bütçeyi protesto etti",
+      "link": "https://www.sozcu.com.tr/memurlar-butceyi-protesto-etti-p371520",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T02:30:03Z"
+    },
+    {
+      "title": "Aliyev, Erbakan’a giriş yasağı koydu",
+      "link": "https://www.sozcu.com.tr/aliyev-erbakan-a-giris-yasagi-koydu-p371502",
       "source": "Sözcü",
       "published_at": "2026-10-22T02:30:03Z"
     },
@@ -202,12 +220,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abd-ve-israilin-abd-ara-secimleri-sonrasi-irana-yeni-saldiri-planladigi-iddia-edildi-960831.html",
       "source": "TRT Haber",
       "published_at": "2026-10-22T00:06:00Z"
-    },
-    {
-      "title": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
-      "link": "https://www.sozcu.com.tr/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vuruldu-p371523",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T00:05:05Z"
     },
     {
       "title": "Brüksel'de Brükselli gibi olmak",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/istanbulspor-da-ozer-hurmaci-donemi-3921537",
       "source": "Habertürk",
       "published_at": "2026-10-21T18:25:20Z"
-    },
-    {
-      "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütüyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutuyor-960817.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-21T18:25:00Z"
-    },
-    {
-      "title": "Çölün ortasında 54 metre boyunca uzanan taşların gizemi çözüldü",
-      "link": "https://www.sozcu.com.tr/colun-ortasinda-54-metre-boyunca-uzanan-taslarin-gizemi-cozuldu-p371459",
-      "source": "Sözcü",
-      "published_at": "2026-10-21T18:22:18Z"
     }
   ]
 }
