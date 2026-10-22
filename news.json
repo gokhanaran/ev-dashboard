@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:32:08.894076Z",
+  "generated_at": "2026-10-22T10:37:13.109605Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Patron intihar edince olanlar oldu... Fenerbahçe'ye sponsor şoku!",
+      "link": "https://www.sozcu.com.tr/fenerbahce-ye-sponsor-soku-p371687",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T10:35:55Z"
+    },
+    {
       "title": "Türkiye'deki pizza devi resmen satıldı",
       "link": "https://www.sozcu.com.tr/hadise-nin-eski-esi-unlu-pizza-devini-satin-aldi-p371675",
       "source": "Sözcü",
-      "published_at": "2026-10-22T10:28:51Z"
+      "published_at": "2026-10-22T10:32:43Z"
     },
     {
       "title": "Jülide Kural'dan vasiyet açıklaması",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-butuner-cifti-cinayetinde-istenen-ceza-belli-oldu-1-gun-once-kesif-iddiasi-3921643",
       "source": "Habertürk",
       "published_at": "2026-10-22T08:05:03Z"
-    },
-    {
-      "title": "Fenerbahçe, Olympiakos'a konuk olacak!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-olympiakos-a-konuk-olacak-3921644",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:03:31Z"
     }
   ]
 }
