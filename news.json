@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:47:21.190556Z",
+  "generated_at": "2026-10-22T10:52:25.289841Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Kasap reyonunda dolaba girdi! Ciğer yerine kuzu pirzola!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kasap-reyonunda-dolaba-girdi-ciger-yerine-kuzu-pirzola-bursa-haberleri-3921708",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T10:46:50Z"
+    },
+    {
       "title": "Patron intihar edince olanlar oldu... Fenerbahçe'ye sponsor şoku!",
       "link": "https://www.sozcu.com.tr/fenerbahce-ye-sponsor-soku-p371687",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/denizden-14-milyon-dolarlik-servet-toplandi-en-cok-satin-alan-ulkeler-belli-oldu-p371691",
       "source": "Sözcü",
       "published_at": "2026-10-22T10:42:11Z"
+    },
+    {
+      "title": "İki ülke arasında tarihi takas: 300 asker ülkesine böyle döndü",
+      "link": "https://www.sozcu.com.tr/rusya-ve-ukrayna-olen-askerlerin-cenazelerini-takas-etti-p371689",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T10:41:44Z"
     },
     {
       "title": "Galatasaray-Fenerbahçe derbisinin hakemi belli oldu",
@@ -78,16 +90,22 @@
       "published_at": "2026-10-22T10:37:26Z"
     },
     {
-      "title": "Kasap reyonunda dolaba girdi! Ciğer yerine kuzu pirzola!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kasap-reyonunda-dolaba-girdi-ciger-yerine-kuzu-pirzola-bursa-haberleri-3921708",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T10:36:31Z"
-    },
-    {
       "title": "\"Üç faili meçhul dosya daha aydınlatıldı\"",
       "link": "https://www.haberturk.com/gundem/son-dakika-uc-faili-mechul-dosya-daha-aydinlatildi-3921707",
       "source": "Habertürk",
       "published_at": "2026-10-22T10:34:58Z"
+    },
+    {
+      "title": "Üniversite öğrencilerinden yapay zekalı savaşan İHA",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/universite-ogrencilerinden-yapay-zekali-savasan-iha-960889.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-22T10:34:00Z"
+    },
+    {
+      "title": "COP31'in logosunda Türk bayrağının kırmızısı ve Anadolu'nun izleri buluştu",
+      "link": "https://www.trthaber.com/haber/gundem/cop31in-logosunda-turk-bayraginin-kirmizisi-ve-anadolunun-izleri-bulustu-960890.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-22T10:33:00Z"
     },
     {
       "title": "Türkiye'deki pizza devi resmen satıldı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/kredi-kartiyla-bes-odeyenler-dikkat-son-tarih-15-kasim-p371628",
       "source": "Sözcü",
       "published_at": "2026-10-22T08:10:38Z"
-    },
-    {
-      "title": "Daha kış gelmeden kara haber geldi: Doğal gaz ve elektriğe zam kapıda",
-      "link": "https://www.sozcu.com.tr/daha-kis-gelmeden-kara-haber-geldi-dogal-gaz-ve-elektrige-zam-geliyor-p371624",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T08:10:31Z"
-    },
-    {
-      "title": "Ghosting yapanlar da yaralı",
-      "link": "https://hthayat.haberturk.com/ghosting-yapanlar-da-en-az-terk-edilenler-kadar-yarali-ghostlama-uzerine-arastirma-yapildi-1088251",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:10:10Z"
-    },
-    {
-      "title": "Konut satışları eylülde zirveye ulaştı",
-      "link": "https://www.trthaber.com/haber/ekonomi/konut-satislari-eylulde-zirveye-ulasti-960861.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-22T08:08:00Z"
     }
   ]
 }
