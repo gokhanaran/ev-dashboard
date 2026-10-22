@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:50:51.133042Z",
+  "generated_at": "2026-10-22T04:55:53.904534Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Finans devi J.P. Morgan Türkiye'den çekiliyor",
+      "link": "https://www.sozcu.com.tr/son-dakika-dunyaca-unlu-yatirim-bankasindan-kritik-turkiye-karari-p371411",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T04:52:38Z"
+    },
+    {
+      "title": "Gece yarısı akaryakıtta tabelaları değiştirecek gelişme yaşandı",
+      "link": "https://www.sozcu.com.tr/gece-yarisi-akaryakitta-tabelalari-degistirecek-gelisme-yasandi-p371537",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T04:52:02Z"
+    },
     {
       "title": "Anne adayları bir arada",
       "link": "https://www.haberturk.com/magazin/foto/gokce-bahadir-ve-merve-dizdar-bir-araya-geldi-3921542",
@@ -270,12 +282,6 @@
       "published_at": "2026-10-22T02:30:03Z"
     },
     {
-      "title": "Özel: Baskı ve sansüre karşı muhalefet birleşsin",
-      "link": "https://www.sozcu.com.tr/ozel-baski-ve-sansure-karsi-muhalefet-birlessin-p371517",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T02:30:03Z"
-    },
-    {
       "title": "Beşiktaş, Avrupa Ligi’nde 3’te 3 yapmak için bu akşam sahne alıyor! Güç sende kartalım",
       "link": "https://www.sozcu.com.tr/besiktas-avrupa-ligi-nde-3-te-3-yapmak-icin-bu-aksam-sahne-aliyor-guc-sende-kartalim-p371505",
       "source": "Sözcü",
@@ -302,6 +308,12 @@
     {
       "title": "Dervişoğlu sert çıktı: Milleti soyanlar yarın cennetten arsa bile satar!",
       "link": "https://www.sozcu.com.tr/dervisoglu-sert-cikti-milleti-soyanlar-yarin-cennetten-arsa-bile-satar-p371493",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T02:30:03Z"
+    },
+    {
+      "title": "Özel: Baskı ve sansüre karşı muhalefet birleşsin",
+      "link": "https://www.sozcu.com.tr/ozel-baski-ve-sansure-karsi-muhalefet-birlessin-p371517",
       "source": "Sözcü",
       "published_at": "2026-10-22T02:30:03Z"
     },
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/kullanicilari-gizlilik-konusunda-yanilttigi-icin-metaya-25-milyar-dolar-ceza-verildi-960822.html",
       "source": "TRT Haber",
       "published_at": "2026-10-21T19:34:00Z"
-    },
-    {
-      "title": "Siteye giren yaban domuzu paniği",
-      "link": "https://www.haberturk.com/gundem/amasya-da-siteye-giren-yaban-domuzu-polis-ekiplerince-etkisiz-hale-getirildi-3921548",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T19:27:46Z"
-    },
-    {
-      "title": "\"Zor olacağını biliyorduk\"",
-      "link": "https://www.haberturk.com/spor/lucas-torreira-zor-olacagini-biliyorduk-3921546",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T19:26:28Z"
     }
   ]
 }
