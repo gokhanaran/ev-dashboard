@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:42:17.205769Z",
+  "generated_at": "2026-10-22T10:47:21.190556Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Patron intihar edince olanlar oldu... Fenerbahçe'ye sponsor şoku!",
+      "link": "https://www.sozcu.com.tr/fenerbahce-ye-sponsor-soku-p371687",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T10:45:36Z"
+    },
+    {
+      "title": "Denizden 14 milyon dolarlık servet toplandı: En çok satın alan ülkeler belli oldu",
+      "link": "https://www.sozcu.com.tr/denizden-14-milyon-dolarlik-servet-toplandi-en-cok-satin-alan-ulkeler-belli-oldu-p371691",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T10:42:11Z"
+    },
+    {
       "title": "Galatasaray-Fenerbahçe derbisinin hakemi belli oldu",
       "link": "https://www.sozcu.com.tr/galatasaray-fenerbahce-derbisinin-hakemi-belli-oldu-p371682",
       "source": "Sözcü",
       "published_at": "2026-10-22T10:40:56Z"
+    },
+    {
+      "title": "Vahşet! Yaşlı adam, karısını öldürdü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-vahset-yasli-adam-karisini-oldurdu-3921712",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T10:39:02Z"
     },
     {
       "title": "Taksit tutarları değişti: Bazı ürünlerde 18 aya kadar vade yapılacak",
@@ -48,16 +66,22 @@
       "published_at": "2026-10-22T10:37:50Z"
     },
     {
+      "title": "Husiler: Suudi Arabistan bir Hint yatını hedef aldı",
+      "link": "https://www.haberturk.com/dunya/yemen-deki-husiler-suudi-arabistan-zukar-adasi-yakininda-bir-hint-yatini-hedef-aldi-3921710",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T10:37:32Z"
+    },
+    {
       "title": "Ünlü fenomen canlı yayında alev alev yandı",
       "link": "https://www.sozcu.com.tr/unlu-fenomen-canli-yayinda-alev-alev-yandi-p371599",
       "source": "Sözcü",
       "published_at": "2026-10-22T10:37:26Z"
     },
     {
-      "title": "Patron intihar edince olanlar oldu... Fenerbahçe'ye sponsor şoku!",
-      "link": "https://www.sozcu.com.tr/fenerbahce-ye-sponsor-soku-p371687",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T10:35:55Z"
+      "title": "Kasap reyonunda dolaba girdi! Ciğer yerine kuzu pirzola!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kasap-reyonunda-dolaba-girdi-ciger-yerine-kuzu-pirzola-bursa-haberleri-3921708",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T10:36:31Z"
     },
     {
       "title": "\"Üç faili meçhul dosya daha aydınlatıldı\"",
@@ -244,6 +268,12 @@
       "link": "https://www.sozcu.com.tr/yoldan-bedava-toplanip-hasat-ediliyor-kilosu-15-bin-liraya-sise-sise-satiliyor-p371673",
       "source": "Sözcü",
       "published_at": "2026-10-22T09:44:55Z"
+    },
+    {
+      "title": "Fırından gelen sıcaklık gibi yakıcı etki yaratıyor, sınırda kullanacaklar",
+      "link": "https://www.sozcu.com.tr/firindan-gelen-sicaklik-gibi-yakici-etki-yaratiyor-sinirda-kullanacaklar-p371670",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T09:44:35Z"
     },
     {
       "title": "Talas'ta 15 ton bitkisel atık yağ toplandı",
@@ -724,36 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/konut-satislari-eylulde-zirveye-ulasti-960861.html",
       "source": "TRT Haber",
       "published_at": "2026-10-22T08:08:00Z"
-    },
-    {
-      "title": "Anayasa Mahkemesi Başkanlığı için seçim süreci başladı",
-      "link": "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi-960859.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-22T08:08:00Z"
-    },
-    {
-      "title": "Alperen sezona \"double-double\" ile başladı!",
-      "link": "https://www.haberturk.com/spor/alperen-sengun-den-sezona-double-double-baslangic-3921647",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:07:39Z"
-    },
-    {
-      "title": "48 bin 579 kök kenevir ve skunk imha etti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-diyarbakir-da-jandarma-ekipleri-48-bin-579-kok-kenevir-ve-skunk-imha-etti-3921646",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:06:56Z"
-    },
-    {
-      "title": "Dünya genelinde PHP alarmı",
-      "link": "https://www.haberturk.com/ekonomi/dunya-genelinde-php-alarmi-guvenlik-acigi-uyarisi-geldi-pek-cok-site-sayfalarini-kapadi-3921539",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:06:29Z"
-    },
-    {
-      "title": "\"Netanyahu'ya destek vermiyorum\"",
-      "link": "https://www.haberturk.com/dunya/abd-baskan-yardimcisi-vance-netanyahu-ya-saldirmadigini-ancak-destek-de-vermedigini-belirtti-3921645",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T08:05:04Z"
     }
   ]
 }
