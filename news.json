@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:07:52.796535Z",
+  "generated_at": "2026-10-22T23:43:06.441995Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump, Savunma Üretim Yasası'nı devreye aldı",
+      "link": "https://www.haberturk.com/dunya/abd-baskani-trump-savunma-uretim-yasasi-ni-devreye-aldi-3921891",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T23:35:44Z"
+    },
     {
       "title": "Kayseri'de tramvayın çarptığı yaya ağır yaralandı",
       "link": "https://www.trthaber.com/haber/turkiye/kayseride-tramvayin-carptigi-yaya-agir-yaralandi-960952.html",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-abdye-seslendi-iranla-savasin-hicbir-faydasi-olmayacak-960938.html",
       "source": "TRT Haber",
       "published_at": "2026-10-22T17:42:00Z"
-    },
-    {
-      "title": "Thomas Reis'tan 7 değişiklik!",
-      "link": "https://www.haberturk.com/spor/trabzonspor-da-thomas-reis-tan-7-degisiklik-3921835",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T17:41:10Z"
     }
   ]
 }
