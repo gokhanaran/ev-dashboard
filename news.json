@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:56:42.170976Z",
+  "generated_at": "2026-10-22T10:01:46.113098Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "\"Enflasyonla mücadelemizi sürdüreceğiz\"",
+      "link": "https://www.haberturk.com/ekonomi/bakan-simsek-enflasyonla-mucadelemizi-surdurecegiz-3921691",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:51:57Z"
+    },
+    {
       "title": "MKE TOLGA'dan hava ve deniz tehditlerine karşı yüksek ateş gücü: Muadillerinden 3 kat daha güçlü",
       "link": "https://www.trthaber.com/haber/savunma/mke-tolgadan-hava-ve-deniz-tehditlerine-karsi-yuksek-ates-gucu-muadillerinden-3-kat-daha-guclu-960882.html",
       "source": "TRT Haber",
@@ -48,16 +54,46 @@
       "published_at": "2026-10-22T09:50:30Z"
     },
     {
+      "title": "Ne kadar katkı verdiler?",
+      "link": "https://www.haberturk.com/kesfet/bkm-nin-katkisi-21-oraninda-gerceklesti-3921392",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:50:05Z"
+    },
+    {
       "title": "Çağatay Ulusoy sorusu Kıvanç Tatlıtuğ’u güldürmedi: Dikkat çeken sözler...",
       "link": "https://www.sozcu.com.tr/cagatay-ulusoy-sorusu-kivanc-tatlitug-u-guldurmedi-dikkat-ceken-sozler-p371676",
       "source": "Sözcü",
       "published_at": "2026-10-22T09:49:38Z"
     },
     {
+      "title": "'Menekşe' sete çıktı",
+      "link": "https://www.haberturk.com/magazin/show-tv-nin-yeni-dizisi-menekse-sete-cikti-3921682",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:49:24Z"
+    },
+    {
+      "title": "Güney Kore siber kriz uyarı seviyesini yükseltti",
+      "link": "https://www.haberturk.com/ekonomi/guney-kore-siber-kriz-uyari-seviyesini-yukseltti-3921689",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:48:18Z"
+    },
+    {
+      "title": "Sele kapılan iki kız kardeşin ölümünde 2 kişiye dava!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-zamaninda-haber-vermediler-iddiasi-sele-kapilan-iki-kiz-kardesin-olumunde-2-kisiye-dava-3921679",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:47:04Z"
+    },
+    {
       "title": "Yoldan bedava toplanıp hasat ediliyor: Kilosu 15 bin liraya şişe şişe satılıyor",
       "link": "https://www.sozcu.com.tr/yoldan-bedava-toplanip-hasat-ediliyor-kilosu-15-bin-liraya-sise-sise-satiliyor-p371673",
       "source": "Sözcü",
       "published_at": "2026-10-22T09:44:55Z"
+    },
+    {
+      "title": "Talas'ta 15 ton bitkisel atık yağ toplandı",
+      "link": "https://www.haberturk.com/gundem/talas-ta-15-ton-bitkisel-atik-yag-toplandi-3921688",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T09:44:29Z"
     },
     {
       "title": "Nevzat Aydın 100 milyon ödedi, Trabzonspor oğlunu Salah ile Beşiktaş maçına çıkardı",
@@ -78,22 +114,10 @@
       "published_at": "2026-10-22T09:42:00Z"
     },
     {
-      "title": "Sele kapılan iki kız kardeşin ölümünde 2 kişiye dava!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-zamaninda-haber-vermediler-iddiasi-sele-kapilan-iki-kiz-kardesin-olumunde-2-kisiye-dava-3921679",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T09:41:51Z"
-    },
-    {
       "title": "Sevda için gözyaşları sel oldu!",
       "link": "https://www.haberturk.com/gundem/son-dakika-sevda-icin-gozyaslari-sel-oldu-arkadaslik-teklifini-reddedince-oldurulmustu-3921673",
       "source": "Habertürk",
       "published_at": "2026-10-22T09:40:13Z"
-    },
-    {
-      "title": "'Menekşe' sete çıktı",
-      "link": "https://www.haberturk.com/magazin/show-tv-nin-yeni-dizisi-menekse-sete-cikti-3921682",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T09:40:01Z"
     },
     {
       "title": "Türk enerji devi Azerbaycanlı patrona satıldı",
@@ -730,30 +754,6 @@
       "link": "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html",
       "source": "TRT Haber",
       "published_at": "2026-10-22T07:31:00Z"
-    },
-    {
-      "title": "S&P'den bankalara kırmızı alarm: Enflasyon ve dolar için flaş tahmin!",
-      "link": "https://www.sozcu.com.tr/spden-bankalara-kirmizi-alarm-enflasyon-ve-dolar-icin-flas-tahmin-p371613",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T07:26:33Z"
-    },
-    {
-      "title": "Borç görüşmeleri süren Vestel hacimden değere yöneliyor",
-      "link": "https://www.haberturk.com/ekonomi/borc-gorusmeleri-suren-vestel-hacimden-degere-yoneliyor-3921630",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T07:25:18Z"
-    },
-    {
-      "title": "Yine en çok o konuşuldu",
-      "link": "https://www.haberturk.com/magazin/foto/unlu-oyuncu-alexander-skarsgard-in-etekli-kirmizi-hali-stili-3921616",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T07:23:57Z"
-    },
-    {
-      "title": "Zonguldak'ta 7 bina tedbiren boşaltıldı",
-      "link": "https://www.haberturk.com/gundem/foto/zonguldak-ta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi-3921619",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T07:21:46Z"
     }
   ]
 }
