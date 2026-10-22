@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:13:40.631712Z",
+  "generated_at": "2026-10-22T19:18:45.395226Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Fransa'da Melenchon'un 2. tura çıkma ihtimali yüksek\"",
+      "link": "https://www.haberturk.com/dunya/anket-fransa-da-melenchon-un-2-tura-cikma-ihtimali-yuksek-3921851",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T19:13:27Z"
+    },
     {
       "title": "Canlı | Beşiktaş- Crystal Palace maçı canlı yayın",
       "link": "https://www.sozcu.com.tr/canli-veya-besiktas-crystal-palace-maci-canli-yayin-p371800",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/dwayne-johnson-yeni-filmi-lizard-music-icin-70-yasinda-birine-donustu-3921769",
       "source": "Habertürk",
       "published_at": "2026-10-22T14:00:48Z"
-    },
-    {
-      "title": "Can Yayınları Yayın Yönetmeni Cem Akaş'ın oğlunu elektronik sigara mı öldürdü?",
-      "link": "https://www.haberturk.com/saglik/can-yayinlari-yayin-yonetmeni-cem-akas-in-oglu-can-akas-i-elektronik-sigara-mi-oldurdu-elektronik-3921742",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T14:00:06Z"
     }
   ]
 }
