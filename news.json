@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:15:32.952967Z",
+  "generated_at": "2026-10-22T04:20:35.608164Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Yapay zekâ İstanbul'un en iyi ilçesini seçti",
+      "link": "https://www.sozcu.com.tr/yapay-zeka-istanbul-un-en-iyi-ilcesini-secti-p371528",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T04:18:08Z"
+    },
+    {
       "title": "Zeytinburnu'nda polise ateş açan şüpheli bacağından vuruldu",
       "link": "https://www.sozcu.com.tr/zeytinburnunda-polise-ates-acan-supheli-bacagindan-vuruldu-p371523",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/ehliyetini-5-yil-boyunca-kullanmayan-suruculere-1-milyon-300-bin-lira-odenecek-p371527",
       "source": "Sözcü",
       "published_at": "2026-10-22T04:13:14Z"
+    },
+    {
+      "title": "Tuzla’da ayakkabı fabrikasında yangın",
+      "link": "https://www.haberturk.com/gundem/tuzlada-ayakkabi-fabrikasinda-yangin-3921583",
+      "source": "Habertürk",
+      "published_at": "2026-10-22T04:13:00Z"
     },
     {
       "title": "İstanbul'da ayakkabı fabrikasında yangın",
@@ -64,12 +76,6 @@
       "link": "https://www.sozcu.com.tr/milli-egitim-bakani-ndan-kilicdaroglu-na-nikah-daveti-ziyareti-p371413",
       "source": "Sözcü",
       "published_at": "2026-10-22T03:57:27Z"
-    },
-    {
-      "title": "Tuzla'da ayakkabı fabrikasında yangın",
-      "link": "https://www.trthaber.com/haber/turkiye/tuzlada-ayakkabi-fabrikasinda-yangin-960836.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-22T03:46:00Z"
     },
     {
       "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
@@ -150,12 +156,6 @@
       "published_at": "2026-10-22T02:30:03Z"
     },
     {
-      "title": "Yeni Parti ismi değişmeyecek",
-      "link": "https://www.sozcu.com.tr/yeni-parti-ismi-degismeyecek-p371503",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T02:30:03Z"
-    },
-    {
       "title": "Gazeteci İsmail Arı ikinci kez tutuklandı",
       "link": "https://www.sozcu.com.tr/gazeteci-ismail-ari-ikinci-kez-tutuklandi-p371501",
       "source": "Sözcü",
@@ -176,6 +176,12 @@
     {
       "title": "Dervişoğlu sert çıktı: Milleti soyanlar yarın cennetten arsa bile satar!",
       "link": "https://www.sozcu.com.tr/dervisoglu-sert-cikti-milleti-soyanlar-yarin-cennetten-arsa-bile-satar-p371493",
+      "source": "Sözcü",
+      "published_at": "2026-10-22T02:30:03Z"
+    },
+    {
+      "title": "Yeni Parti ismi değişmeyecek",
+      "link": "https://www.sozcu.com.tr/yeni-parti-ismi-degismeyecek-p371503",
       "source": "Sözcü",
       "published_at": "2026-10-22T02:30:03Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/turkler-ve-cinliler-neden-kavga-ediyor-p371453",
       "source": "Sözcü",
       "published_at": "2026-10-21T18:30:13Z"
-    },
-    {
-      "title": "İstanbulspor'da Özer Hurmacı dönemi!",
-      "link": "https://www.haberturk.com/spor/istanbulspor-da-ozer-hurmaci-donemi-3921537",
-      "source": "Habertürk",
-      "published_at": "2026-10-21T18:25:20Z"
     }
   ]
 }
