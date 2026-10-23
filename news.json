@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:40:25.844587Z",
+  "generated_at": "2026-10-23T22:45:30.225301Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "1400 kilometre uzaktan ameliyat",
+      "link": "https://www.haberturk.com/saglik/1400-kilometre-uzaktan-ameliyat-3922158",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T22:38:34Z"
+    },
     {
       "title": "ÖGG sonuçları ne zaman açıklanacak?",
       "link": "https://www.haberturk.com/bilgi/foto/ogg-sonuclari-aciklanma-tarihi-ogg-sinav-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-3922157",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/juventus-ta-zeki-celik-sakatlandi-3922091",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:38:23Z"
-    },
-    {
-      "title": "27 kişinin öldüğü gemi faciasında kahreden detay: Kara kutu kayıtları ortaya çıktı",
-      "link": "https://www.sozcu.com.tr/27-kisinin-oldugu-gemi-faciasinda-kahreden-detay-kara-kutu-kayitlari-ortaya-cikti-p372120",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T15:34:05Z"
     }
   ]
 }
