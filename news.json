@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:04:31.680997Z",
+  "generated_at": "2026-10-23T19:09:34.622422Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kocaelispor Alanya'da 2 golle güldü",
+      "link": "https://www.sozcu.com.tr/kocaelispor-alanya-da-2-golle-guldu-p372152",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T19:07:51Z"
+    },
     {
       "title": "Kocaelispor 2 maç sonra kazandı!",
       "link": "https://www.haberturk.com/spor/alanyaspor-kocaelispor-mac-sonucu-iste-alanya-kocaeli-maci-ozeti-ve-golleri-super-lig-3922132",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/nilperi-sahinkaya-yakisiklilik-degil-ses-tonu-onemli-3921976",
       "source": "Habertürk",
       "published_at": "2026-10-23T13:20:12Z"
-    },
-    {
-      "title": "Shamonda virüsü insanda görüldü! DSÖ'den açıklama",
-      "link": "https://www.haberturk.com/saglik/dso-fransa-da-shamonda-virusunun-ilk-kez-bir-insanda-gorulmesinin-ardindan-arastirmalarini-surduruyor-haberler-3922057",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T13:18:38Z"
     }
   ]
 }
