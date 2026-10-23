@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:34:14.269816Z",
+  "generated_at": "2026-10-23T04:39:16.968563Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Gece yarısı haramileri",
+      "link": "https://www.sozcu.com.tr/gece-yarisi-haramileri-p371858",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:37:58Z"
+    },
+    {
+      "title": "7 ülke ilk kez Türkiye'de bir araya gelecek",
+      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-istanbul-da-r4-ve-r4e3-toplantilarina-ev-sahipligi-yapacak-3921897",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T04:32:13Z"
+    },
     {
       "title": "Arda Güler sonunda imzayı attı",
       "link": "https://www.sozcu.com.tr/arda-guler-sonunda-imzayi-atti-p371883",
@@ -230,12 +242,6 @@
     {
       "title": "4 bin 800 metrelik dağ erimeye başladı",
       "link": "https://www.sozcu.com.tr/4-bin-800-metrelik-dag-erimeye-basladi-p371864",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T02:30:18Z"
-    },
-    {
-      "title": "Gece yarısı haramileri",
-      "link": "https://www.sozcu.com.tr/gece-yarisi-haramileri-p371858",
       "source": "Sözcü",
       "published_at": "2026-10-23T02:30:18Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/fenerbahce-derbisi-oncesi-buyuk-sok-agrilari-artti-p371833",
       "source": "Sözcü",
       "published_at": "2026-10-22T19:48:22Z"
-    },
-    {
-      "title": "Avrupa'da Türk derbisi Anadolu Efes'in",
-      "link": "https://www.sozcu.com.tr/avrupa-da-turk-derbisi-anadolu-efes-in-p371835",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T19:46:11Z"
     }
   ]
 }
