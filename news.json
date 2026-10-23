@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:19:34.469123Z",
+  "generated_at": "2026-10-23T15:24:37.982735Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,28 +36,34 @@
   ],
   "items": [
     {
+      "title": "Van'da yapı stoku güçlendirildi",
+      "link": "https://www.haberturk.com/gundem/van-da-yapi-stoku-guclendirildi-3922084",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:18:02Z"
+    },
+    {
+      "title": "Yaş doğrulama tuzağına dikkat",
+      "link": "https://www.haberturk.com/gundem/dmm-sosyal-medyada-yas-dogrulama-bahanesiyle-gonderilen-sahte-mesajlara-karsi-uyardi-3922082",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:15:18Z"
+    },
+    {
+      "title": "8 ülke dışişleri bakanları İstanbul'da",
+      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-istanbul-da-r4-ve-r4e3-toplantilarina-ev-sahipligi-yapacak-3921897",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:11:33Z"
+    },
+    {
       "title": "Hakan Çalhanoğlu’ndan büyük sürpriz! Herkesi şaşırtan karar",
       "link": "https://www.sozcu.com.tr/hakan-calhanoglu-ndan-buyuk-surpriz-herkesi-sasirtan-karar-p372121",
       "source": "Sözcü",
       "published_at": "2026-10-23T15:10:52Z"
     },
     {
-      "title": "Yaş doğrulama tuzağına dikkat",
-      "link": "https://www.haberturk.com/gundem/dmm-sosyal-medyada-yas-dogrulama-bahanesiyle-gonderilen-sahte-mesajlara-karsi-uyardi-3922082",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:10:01Z"
-    },
-    {
       "title": "Sıfır Atık Tiyatrosu Van'da",
       "link": "https://www.haberturk.com/gundem/sifir-atik-tiyatrosu-van-da-3922081",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:07:50Z"
-    },
-    {
-      "title": "8 ülke dışişleri bakanları İstanbul'da",
-      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-istanbul-da-r4-ve-r4e3-toplantilarina-ev-sahipligi-yapacak-3921897",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:07:34Z"
     },
     {
       "title": "27 kişinin öldüğü gemi faciasında kahreden detay: Kara kutu kayıtları ortaya çıktı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/yilmaz-vural-turk-futbolunun-koklu-takimini-satin-aliyor-p372033",
       "source": "Sözcü",
       "published_at": "2026-10-23T10:17:12Z"
-    },
-    {
-      "title": "Ağaca çarptı traktörden düştü!",
-      "link": "https://www.haberturk.com/gundem/basini-agaca-carpip-traktorden-dusen-ciftci-oldu-3922005",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T10:10:18Z"
     }
   ]
 }
