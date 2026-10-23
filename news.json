@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:39:47.138152Z",
+  "generated_at": "2026-10-23T15:44:50.057732Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "8 ülke dışişleri bakanları İstanbul'da",
+      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-istanbul-da-r4-ve-r4e3-toplantilarina-ev-sahipligi-yapacak-3921897",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:41:06Z"
+    },
+    {
+      "title": "Juventus'ta Zeki Çelik sakatlandı!",
+      "link": "https://www.haberturk.com/spor/juventus-ta-zeki-celik-sakatlandi-3922091",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:38:23Z"
+    },
     {
       "title": "27 kişinin öldüğü gemi faciasında kahreden detay: Kara kutu kayıtları ortaya çıktı",
       "link": "https://www.sozcu.com.tr/27-kisinin-oldugu-gemi-faciasinda-kahreden-detay-kara-kutu-kayitlari-ortaya-cikti-p372120",
@@ -88,12 +100,6 @@
       "link": "https://www.haberturk.com/gundem/dmm-sosyal-medyada-yas-dogrulama-bahanesiyle-gonderilen-sahte-mesajlara-karsi-uyardi-3922082",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:15:18Z"
-    },
-    {
-      "title": "8 ülke dışişleri bakanları İstanbul'da",
-      "link": "https://www.haberturk.com/dunya/disisleri-bakani-fidan-istanbul-da-r4-ve-r4e3-toplantilarina-ev-sahipligi-yapacak-3921897",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:11:33Z"
     },
     {
       "title": "Hakan Çalhanoğlu’ndan büyük sürpriz! Herkesi şaşırtan karar",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/zonguldak-ta-maden-ocaginda-patlama-olu-ve-yaralilar-var-p371981",
       "source": "Sözcü",
       "published_at": "2026-10-23T10:32:59Z"
-    },
-    {
-      "title": "Alman basını yazdı: İltica şebekesine karışan Türk savcılar, ısmarlama dava açtı",
-      "link": "https://www.sozcu.com.tr/alman-basini-yazdi-iltica-sebekesine-karisan-turk-savcilar-ismarlama-dava-acti-p372035",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T10:32:33Z"
     }
   ]
 }
