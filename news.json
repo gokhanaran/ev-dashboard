@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:39:54.269458Z",
+  "generated_at": "2026-10-23T19:44:57.301613Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Martı TAG davasında karar",
+      "link": "https://www.haberturk.com/gundem/marti-tag-davasinda-karar-3922137",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T19:42:05Z"
+    },
+    {
+      "title": "Akü üretimi yapılan fabrikada korkutan yangın",
+      "link": "https://www.sozcu.com.tr/aku-uretimi-yapilan-fabrikada-korkutan-yangin-p372150",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T19:40:59Z"
+    },
+    {
       "title": "Ankara'da 650 milyonluk aklama soruşturması",
       "link": "https://www.haberturk.com/gundem/ankara-da-suc-gelirlerinin-aklanmasina-yonelik-operasyonda-7-supheli-gozaltina-alindi-3922131",
       "source": "Habertürk",
@@ -46,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
       "source": "Sözcü",
       "published_at": "2026-10-23T19:28:27Z"
+    },
+    {
+      "title": "Bakan Fidan: Bölgesel meselelerin çözümünde sorumluluk almaya devam edeceğiz",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-bolgesel-meselelerin-cozumunde-sorumluluk-almaya-devam-edecegiz-961030.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-23T19:27:00Z"
     },
     {
       "title": "A101 29 Ekim 2026 aktüel ürünler kataloğu",
@@ -100,12 +118,6 @@
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-23-ekim-2026-p372131",
       "source": "Sözcü",
       "published_at": "2026-10-23T18:54:11Z"
-    },
-    {
-      "title": "Akü üretimi yapılan fabrikada korkutan yangın",
-      "link": "https://www.sozcu.com.tr/aku-uretimi-yapilan-fabrikada-korkutan-yangin-p372150",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T18:52:42Z"
     },
     {
       "title": "Zonguldak'ta çöken binayla ilgili 3 şüpheli tutuklandı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/tam-dehset-araci-alev-aldi-cesedi-ucurumda-bulundu-3922064",
       "source": "Habertürk",
       "published_at": "2026-10-23T13:35:20Z"
-    },
-    {
-      "title": "İstanbul Modern'e anlamlı bağış",
-      "link": "https://www.haberturk.com/kultur-sanat/istanbul-modern-e-anlamli-bagis-3922065",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T13:35:17Z"
-    },
-    {
-      "title": "20. Türk Tarih Kongresi, 30 ülkeden 300 akademisyeni buluşturacak",
-      "link": "https://www.trthaber.com/haber/turkiye/20-turk-tarih-kongresi-30-ulkeden-300-akademisyeni-bulusturacak-961007.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-23T13:35:00Z"
     }
   ]
 }
