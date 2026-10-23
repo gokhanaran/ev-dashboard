@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:24:44.326331Z",
+  "generated_at": "2026-10-23T19:29:47.061017Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da futbol hayatı durduracak! Galatasaray-Fenerbahçe derbisinin olduğu gün Beşiktaş'ta sahaya çıkacak",
+      "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T19:28:27Z"
+    },
     {
       "title": "Rusya: ABD'ye dizel yakıt taşıyan ilk tanker yola çıktı",
       "link": "https://www.haberturk.com/dunya/rusya-abd-ye-dizel-yakit-tasiyan-ilk-tanker-yola-cikti-3922133",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kestanede-5-bin-tl-yevmiye-beklentisi-var-isci-yok-p372097",
       "source": "Sözcü",
       "published_at": "2026-10-23T13:33:58Z"
-    },
-    {
-      "title": "İş Sanat'tan 'Bir Neslin Yükselişi' sergisi",
-      "link": "https://www.haberturk.com/kultur-sanat/is-sanat-tan-bir-neslin-yukselisi-sergisi-3921493",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T13:32:57Z"
     }
   ]
 }
