@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:25:14.972967Z",
+  "generated_at": "2026-10-23T22:35:21.744670Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Anne ve minik Meryem yaşamını yitirdi",
+      "link": "https://www.haberturk.com/gundem/hatay-da-anne-ile-4-yasindaki-kizina-otomobil-carpti-anne-oldu-kizi-agir-yaralandi-3922140",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T22:29:32Z"
+    },
     {
       "title": "KPSS Ortaöğretim sonuçları ne zaman açıklanacak?",
       "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sonuclari-ne-zaman-aciklanacak-2026-kpss-ortaogretim-sonuclari-nasil-ogrenilir-3922154",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sinavi-ne-zaman-ertelendi-mi-2026-kpss-ortaogretim-sinavi-saat-kacta-basliyor-ve-bitiyor-3922090",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:33:53Z"
-    },
-    {
-      "title": "Belediye Başkan Vekillerini kabul etti",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-3922089",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:31:48Z"
     }
   ]
 }
