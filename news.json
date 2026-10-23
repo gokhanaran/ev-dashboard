@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:34:49.941549Z",
+  "generated_at": "2026-10-23T19:39:54.269458Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara'da 650 milyonluk aklama soruşturması",
+      "link": "https://www.haberturk.com/gundem/ankara-da-suc-gelirlerinin-aklanmasina-yonelik-operasyonda-7-supheli-gozaltina-alindi-3922131",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T19:31:51Z"
+    },
     {
       "title": "İstanbul'da futbol hayatı durduracak! Galatasaray-Fenerbahçe derbisinin olduğu gün Beşiktaş'ta sahaya çıkacak",
       "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
@@ -82,12 +88,6 @@
       "link": "https://www.haberturk.com/spor/boluspor-vanspor-mac-sonucu-iste-bolu-van-maci-ozeti-ve-golleri-1-lig-3922136",
       "source": "Habertürk",
       "published_at": "2026-10-23T19:14:36Z"
-    },
-    {
-      "title": "Ankara'da 650 milyonluk aklama soruşturması",
-      "link": "https://www.haberturk.com/gundem/ankara-da-suc-gelirlerinin-aklanmasina-yonelik-operasyonda-7-supheli-gozaltina-alindi-3922131",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T19:08:30Z"
     },
     {
       "title": "Kocaelispor Alanya'da 2 golle güldü",
