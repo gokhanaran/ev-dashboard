@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:20:10.829974Z",
+  "generated_at": "2026-10-23T22:25:14.972967Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/bulgaristan-da-tepki-ceken-goruntuler-kadin-gazeteci-bir-anda-yerde-kaldi-p372183",
       "source": "Sözcü",
       "published_at": "2026-10-23T22:14:23Z"
+    },
+    {
+      "title": "Katil İsrail, Batı Şeria'nın El Halil şehrine geniş çaplı askeri operasyon başlattı",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israil-bati-serianin-el-halil-sehrine-genis-capli-askeri-operasyon-baslatti-961044.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-23T22:14:00Z"
     },
     {
       "title": "Haftanın Kitapları",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-3922089",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:31:48Z"
-    },
-    {
-      "title": "Avrupa’da Beşiktaş fırtınası: Son 9 yılın en iyi başlangıcı",
-      "link": "https://www.sozcu.com.tr/avrupa-da-besiktas-firtinasi-son-9-yilin-en-iyi-baslangici-p372123",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T15:31:25Z"
     }
   ]
 }
