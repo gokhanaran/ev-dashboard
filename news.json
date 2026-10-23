@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:19:06.417391Z",
+  "generated_at": "2026-10-23T04:24:08.871292Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "CHP'li Belediye Başkanı dahil 34 kişi tutuklandı",
+      "link": "https://www.sozcu.com.tr/chp-li-belediye-baskani-dahil-34-kisi-tutuklandi-p371880",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:23:36Z"
+    },
+    {
+      "title": "İşçi Melike, bowling makinesinde can verdi",
+      "link": "https://www.sozcu.com.tr/isci-melike-bowling-makinesinde-can-verdi-p371879",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:23:31Z"
+    },
+    {
+      "title": "AKP’li eski vekil Ertan Aydın gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/akp-li-eski-vekil-ertan-aydin-gozaltina-alindi-p371869",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:21:45Z"
+    },
+    {
       "title": "29 Ekim’de 5 raylı sistem hattı ücretsiz olacak",
       "link": "https://www.sozcu.com.tr/29-ekim-de-5-rayli-sistem-hatti-ucretsiz-olacak-p371878",
       "source": "Sözcü",
@@ -46,6 +64,12 @@
       "link": "https://www.sozcu.com.tr/akp-ye-gececegi-one-surulmustu-chp-li-baskandan-transfer-iddialarina-yanit-p371877",
       "source": "Sözcü",
       "published_at": "2026-10-23T04:15:47Z"
+    },
+    {
+      "title": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+      "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-23T04:14:00Z"
     },
     {
       "title": "Beşiktaş maçına damga vuran an: Ndidi yüzü kapalı oynadı",
@@ -202,12 +226,6 @@
       "link": "https://www.sozcu.com.tr/ingiltereden-halka-cagri-en-az-3-gunluk-gida-ve-su-stoklayin-p371872",
       "source": "Sözcü",
       "published_at": "2026-10-23T02:13:56Z"
-    },
-    {
-      "title": "AKP’li eski vekil Ertan Aydın gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/akp-li-eski-vekil-ertan-aydin-gozaltina-alindi-p371869",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T02:10:18Z"
     },
     {
       "title": "Osimhen'in gündem olan o sözlerinin sırrı ortaya çıktı! Zafer kavga sonrası geldi",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/ara-tatil-ne-zaman-meb-2026-2027-calisma-takvimine-gore-kasim-ara-tatili-ne-zaman-basliyor-ve-bitiyor-3921265",
       "source": "Habertürk",
       "published_at": "2026-10-22T19:29:38Z"
-    },
-    {
-      "title": "Vincenzo Italiano rotasyona gitti!",
-      "link": "https://www.haberturk.com/spor/besiktas-teknik-direktoru-vincenzo-italiano-crystal-palace-karsisinda-rotasyona-gitti-3921855",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T19:29:02Z"
-    },
-    {
-      "title": "Fon soruşturmasında 11 tutuklama talebi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-11-tutuklama-talebi-3921838",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T19:27:15Z"
-    },
-    {
-      "title": "Heyecan sürüyor!",
-      "link": "https://www.haberturk.com/spor/besiktas-crystal-palace-maci-canli-anlatim-bjk-c-palace-uefa-sampiyonlar-ligi-maci-kac-kac-mac-skoru-3921609",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T19:27:09Z"
     }
   ]
 }
