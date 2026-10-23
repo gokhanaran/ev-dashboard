@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:43:06.441995Z",
+  "generated_at": "2026-10-23T00:03:14.580487Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yunan yalanı mı dil sürçmesi mi!",
+      "link": "https://www.sozcu.com.tr/yunan-yalani-mi-dil-surcmesi-mi-p371866",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T00:00:16Z"
+    },
     {
       "title": "Trump, Savunma Üretim Yasası'nı devreye aldı",
       "link": "https://www.haberturk.com/dunya/abd-baskani-trump-savunma-uretim-yasasi-ni-devreye-aldi-3921891",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/torunlariyla-gezmeye-cikti-yarim-saat-sonra-2-29-karatlik-elmas-buldu-p371803",
       "source": "Sözcü",
       "published_at": "2026-10-22T17:44:03Z"
-    },
-    {
-      "title": "İran Meclis Başkanı Kalibaf ABD'ye seslendi: İran'la savaşın hiçbir faydası olmayacak",
-      "link": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaf-abdye-seslendi-iranla-savasin-hicbir-faydasi-olmayacak-960938.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-22T17:42:00Z"
     }
   ]
 }
