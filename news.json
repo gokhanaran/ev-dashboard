@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:04:24.954651Z",
+  "generated_at": "2026-10-23T15:09:28.077938Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -7,7 +7,7 @@
       "source": "Habertürk",
       "url": "https://www.haberturk.com/rss",
       "ok": true,
-      "items": 99
+      "items": 100
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "27 kişinin öldüğü gemi faciasında kahreden detay: Kara kutu kayıtları ortaya çıktı",
+      "link": "https://www.sozcu.com.tr/27-kisinin-oldugu-gemi-faciasinda-kahreden-detay-kara-kutu-kayitlari-ortaya-cikti-p372120",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T15:05:47Z"
+    },
+    {
+      "title": "Kocasinan'da öğrencilere kahvaltı desteği sürüyor",
+      "link": "https://www.haberturk.com/gundem/kocasinan-da-ogrencilere-kahvalti-destegi-suruyor-3922077",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:02:10Z"
+    },
+    {
+      "title": "Memur zammı ne zaman belli olacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/memur-zammi-son-durum-ocak-2027de-memur-zammi-ne-kadar-olacak-en-dusuk-memur-zammi-kac-tl-olacak-memur-maas-zammi-hesaplama-3921800",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:01:52Z"
+    },
+    {
+      "title": "VGM burs başvurusu başladı!",
+      "link": "https://www.haberturk.com/bilgi/foto/vgm-burs-basvurusu-basladi-vakiflar-genel-mudurlugunun-vgm-2026-2027-burs-basvurusu-nasil-yapilir-burs-miktari-ne-kadar-ve-sartlari-neler-3921862",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T15:01:25Z"
+    },
     {
       "title": "Orta Doğu'daki gerilim petrol fiyatlarını uçurdu: Son 6 ayın zirvesinde!",
       "link": "https://www.sozcu.com.tr/brent-petrol-23-ekim-2026-p372113",
@@ -136,12 +160,6 @@
       "link": "https://www.sozcu.com.tr/golunu-atip-sakatlanmisti-zeki-celikten-kotu-haber-p372110",
       "source": "Sözcü",
       "published_at": "2026-10-23T14:32:13Z"
-    },
-    {
-      "title": "Memur zammı ne zaman belli olacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/memur-zammi-son-durum-ocak-2027de-memur-zammi-ne-kadar-olacak-en-dusuk-memur-zammi-kac-tl-olacak-memur-maas-zammi-hesaplama-3921800",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T14:24:22Z"
     },
     {
       "title": "DMM'den sosyal medyada yaş doğrulama tuzağına karşı uyarı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/dev-plandaki-ulkeler-ortaya-cikti-dunya-3-e-bolunecek-p372027",
       "source": "Sözcü",
       "published_at": "2026-10-23T10:04:31Z"
-    },
-    {
-      "title": "Sibel Can tutuklanan Emir Sarıgül ile evlenmekten son dakika vazgeçti iddiası",
-      "link": "https://www.sozcu.com.tr/sibel-can-tutuklanan-emir-sarigul-ile-evlenmekten-son-dakika-vazgecti-iddiasi-p372026",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T10:04:05Z"
-    },
-    {
-      "title": "Yükseköğretim mezunlarında beyin göçü oranı arttı",
-      "link": "https://www.haberturk.com/gundem/yuksekogretim-mezunlarinda-beyin-gocu-orani-artti-haberler-3922004",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T09:56:52Z"
-    },
-    {
-      "title": "Yoğurt mayalarken içine 1 kaşık atmak yetiyor: Haftalarca ne sulanıyor ne ekşiyor",
-      "link": "https://www.sozcu.com.tr/yogurt-mayalarken-icine-1-kasik-atmak-yetiyor-haftalarca-ne-sulaniyor-ne-eksiyor-p372024",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T09:56:19Z"
     }
   ]
 }
