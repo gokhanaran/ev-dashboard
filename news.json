@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:45:30.225301Z",
+  "generated_at": "2026-10-23T22:50:34.274843Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -64,6 +64,12 @@
       "link": "https://www.haberturk.com/gundem/hatay-da-anne-ile-4-yasindaki-kizina-otomobil-carpti-anne-oldu-kizi-agir-yaralandi-3922140",
       "source": "Habertürk",
       "published_at": "2026-10-23T22:29:32Z"
+    },
+    {
+      "title": "Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası verilecek",
+      "link": "https://www.trthaber.com/haber/gundem/kurtulus-savasina-katilan-5-askerin-mirascilarina-istiklal-madalyasi-verilecek-961045.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-23T22:27:00Z"
     },
     {
       "title": "KPSS Ortaöğretim sonuçları ne zaman açıklanacak?",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/maltepe-belediyesi-yeni-parti-ye-katildi-p372112",
       "source": "Sözcü",
       "published_at": "2026-10-23T15:46:56Z"
-    },
-    {
-      "title": "Juventus'ta Zeki Çelik sakatlandı!",
-      "link": "https://www.haberturk.com/spor/juventus-ta-zeki-celik-sakatlandi-3922091",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:38:23Z"
     }
   ]
 }
