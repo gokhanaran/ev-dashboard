@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:11:21.569186Z",
+  "generated_at": "2026-10-23T10:16:25.033948Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Ağaca çarptı traktörden düştü!",
+      "link": "https://www.haberturk.com/gundem/basini-agaca-carpip-traktorden-dusen-ciftci-oldu-3922005",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T10:10:07Z"
+    },
+    {
+      "title": "Zonguldak'ta maden ocağında patlama! 3 madenci can verdi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-zonguldak-ta-maden-ocaginda-patlama-3921958",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T10:08:17Z"
+    },
+    {
       "title": "Türkiye'de açık alanlarda da sigara yasağı geliyor!",
       "link": "https://www.sozcu.com.tr/turkiye-de-acik-alanlarda-da-sigara-yasagi-geliyor-p372031",
       "source": "Sözcü",
@@ -70,12 +82,6 @@
       "link": "https://www.sozcu.com.tr/zonguldak-ta-maden-ocaginda-patlama-olu-ve-yaralilar-var-p371981",
       "source": "Sözcü",
       "published_at": "2026-10-23T09:59:25Z"
-    },
-    {
-      "title": "Zonguldak'ta maden ocağında patlama! 3 madenci can verdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-zonguldak-ta-maden-ocaginda-patlama-3921958",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T09:57:06Z"
     },
     {
       "title": "Yükseköğretim mezunlarında beyin göçü oranı arttı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/murat-yildirim-dan-esi-iman-elbani-ye-ask-dolu-dogum-gunu-mesaji-p371951",
       "source": "Sözcü",
       "published_at": "2026-10-23T07:08:37Z"
-    },
-    {
-      "title": "İşte UEFA ülke puanında son durum!",
-      "link": "https://www.haberturk.com/spor/foto/iste-uefa-ulke-puaninda-son-durum-galatasaray-ve-trabzonspor-kazandi-fenerbahce-ve-besiktas-tan-beraberlik-3921928",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T07:05:18Z"
     }
   ]
 }
