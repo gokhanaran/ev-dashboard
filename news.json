@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:59:28.530867Z",
+  "generated_at": "2026-10-23T19:04:31.680997Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kocaelispor 2 maç sonra kazandı!",
+      "link": "https://www.haberturk.com/spor/alanyaspor-kocaelispor-mac-sonucu-iste-alanya-kocaeli-maci-ozeti-ve-golleri-super-lig-3922132",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T18:56:02Z"
+    },
     {
       "title": "Sarıgül soruşturmasında 3 tutuklama, 2 ev hapsi talebi",
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-karar-23-ekim-2026-p372131",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/dso-fransa-da-shamonda-virusunun-ilk-kez-bir-insanda-gorulmesinin-ardindan-arastirmalarini-surduruyor-haberler-3922057",
       "source": "Habertürk",
       "published_at": "2026-10-23T13:18:38Z"
-    },
-    {
-      "title": "Cevdet Yılmaz'dan 'dezenformasyon' tepkisi: Siyaset dürüstlük işidir",
-      "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmazdan-dezenformasyon-tepkisi-siyaset-durustluk-isidir-961006.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-23T13:18:00Z"
     }
   ]
 }
