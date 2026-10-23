@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:44:19.742429Z",
+  "generated_at": "2026-10-23T04:49:22.330116Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon aşkı bitmiyor",
+      "link": "https://www.sozcu.com.tr/fon-aski-bitmiyor-p371871",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:48:23Z"
+    },
+    {
+      "title": "Balkonuna eken 12 ay hasat ediyor: Pet şişeyle verimi 2 kat artıyor",
+      "link": "https://www.sozcu.com.tr/balkonuna-eken-12-ay-hasat-ediyor-pet-siseyle-verimi-2-kat-artiyor-p371885",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T04:46:16Z"
+    },
+    {
+      "title": "Sağanak yağmur uyarısı! Bu bölgeler dikkat",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-saganak-yagmur-uyarisi-bu-bolgeler-dikkat-23-ekim-hava-durumu-3921902",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T04:42:53Z"
+    },
     {
       "title": "İki ayın en sert kırılmasını yaşayan altın için yeni dip uyarısı",
       "link": "https://www.sozcu.com.tr/iki-ayin-en-sert-kirilmasini-yasayan-altin-icin-yeni-dip-uyarisi-p371884",
@@ -274,12 +292,6 @@
       "link": "https://www.sozcu.com.tr/faizi-indirdi-ama-krizi-gormedi-p371850",
       "source": "Sözcü",
       "published_at": "2026-10-23T02:30:18Z"
-    },
-    {
-      "title": "Fon aşkı bitmiyor",
-      "link": "https://www.sozcu.com.tr/fon-aski-bitmiyor-p371871",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T02:20:18Z"
     },
     {
       "title": "İngiltere'den halka çağrı: En az 3 günlük gıda ve su stoklayın",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/chp-li-ibb-meclis-uyesi-ebru-akgun-pekel-istifa-etti-p371837",
       "source": "Sözcü",
       "published_at": "2026-10-22T20:01:49Z"
-    },
-    {
-      "title": "Canlı | Beşiktaş- Crystal Palace maçı canlı yayın",
-      "link": "https://www.sozcu.com.tr/canli-veya-besiktas-crystal-palace-maci-canli-yayin-p371800",
-      "source": "Sözcü",
-      "published_at": "2026-10-22T19:59:36Z"
-    },
-    {
-      "title": "\"Trabzonspor karşısında iyi mücadele ettik\"",
-      "link": "https://www.haberturk.com/spor/wouter-vrancken-trabzonspor-karsisinda-iyi-mucadele-ettik-3921861",
-      "source": "Habertürk",
-      "published_at": "2026-10-22T19:55:44Z"
     }
   ]
 }
