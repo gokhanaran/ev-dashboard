@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:44:57.301613Z",
+  "generated_at": "2026-10-23T19:50:00.250043Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Hakkı Bulut rahatsızlandı; hastaneye kaldırıldı",
+      "link": "https://www.sozcu.com.tr/hakki-bulut-rahatsizlandi-mi-saglik-durumu-nasil-p372155",
+      "source": "Sözcü",
+      "published_at": "2026-10-23T19:47:28Z"
+    },
     {
       "title": "Martı TAG davasında karar",
       "link": "https://www.haberturk.com/gundem/marti-tag-davasinda-karar-3922137",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/bankanin-teklifini-kabul-etti-buyuk-kayiptan-son-anda-kurtuldu-p372023",
       "source": "Sözcü",
       "published_at": "2026-10-23T13:37:17Z"
-    },
-    {
-      "title": "Tam dehşet! Aracı alev aldı, cesedi uçurumda bulundu!",
-      "link": "https://www.haberturk.com/gundem/tam-dehset-araci-alev-aldi-cesedi-ucurumda-bulundu-3922064",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T13:35:20Z"
     }
   ]
 }
