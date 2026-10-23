@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:50:00.250043Z",
+  "generated_at": "2026-10-23T19:55:04.312001Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/hakki-bulut-rahatsizlandi-mi-saglik-durumu-nasil-p372155",
       "source": "Sözcü",
       "published_at": "2026-10-23T19:47:28Z"
+    },
+    {
+      "title": "Manisa'daki yangın kontrol altında",
+      "link": "https://www.haberturk.com/gundem/manisa-organize-sanayi-bolgesi-ndeki-aku-fabrikasinda-cikan-yangina-ekipler-mudahale-ediyor-3922124",
+      "source": "Habertürk",
+      "published_at": "2026-10-23T19:47:05Z"
     },
     {
       "title": "Martı TAG davasında karar",
@@ -180,16 +186,16 @@
       "published_at": "2026-10-23T18:37:35Z"
     },
     {
-      "title": "Manisa'da akü fabrikasında yangın",
-      "link": "https://www.haberturk.com/gundem/manisa-organize-sanayi-bolgesi-ndeki-aku-fabrikasinda-cikan-yangina-ekipler-mudahale-ediyor-3922124",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T18:34:37Z"
-    },
-    {
       "title": "Çukurova Belediye Başkanı görevden uzaklaştırıldı",
       "link": "https://www.haberturk.com/gundem/son-dakika-cukurova-belediye-baskani-gorevden-uzaklastirildi-3922115",
       "source": "Habertürk",
       "published_at": "2026-10-23T18:29:20Z"
+    },
+    {
+      "title": "Manisa'da akü fabrikasında yangın",
+      "link": "https://www.trthaber.com/haber/turkiye/manisada-aku-fabrikasinda-yangin-961026.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-23T18:22:00Z"
     },
     {
       "title": "Son dakika...Çukurova belediye başkanı Kozay görevden uzaklaştırıldı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/borsada-tarihi-dusus-18-yil-sonra-bir-ilk-yasaniyor-p372041",
       "source": "Sözcü",
       "published_at": "2026-10-23T13:42:22Z"
-    },
-    {
-      "title": "Devam etseydi kaybı büyük olacaktı: Teklifi kabul ederek doğru kararı verdi",
-      "link": "https://www.sozcu.com.tr/bankanin-teklifini-kabul-etti-buyuk-kayiptan-son-anda-kurtuldu-p372023",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T13:37:17Z"
     }
   ]
 }
