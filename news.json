@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:25:21.297211Z",
+  "generated_at": "2026-10-24T18:30:25.408914Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fatih Karagümrük üç maç sonra kazandı!",
+      "link": "https://www.haberturk.com/spor/sariyer-fatih-karagumruk-mac-sonucu-iste-sariyer-fatih-karagumruk-maci-ozeti-ve-golleri-1-lig-3922334",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T18:26:08Z"
+    },
     {
       "title": "Husilerin Suudi Arabistan'a saldırıları sürüyor",
       "link": "https://www.haberturk.com/dunya/husiler-suudi-arabistan-a-7-saldiri-duzenledik-3922322",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kasimpasa-eyupspor-u-tek-golle-gecti-p372326",
       "source": "Sözcü",
       "published_at": "2026-10-24T12:36:14Z"
-    },
-    {
-      "title": "Kasımpaşa, Benedyczak ile kazandı!",
-      "link": "https://www.haberturk.com/spor/eyupspor-0-kasimpasa-1-mac-sonucu-3922259",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T12:35:55Z"
     }
   ]
 }
