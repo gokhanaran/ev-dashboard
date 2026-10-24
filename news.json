@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:55:45.765854Z",
+  "generated_at": "2026-10-24T06:00:49.280103Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da yürek yakan yangın: 12 yaşındaki çocuk hayatını kaybetti!",
+      "link": "https://www.sozcu.com.tr/maltepede-gecekondu-yangini-12-yasindaki-cocuk-hayatini-kaybetti-p372219",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T05:59:25Z"
+    },
+    {
+      "title": "Araçlara turkuaz ışık geliyor, sürüş sırasında önemli bir görevi olacak",
+      "link": "https://www.sozcu.com.tr/araclara-turkuaz-isik-geliyor-surus-sirasinda-onemli-bir-gorevi-olacak-p372218",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T05:56:32Z"
+    },
+    {
+      "title": "Hakkı Bulut hastanelik oldu",
+      "link": "https://www.haberturk.com/magazin/hakki-bulut-hastanelik-oldu-3922170",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T05:53:53Z"
+    },
     {
       "title": "Tarlanın ortasında 649 kiloluk hazine buldu",
       "link": "https://www.sozcu.com.tr/tarlanin-ortasinda-649-kiloluk-hazine-buldu-p372216",
@@ -64,12 +82,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
       "source": "Sözcü",
       "published_at": "2026-10-24T05:39:32Z"
-    },
-    {
-      "title": "Hakkı Bulut hastanelik oldu",
-      "link": "https://www.haberturk.com/magazin/usta-muzisyen-hakki-bulut-hastanelik-oldu-bulutun-saglik-durumunun-iyi-oldugu-ogrenildi-3922142",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T05:39:27Z"
     },
     {
       "title": "Temassız kredi kartı kullananlar dikkat: Yüzde 43 arttı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/aziz-sancar-turk-devletleri-bilimde-yarismali-3922128",
       "source": "Habertürk",
       "published_at": "2026-10-23T18:47:40Z"
-    },
-    {
-      "title": "Yunanistan ile İsrail ortak tatbikat yaptı",
-      "link": "https://www.haberturk.com/dunya/yunanistan-ile-israil-ortak-egitim-tatbikati-yapti-3922125",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T18:46:30Z"
-    },
-    {
-      "title": "Dice Kayek 'Hagia Sophia'yla Londra'da",
-      "link": "https://www.haberturk.com/kultur-sanat/dice-kayek-hagia-sophia-yla-londra-da-3922126",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T18:45:54Z"
     }
   ]
 }
