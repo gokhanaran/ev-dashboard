@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:48:38.143069Z",
+  "generated_at": "2026-10-24T14:53:42.167383Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Bill Gates'ten yapay zeka uyarısı",
+      "link": "https://www.haberturk.com/ekonomi/bill-gates-gelecegi-isaret-etti-yapay-zeka-20-yili-degistirecek-3922282",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T14:45:53Z"
+    },
+    {
+      "title": "Keldaniler, Şırnak'ın Aksu köyünü ziyaret etti",
+      "link": "https://www.haberturk.com/gundem/keldaniler-sirnak-in-aksu-koyunu-ziyaret-etti-3922292",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T14:45:10Z"
+    },
+    {
+      "title": "Kanada ile 10 milyar dolarlık ticaret hedefi",
+      "link": "https://www.haberturk.com/ekonomi/turkiye-ve-kanada-arasinda-ticarette-yeni-donem-3922291",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T14:45:08Z"
+    },
     {
       "title": "17 yıldır kayıp olan kadının evi de kundaklandı: Yapılan kazıda kemikler bulundu",
       "link": "https://www.sozcu.com.tr/17-yildir-kayip-olan-kadinin-evi-de-kundaklandi-yapilan-kazida-kemikler-bulundu-p372363",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-luks-sitede-sevgilisiyle-yakalandi-futbolculuktan-uyusturucu-baronluguna-p372258",
       "source": "Sözcü",
       "published_at": "2026-10-24T10:10:34Z"
-    },
-    {
-      "title": "Engin Altan Düzyatan'ın acı günü",
-      "link": "https://www.haberturk.com/magazin/engin-altan-duzyatan-in-aci-gunu-3922201",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T10:09:31Z"
-    },
-    {
-      "title": "74 ilde atık gıdalar hayvan mamasına dönüştürülüyor",
-      "link": "https://www.trthaber.com/haber/gundem/74-ilde-atik-gidalar-hayvan-mamasina-donusturuluyor-961070.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-24T10:05:00Z"
-    },
-    {
-      "title": "Yanlışlıkla kurdukları işle 33 milyon lira kazanıyorlar",
-      "link": "https://www.sozcu.com.tr/yanlislikla-kurduklari-isle-33-milyon-lira-kazaniyorlar-p372294",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T10:02:36Z"
     }
   ]
 }
