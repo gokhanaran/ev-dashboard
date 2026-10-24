@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:40:33.742927Z",
+  "generated_at": "2026-10-24T18:50:40.397352Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Napoli kaçtı Roma kovaladı!",
+      "link": "https://www.haberturk.com/spor/napoli-roma-mac-sonucu-iste-napoli-roma-maci-ozeti-ve-golleri-italya-serie-a-3922335",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T18:41:55Z"
+    },
     {
       "title": "Tottenham kabustan uyanmaya başladı",
       "link": "https://www.sozcu.com.tr/tottenham-kabustan-uyanmaya-basladi-p372391",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/istanbul-da-bugun-bu-yollar-kapali-iste-24-ekim-2026-istanbul-da-trafige-kapali-yollar-listesi-ve-alternatif-guzergahlar-3922179",
       "source": "Habertürk",
       "published_at": "2026-10-24T12:40:36Z"
-    },
-    {
-      "title": "İki genç kız birlikte 3. kattan düştü! Çarşaf koptu!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-iki-genc-kiz-birlikte-3-kattan-dustu-carsaf-koptu-3922261",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T12:40:11Z"
     }
   ]
 }
