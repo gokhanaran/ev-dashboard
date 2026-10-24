@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:00:01.222715Z",
+  "generated_at": "2026-10-24T18:05:05.194809Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Amedspor geriden geldi maç fazlasıyla liderliğe yükseldi",
+      "link": "https://www.sozcu.com.tr/amedspor-geriden-geldi-mac-fazlasiyla-liderlige-yukseldi-p372385",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T18:00:55Z"
+    },
+    {
+      "title": "Amed SK, maç fazlasıyla zirveye yerleşti!",
+      "link": "https://www.haberturk.com/spor/samsunspor-amed-sk-mac-sonucu-iste-samsunspor-amed-sk-maci-ozeti-ve-golleri-super-lig-3922329",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T17:59:08Z"
+    },
+    {
+      "title": "AKP’li Zeybekçi 6 kurumu işaret etti: ‘Ben de fon mağduruyum’ demişti",
+      "link": "https://www.sozcu.com.tr/akp-li-zeybekci-6-kurumu-isaret-etti-ben-de-fon-magduruyum-demisti-p372384",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T17:58:56Z"
+    },
     {
       "title": "AK Parti Sözcüsü Çelik'ten BM mesajı",
       "link": "https://www.haberturk.com/gundem/ak-parti-sozcusu-omer-celik-bm-nin-kurulus-yil-donumunu-kutladi-spot-3922328",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-milleti-olarak-dunyada-esine-az-rastlanir-bir-muktesebata-sahibiz-961083.html",
       "source": "TRT Haber",
       "published_at": "2026-10-24T12:18:00Z"
-    },
-    {
-      "title": "10 yaşındaki Elif defalarca tabutu öptü",
-      "link": "https://www.haberturk.com/gundem/maden-sehitlerine-veda-10-yasindaki-elif-defalarca-tabutu-optu-zonguldak-haberleri-3922251",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T12:08:30Z"
-    },
-    {
-      "title": "Kültür Yolu Festivali'nin 24'üncü durağı İzmir",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/kultur-yolu-festivalinin-24uncu-duragi-izmir-961082.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-24T12:08:00Z"
-    },
-    {
-      "title": "Dağ ceylanının alanına tarla açtı kâbusu yaşadı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-dag-ceylaninin-alanina-surdu-kbusu-yasadi-hatay-haberleri-3922175",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T12:06:33Z"
     }
   ]
 }
