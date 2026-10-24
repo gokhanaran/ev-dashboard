@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:08:53.795203Z",
+  "generated_at": "2026-10-24T15:13:57.680248Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "‘Cehennem Necati’ye 15,5 yıl hapis cezası",
+      "link": "https://www.sozcu.com.tr/cehennem-necati-ye-15-5-yil-hapis-cezasi-p372364",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T15:08:22Z"
+    },
+    {
+      "title": "Mavi Vatan Yasası geliyor",
+      "link": "https://www.haberturk.com/gundem/ak-parti-denizlerdeki-haklari-guclendirecek-duzenlemeyi-meclis-e-sunmaya-hazirlaniyor-3922295",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T15:08:09Z"
+    },
+    {
+      "title": "Erzurumspor FK'dan üst üste 2. galibiyet!",
+      "link": "https://www.haberturk.com/spor/gaziantep-fk-erzurumspor-fk-mac-sonucu-iste-gaziantep-fk-erzurumspor-fk-maci-ozeti-ve-golleri-super-lig-3922296",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T15:07:16Z"
+    },
     {
       "title": "Fon soruşturmasında 15 şüpheli tutuklandı",
       "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-yeni-gelisme-3922271",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/gazeteciler-sokakta-10-ilde-ortak-eylem-p372299",
       "source": "Sözcü",
       "published_at": "2026-10-24T10:29:36Z"
-    },
-    {
-      "title": "Erdoğan-Mansur Yavaş anketinde çarpıcı sonuç! Partilerin tercihi belli oldu",
-      "link": "https://www.sozcu.com.tr/erdogan-mansur-yavas-anketinde-carpici-sonuc-partilerin-tercihi-belli-oldu-p372292",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T10:26:21Z"
-    },
-    {
-      "title": "\"Hatay Havalimanı'nı yıl sonunda tamamlamayı hedefliyoruz\"",
-      "link": "https://www.haberturk.com/ekonomi/ulastirma-ve-altyapi-bakani-abdulkadir-uraloglu-hatay-havalimani-ni-yil-sonunda-tamamlamayi-hedefliyoruz-3922234",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T10:21:10Z"
-    },
-    {
-      "title": "Yapay zeka tıbbi teşhiste 2,3 kat başarılı",
-      "link": "https://www.haberturk.com/saglik/yapay-zeka-tibbi-teshiste-2-3-kat-basarili-haberler-3922230",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T10:18:42Z"
     }
   ]
 }
