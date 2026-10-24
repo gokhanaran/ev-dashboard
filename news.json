@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:40:34.087530Z",
+  "generated_at": "2026-10-24T05:45:38.290764Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Osmangazi Köprüsü trafiğe kapatılacak",
+      "link": "https://www.sozcu.com.tr/osmangazi-koprusu-trafige-kapatilacak-p372213",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T05:42:10Z"
+    },
     {
       "title": "İstanbul'da futbol hayatı durduracak! Galatasaray-Fenerbahçe derbisinin olduğu gün Beşiktaş da sahaya çıkacak",
       "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-cukurova-belediye-baskani-gorevden-uzaklastirildi-3922115",
       "source": "Habertürk",
       "published_at": "2026-10-23T18:29:20Z"
-    },
-    {
-      "title": "Manisa'da akü fabrikasında yangın",
-      "link": "https://www.trthaber.com/haber/turkiye/manisada-aku-fabrikasinda-yangin-961026.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-23T18:22:00Z"
     }
   ]
 }
