@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:00:09.174201Z",
+  "generated_at": "2026-10-24T11:05:13.103095Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,46 @@
   ],
   "items": [
     {
+      "title": "Son dakika... Nusret Altınbaş teslim oldu",
+      "link": "https://www.sozcu.com.tr/son-dakika-nusret-altinbas-teslim-oldu-p372302",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T11:02:43Z"
+    },
+    {
       "title": "SON DAKİKA | Altınbaş Holding ile Titanic Hotel'in iki üst düzey yöneticisi gözaltına alındı",
       "link": "https://www.sozcu.com.tr/son-dakika-veya-altinbas-holding-ile-titanic-hotel-in-iki-ust-duzey-yoneticisi-gozaltina-alindi-p372300",
       "source": "Sözcü",
       "published_at": "2026-10-24T10:56:52Z"
+    },
+    {
+      "title": "Dağ ceylanının alanına tarla açtı kâbusu yaşadı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-dag-ceylaninin-alanina-surdu-kbusu-yasadi-hatay-haberleri-3922175",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T10:56:06Z"
+    },
+    {
+      "title": "Tedavi edilen makak yavrusu Garip merkezin maskotu oldu",
+      "link": "https://www.haberturk.com/yasam/gaziantep-te-tedavi-edilen-makak-yavrusu-merkezin-maskotu-oldu-3922237",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T10:55:41Z"
+    },
+    {
+      "title": "Aile evde mahsur kaldı... 12 yaşında çocuk burada can verdi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-aile-evde-mahsur-kaldi-12-yasinda-cocuk-burada-can-verdi-3922171",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T10:55:32Z"
+    },
+    {
+      "title": "Gülşen 17 yıl önce kayboldu... Evin altından vahşet çıktı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-gulsen-uyar-17-yil-once-kayboldu-evin-altindan-vahset-cikti-3922165",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T10:55:05Z"
+    },
+    {
+      "title": "Anne kızı bıçaklamaya giderken kameraya yansıdı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-anne-kizi-bicaklamaya-giderken-kameraya-yansidi-malatya-haberleri-3922216",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T10:54:26Z"
     },
     {
       "title": "ABB'den özel gereksinimli bireyler ve ailelerine destek",
@@ -186,12 +222,6 @@
       "published_at": "2026-10-24T09:43:00Z"
     },
     {
-      "title": "Anne kızı bıçaklamaya giderken kameraya yansıdı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-anne-kizi-bicaklamaya-giderken-kameraya-yansidi-malatya-haberleri-3922216",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:38:41Z"
-    },
-    {
       "title": "Aziz Yıldırım 'Mayıstan sonra yokum' diyerek açıkladı! 'Bir daha bu kulübün içine gelmem'",
       "link": "https://www.sozcu.com.tr/aziz-yildirim-mayistan-sonra-yokum-diyerek-acikladi-bir-daha-bu-kulubun-icine-gelmem-p372274",
       "source": "Sözcü",
@@ -210,28 +240,10 @@
       "published_at": "2026-10-24T09:36:35Z"
     },
     {
-      "title": "Dağ ceylanının alanına tarla açtı kâbusu yaşadı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-dag-ceylaninin-alanina-surdu-kbusu-yasadi-hatay-haberleri-3922175",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:36:03Z"
-    },
-    {
-      "title": "Aile evde mahsur kaldı... 12 yaşında çocuk burada can verdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-aile-evde-mahsur-kaldi-12-yasinda-cocuk-burada-can-verdi-3922171",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:35:41Z"
-    },
-    {
       "title": "Benzin ve dizel araçlar 2028'ten itibaren yasaklanacak",
       "link": "https://www.sozcu.com.tr/benzin-ve-dizel-araclar-2028-ten-itibaren-yasaklanacak-p372268",
       "source": "Sözcü",
       "published_at": "2026-10-24T09:35:38Z"
-    },
-    {
-      "title": "Gülşen 17 yıl önce kayboldu... Evin altından vahşet çıktı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-gulsen-uyar-17-yil-once-kayboldu-evin-altindan-vahset-cikti-3922165",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:35:21Z"
     },
     {
       "title": "Aziz Yıldırım: İsmail Kartal kafamda yoktu!",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/tarlanin-ortasinda-649-kiloluk-hazine-buldu-p372216",
       "source": "Sözcü",
       "published_at": "2026-10-24T05:50:25Z"
-    },
-    {
-      "title": "Yarın saatler bir saat geri alınacak",
-      "link": "https://www.sozcu.com.tr/yarin-saatler-bir-saat-geri-alinacak-p372215",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T05:48:08Z"
-    },
-    {
-      "title": "İstanbul'da bu yollar trafiğe kapatıldı!",
-      "link": "https://www.sozcu.com.tr/istanbulda-bu-yollar-trafige-kapatildi-p372214",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T05:45:56Z"
     }
   ]
 }
