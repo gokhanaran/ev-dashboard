@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:26:07.146646Z",
+  "generated_at": "2026-10-24T06:31:10.495051Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "MHRS'den randevu alınabiliyor! Gebelere özel...",
+      "link": "https://www.haberturk.com/saglik/anne-adaylarina-sigarayi-birakmalari-icin-ozel-destek-3922174",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T06:26:11Z"
+    },
+    {
+      "title": "\"İtibarımı zedeleyenlere dava açtım\"",
+      "link": "https://www.haberturk.com/magazin/izzet-yildizhan-itibarimi-zedeleyenlere-dava-actim-3922172",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T06:26:05Z"
+    },
     {
       "title": "Meteoroloji saat verip uyardı... 2 bölgede sağanak",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-saat-verip-uyardi-2-bolgede-saganak-hava-durumu-istanbul-3922164",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ankara-da-suc-gelirlerinin-aklanmasina-yonelik-operasyonda-7-supheli-gozaltina-alindi-3922131",
       "source": "Habertürk",
       "published_at": "2026-10-23T19:31:51Z"
-    },
-    {
-      "title": "İstanbul'da futbol hayatı durduracak! Galatasaray-Fenerbahçe derbisinin olduğu gün Beşiktaş'ta sahaya çıkacak",
-      "link": "https://www.sozcu.com.tr/istanbul-da-futbol-hayati-durduracak-galatasaray-fenerbahce-derbisinin-oldugu-gun-besiktas-ta-sahaya-p372151",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T19:28:27Z"
-    },
-    {
-      "title": "Bakan Fidan: Bölgesel meselelerin çözümünde sorumluluk almaya devam edeceğiz",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-bolgesel-meselelerin-cozumunde-sorumluluk-almaya-devam-edecegiz-961030.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-23T19:27:00Z"
     }
   ]
 }
