@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:23:20.553473Z",
+  "generated_at": "2026-10-24T14:28:24.441514Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bursu kesilen öğrencinin başvurusu sonuç verdi: Geriye dönük ödeme kararı",
+      "link": "https://www.sozcu.com.tr/bursu-kesilen-ogrencinin-basvurusu-sonuc-verdi-geriye-donuk-odeme-karari-p372360",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T14:21:55Z"
+    },
+    {
+      "title": "Yapay zeka ile 63 dilde anlık çeviri",
+      "link": "https://www.haberturk.com/ekonomi/google-meet-te-dil-bariyeri-tarihe-karisiyor-63-dilde-anlik-ceviri-3922285",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T14:20:32Z"
+    },
     {
       "title": "Coşkun Necati Arabacı'ya 15 yıl 6 ay hapis",
       "link": "https://www.trthaber.com/haber/turkiye/coskun-necati-arabaciya-15-yil-6-ay-hapis-961088.html",
@@ -352,6 +364,12 @@
       "link": "https://www.haberturk.com/gundem/samsun-dan-8-kulturel-deger-daha-3922255",
       "source": "Habertürk",
       "published_at": "2026-10-24T12:18:13Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Darphanei Amire Külliyesi dünyaya örnek teşkil edecek bir yapıya kavuştu",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-darphane-i-amire-kulliyesi-dunyaya-ornek-teskil-edecek-bir-yapiya-kavustu-961083.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-24T12:18:00Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan: Türk milleti olarak dünyada eşine az rastlanır bir müktesebata sahibiz",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/hatay-havalimani-yenileniyor-961068.html",
       "source": "TRT Haber",
       "published_at": "2026-10-24T09:43:00Z"
-    },
-    {
-      "title": "Sarıgül'ün korumasına 'adli kontrol' kararı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-mustafa-sarigul-un-korumasina-adli-kontrol-karari-3922224",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:37:25Z"
-    },
-    {
-      "title": "Benzin ve dizel araçlar 2028'ten itibaren yasaklanacak",
-      "link": "https://www.sozcu.com.tr/benzin-ve-dizel-araclar-2028-ten-itibaren-yasaklanacak-p372268",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T09:35:38Z"
-    },
-    {
-      "title": "Aziz Yıldırım: İsmail Kartal kafamda yoktu!",
-      "link": "https://www.haberturk.com/spor/son-dakika-canli-aziz-yildirim-aciklamalarda-bulunuyor-3922213",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T09:34:18Z"
     }
   ]
 }
