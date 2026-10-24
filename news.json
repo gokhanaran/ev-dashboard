@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:30:25.408914Z",
+  "generated_at": "2026-10-24T18:35:29.501676Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Mardin'de korkunç kaza! 4’ü çocuk, 6 ölü",
+      "link": "https://www.sozcu.com.tr/mardin-de-korkunc-kaza-4-u-cocuk-6-olu-p372354",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T18:33:20Z"
+    },
     {
       "title": "Fatih Karagümrük üç maç sonra kazandı!",
       "link": "https://www.haberturk.com/spor/sariyer-fatih-karagumruk-mac-sonucu-iste-sariyer-fatih-karagumruk-maci-ozeti-ve-golleri-1-lig-3922334",
@@ -538,12 +544,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-istanbul-barosu-secimlerinde-kavga-cikti-yumruklar-havada-ucustu-p372345",
       "source": "Sözcü",
       "published_at": "2026-10-24T13:57:21Z"
-    },
-    {
-      "title": "Mardin'de korkunç kaza! 4’ü çocuk, 6 ölü",
-      "link": "https://www.sozcu.com.tr/mardin-de-korkunc-kaza-4-u-cocuk-6-olu-p372354",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T13:56:11Z"
     },
     {
       "title": "Aziz Yıldırım 'Mayıstan sonra yokum' diyerek açıkladı! 'Bir daha bu kulübün içine gelmem'",
