@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:01:55.381620Z",
+  "generated_at": "2026-10-24T23:11:59.427372Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Anadolu Otoyolu'nda tır ile cipin çarpıştığı kazada 1 kişi öldü, 2 kişi yaralandı",
+      "link": "https://www.trthaber.com/haber/turkiye/anadolu-otoyolunda-tir-ile-cipin-carpistigi-kazada-1-kisi-oldu-2-kisi-yaralandi-961113.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-24T23:03:00Z"
+    },
     {
       "title": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
       "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var-961112.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/iste-rafet-el-roman-in-mustakbel-esi-3922276",
       "source": "Habertürk",
       "published_at": "2026-10-24T14:25:07Z"
-    },
-    {
-      "title": "Bursu kesilen öğrencinin başvurusu sonuç verdi: Geriye dönük ödeme kararı",
-      "link": "https://www.sozcu.com.tr/bursu-kesilen-ogrencinin-basvurusu-sonuc-verdi-geriye-donuk-odeme-karari-p372360",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T14:21:55Z"
     }
   ]
 }
