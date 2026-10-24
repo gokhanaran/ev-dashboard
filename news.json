@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:38:30.721861Z",
+  "generated_at": "2026-10-24T20:53:37.630499Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Erdoğan'ın katıldığı Topkapı Sarayı'ndaki törene damga vuran an...",
+      "link": "https://www.sozcu.com.tr/erdoganin-katildigi-topkapi-sarayindaki-torene-damga-vuran-an-p372412",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T20:48:31Z"
+    },
     {
       "title": "Ayvalık'ta batan teknede can pazarı",
       "link": "https://www.sozcu.com.tr/ayvalikta-batan-teknede-can-pazari-p372409",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/aston-villa-manchester-city-mac-sonucu-iste-aston-villa-city-maci-ozeti-premier-lig-3922273",
       "source": "Habertürk",
       "published_at": "2026-10-24T13:25:44Z"
-    },
-    {
-      "title": "Dünyanın peşinde olduğu elementler Türkiye’nin bir ilinde: Rezerv 694 milyon ton",
-      "link": "https://www.sozcu.com.tr/dunyanin-pesinde-oldugu-elementler-turkiye-nin-bir-ilinde-rezerv-694-milyon-ton-p372245",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T13:16:31Z"
     }
   ]
 }
