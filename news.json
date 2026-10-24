@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:10:16.633866Z",
+  "generated_at": "2026-10-24T11:15:20.763942Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -118,6 +118,12 @@
       "link": "https://www.haberturk.com/gundem/abb-den-ozel-gereksinimli-bireyler-ve-ailelerine-destek-3922238",
       "source": "Habertürk",
       "published_at": "2026-10-24T10:51:22Z"
+    },
+    {
+      "title": "'Kapı eşiğinde el sıkışmayın' uyarısı boşuna değilmiş",
+      "link": "https://www.sozcu.com.tr/buyuklerin-kapi-esiginde-el-sikismayin-uyarisinin-nedeni-belli-oldu-p372279",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T10:48:01Z"
     },
     {
       "title": "Kimchideki büyük şifa",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-yemen-disisleri-bakani-al-zuba-ile-gorusecek-961052.html",
       "source": "TRT Haber",
       "published_at": "2026-10-24T06:09:00Z"
-    },
-    {
-      "title": "Fenerbahçe derbisi öncesi Galatasaray'da Barış Alper Yılmaz gelişmesi! Milli futbolcu için karar verildi",
-      "link": "https://www.sozcu.com.tr/fenerbahce-derbisi-oncesi-galatasarayda-baris-alper-yilmaz-gelismesi-milli-futbolcu-icin-karar-veril-p372223",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T06:08:22Z"
     }
   ]
 }
