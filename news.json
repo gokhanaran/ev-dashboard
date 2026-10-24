@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:10:56.673678Z",
+  "generated_at": "2026-10-24T06:16:00.465782Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "MasterChef Türkiye'de son dakika krizi: Bu akşam yeni bölüm yok",
+      "link": "https://www.sozcu.com.tr/masterchef-turkiye-de-son-dakika-krizi-bu-aksam-yeni-bolum-yok-p372226",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T06:14:00Z"
+    },
     {
       "title": "Fenerbahçe derbisi öncesi Galatasaray'da Barış Alper Yılmaz gelişmesi! Milli futbolcu için karar verildi",
       "link": "https://www.sozcu.com.tr/fenerbahce-derbisi-oncesi-galatasarayda-baris-alper-yilmaz-gelismesi-milli-futbolcu-icin-karar-veril-p372223",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/boluspor-vanspor-mac-sonucu-iste-bolu-van-maci-ozeti-ve-golleri-1-lig-3922136",
       "source": "Habertürk",
       "published_at": "2026-10-23T19:14:36Z"
-    },
-    {
-      "title": "Kocaelispor Alanya'da 2 golle güldü",
-      "link": "https://www.sozcu.com.tr/kocaelispor-alanya-da-2-golle-guldu-p372152",
-      "source": "Sözcü",
-      "published_at": "2026-10-23T19:07:51Z"
     }
   ]
 }
