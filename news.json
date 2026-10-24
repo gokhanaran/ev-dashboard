@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:28:56.986448Z",
+  "generated_at": "2026-10-24T21:34:00.209967Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/aci-haberi-msb-verdi-1-sehit-2-yarali-p372415",
       "source": "Sözcü",
       "published_at": "2026-10-24T21:26:56Z"
+    },
+    {
+      "title": "Askerî araç kazasında şehit oldu",
+      "link": "https://www.haberturk.com/gundem/albay-sayit-gokgoz-asker-arac-kazasinda-sehit-oldu-3922346",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T21:25:59Z"
     },
     {
       "title": "Jodok Vuille Atatürk Kültür Merkezi'nde",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-dan-birlesmis-milletlerin-81-kurulus-yil-donumu-mesaji-3922280",
       "source": "Habertürk",
       "published_at": "2026-10-24T14:00:22Z"
-    },
-    {
-      "title": "Son dakika... İstanbul Barosu seçimlerinde kavga çıktı: Yumruklar havada uçuştu!",
-      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-barosu-secimlerinde-kavga-cikti-yumruklar-havada-ucustu-p372345",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T13:57:21Z"
     }
   ]
 }
