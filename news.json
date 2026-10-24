@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:35:29.501676Z",
+  "generated_at": "2026-10-24T18:40:33.742927Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Tottenham kabustan uyanmaya başladı",
+      "link": "https://www.sozcu.com.tr/tottenham-kabustan-uyanmaya-basladi-p372391",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T18:39:50Z"
+    },
+    {
+      "title": "El Clasico öncesi Barcelona'yı Arda Güler korkusu sardı",
+      "link": "https://www.sozcu.com.tr/el-clasico-oncesi-barcelonayi-arda-guler-korkusu-sardi-p372390",
+      "source": "Sözcü",
+      "published_at": "2026-10-24T18:34:57Z"
+    },
     {
       "title": "Mardin'de korkunç kaza! 4’ü çocuk, 6 ölü",
       "link": "https://www.sozcu.com.tr/mardin-de-korkunc-kaza-4-u-cocuk-6-olu-p372354",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-iki-genc-kiz-birlikte-3-kattan-dustu-carsaf-koptu-3922261",
       "source": "Habertürk",
       "published_at": "2026-10-24T12:40:11Z"
-    },
-    {
-      "title": "KPSS Ortaöğretim sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sonuclari-ne-zaman-aciklanacak-2026-kpss-ortaogretim-sonuclari-nasil-ogrenilir-3922154",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T12:37:17Z"
-    },
-    {
-      "title": "Kasımpaşa Eyüpspor'u tek golle geçti",
-      "link": "https://www.sozcu.com.tr/kasimpasa-eyupspor-u-tek-golle-gecti-p372326",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T12:36:14Z"
     }
   ]
 }
