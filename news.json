@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:08:45.593252Z",
+  "generated_at": "2026-10-24T21:18:50.882824Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "KPSS için 35 bin personel görevde",
+      "link": "https://www.haberturk.com/gundem/icisleri-bakani-ciftci-kpss-ortaogretim-sinavina-iliskin-guvenlik-tedbirlerini-acikladi-3922310",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T21:14:11Z"
+    },
+    {
+      "title": "Memur zammı ne zaman belli olacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/memur-zamminda-son-durum-ocak-2027de-polis-doktor-hemsire-memur-maas-zammi-ne-kadar-olacak-en-dusuk-3921800",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T21:09:12Z"
+    },
+    {
+      "title": "İçişleri Bakanı Çiftçi: Sahipsiz sokak hayvanlarının tamamını topladık",
+      "link": "https://www.trthaber.com/haber/gundem/icisleri-bakani-ciftci-sahipsiz-sokak-hayvanlarinin-tamamini-topladik-961106.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-24T21:07:00Z"
+    },
     {
       "title": "Acı haberi MSB verdi: 1 şehit, 2 yaralı",
       "link": "https://www.sozcu.com.tr/aci-haberi-msb-verdi-1-sehit-2-yarali-p372415",
@@ -190,12 +208,6 @@
       "link": "https://www.sozcu.com.tr/dunya-gures-sampiyonasinda-finaldeyiz-p372396",
       "source": "Sözcü",
       "published_at": "2026-10-24T19:03:09Z"
-    },
-    {
-      "title": "Memur zammı ne zaman belli olacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/memur-zamminda-son-durum-ocak-2027de-polis-doktor-hemsire-memur-maas-zammi-ne-kadar-olacak-en-dusuk-3921800",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T18:58:59Z"
     },
     {
       "title": "Üç kez geriye düştü pes etmedi! İtalya'da çılgın maç",
@@ -400,12 +412,6 @@
       "link": "https://www.trthaber.com/haber/gundem/kurumlar-arasi-gecici-gorevlendirme-yonetmeliginde-degisiklik-yapildi-961095.html",
       "source": "TRT Haber",
       "published_at": "2026-10-24T16:18:00Z"
-    },
-    {
-      "title": "KPSS için 35 bin personel görevde",
-      "link": "https://www.haberturk.com/gundem/icisleri-bakani-ciftci-kpss-ortaogretim-sinavina-iliskin-guvenlik-tedbirlerini-acikladi-3922310",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T16:16:06Z"
     },
     {
       "title": "Erzurumspor deplasmanda siftah yaptı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-olu-3922278",
       "source": "Habertürk",
       "published_at": "2026-10-24T13:50:27Z"
-    },
-    {
-      "title": "SON DAKİKA | Şarkıcı Nev hayatını kaybetti",
-      "link": "https://www.sozcu.com.tr/son-dakika-veya-sarkici-nev-hayatini-kaybetti-p372342",
-      "source": "Sözcü",
-      "published_at": "2026-10-24T13:47:06Z"
     }
   ]
 }
