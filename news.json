@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:29:34.798410Z",
+  "generated_at": "2026-10-24T00:54:44.111639Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Milas Belediye Başkanı Fevzi Topuz tutuklandı",
+      "link": "https://www.haberturk.com/gundem/milas-belediye-baskani-fevzi-topuz-tutuklandi-3922161",
+      "source": "Habertürk",
+      "published_at": "2026-10-24T00:44:48Z"
+    },
     {
       "title": "Muğla merkezli ihale soruşturmasında 18 tutuklama",
       "link": "https://www.trthaber.com/haber/turkiye/mugla-merkezli-ihale-sorusturmasinda-18-tutuklama-961047.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/istanbul-da-trafik-yuzde-80-e-cikti-3922096",
       "source": "Habertürk",
       "published_at": "2026-10-23T15:55:52Z"
-    },
-    {
-      "title": "Karadeniz'deki kadın kooperatiflerine destek",
-      "link": "https://www.haberturk.com/gundem/karadeniz-deki-kadin-kooperatiflerine-destek-3922092",
-      "source": "Habertürk",
-      "published_at": "2026-10-23T15:53:42Z"
     }
   ]
 }
