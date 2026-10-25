@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:16:07.481772Z",
+  "generated_at": "2026-10-25T13:21:11.700144Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "1. Lig'de çılgın maç! Her şey 90. dakikadan sonra oldu",
+      "link": "https://www.sozcu.com.tr/1-lig-de-cilgin-mac-her-sey-90-dakikadan-sonra-oldu-p372603",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T13:19:30Z"
+    },
     {
       "title": "Evlenmekten vazgeçtiği iddia edilmişti: Sibel Can'ın sahne şovu gündem oldu",
       "link": "https://www.sozcu.com.tr/evlenmekten-vazgectigi-iddia-edilmisti-sibel-can-in-sahne-sovu-gundem-oldu-p372602",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/aziz-yildirimdan-galatasaray-maci-karari-dev-derbi-oncesi-flas-gelisme-p372497",
       "source": "Sözcü",
       "published_at": "2026-10-25T08:21:32Z"
-    },
-    {
-      "title": "Katliam gibi kaza! 3 kişi öldü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-katliam-gibi-kaza-3-kisi-oldu-3922386",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T08:20:21Z"
     }
   ]
 }
