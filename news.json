@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:52:23.118297Z",
+  "generated_at": "2026-10-25T17:57:28.686497Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "Brighton'da Ferdi'den kötü haber!",
+      "link": "https://www.haberturk.com/spor/brighton-hove-albion-da-ferdi-kadioglu-ndan-kotu-haber-3922468",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T17:50:12Z"
+    },
+    {
       "title": "Herkes bu kaleciyi konuşuyor! Son dakikalarda frikikten müthiş gol attı",
       "link": "https://www.sozcu.com.tr/herkes-bu-kaleciyi-konusuyor-son-dakikalarda-frikikten-muthis-gol-atti-p372644",
       "source": "Sözcü",
       "published_at": "2026-10-25T17:49:03Z"
     },
     {
+      "title": "Maden ocağındaki patlamaya ilişkin yakalanan firari işletme müdürü tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/maden-ocagindaki-patlamaya-iliskin-yakalanan-firari-isletme-muduru-tutuklandi-961167.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T17:45:00Z"
+    },
+    {
       "title": "İktidara yakın gazetecinin iddiası: Oktay Saral görevden alındı!",
       "link": "https://www.sozcu.com.tr/oktay-saral-gorevden-mi-alindi-p372634",
       "source": "Sözcü",
       "published_at": "2026-10-25T17:42:40Z"
-    },
-    {
-      "title": "Brighton'da Ferdi'den kötü haber!",
-      "link": "https://www.haberturk.com/spor/brighton-hove-albion-da-ferdi-kadioglu-ndan-kotu-haber-3922468",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T17:35:34Z"
     },
     {
       "title": "İstanbul Barosu seçimleri sonuçlandı: Ümit Kocasakal başkan seçildi",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/samsunspor-dan-sert-aciklama-futbol-adina-kara-bir-gece-yasanmistir-p372581",
       "source": "Sözcü",
       "published_at": "2026-10-25T11:13:37Z"
-    },
-    {
-      "title": "Çelik'ten şehidimiz için taziye mesajı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-ak-parti-sozcusu-celik-ten-sehit-albay-sayit-gokgoz-icin-taziye-mesaji-3922424",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T11:06:06Z"
     }
   ]
 }
