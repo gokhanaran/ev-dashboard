@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:52:13.937346Z",
+  "generated_at": "2026-10-25T01:02:30.457020Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Fatih'te silahlı kavga: 1 yaralı",
+      "link": "https://www.haberturk.com/gundem/fatih-te-silahli-kavga-1-yarali-3922352",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T00:48:11Z"
+    },
+    {
+      "title": "Ev hapsi ve yurt dışı çıkış yasağı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-eski-vekile-tutuklama-talebi-3922316",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T00:43:00Z"
+    },
+    {
+      "title": "İsrail'de ordu alarmda",
+      "link": "https://www.haberturk.com/dunya/israil-de-ordu-alarmda-3922351",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T00:35:13Z"
+    },
     {
       "title": "Askerî araç kazasında şehit oldu",
       "link": "https://www.haberturk.com/gundem/albay-sayit-gokgoz-asker-arac-kazasinda-sehit-oldu-3922346",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/zeytinler-losemili-cocuklar-icin-hasat-edildi-3922290",
       "source": "Habertürk",
       "published_at": "2026-10-24T14:38:59Z"
-    },
-    {
-      "title": "100 metrelik Türk bayrağıyla Cumhuriyet yürüyüşü",
-      "link": "https://www.haberturk.com/gundem/100-metrelik-turk-bayragiyla-cumhuriyet-yuruyusu-3922289",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T14:33:48Z"
-    },
-    {
-      "title": "İran ordusu sözcüsü: Düşmanın en ufak hatasına katbekat karşılık vereceğiz",
-      "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-sozcusu-dusmanin-en-ufak-hatasina-katbekat-karsilik-verecegiz-961089.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-24T14:32:00Z"
-    },
-    {
-      "title": "Sahara Geçidi'nin altına tünel talebi",
-      "link": "https://www.haberturk.com/gundem/sahara-gecidi-nin-altina-tunel-talebi-3922287",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T14:27:32Z"
     }
   ]
 }
