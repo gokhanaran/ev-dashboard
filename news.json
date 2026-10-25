@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:12:48.873182Z",
+  "generated_at": "2026-10-25T18:23:01.521827Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bursaspor 6 gollü maçta kazandı! Ihenacho'dan tarihi seri",
+      "link": "https://www.sozcu.com.tr/bursaspor-6-gollu-macta-kazandi-ihenacho-rekorunu-gelistirdi-p372657",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T18:20:28Z"
+    },
+    {
+      "title": "Maden ocağındaki patlamaya ilişkin yeni gelişme",
+      "link": "https://www.haberturk.com/gundem/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-yakalanan-firari-isletme-muduru-tutuklandi-3922480",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T18:13:33Z"
+    },
     {
       "title": "Göztepe seriye bağladı! Üst üste üçüncü galibiyet",
       "link": "https://www.sozcu.com.tr/goztepe-seriye-bagladi-ust-uste-ucuncu-galibiyet-p372655",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-in-basaksehir-maci-hazirliklari-tamamlandi-3922429",
       "source": "Habertürk",
       "published_at": "2026-10-25T11:35:19Z"
-    },
-    {
-      "title": "KPSS'de soru kitapçığı yayımlandı",
-      "link": "https://www.haberturk.com/gundem/kpss-heyecani-basladi-3922381",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T11:34:43Z"
-    },
-    {
-      "title": "Kahramanmaraş'ta 16 yıllık faili meçhul cinayet çözüldü",
-      "link": "https://www.trthaber.com/haber/gundem/kahramanmarasta-16-yillik-faili-mechul-cinayet-cozuldu-961143.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T11:29:00Z"
     }
   ]
 }
