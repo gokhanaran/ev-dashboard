@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:06:46.833512Z",
+  "generated_at": "2026-10-25T23:26:57.165744Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye'nin 506'ncı kuş türü kaydedildi",
+      "link": "https://www.haberturk.com/gundem/turkiye-nin-506-nci-kus-turu-kaydedildi-3922508",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T23:20:15Z"
+    },
     {
       "title": "Diyarbakır'da 39 kilo 871 gram uyuşturucu ele geçirildi",
       "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-39-kilo-871-gram-uyusturucu-ele-gecirildi-961177.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/kastamonu-da-is-makinesinin-carptigi-kadin-hayatini-kaybetti-3922455",
       "source": "Habertürk",
       "published_at": "2026-10-25T14:05:35Z"
-    },
-    {
-      "title": "Okan Buruk'un derbi planı belli oldu! Sürpriz hamle",
-      "link": "https://www.sozcu.com.tr/okan-burukun-derbi-plani-belli-oldu-surpriz-hamle-p372607",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T14:03:31Z"
     }
   ]
 }
