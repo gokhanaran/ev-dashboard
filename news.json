@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:14:30.288047Z",
+  "generated_at": "2026-10-25T21:19:33.836950Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 6
+      "items": 7
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,48 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon soruşturmasında eski AKP vekili Ertan Aydın ile Gürol Sami Özer tutuklandı",
+      "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T21:14:29Z"
+    },
+    {
+      "title": "Bodrum FK'dan üst üste 3. galibiyet!",
+      "link": "https://www.haberturk.com/spor/antalyaspor-bodrum-fk-mac-sonucu-iste-antalyaspor-bodrum-fk-maci-ozeti-ve-golleri-1-lig-3922463",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:12:23Z"
+    },
+    {
+      "title": "28-29 Ekim tatil mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/28-ekim-yarim-gun-mu-28-29-ekim-2026-tatil-mi-29-ekim-cumhuriyet-bayrami-hangi-gune-denk-geliyor-3922103",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:11:41Z"
+    },
+    {
+      "title": "Şans Topu sonuçları açıklandı!",
+      "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-sorgulama-ekrani-25-ekim-milli-piyango-sans-topu-cekilis-sonuclari-ne-zaman-aciklanacak-3922462",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:11:05Z"
+    },
+    {
+      "title": "Süper Loto sonuçları açıklandı!",
+      "link": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-aciklaniyor-25-ekim-milli-piyango-super-loto-cekilis-sonuclari-bilet-sorgula-ekrani-3922464",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:10:54Z"
+    },
+    {
+      "title": "KPSS Ortaöğretim soru ve cevapları nasıl görüntülenir?",
+      "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-soru-ve-cevap-anahtari-kitapcigi-yayinlandi-kpss-ortaogretim-sorulari-ve-cevaplari-nasil-ogrenilir-3922467",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:10:19Z"
+    },
+    {
+      "title": "Devlet Demir Yolları TCDD 166 daimi işçi alımı yapıyor",
+      "link": "https://www.haberturk.com/bilgi/foto/tcdd-166-isci-alim-yapiyor-2026-tcdd-devlet-demir-yollari-166-daimi-isci-alimi-ne-zaman-basvurusu-3922109",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:09:55Z"
+    },
     {
       "title": "İstanbul 25 Ekim 2026 baraj doluluk oranı",
       "link": "https://www.haberturk.com/bilgi/foto/iski-istanbul-25-ekim-2026-baraj-doluluk-orani-istanbulda-baraj-doluluk-orani-yuzde-kac-oldu-ne-kadar-artti-3922472",
@@ -258,12 +300,6 @@
       "published_at": "2026-10-25T18:49:00Z"
     },
     {
-      "title": "Süper Loto sonuçları açıklandı!",
-      "link": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-aciklaniyor-25-ekim-milli-piyango-super-loto-cekilis-sonuclari-bilet-sorgula-ekrani-3922464",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T18:43:08Z"
-    },
-    {
       "title": "Maden ocağındaki faciada yeni gelişme",
       "link": "https://www.haberturk.com/gundem/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-yakalanan-firari-isletme-muduru-tutuklandi-3922480",
       "source": "Habertürk",
@@ -372,12 +408,6 @@
       "published_at": "2026-10-25T17:14:52Z"
     },
     {
-      "title": "Şans Topu sonuçları açıklandı!",
-      "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-sorgulama-ekrani-25-ekim-milli-piyango-sans-topu-cekilis-sonuclari-ne-zaman-aciklanacak-3922462",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T17:11:47Z"
-    },
-    {
       "title": "\"Daha agresif bir mücadeleyle devam etmeliyiz\"",
       "link": "https://www.haberturk.com/spor/ilhan-palut-daha-agresif-bir-mucadeleye-devam-etmemiz-lazim-3922476",
       "source": "Habertürk",
@@ -456,12 +486,6 @@
       "published_at": "2026-10-25T16:23:22Z"
     },
     {
-      "title": "KPSS Ortaöğretim soru ve cevapları nasıl görüntülenir?",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-soru-ve-cevap-anahtari-kitapcigi-yayinlandi-kpss-ortaogretim-sorulari-ve-cevaplari-nasil-ogrenilir-3922467",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T16:11:54Z"
-    },
-    {
       "title": "8 gollü çılgın maçta kazanan yok",
       "link": "https://www.sozcu.com.tr/8-gollu-cilgin-macta-kazanan-yok-p372635",
       "source": "Sözcü",
@@ -522,12 +546,6 @@
       "published_at": "2026-10-25T15:29:33Z"
     },
     {
-      "title": "Bodrum FK'dan üst üste 3. galibiyet!",
-      "link": "https://www.haberturk.com/spor/antalyaspor-bodrum-fk-mac-sonucu-iste-antalyaspor-bodrum-fk-maci-ozeti-ve-golleri-1-lig-3922463",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T15:23:47Z"
-    },
-    {
       "title": "F.Bahçe Tarfin, Karşıyaka'yı farklı geçti!",
       "link": "https://www.haberturk.com/spor/karsiyaka-72-fenerbahce-tarfin-97-mac-sonucu-3922461",
       "source": "Habertürk",
@@ -568,18 +586,6 @@
       "link": "https://www.sozcu.com.tr/yuksel-saricicek-dunya-ikincisi-oldu-p372623",
       "source": "Sözcü",
       "published_at": "2026-10-25T14:52:48Z"
-    },
-    {
-      "title": "28-29 Ekim tatil mi?",
-      "link": "https://www.haberturk.com/bilgi/foto/28-ekim-yarim-gun-mu-28-29-ekim-2026-tatil-mi-29-ekim-cumhuriyet-bayrami-hangi-gune-denk-geliyor-3922103",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T14:48:20Z"
-    },
-    {
-      "title": "Devlet Demir Yolları TCDD 166 daimi işçi alımı yapıyor",
-      "link": "https://www.haberturk.com/bilgi/foto/tcdd-166-isci-alim-yapiyor-tcdd-devlet-demir-yollari-166-daimi-isci-alimi-ne-zaman-basvurusu-nasil-3922109",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T14:48:08Z"
     },
     {
       "title": "Trafik cezalarında kura dönemi: Radara yakalananların sadece bir kısmına ceza gidecek",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/agrida-tir-ile-otomobil-carpisti-4-olu-961153.html",
       "source": "TRT Haber",
       "published_at": "2026-10-25T13:01:00Z"
-    },
-    {
-      "title": "Megakente kuvvetli sağanak geliyor!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-a-kuvvetli-saganak-geliyor-3922432",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T13:00:10Z"
     }
   ]
 }
