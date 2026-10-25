@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:49:13.469187Z",
+  "generated_at": "2026-10-25T20:54:16.749241Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Eski AKP milletvekili Ertan Aydın tutuklandı",
+      "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T20:51:30Z"
+    },
+    {
+      "title": "G.Saray MCT Technic'ten 34 sayı fark!",
+      "link": "https://www.haberturk.com/spor/galatasaray-mct-technic-102-pizzabulls-bordo-bandirma-68-mac-sonucu-3922497",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T20:49:01Z"
+    },
     {
       "title": "Kimi ölümcül, kimi sırlarla dolu: Dünyanın en sıkı korunan 10 noktası belli oldu",
       "link": "https://www.sozcu.com.tr/buralara-ayak-basanin-basi-derde-giriyor-p372671",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/riza-kayaalp-dunya-gures-sampiyonasi-na-ceyrek-finalde-veda-etti-3922441",
       "source": "Habertürk",
       "published_at": "2026-10-25T12:47:03Z"
-    },
-    {
-      "title": "Fransa'da Macron'un tartışılan konserine Egemen Bağış da gitmiş",
-      "link": "https://www.sozcu.com.tr/fransa-da-macron-un-tartisilan-konserine-egemen-bagis-da-gitmis-p372595",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T12:44:44Z"
-    },
-    {
-      "title": "KPSS Ortaöğretim sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sonuclari-ne-zaman-aciklanacak-2026-kpss-ortaogretim-sonuclari-nasil-ogrenilir-3922154",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T12:43:39Z"
     }
   ]
 }
