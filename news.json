@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:23:01.521827Z",
+  "generated_at": "2026-10-25T18:28:08.728964Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Denizin ortasındaki dev köprü bitmek üzere: Trenler 350 km hızla geçecek",
+      "link": "https://www.sozcu.com.tr/denizin-ortasindaki-dev-kopru-bitmek-uzere-trenler-350-km-hizla-gececek-p372658",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T18:21:16Z"
+    },
+    {
       "title": "Bursaspor 6 gollü maçta kazandı! Ihenacho'dan tarihi seri",
       "link": "https://www.sozcu.com.tr/bursaspor-6-gollu-macta-kazandi-ihenacho-rekorunu-gelistirdi-p372657",
       "source": "Sözcü",
       "published_at": "2026-10-25T18:20:28Z"
+    },
+    {
+      "title": "\"Böyle basit goller yemek bize yakışmadı\"",
+      "link": "https://www.haberturk.com/spor/bernd-storck-boyle-basit-goller-yemek-bizim-takimimiza-yakismadi-3922481",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T18:15:26Z"
     },
     {
       "title": "Maden ocağındaki patlamaya ilişkin yeni gelişme",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guneyine-firlattigi-10-balistik-fuze-imha-edildi-961148.html",
       "source": "TRT Haber",
       "published_at": "2026-10-25T11:40:00Z"
-    },
-    {
-      "title": "Türkiye ekonomisi için asıl sınav o zaman başlayacak",
-      "link": "https://www.sozcu.com.tr/turkiye-ekonomisi-icin-asil-sinav-o-zaman-baslayacak-p372583",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T11:36:11Z"
-    },
-    {
-      "title": "Beşiktaş'ın hazırlıkları tamamlandı",
-      "link": "https://www.haberturk.com/spor/besiktas-in-basaksehir-maci-hazirliklari-tamamlandi-3922429",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T11:35:19Z"
     }
   ]
 }
