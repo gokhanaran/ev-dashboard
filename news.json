@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:04:23.659297Z",
+  "generated_at": "2026-10-25T21:09:27.148464Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,24 @@
       "link": "https://www.sozcu.com.tr/silivri-belediye-baskanligi-p372503",
       "source": "Sözcü",
       "published_at": "2026-10-25T21:00:37Z"
+    },
+    {
+      "title": "G.Saray derbiye hazır!",
+      "link": "https://www.haberturk.com/spor/galatasaray-fenerbahce-maci-hazirliklarini-tamamladi-3922498",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T20:59:57Z"
+    },
+    {
+      "title": "Fon soruşturmasında Ertan Aydın tutuklandı",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-ertan-aydin-hakkinda-yakalama-karari-3922434",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T20:59:14Z"
+    },
+    {
+      "title": "Zelenski: Kasım ayında ABDUkraynaRusya üçlü toplantısı düzenlenecek",
+      "link": "https://www.trthaber.com/haber/dunya/zelenski-kasim-ayinda-abd-ukrayna-rusya-uclu-toplantisi-duzenlenecek-961172.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T20:55:00Z"
     },
     {
       "title": "Eski AKP milletvekili Ertan Aydın tutuklandı",
@@ -588,12 +606,6 @@
       "published_at": "2026-10-25T14:42:00Z"
     },
     {
-      "title": "Fon soruşturmasında Ertan Aydın yeniden gözaltına alındı",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-ertan-aydin-hakkinda-yakalama-karari-3922434",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T14:36:18Z"
-    },
-    {
       "title": "Bakan Ersoy'dan memleketi İbradı'ya gençlik merkezi: Vefamızın bir ifadesi",
       "link": "https://www.haberturk.com/gundem/bakan-ersoy-dan-memleketi-ibradi-ya-genclik-merkezi-vefamizin-bir-ifadesi-3922458",
       "source": "Habertürk",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/vakifbank-3-galatasaray-daikin-0-mac-sonucu-3922445",
       "source": "Habertürk",
       "published_at": "2026-10-25T12:59:34Z"
-    },
-    {
-      "title": "Kazakistan Cumhuriyet Günü'nü kutladı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-mhp-genel-baskani-devlet-bahceli-den-25-ekim-kazakistan-cumhuriyet-gunu-mesaji-3922443",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T12:56:41Z"
-    },
-    {
-      "title": "Bulgaristan'da halk cumhurbaşkanı seçimi için sandık başında",
-      "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-halk-cumhurbaskani-secimi-icin-sandik-basinda-961156.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T12:55:00Z"
     }
   ]
 }
