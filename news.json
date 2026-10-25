@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:34:44.964815Z",
+  "generated_at": "2026-10-25T23:06:46.833512Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 7
+      "items": 8
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,120 @@
     }
   ],
   "items": [
+    {
+      "title": "Diyarbakır'da 39 kilo 871 gram uyuşturucu ele geçirildi",
+      "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-39-kilo-871-gram-uyusturucu-ele-gecirildi-961177.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T22:52:00Z"
+    },
+    {
+      "title": "Ferdi'li Brighton, Liverpool'a diş geçiremedi!",
+      "link": "https://www.haberturk.com/spor/liverpool-brighton-hove-albion-mac-sonucu-iste-liverpool-brighton-hove-albion-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3922469",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:51:44Z"
+    },
+    {
+      "title": "ABD Grand Prix'sinde kazanan Antonelli!",
+      "link": "https://www.haberturk.com/spor/formula-1-abd-grand-prix-sini-kimi-antonelli-kazandi-3922507",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:44:13Z"
+    },
+    {
+      "title": "Milan, Udinese'yi iki golle geçti!",
+      "link": "https://www.haberturk.com/spor/udinese-milan-mac-sonucu-iste-udinese-milan-maci-ozeti-ve-golleri-italya-serie-a-3922506",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:38:45Z"
+    },
+    {
+      "title": "AÖF sınavları ne zaman?",
+      "link": "https://www.haberturk.com/bilgi/foto/aof-sinavlari-ne-zaman-aof-guz-ve-bahar-donemi-ara-sinav-tarihleri-3922505",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:35:23Z"
+    },
+    {
+      "title": "Fon soruşturmasında Özer ve Aydın tutuklandı",
+      "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-gurol-ozer-ve-ertan-aydin-tutuklandi-3922504",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:28:14Z"
+    },
+    {
+      "title": "Barcelona - Real Madrid (El Clasico) maç özeti",
+      "link": "https://www.haberturk.com/bilgi/foto/barcelona-real-madrid-mac-ozeti-ve-goller-bilgisi-barcelona-real-madrid-el-clasico-maci-kac-kac-3922482",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:26:45Z"
+    },
+    {
+      "title": "El Clasico'da zafer Real Madrid'in!",
+      "link": "https://www.haberturk.com/spor/barcelona-real-madrid-mac-sonucu-iste-barcelona-real-madrid-maci-ozeti-ve-golleri-ispanya-laliga-3922503",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:16:34Z"
+    },
+    {
+      "title": "Barcelona’yı Mourinho durdurdu! Arda Güler ve arkadaşları 9 maçlık seriyi Camp Nou'da bitirdi",
+      "link": "https://www.sozcu.com.tr/barcelona-yi-mourinho-durdurdu-arda-guler-ve-arkadaslari-9-maclik-seriyi-camp-nou-da-bitirdi-p372684",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T22:04:48Z"
+    },
+    {
+      "title": "Masterchef kim elendi?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-25-ekim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3922478",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T22:01:24Z"
+    },
+    {
+      "title": "Altın geminin sıra dışı yolculuğu başladı",
+      "link": "https://www.sozcu.com.tr/altin-geminin-sira-disi-yolculugu-basladi-p372683",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T22:01:06Z"
+    },
+    {
+      "title": "Fon soruşturmasında eski AKP milletvekili Ertan Aydın ve Gürol Sami Özer tutuklandı",
+      "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T21:56:29Z"
+    },
+    {
+      "title": "Formula 1'de ABD GP'si Antonelli'nin! Şampiyonluğa dev adım",
+      "link": "https://www.sozcu.com.tr/formula-1-de-abd-gp-si-antonelli-nin-sampiyonluga-dev-adim-p372682",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T21:47:21Z"
+    },
+    {
+      "title": "Memur zammı ne zaman belli olacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/memur-maas-zammi-son-durum-ocak-2027de-doktor-polis-hemsire-memur-maas-zammi-ne-kadar-olacak-en-3921800",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:46:22Z"
+    },
+    {
+      "title": "Bankaların ekim ayı promosyon fırsatları",
+      "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyasi-ekim-2026-en-yuksek-emekli-promosyon-veren-banka-hangisi-ve-sartlari-neler-3922502",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:45:17Z"
+    },
+    {
+      "title": "Sırbistan'da Vucic seçim yenilgisini kabul etti: Kaybettik",
+      "link": "https://www.sozcu.com.tr/sirbistan-da-yeni-donem-vucic-kaybetti-p372675",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T21:42:48Z"
+    },
+    {
+      "title": "Trump'tan İran açıklaması",
+      "link": "https://www.haberturk.com/dunya/son-dakika-trump-tan-iran-aciklamasi-3922471",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:42:26Z"
+    },
+    {
+      "title": "Fon soruşturmasında Ertan Aydın tutuklandı",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-ertan-aydin-hakkinda-yakalama-karari-3922434",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:38:16Z"
+    },
+    {
+      "title": "Sermaye piyasası soruşturmasında Gürol Sami Özer tutuklandı",
+      "link": "https://www.trthaber.com/haber/gundem/sermaye-piyasasi-sorusturmasinda-gurol-sami-ozer-tutuklandi-961176.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T21:33:00Z"
+    },
     {
       "title": "Fon soruşturmasında eski AKP milletvekili Ertan Aydın tutuklandı",
       "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
@@ -108,12 +222,6 @@
       "published_at": "2026-10-25T21:09:09Z"
     },
     {
-      "title": "Memur zammı ne zaman belli olacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/memur-maas-zammi-son-durum-ocak-2027de-doktor-polis-hemsire-memur-maas-zammi-ne-kadar-olacak-en-3921800",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T21:08:46Z"
-    },
-    {
       "title": "F.Bahçe, derbi hazırlıklarını tamamladı!",
       "link": "https://www.haberturk.com/spor/fenerbahce-galatasaray-derbisinin-hazirliklarini-tamamladi-3922499",
       "source": "Habertürk",
@@ -124,12 +232,6 @@
       "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-siper-2-celik-kubbenin-uzun-menzilli-kalkani-961174.html",
       "source": "TRT Haber",
       "published_at": "2026-10-25T21:06:00Z"
-    },
-    {
-      "title": "Fon soruşturmasında Ertan Aydın tutuklandı",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-ertan-aydin-hakkinda-yakalama-karari-3922434",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T21:04:28Z"
     },
     {
       "title": "Galatasaray'da oynarken kilolarıyla eleştirilmişti! Ndombele'nin yeni adresi şaşırttı",
@@ -372,12 +474,6 @@
       "published_at": "2026-10-25T18:04:48Z"
     },
     {
-      "title": "Masterchef kim elendi?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-25-ekim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3922478",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T18:03:54Z"
-    },
-    {
       "title": "Riyad Havalimanı'nda iki terminalde uçuşlara yeniden başlandı",
       "link": "https://www.trthaber.com/haber/dunya/riyad-havalimaninda-iki-terminalde-ucuslara-yeniden-baslandi-961168.html",
       "source": "TRT Haber",
@@ -388,12 +484,6 @@
       "link": "https://www.haberturk.com/spor/brighton-hove-albion-da-ferdi-kadioglu-ndan-kotu-haber-3922468",
       "source": "Habertürk",
       "published_at": "2026-10-25T17:51:56Z"
-    },
-    {
-      "title": "Trump'tan İran açıklaması",
-      "link": "https://www.haberturk.com/dunya/son-dakika-trump-tan-iran-aciklamasi-3922471",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T17:51:13Z"
     },
     {
       "title": "Herkes bu kaleciyi konuşuyor! Son dakikalarda frikikten müthiş gol attı",
@@ -496,12 +586,6 @@
       "link": "https://www.sozcu.com.tr/manchester-united-kabus-yasiyor-galibiyeti-unuttu-taraftar-cildirdi-p372637",
       "source": "Sözcü",
       "published_at": "2026-10-25T16:26:13Z"
-    },
-    {
-      "title": "Ferdi'li Brighton, Liverpool'a diş geçiremedi!",
-      "link": "https://www.haberturk.com/spor/liverpool-brighton-hove-albion-mac-sonucu-iste-liverpool-brighton-hove-albion-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3922469",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T16:24:58Z"
     },
     {
       "title": "Trump: Bugün İran'a saldırı olmayacak",
@@ -670,90 +754,6 @@
       "link": "https://www.sozcu.com.tr/okan-burukun-derbi-plani-belli-oldu-surpriz-hamle-p372607",
       "source": "Sözcü",
       "published_at": "2026-10-25T14:03:31Z"
-    },
-    {
-      "title": "İstanbul'da sokakta taciz iddiası!",
-      "link": "https://www.haberturk.com/gundem/istanbul-da-sokakta-taciz-iddiasi-3922448",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T14:03:05Z"
-    },
-    {
-      "title": "Kızılcık Şerbeti’nin Apo ve Alev’i 3 yıl sonra yeniden buluşuyor",
-      "link": "https://www.sozcu.com.tr/kizilcik-serbeti-nin-apo-ve-alev-i-3-yil-sonra-yeniden-bulusuyor-p372614",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T14:02:04Z"
-    },
-    {
-      "title": "Hocasından Can Uzun'a uyarı: Canlı yayında gözünün yaşına bakmadı",
-      "link": "https://www.sozcu.com.tr/hutterden-can-uzuna-uyari-kendi-kendisinin-en-buyuk-dusmani-olabilir-p372613",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T14:02:04Z"
-    },
-    {
-      "title": "Eski AKP milletvekili Ertan Aydın yeniden gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/eski-akp-milletvekili-ve-basbakan-danismani-hakkinda-yeni-yakalama-karari-p372590",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:58:56Z"
-    },
-    {
-      "title": "Kenya'da otobüs kazası: 22 kişi öldü",
-      "link": "https://www.haberturk.com/dunya/kenya-da-otobus-kazasi-22-kisi-oldu-3922452",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T13:54:34Z"
-    },
-    {
-      "title": "Çölün altında 'uçsuz bucaksız' altın rezervi keşfedildi",
-      "link": "https://www.sozcu.com.tr/colun-altinda-ucsuz-bucaksiz-altin-rezervi-kesfedildi-p372610",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:53:57Z"
-    },
-    {
-      "title": "Inter uzatmada attığı gollerle kazandı!",
-      "link": "https://www.haberturk.com/spor/inter-fiorentina-mac-sonucu-ozeti-ve-golleri-italya-serie-a-3922451",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T13:53:08Z"
-    },
-    {
-      "title": "TIR'la çarpışan otomobil hurdaya döndü, aynı aileden 4 kişi can verdi!",
-      "link": "https://www.sozcu.com.tr/tir-la-carpisan-otomobil-hurdaya-dondu-ayni-aileden-4-kisi-can-verdi-p372598",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:50:25Z"
-    },
-    {
-      "title": "Dervişoğlu kayyımlara ve parti operasyonlarına meydan okudu",
-      "link": "https://www.sozcu.com.tr/dervisoglu-kayyimlara-ve-parti-operasyonlarina-meydan-okudu-p372608",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:49:36Z"
-    },
-    {
-      "title": "SİPER yeni kabiliyetini başarıyla test etti",
-      "link": "https://www.trthaber.com/haber/savunma/siper-yeni-kabiliyetini-basariyla-test-etti-961155.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T13:38:00Z"
-    },
-    {
-      "title": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
-      "link": "https://www.sozcu.com.tr/deniz-oncu-piste-cikamadi-yarislara-yagis-engeli-p372605",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:24:57Z"
-    },
-    {
-      "title": "Dünya Kupası'nda rakiplerimiz belli oluyor",
-      "link": "https://www.sozcu.com.tr/dunya-kupasinda-rakiplerimiz-belli-oluyor-p372604",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:22:07Z"
-    },
-    {
-      "title": "1. Lig'de çılgın maç! Her şey 90. dakikadan sonra oldu",
-      "link": "https://www.sozcu.com.tr/1-lig-de-cilgin-mac-her-sey-90-dakikadan-sonra-oldu-p372603",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:19:30Z"
-    },
-    {
-      "title": "Evlenmekten vazgeçtiği iddia edilmişti: Sibel Can'ın sahne şovu gündem oldu",
-      "link": "https://www.sozcu.com.tr/evlenmekten-vazgectigi-iddia-edilmisti-sibel-can-in-sahne-sovu-gundem-oldu-p372602",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:14:56Z"
     }
   ]
 }
