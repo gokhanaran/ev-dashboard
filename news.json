@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:02:30.457020Z",
+  "generated_at": "2026-10-25T01:17:41.768309Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ardan Zentürk hakkında soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/ardan-zenturk-hakkinda-sorusturma-baslatildi-3922353",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T01:06:05Z"
+    },
     {
       "title": "Fatih'te silahlı kavga: 1 yaralı",
       "link": "https://www.haberturk.com/gundem/fatih-te-silahli-kavga-1-yarali-3922352",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/turkiye-ve-kanada-arasinda-ticarette-yeni-donem-3922291",
       "source": "Habertürk",
       "published_at": "2026-10-24T14:45:08Z"
-    },
-    {
-      "title": "Zeytinler lösemili çocuklar için hasat edildi",
-      "link": "https://www.haberturk.com/gundem/zeytinler-losemili-cocuklar-icin-hasat-edildi-3922290",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T14:38:59Z"
     }
   ]
 }
