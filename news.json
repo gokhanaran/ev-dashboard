@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:58:21.867826Z",
+  "generated_at": "2026-10-25T08:03:24.685222Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Bacaklarından vurduğu için cezası değişecek Yargıtay'dan 'Yok artık' denen karar",
+      "link": "https://www.sozcu.com.tr/bacaklarindan-vurdugu-icin-cezasi-degisecek-yargitaydan-yok-artik-denen-karar-p372520",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T08:00:14Z"
+    },
+    {
+      "title": "Katliam gibi kaza! 3 kişi öldü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-katliam-gibi-kaza-3-kisi-oldu-3922386",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T07:56:41Z"
+    },
+    {
+      "title": "Gezi teknesi battı! Balıkesir'deki faciada kayıp doktor aranıyor!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-gezi-teknesi-batti-balikesir-deki-faciada-kayip-doktor-araniyor-3922384",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T07:53:09Z"
+    },
     {
       "title": "Milyonların TC kimlik kartı iptal olacak: Geri sayım başladı",
       "link": "https://www.sozcu.com.tr/milyonlarin-tc-kimlik-karti-iptal-olacak-geri-sayim-basladi-p372458",
@@ -94,12 +112,6 @@
       "link": "https://www.sozcu.com.tr/34-iscinin-maasi-tek-isciye-yatti-ikramiye-sandi-araba-aldi-mahkemeden-karar-cikti-p372436",
       "source": "Sözcü",
       "published_at": "2026-10-25T07:37:53Z"
-    },
-    {
-      "title": "Gezi teknesi battı! Balıkesir'deki faciada kayıp doktor aranıyor!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-gezi-teknesi-batti-balikesir-deki-faciada-kayip-doktor-araniyor-3922384",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T07:37:08Z"
     },
     {
       "title": "Milyarderlere vergi şoku: Ülkeyi bir bir terk etmeye başladılar",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-eski-basbakan-danismanina-tutuklama-talebi-p372377",
       "source": "Sözcü",
       "published_at": "2026-10-24T20:30:03Z"
-    },
-    {
-      "title": "Bahçeşehir Koleji Beşiktaş'ı devirdi!",
-      "link": "https://www.haberturk.com/spor/bahcesehir-koleji-100-besiktas-96-mac-sonucu-3922343",
-      "source": "Habertürk",
-      "published_at": "2026-10-24T20:27:53Z"
-    },
-    {
-      "title": "Hitler'in dağ evi Kartal Yuvasında yangın çıktı",
-      "link": "https://www.trthaber.com/haber/dunya/hitlerin-dag-evi-kartal-yuvasinda-yangin-cikti-961103.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-24T20:24:00Z"
     }
   ]
 }
