@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:21:11.700144Z",
+  "generated_at": "2026-10-25T13:26:20.861134Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Deniz Öncü piste çıkamadı! Yarışlara yağmur engeli",
+      "link": "https://www.sozcu.com.tr/deniz-oncu-piste-cikamadi-yarislara-yagis-engeli-p372605",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T13:24:57Z"
+    },
+    {
+      "title": "Dünya Kupası'nda rakiplerimiz belli oluyor",
+      "link": "https://www.sozcu.com.tr/dunya-kupasinda-rakiplerimiz-belli-oluyor-p372604",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T13:22:07Z"
+    },
     {
       "title": "1. Lig'de çılgın maç! Her şey 90. dakikadan sonra oldu",
       "link": "https://www.sozcu.com.tr/1-lig-de-cilgin-mac-her-sey-90-dakikadan-sonra-oldu-p372603",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/tarihi-ani-koprusu-yeniden-insa-ediliyor-3922389",
       "source": "Habertürk",
       "published_at": "2026-10-25T08:23:54Z"
-    },
-    {
-      "title": "Dev derbi öncesi hava durumu netleşti!",
-      "link": "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinde-hava-durumu-16-derece-olacak-3922391",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T08:21:49Z"
-    },
-    {
-      "title": "Aziz Yıldırım Seyrantepe için kararını verdi",
-      "link": "https://www.sozcu.com.tr/aziz-yildirimdan-galatasaray-maci-karari-dev-derbi-oncesi-flas-gelisme-p372497",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T08:21:32Z"
     }
   ]
 }
