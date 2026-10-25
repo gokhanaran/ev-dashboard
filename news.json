@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:08:27.352861Z",
+  "generated_at": "2026-10-25T08:13:30.814037Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Günde 200 lira kazanmak için ömürlerini bitiriyorlar: 40 yıl bile onlar için uzun bir yaşam...",
+      "link": "https://www.sozcu.com.tr/gunde-200-lira-kazanmak-icin-omurlerini-bitiriyorlar-40-yil-bile-onlar-icin-uzun-bir-yasam-p372525",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T08:07:29Z"
+    },
     {
       "title": "Avrupa'da saatler değişti: Türkiye ile aradaki fark açıldı",
       "link": "https://www.sozcu.com.tr/avrupa-da-saatler-degisti-turkiye-ile-aradaki-fark-acildi-p372526",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ayvalikta-batan-teknede-can-pazari-p372409",
       "source": "Sözcü",
       "published_at": "2026-10-24T20:33:59Z"
-    },
-    {
-      "title": "TürkiyeKKTC doğal gaz hattı için NAVTEX yayımlandı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-24T20:31:00Z"
     }
   ]
 }
