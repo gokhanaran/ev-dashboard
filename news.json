@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:19:33.836950Z",
+  "generated_at": "2026-10-25T21:24:37.395346Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "GSS prim borçları silinecek mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/gss-prim-borclari-silinecek-mi-ne-zaman-genel-saglik-sigortasi-gss-borcu-duzenlemesi-kimleri-kapsiyor-3922500",
+      "source": "Habertürk",
+      "published_at": "2026-10-25T21:16:22Z"
+    },
     {
       "title": "Fon soruşturmasında eski AKP vekili Ertan Aydın ile Gürol Sami Özer tutuklandı",
       "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
@@ -94,6 +100,12 @@
       "link": "https://www.haberturk.com/spor/fenerbahce-galatasaray-derbisinin-hazirliklarini-tamamladi-3922499",
       "source": "Habertürk",
       "published_at": "2026-10-25T21:07:06Z"
+    },
+    {
+      "title": "Bakan Kacır: SİPER2 Çelik Kubbe'nin uzun menzilli kalkanı",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/bakan-kacir-siper-2-celik-kubbenin-uzun-menzilli-kalkani-961174.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T21:06:00Z"
     },
     {
       "title": "Fon soruşturmasında Ertan Aydın tutuklandı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-tir-ve-otomobil-carpisti-feci-kazada-4-kisi-oldu-3922444",
       "source": "Habertürk",
       "published_at": "2026-10-25T13:05:35Z"
-    },
-    {
-      "title": "TürkiyeErmenistan sınırındaki Ani Köprüsü yeniden inşa edilecek",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ermenistan-sinirindaki-ani-koprusu-yeniden-insa-edilecek-961154.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T13:02:00Z"
-    },
-    {
-      "title": "Ağrı'da tır ile otomobil çarpıştı: 4 ölü",
-      "link": "https://www.trthaber.com/haber/turkiye/agrida-tir-ile-otomobil-carpisti-4-olu-961153.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T13:01:00Z"
     }
   ]
 }
