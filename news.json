@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:02:36.092349Z",
+  "generated_at": "2026-10-25T18:07:42.966270Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Göztepe seriye bağladı! Üst üste üçüncü galibiyet",
+      "link": "https://www.sozcu.com.tr/goztepe-seriye-bagladi-ust-uste-ucuncu-galibiyet-p372655",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T18:04:48Z"
+    },
+    {
+      "title": "Riyad Havalimanı'nda iki terminalde uçuşlara yeniden başlandı",
+      "link": "https://www.trthaber.com/haber/dunya/riyad-havalimaninda-iki-terminalde-ucuslara-yeniden-baslandi-961168.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T17:53:00Z"
+    },
     {
       "title": "Brighton'da Ferdi'den kötü haber!",
       "link": "https://www.haberturk.com/spor/brighton-hove-albion-da-ferdi-kadioglu-ndan-kotu-haber-3922468",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/abd-de-milyarderlerin-yuzde-5-vergi-kacisi-3922408",
       "source": "Habertürk",
       "published_at": "2026-10-25T11:18:24Z"
-    },
-    {
-      "title": "Doğu Ekspresi heyecanı başlıyor: Biletler yarın satışta",
-      "link": "https://www.trthaber.com/haber/turkiye/dogu-ekspresi-heyecani-basliyor-biletler-yarin-satista-961142.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T11:18:00Z"
-    },
-    {
-      "title": "Samsunspor'dan sert açıklama: 'Futbol adına kara bir gece yaşanmıştır'",
-      "link": "https://www.sozcu.com.tr/samsunspor-dan-sert-aciklama-futbol-adina-kara-bir-gece-yasanmistir-p372581",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T11:13:37Z"
     }
   ]
 }
