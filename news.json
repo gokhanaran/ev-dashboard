@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:24:37.395346Z",
+  "generated_at": "2026-10-25T21:29:41.405839Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon soruşturmasında eski AKP milletvekili Ertan Aydın tutuklandı",
+      "link": "https://www.sozcu.com.tr/ertan-aydin-hakkinda-karar-p372673",
+      "source": "Sözcü",
+      "published_at": "2026-10-25T21:27:15Z"
+    },
+    {
+      "title": "Türkiye'nin 506'ncı kuş türü Manavgat'ta kaydedildi",
+      "link": "https://www.trthaber.com/haber/yasam/turkiyenin-506nci-kus-turu-manavgatta-kaydedildi-961175.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-25T21:24:00Z"
+    },
     {
       "title": "GSS prim borçları silinecek mi?",
       "link": "https://www.haberturk.com/bilgi/foto/gss-prim-borclari-silinecek-mi-ne-zaman-genel-saglik-sigortasi-gss-borcu-duzenlemesi-kimleri-kapsiyor-3922500",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/kadikoy-lisesi-ziyareti-oncesindeki-pankart-nedeniyle-iki-ogrenci-gozaltinda-p372601",
       "source": "Sözcü",
       "published_at": "2026-10-25T13:13:31Z"
-    },
-    {
-      "title": "Şamil Tayyar'ı meclisten arayan tanıdığının müthiş hikayesi: Cumhurbaşkanlığı'nın adını kimler karıştırdı?",
-      "link": "https://www.sozcu.com.tr/samil-tayyar-i-meclisten-arayan-tanidiginin-muthis-hikayesi-cumhurbaskanligi-nin-adini-kimler-p372600",
-      "source": "Sözcü",
-      "published_at": "2026-10-25T13:06:44Z"
-    },
-    {
-      "title": "TIR ve otomobil çarpıştı! Feci kazada 4 kişi öldü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-tir-ve-otomobil-carpisti-feci-kazada-4-kisi-oldu-3922444",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T13:05:35Z"
     }
   ]
 }
