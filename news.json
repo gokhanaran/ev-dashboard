@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:58:45.924211Z",
+  "generated_at": "2026-10-26T11:03:49.826486Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Tarlanın ortasında bir anda devasa yarıklar ortaya çıktı!",
+      "link": "https://www.sozcu.com.tr/tarlanin-ortasinda-bir-anda-devasa-yariklar-ortaya-cikti-p372907",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T10:58:26Z"
+    },
     {
       "title": "20 yaşındaki üniversiteli genç kız ölüme böyle gitti",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-20-yasindaki-universiteli-yagmur-damla-karaaslan-olume-boyle-gitti-3922620",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarinin-portfoy-sinirlamalarina-uyum-suresi-uzatildi-961204.html",
       "source": "TRT Haber",
       "published_at": "2026-10-26T07:30:00Z"
-    },
-    {
-      "title": "Dolmabahçe'de zorlu mücadele!",
-      "link": "https://www.haberturk.com/spor/dolmabahce-de-zorlu-mucadele-besiktas-basaksehir-muhtemel-11-ler-3922562",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T07:27:18Z"
     }
   ]
 }
