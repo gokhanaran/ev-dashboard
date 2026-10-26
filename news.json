@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:42:06.707389Z",
+  "generated_at": "2026-10-26T04:47:11.926376Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "TÜRK-İŞ’ten vergi indirimi çağrısı",
+      "link": "https://www.haberturk.com/ekonomi/turk-isten-vergi-indirimi-cagrisi-3922526",
+      "source": "Habertürk",
+      "published_at": "2026-10-26T04:41:35Z"
+    },
+    {
+      "title": "\"Brezilya demokrasisini kurtardı\"",
+      "link": "https://www.haberturk.com/dunya/brezilya-demokrasisini-kurtardi-3922522",
+      "source": "Habertürk",
+      "published_at": "2026-10-26T04:40:37Z"
+    },
     {
       "title": "Herkesin gözü 27 Ekim'deyken, Netanyahu bu fotoğrafı paylaştı",
       "link": "https://www.sozcu.com.tr/herkesin-gozu-27-ekimdeyken-netanyahu-bu-fotografi-paylasti-p372720",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/goztepe-seriye-bagladi-ust-uste-ucuncu-galibiyet-p372655",
       "source": "Sözcü",
       "published_at": "2026-10-25T18:04:48Z"
-    },
-    {
-      "title": "Riyad Havalimanı'nda iki terminalde uçuşlara yeniden başlandı",
-      "link": "https://www.trthaber.com/haber/dunya/riyad-havalimaninda-iki-terminalde-ucuslara-yeniden-baslandi-961168.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T17:53:00Z"
-    },
-    {
-      "title": "Brighton'da Ferdi'den kötü haber!",
-      "link": "https://www.haberturk.com/spor/brighton-hove-albion-da-ferdi-kadioglu-ndan-kotu-haber-3922468",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T17:51:56Z"
     }
   ]
 }
