@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:35:58.677697Z",
+  "generated_at": "2026-10-26T22:41:03.214558Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "Ürdün'den Kerek'teki saldırıya misilleme",
+      "link": "https://www.haberturk.com/dunya/urdun-den-kerek-teki-saldiriya-misilleme-3922765",
+      "source": "Habertürk",
+      "published_at": "2026-10-26T22:37:03Z"
+    },
+    {
+      "title": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
+      "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T22:36:30Z"
+    },
+    {
       "title": "Fon kanunu yürürlüğe girdi: Ödemeler ne zaman başlayacak?",
       "link": "https://www.sozcu.com.tr/fon-kanunu-yururluge-girdi-p373046",
       "source": "Sözcü",
       "published_at": "2026-10-26T22:35:22Z"
     },
     {
-      "title": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
-      "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
-      "source": "Sözcü",
-      "published_at": "2026-10-26T22:34:34Z"
-    },
-    {
-      "title": "Ürdün'den Kerek'teki saldırıya misilleme",
-      "link": "https://www.haberturk.com/dunya/urdun-den-kerek-teki-saldiriya-misilleme-3922765",
+      "title": "Belediye meclis üyesini öldüren zanlı yakalandı",
+      "link": "https://www.haberturk.com/gundem/kocaeli-de-belediye-meclis-uyesini-olduren-zanli-bursa-da-yakalandi-3922796",
       "source": "Habertürk",
-      "published_at": "2026-10-26T22:26:59Z"
+      "published_at": "2026-10-26T22:34:28Z"
     },
     {
       "title": "İnterneti bitirecek 'Okyanus' planı: Bir anda dünya ile bağlantınız kopabilir!",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-basaksehir-maci-canli-anlatim-bjk-basaksehir-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3922562",
       "source": "Habertürk",
       "published_at": "2026-10-26T17:41:01Z"
-    },
-    {
-      "title": "Meteoroloji 11 ili 'sarı' ve 'turuncu' kodla uyardı: İstanbul da listede",
-      "link": "https://www.sozcu.com.tr/meteoroloji-27-ekim-2026-sali-uyarisi-p373015",
-      "source": "Sözcü",
-      "published_at": "2026-10-26T17:39:30Z"
     }
   ]
 }
