@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:02:23.993203Z",
+  "generated_at": "2026-10-26T05:07:27.807530Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye'nin yumurta tüketimi şaşırttı: Koskoca ülkeler geride kaldı",
+      "link": "https://www.sozcu.com.tr/turkiye-nin-yumurta-tuketimi-sasirtti-koskoca-ulkeler-geride-kaldi-p372727",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T05:02:43Z"
+    },
     {
       "title": "İstanbul’da takip ettiği kadına tacizde bulundu: Mahalleli çıkmaz sokakta yakaladı",
       "link": "https://www.sozcu.com.tr/kagithanede-taciz-suphelisini-mahalleli-cikmaz-sokakta-yakaladi-p372725",
@@ -300,12 +306,6 @@
       "published_at": "2026-10-26T02:30:39Z"
     },
     {
-      "title": "Diyanet fon krizinde Safi Hoca Amerika’da",
-      "link": "https://www.sozcu.com.tr/diyanet-fon-krizinde-safi-hoca-amerika-da-p372696",
-      "source": "Sözcü",
-      "published_at": "2026-10-26T02:30:39Z"
-    },
-    {
       "title": "TOKİ ödemeyi durdurdu müteahhit canına kıydı",
       "link": "https://www.sozcu.com.tr/toki-odemeyi-durdurdu-muteahhit-canina-kiydi-p372695",
       "source": "Sözcü",
@@ -320,6 +320,12 @@
     {
       "title": "Sanayi batıyor iktidar bakıyor",
       "link": "https://www.sozcu.com.tr/sanayi-batiyor-iktidar-bakiyor-p372690",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T02:30:39Z"
+    },
+    {
+      "title": "Diyanet fon krizinde Safi Hoca Amerika’da",
+      "link": "https://www.sozcu.com.tr/diyanet-fon-krizinde-safi-hoca-amerika-da-p372696",
       "source": "Sözcü",
       "published_at": "2026-10-26T02:30:39Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/keciorengucu-bursaspor-mac-sonucu-iste-keciorengucu-bursaspor-maci-ozeti-ve-golleri-1-lig-3922484",
       "source": "Habertürk",
       "published_at": "2026-10-25T18:52:02Z"
-    },
-    {
-      "title": "İşgalci İsrail Batı Şeria'da 3 günde 50 kişiyi gözaltına aldı",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-3-gunde-50-kisiyi-gozaltina-aldi-961170.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-25T18:49:00Z"
     }
   ]
 }
