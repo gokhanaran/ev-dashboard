@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:48:54.889196Z",
+  "generated_at": "2026-10-26T17:53:59.207927Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Karadeniz derbisinde kazanan Trabzonspor! 7 gollü çılgın maç",
+      "link": "https://www.sozcu.com.tr/canli-veya-caykur-rizespor-trabzonspor-super-lig-9-hafta-p372975",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T17:53:14Z"
+    },
+    {
+      "title": "Beşiktaş ikinci yarıda açıldı! Başakşehir’i son bölümde devirdi",
+      "link": "https://www.sozcu.com.tr/canli-veya-besiktas-basaksehir-canli-anlatimi-super-lig-9-hafta-p372954",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T17:52:28Z"
+    },
+    {
+      "title": "Oktay Saral'ın istifasının ardından Şamil Tayyar'dan dikkat çeken sözler",
+      "link": "https://www.sozcu.com.tr/oktay-saral-in-istifasinin-ardindan-samil-tayyar-dan-dikkat-ceken-sozler-p373018",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T17:51:52Z"
+    },
+    {
+      "title": "Sarıgül soruşturmasında 3 tutuklama talebi",
+      "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-yeni-gelisme-26-ekim-2026-p373017",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T17:48:55Z"
+    },
     {
       "title": "Canlı | Beşiktaş-Başakşehir canlı anlatımı (Süper Lig 9. hafta)",
       "link": "https://www.sozcu.com.tr/canli-veya-besiktas-basaksehir-canli-anlatimi-super-lig-9-hafta-p372954",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/bakan-tekin-dunyada-baris-insa-edilecekse-bunun-yolu-egitim-ogretimden-geciyor-3792560",
       "source": "Habertürk",
       "published_at": "2026-10-26T12:38:01Z"
-    },
-    {
-      "title": "MİT Başkanı Kalın Suriye'de Şara ile görüştü",
-      "link": "https://www.haberturk.com/mit-baskani-kalin-suriye-de-cumhurbaskani-sara-ve-heyetiyle-gorustu-3792558",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T12:37:53Z"
-    },
-    {
-      "title": "Bulgaristan 2026'da Euro'ya geçmeye hazırlanıyor",
-      "link": "https://www.haberturk.com/bulgaristan-2026-da-euroya-gecmeye-hazirlaniyor-3792559-ekonomi",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T12:37:53Z"
-    },
-    {
-      "title": "İş Sanat dinletileri Attilâ İlhan'la başlıyor",
-      "link": "https://www.haberturk.com/kultur-sanat/is-sanat-dinletileri-attil-ilhan-la-basliyor-3922656",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T12:37:41Z"
-    },
-    {
-      "title": "Asya’nın en iyi kadın şefi İstanbul'da",
-      "link": "https://www.haberturk.com/htgastro/lezzetli-hatlar/asyanin-en-iyi-kadin-sefi-istanbul-da-3792553",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T12:37:30Z"
     }
   ]
 }
