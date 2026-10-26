@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:11:42.773966Z",
+  "generated_at": "2026-10-26T04:16:47.232247Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Çölü yeşillendirmek isterken felaketi yaşattılar",
+      "link": "https://www.sozcu.com.tr/colu-yesillendirmek-isterken-felaketi-yasattilar-p372714",
+      "source": "Sözcü",
+      "published_at": "2026-10-26T04:12:48Z"
+    },
     {
       "title": "İstanbul'da bu akşam trafik işkencesi var",
       "link": "https://www.sozcu.com.tr/istanbul-da-bu-aksam-trafik-iskencesi-var-p372713",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/yeni-parti-buca-istifalar-chp-ye-katilim-p372645",
       "source": "Sözcü",
       "published_at": "2026-10-25T17:04:23Z"
-    },
-    {
-      "title": "M.United'a büyük şok!",
-      "link": "https://www.haberturk.com/spor/manchester-united-burnemouth-mac-sonucu-iste-manchester-united-bournemouth-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3922474",
-      "source": "Habertürk",
-      "published_at": "2026-10-25T16:53:21Z"
     }
   ]
 }
