@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:01:19.365331Z",
+  "generated_at": "2026-10-26T23:06:23.617645Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,13 @@
       "title": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
       "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
       "source": "Sözcü",
-      "published_at": "2026-10-26T22:56:49Z"
+      "published_at": "2026-10-26T23:03:07Z"
+    },
+    {
+      "title": "Antalya'da hortum felaketi: 4 ölü, 1 yaralı!",
+      "link": "https://www.haberturk.com/gundem/antalya-da-hortum-felaketi-4-isci-olu-1-isci-yaralandi-3922799",
+      "source": "Habertürk",
+      "published_at": "2026-10-26T23:01:14Z"
     },
     {
       "title": "Ercüment İşleyen gözaltına alındı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-yeni-gelisme-26-ekim-2026-p373017",
       "source": "Sözcü",
       "published_at": "2026-10-26T17:48:55Z"
-    },
-    {
-      "title": "Canlı | Beşiktaş-Başakşehir canlı anlatımı (Süper Lig 9. hafta)",
-      "link": "https://www.sozcu.com.tr/canli-veya-besiktas-basaksehir-canli-anlatimi-super-lig-9-hafta-p372954",
-      "source": "Sözcü",
-      "published_at": "2026-10-26T17:47:43Z"
     }
   ]
 }
