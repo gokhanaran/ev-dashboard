@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:18:11.572094Z",
+  "generated_at": "2026-10-27T20:23:15.380375Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "Alanyaspor 6 dakikada işi bitirdi",
+      "link": "https://www.sozcu.com.tr/alanyaspor-kupada-hata-yapmadi-p373370",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T20:17:49Z"
+    },
+    {
       "title": "Son dakika... İsrail'de seçim sandıkları kapandı",
       "link": "https://www.sozcu.com.tr/son-dakika-israil-de-secim-sandiklari-kapandi-p373365",
       "source": "Sözcü",
       "published_at": "2026-10-27T20:16:26Z"
     },
     {
+      "title": "Yılların ünlü oyuncusuna kazancı soruldu! Yanıtı şaşırttı",
+      "link": "https://www.sozcu.com.tr/yillarin-unlu-oyuncusuna-kazanci-soruldu-yaniti-sasirtti-p373371",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T20:16:25Z"
+    },
+    {
+      "title": "İsrail'de kritik seçim sona erdi",
+      "link": "https://www.haberturk.com/dunya/son-dakika-israil-de-kritik-secim-sona-erdi-3922973",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T20:15:34Z"
+    },
+    {
       "title": "Bülent Uygun Fenerbahçe'ye talip oldu! Montella hakkında flaş sözler",
       "link": "https://www.sozcu.com.tr/bulent-uygun-fenerbahceye-talip-oldu-montella-hakkinda-flas-sozler-p373369",
       "source": "Sözcü",
       "published_at": "2026-10-27T20:13:33Z"
+    },
+    {
+      "title": "'Dijital egemenlik milli güvenliğin parçası'",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-baskanligindaki-toplantida-dijital-tehditler-ve-guvenlik-degerlendirildi-3923073",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T20:11:50Z"
     },
     {
       "title": "Kocaelispor kupada 3 golle turladı",
@@ -76,12 +100,6 @@
       "link": "https://www.haberturk.com/ekonomi/spk-dan-yeni-tera-yatirim-karari-3923071",
       "source": "Habertürk",
       "published_at": "2026-10-27T20:02:03Z"
-    },
-    {
-      "title": "İsrail'de kritik seçim sona erdi",
-      "link": "https://www.haberturk.com/dunya/son-dakika-israil-de-kritik-secim-sona-erdi-3922973",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T20:00:49Z"
     },
     {
       "title": "İsmail Kartal ve Aziz Yıldırım arasındaki diyalog ortaya çıktı! Artık psikolojim kaldırmıyor",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/anne-babasinin-emanet-ettigi-bebege-yaptiklari-pes-dedirtti-goruntulere-tepki-yagdi-p373301",
       "source": "Sözcü",
       "published_at": "2026-10-27T14:10:23Z"
-    },
-    {
-      "title": "Mert Hakan'dan derbi açıklaması!",
-      "link": "https://www.haberturk.com/spor/mert-hakan-yandas-tan-galatasaray-maci-sonrasi-yasanan-olaylarla-ilgili-aciklama-3923005",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:09:13Z"
-    },
-    {
-      "title": "İsrail'de muhalefet liderine bıçaklı saldırı girişimi",
-      "link": "https://www.haberturk.com/dunya/israil-de-muhalif-lider-golan-a-yonelik-bicakli-saldiri-girisimi-engellendi-3923004",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:07:58Z"
-    },
-    {
-      "title": "Milas Belediye Başkan Vekili 3 Kasım'da seçilecek",
-      "link": "https://www.trthaber.com/haber/turkiye/milas-belediye-baskan-vekili-3-kasimda-secilecek-961380.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T14:03:00Z"
     }
   ]
 }
