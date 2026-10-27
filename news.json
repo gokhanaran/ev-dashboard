@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:40:59.775010Z",
+  "generated_at": "2026-10-27T14:46:02.855487Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 20
+      "items": 21
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Otomobil sahiplerine plaka sürprizi: Sürücüler plaka numaralarını kendileri seçebilecek",
+      "link": "https://www.sozcu.com.tr/otomobil-sahiplerine-plaka-surprizi-suruculer-plaka-numaralarini-kendileri-secebilecek-p373306",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T14:44:25Z"
+    },
+    {
+      "title": "Beşiktaş'tan yayıncı kuruluşa tepki!",
+      "link": "https://www.haberturk.com/spor/besiktas-tan-galatasaray-fenerbahce-derbisindeki-olaylar-uzerine-yayinci-kurulusa-tepki-3923015",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:42:47Z"
+    },
+    {
+      "title": "Toprak Razgatlıoğlu ameliyat oldu!",
+      "link": "https://www.haberturk.com/spor/milli-motosikletci-toprak-razgatlioglu-italya-da-omzundan-ameliyat-oldu-3923006",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:40:43Z"
+    },
+    {
       "title": "Yeni Parti AİHM'e gidiyor",
       "link": "https://www.sozcu.com.tr/yeni-parti-aihm-e-gidiyor-p373305",
       "source": "Sözcü",
@@ -46,12 +64,6 @@
       "link": "https://www.sozcu.com.tr/tugyan-ulkem-gulter-bu-kez-de-hastalara-eziyetle-suclaniyor-p373303",
       "source": "Sözcü",
       "published_at": "2026-10-27T14:38:14Z"
-    },
-    {
-      "title": "Beşiktaş'tan yayıncı kuruluşa tepki!",
-      "link": "https://www.haberturk.com/spor/besiktas-tan-galatasaray-fenerbahce-derbisindeki-olaylar-uzerine-yayinci-kurulusa-tepki-3923015",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:36:35Z"
     },
     {
       "title": "Mekke Anlaşması komisyonda kabul edildi",
@@ -742,18 +754,6 @@
       "link": "https://hthayat.haberturk.com/2026-yilinin-yasayan-en-seksi-erkegi-noah-wyle-1088300",
       "source": "Habertürk",
       "published_at": "2026-10-27T11:37:14Z"
-    },
-    {
-      "title": "Çeri domates yasaklandı: Yemeyin çağrısı yapıldı",
-      "link": "https://www.sozcu.com.tr/ceri-domates-yasaklandi-yemeyin-cagrisi-yapildi-p373245",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T11:35:07Z"
-    },
-    {
-      "title": "Kayseri'de itfaiyecilerden 100. yıl hatıra ormanı",
-      "link": "https://www.haberturk.com/gundem/kayseri-de-itfaiyecilerden-100-yil-hatira-ormani-3922955",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T11:32:55Z"
     }
   ]
 }
