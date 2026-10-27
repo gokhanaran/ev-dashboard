@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:00:54.828344Z",
+  "generated_at": "2026-10-27T02:16:00.546294Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Sosyal konuttan önce villalar bitti",
+      "link": "https://www.sozcu.com.tr/sosyal-konuttan-once-villalar-bitti-p373075",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T02:10:22Z"
+    },
     {
       "title": "Arpalıktan AKP'liler çıktı",
       "link": "https://www.sozcu.com.tr/arpaliktan-akp-liler-cikti-p373068",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/kpss-on-lisans-sonuclari-ne-zaman-aciklanacak-kpss-on-lisans-sonuclari-sorgulama-nasil-yapilir-3922734",
       "source": "Habertürk",
       "published_at": "2026-10-26T18:02:29Z"
-    },
-    {
-      "title": "Sarıgül soruşturması AKP'ye uzandı! İl Başkan yardımcısı gözaltına alındı, serbest bırakıldı",
-      "link": "https://www.sozcu.com.tr/sarigul-sorusturmasi-akp-ye-uzandi-il-baskan-yardimcisi-gozaltina-alindi-p372981",
-      "source": "Sözcü",
-      "published_at": "2026-10-26T18:01:10Z"
     }
   ]
 }
