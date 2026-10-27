@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:56:11.495747Z",
+  "generated_at": "2026-10-27T15:01:14.810042Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Bahçelievler'de 2 apartman boşaltıldı",
+      "link": "https://www.haberturk.com/gundem/bahcelievler-de-2-apartman-bosaltildi-3923016",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:52:40Z"
+    },
+    {
       "title": "Yeni Parti AİHM'e gidiyor",
       "link": "https://www.sozcu.com.tr/yeni-parti-aihm-e-gidiyor-p373305",
       "source": "Sözcü",
       "published_at": "2026-10-27T14:51:08Z"
+    },
+    {
+      "title": "Mekke Anlaşması komisyonda kabul edildi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-ittifaki-komisyonda-gorusuluyor-3922899",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:50:04Z"
     },
     {
       "title": "Fenerbahçe'de hareketli saatler: İsmail Kartal istifanın eşiğinde",
@@ -82,12 +94,6 @@
       "link": "https://www.trthaber.com/haber/dunya/cinin-abd-ile-yapay-zeka-yarisi-borsayi-vurdu-961385.html",
       "source": "TRT Haber",
       "published_at": "2026-10-27T14:36:00Z"
-    },
-    {
-      "title": "Mekke Anlaşması komisyonda kabul edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-ittifaki-komisyonda-gorusuluyor-3922899",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:35:48Z"
     },
     {
       "title": "Fenerbahçe'de hareketli saatler!",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/kayip-kadin-ormanlik-alanda-olu-bulundu-3922962",
       "source": "Habertürk",
       "published_at": "2026-10-27T11:43:25Z"
-    },
-    {
-      "title": "Emekli polis dehşet saçtı: Kardeşini öldürüp, intihar etti",
-      "link": "https://www.sozcu.com.tr/emekli-polis-dehset-sacti-kardesini-oldurup-intihar-etti-p373247",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T11:41:11Z"
     }
   ]
 }
