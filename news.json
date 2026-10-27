@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:53:39.608963Z",
+  "generated_at": "2026-10-27T23:40:20.899268Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 23
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,168 @@
   ],
   "items": [
     {
+      "title": "Vücudunuzu ayakta tutan 20 besin",
+      "link": "https://www.haberturk.com/yasam/foto/vucudunuzu-ayakta-tutan-20-besin-3923014",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T23:04:31Z"
+    },
+    {
+      "title": "İsrail'deki seçimlere yüksek katılım",
+      "link": "https://www.haberturk.com/dunya/israil-deki-secimlere-yogun-katilim-3923056",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T23:01:59Z"
+    },
+    {
+      "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+      "link": "https://www.haberturk.com/gundem/beyoglu-nda-5-katli-metruk-bina-coktu-3923086",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:54:53Z"
+    },
+    {
+      "title": "AKP'li vekil Asuman Erdoğan'ın eşi de aralarında! Pasifik Holding'in üç yöneticisinin mal varlıklarına tedbir",
+      "link": "https://www.sozcu.com.tr/akpli-vekil-asuman-erdoganin-esi-de-aralarinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-t-p373397",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T22:51:14Z"
+    },
+    {
+      "title": "4 Filistinli hayatını kaybetti",
+      "link": "https://www.haberturk.com/dunya/4-filistinli-hayatini-kaybetti-3923085",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:31:20Z"
+    },
+    {
+      "title": "Caz ve flamenko efsaneleri İş Sanat’ta",
+      "link": "https://www.haberturk.com/kultur-sanat/caz-ve-flamenko-efsaneleri-is-sanatta-3923057",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:30:33Z"
+    },
+    {
+      "title": "'Comes Alive' Pera Müzesi'nde",
+      "link": "https://www.haberturk.com/kultur-sanat/comes-alive-pera-muzesi-nde-3923064",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:29:54Z"
+    },
+    {
+      "title": "Anadolu Kısaları Forum II başlıyor",
+      "link": "https://www.haberturk.com/kultur-sanat/anadolu-kisalari-forum-ii-29-ekim-de-basliyor-3922966",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:28:54Z"
+    },
+    {
+      "title": "‘Güneşin Oğlu’ 17 Kasım'da sahnede",
+      "link": "https://www.haberturk.com/kultur-sanat/gunesin-oglu-17-kasim-da-sahnede-3923061",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:28:19Z"
+    },
+    {
+      "title": "3 kişinin mal varlığına tedbir konuldu",
+      "link": "https://www.haberturk.com/gundem/3-kisinin-mal-varligina-tedbir-konuldu-3923083",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:27:54Z"
+    },
+    {
+      "title": "Kocaeli'de 7 katlı bina tahliye edildi",
+      "link": "https://www.haberturk.com/gundem/kocaeli-de-7-katli-bina-tahliye-edildi-3923082",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:22:49Z"
+    },
+    {
+      "title": "Son dakika... İsrail'de seçim sandıkları kapandı",
+      "link": "https://www.sozcu.com.tr/son-dakika-israil-de-secim-sandiklari-kapandi-p373365",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T22:22:33Z"
+    },
+    {
+      "title": "İşgalci İsrail ordusunun Gazze Şeridi'ne düzenlediği saldırıda 4 Filistinli öldü",
+      "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-gazze-seridine-duzenledigi-saldirida-4-filistinli-oldu-961414.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-27T22:21:00Z"
+    },
+    {
+      "title": "Fon soruşturmasında iki üst düzey yönetici tutuklandı",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-iki-supheli-tutuklandi-p373379",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T22:20:22Z"
+    },
+    {
+      "title": "Yaşlı çifti ölümlü kaza ayırdı",
+      "link": "https://www.haberturk.com/gundem/ankara-da-yasli-cifti-olumlu-kaza-ayirdi-3923081",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T22:01:52Z"
+    },
+    {
+      "title": "İsrail’de sandık kapandı, iktidar hesabı açık kaldı",
+      "link": "https://www.haberturk.com/dunya/israilde-sandik-kapandi-iktidar-hesabi-acik-kaldi-3923078",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:55:40Z"
+    },
+    {
+      "title": "Türk bayrağına ve Atatürk'e hakarete gözaltı",
+      "link": "https://www.haberturk.com/gundem/turk-bayragina-ve-ataturk-e-hakaret-eden-ogretmene-gozalti-3923079",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:54:56Z"
+    },
+    {
+      "title": "Trump sözünü tutmadı, 10 milyon dolarlık davayla karşı karşıya kaldı",
+      "link": "https://www.sozcu.com.tr/trump-sozunu-tutmadi-10-milyon-dolarlik-davayla-karsi-karsiya-kaldi-p373392",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T21:52:56Z"
+    },
+    {
+      "title": "F.Bahçe, Valencia'da kayıp",
+      "link": "https://www.haberturk.com/spor/valencia-basket-86-fenerbahce-tarfin-78-mac-sonucu-3923080",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:48:15Z"
+    },
+    {
+      "title": "Fon soruşturmasında 2 yeni tutuklama: 120'ye yükseldi",
+      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-2-yeni-tutuklama-120ye-yukseldi-961413.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-27T21:43:00Z"
+    },
+    {
+      "title": "Fenerbahçe sonunu getiremedi! İkinci mağlubiyetini aldı",
+      "link": "https://www.sozcu.com.tr/fenerbahce-sonunu-getiremedi-ikinci-maglubiyetini-aldi-p373390",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T21:38:13Z"
+    },
+    {
+      "title": "Fon soruşturmasında 2 kişi tutuklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-4-supheli-hakimlige-sevk-edildi-3923050",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:34:53Z"
+    },
+    {
+      "title": "İsrail'de kritik seçim sona erdi",
+      "link": "https://www.haberturk.com/dunya/son-dakika-israil-de-kritik-secim-sona-erdi-3922973",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:30:55Z"
+    },
+    {
+      "title": "Kafa kafaya çarpıştılar: 5 yaralı",
+      "link": "https://www.haberturk.com/gundem/duzce-de-2-arac-kafa-kafaya-carpisti-5-yarali-3923077",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T21:25:08Z"
+    },
+    {
+      "title": "Gattuso'yu durdurabilene aşk olsun! 8 gollü çılgın maç",
+      "link": "https://www.sozcu.com.tr/gattusoyu-durdurabilene-as-kolsun-8-gollu-cilgin-mac-p373363",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T21:06:15Z"
+    },
+    {
+      "title": "Sandık çıkış anketlerine göre İsrailde Filistin'i temsil eden partiler kilit konumda",
+      "link": "https://www.trthaber.com/haber/dunya/sandik-cikis-anketlerine-gore-israilde-filistini-temsil-eden-partiler-kilit-konumda-961412.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-27T21:04:00Z"
+    },
+    {
+      "title": "İsmail Kartal'ın ayrılığı sonrası Galatasaray'dan flaş paylaşım",
+      "link": "https://www.sozcu.com.tr/ismail-kartalin-ayriligi-sonrasi-galatasaraydan-flas-paylasim-p373375",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T21:02:40Z"
+    },
+    {
       "title": "Trump gözünü bu ülkeye dikti: 51. eyaletimiz olabilir",
       "link": "https://www.sozcu.com.tr/trump-gozunu-bu-ulkeye-dikti-51-eyaletimiz-olabilir-p373377",
       "source": "Sözcü",
@@ -46,18 +208,6 @@
       "link": "https://www.trthaber.com/haber/gundem/gullunun-kizi-tugyan-ulkem-gultere-yeni-sorusturma-961411.html",
       "source": "TRT Haber",
       "published_at": "2026-10-27T20:45:00Z"
-    },
-    {
-      "title": "İsrail'de kritik seçim sona erdi",
-      "link": "https://www.haberturk.com/dunya/son-dakika-israil-de-kritik-secim-sona-erdi-3922973",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T20:44:40Z"
-    },
-    {
-      "title": "Son dakika... İsrail'de seçim sandıkları kapandı",
-      "link": "https://www.sozcu.com.tr/son-dakika-israil-de-secim-sandiklari-kapandi-p373365",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T20:40:41Z"
     },
     {
       "title": "Normalin 11 katına çıktı: Saniyede tam 17 milyon litre su akıyor",
@@ -154,12 +304,6 @@
       "link": "https://www.sozcu.com.tr/ismail-kartal-ve-aziz-yildirim-arasindaki-diyalog-ortaya-cikti-artik-psikolojim-kaldirmiyor-p373361",
       "source": "Sözcü",
       "published_at": "2026-10-27T19:58:24Z"
-    },
-    {
-      "title": "İsrail'deki seçimlere yüksek katılım",
-      "link": "https://www.haberturk.com/dunya/israil-deki-secimlere-yogun-katilim-3923056",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T19:56:40Z"
     },
     {
       "title": "\"Artık psikolojim kaldırmıyor\"",
@@ -610,150 +754,6 @@
       "link": "https://www.haberturk.com/saglik/aile-hekimleri-uzaktan-saglik-hizmetinde-hasta-onceligi-ve-guvence-istedi-3923021",
       "source": "Habertürk",
       "published_at": "2026-10-27T15:29:39Z"
-    },
-    {
-      "title": "Bahçeli'den Azerbaycan-Türkiye mesajı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bahceli-den-azerbaycan-turkiye-mesaji-3923020",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T15:23:23Z"
-    },
-    {
-      "title": "OpenAI'ın yapay zeka modelleri matematik, bilgisayar bilimi ve fizikte üç bilimsel sonuca ulaştı",
-      "link": "https://www.trthaber.com/haber/dunya/openaiin-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-uc-bilimsel-sonuca-ulasti-961387.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T15:18:00Z"
-    },
-    {
-      "title": "Milli motosikletçi Toprak Razgatlıoğlu ameliyat oldu",
-      "link": "https://www.sozcu.com.tr/milli-motosikletci-toprak-razgatlioglu-ameliyat-oldu-p373312",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T15:15:20Z"
-    },
-    {
-      "title": "Bahçeli: Türk dünyasının istikbali müşterek sorumluluğumuzdur",
-      "link": "https://www.trthaber.com/haber/gundem/bahceli-turk-dunyasinin-istikbali-musterek-sorumlulugumuzdur-961388.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T15:15:00Z"
-    },
-    {
-      "title": "2 EuroLeague Final Four'u Abu Dabi'de!",
-      "link": "https://www.haberturk.com/spor/2027-ve-2029-euroleague-final-four-u-abu-dabi-de-3923019",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T15:14:00Z"
-    },
-    {
-      "title": "Beşiktaş, yayıncı kuruluşa ateş püskürdü: 'Çifte standardın tescili'",
-      "link": "https://www.sozcu.com.tr/besiktas-yayinci-kurulusa-ates-puskurdu-cifte-standardin-tescili-p373309",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T15:09:51Z"
-    },
-    {
-      "title": "İstiklal Yolu Atlı Yürüyüşü başladı",
-      "link": "https://www.haberturk.com/gundem/foto/istiklal-yolu-atli-yuruyusu-basladi-3923018",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T15:07:10Z"
-    },
-    {
-      "title": "Elon Musk’tan dikkat çeken paylaşım: Yusuf Dikeç detayı dikkat çekti",
-      "link": "https://www.sozcu.com.tr/elon-musk-tan-dikkat-ceken-paylasim-yusuf-dikec-detayi-dikkat-cekti-p373311",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T15:06:44Z"
-    },
-    {
-      "title": "25 yıl sonra içme suyuna kavuştular",
-      "link": "https://www.haberturk.com/gundem/25-yil-sonra-icme-suyuna-kavustular-3923017",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:58:04Z"
-    },
-    {
-      "title": "Bahçelievler'de 2 apartman boşaltıldı",
-      "link": "https://www.haberturk.com/gundem/bahcelievler-de-2-apartman-bosaltildi-3923016",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:52:40Z"
-    },
-    {
-      "title": "Yeni Parti AİHM'e gidiyor",
-      "link": "https://www.sozcu.com.tr/yeni-parti-aihm-e-gidiyor-p373305",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T14:51:08Z"
-    },
-    {
-      "title": "Mekke Anlaşması komisyonda kabul edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-ittifaki-komisyonda-gorusuluyor-3922899",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:50:04Z"
-    },
-    {
-      "title": "Fenerbahçe'de hareketli saatler: İsmail Kartal istifanın eşiğinde",
-      "link": "https://www.sozcu.com.tr/fenerbahce-de-hareketli-saatler-ismail-kartal-istifanin-esiginde-p373307",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T14:47:13Z"
-    },
-    {
-      "title": "Otomobil sahiplerine plaka sürprizi: Sürücüler plaka numaralarını kendileri seçebilecek",
-      "link": "https://www.sozcu.com.tr/otomobil-sahiplerine-plaka-surprizi-suruculer-plaka-numaralarini-kendileri-secebilecek-p373306",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T14:44:25Z"
-    },
-    {
-      "title": "Beşiktaş'tan yayıncı kuruluşa tepki!",
-      "link": "https://www.haberturk.com/spor/besiktas-tan-galatasaray-fenerbahce-derbisindeki-olaylar-uzerine-yayinci-kurulusa-tepki-3923015",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:42:47Z"
-    },
-    {
-      "title": "Batman'da 'kurgu trafik kazası' operasyonu: 43 gözaltı",
-      "link": "https://www.trthaber.com/haber/turkiye/batmanda-kurgu-trafik-kazasi-operasyonu-43-gozalti-961386.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T14:42:00Z"
-    },
-    {
-      "title": "Toprak Razgatlıoğlu ameliyat oldu!",
-      "link": "https://www.haberturk.com/spor/milli-motosikletci-toprak-razgatlioglu-italya-da-omzundan-ameliyat-oldu-3923006",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:40:43Z"
-    },
-    {
-      "title": "Çinin ABD ile yapay zeka yarışı borsayı vurdu",
-      "link": "https://www.trthaber.com/haber/dunya/cinin-abd-ile-yapay-zeka-yarisi-borsayi-vurdu-961385.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T14:36:00Z"
-    },
-    {
-      "title": "Tartıştığı eski sevgilisi tarafından tabancayla başından vuruldu",
-      "link": "https://www.sozcu.com.tr/tartistigi-eski-sevgilisi-tarafindan-tabancayla-basindan-vuruldu-p373304",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T14:32:49Z"
-    },
-    {
-      "title": "Bugün Ne Oldu? 27 Ekim 2026 haberleri",
-      "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-27-ekim-2026-haberleri-israilde-secim--netanyahu-secim-calinmaya-calisiliyor-spk-fonlarin-tasfiye-ve-odeme-esaslarini-belirledi-derbi-dunya-basininda-vahsi-bati/921485",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:30:26Z"
-    },
-    {
-      "title": "Tuğyan Ülkem Gülter için 'hastalara eziyet' iddiasıyla soruşturma!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-tugyan-ulkem-gulter-icin-hastalara-eziyet-iddiasiyla-sorusturma-3923009",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:28:56Z"
-    },
-    {
-      "title": "Fenerbahçe'de hareketli saatler: İsmail Kartal'dan istifa kararı gelebilir!",
-      "link": "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-hareketli-saatler-ismail-kartal-dan-istifa-karari-gelebilir-3923011",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:24:53Z"
-    },
-    {
-      "title": "Eli kanlı Netanyahudan provokatif sandık çağrısı",
-      "link": "https://www.trthaber.com/haber/dunya/eli-kanli-netanyahudan-provokatif-sandik-cagrisi-961384.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-27T14:23:00Z"
-    },
-    {
-      "title": "Süpürgeden yayılan kötü kokunun nedeni bu olabilir!",
-      "link": "https://www.haberturk.com/bilgi/supurgeden-yayilan-kotu-kokunun-nedeni-bu-olabilir-3923010",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:20:52Z"
     }
   ]
 }
