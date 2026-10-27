@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:16:00.546294Z",
+  "generated_at": "2026-10-27T02:26:04.566893Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Mersin'de nüfusa nükleer takviyesi",
+      "link": "https://www.sozcu.com.tr/mersin-de-nufusa-nukleer-takviyesi-p373076",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T02:20:23Z"
+    },
+    {
+      "title": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+      "link": "https://www.sozcu.com.tr/anthropicten-halka-arz-oncesi-insanlik-icin-varolussal-risk-uyarisi-p373077",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T02:19:21Z"
+    },
     {
       "title": "Sosyal konuttan önce villalar bitti",
       "link": "https://www.sozcu.com.tr/sosyal-konuttan-once-villalar-bitti-p373075",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-genelkurmay-baskani-abdullahiden-hurmuz-bogazi-aciklamasi-961263.html",
       "source": "TRT Haber",
       "published_at": "2026-10-26T18:05:00Z"
-    },
-    {
-      "title": "Kara para aklama soruşturmasında 3 tutuklama talebi",
-      "link": "https://www.haberturk.com/gundem/kara-para-aklama-sorusturmasinda-3-tutuklama-talebi-3922738",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T18:04:39Z"
-    },
-    {
-      "title": "KPSS Ön Lisans sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-on-lisans-sonuclari-ne-zaman-aciklanacak-kpss-on-lisans-sonuclari-sorgulama-nasil-yapilir-3922734",
-      "source": "Habertürk",
-      "published_at": "2026-10-26T18:02:29Z"
     }
   ]
 }
