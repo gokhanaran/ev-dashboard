@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:28:19.703701Z",
+  "generated_at": "2026-10-27T20:33:23.662094Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,16 @@
   ],
   "items": [
     {
+      "title": "Son dakika... İsrail'de seçim sandıkları kapandı",
+      "link": "https://www.sozcu.com.tr/son-dakika-israil-de-secim-sandiklari-kapandi-p373365",
+      "source": "Sözcü",
+      "published_at": "2026-10-27T20:31:12Z"
+    },
+    {
       "title": "Fenerbahçe'de Göztepe maçında takımın başında kimin olacağı belli oldu",
       "link": "https://www.sozcu.com.tr/fenerbahcede-goztepe-macinda-takimin-basinda-kimin-olacagi-belli-oldu-p373373",
       "source": "Sözcü",
       "published_at": "2026-10-27T20:26:54Z"
-    },
-    {
-      "title": "Son dakika... İsrail'de seçim sandıkları kapandı",
-      "link": "https://www.sozcu.com.tr/son-dakika-israil-de-secim-sandiklari-kapandi-p373365",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T20:26:33Z"
     },
     {
       "title": "İsrail'de kritik seçim sona erdi",
@@ -58,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/tugyan-ulkem-gulter-bu-kez-de-hastalara-eziyetle-suclaniyor-p373303",
       "source": "Sözcü",
       "published_at": "2026-10-27T20:23:35Z"
+    },
+    {
+      "title": "Fransa'da Müslümanlara yönelik ölüm çağrıları yapılan sohbet grubu hakkında soruşturma",
+      "link": "https://www.trthaber.com/haber/dunya/fransada-muslumanlara-yonelik-olum-cagrilari-yapilan-sohbet-grubu-hakkinda-sorusturma-961408.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-27T20:21:00Z"
     },
     {
       "title": "'Dijital egemenlik, milli güvenliğin parçası'",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/hayatlar-farkli-hedef-ortak-genclerin-hayalleri-icin-kosacaklar-3923007",
       "source": "Habertürk",
       "published_at": "2026-10-27T14:15:42Z"
-    },
-    {
-      "title": "Denizolgun’un doktoruna hapis ve tahliye",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-eski-ulastirma-bakani-arif-ahmet-denizolgun-un-olumune-iliskin-doktor-nurettin-demirkol-un-yargilanmasi-basliyor-3922847",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T14:11:29Z"
     }
   ]
 }
