@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:15:41.919739Z",
+  "generated_at": "2026-10-27T14:20:45.554357Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Denizolgun’un doktoruna hapis ve tahliye",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-eski-ulastirma-bakani-arif-ahmet-denizolgun-un-olumune-iliskin-doktor-nurettin-demirkol-un-yargilanmasi-basliyor-3922847",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:11:29Z"
+    },
+    {
       "title": "Anne babasının emanet ettiği bebeğe yaptıkları pes dedirtti: Görüntülere tepki yağdı",
       "link": "https://www.sozcu.com.tr/anne-babasinin-emanet-ettigi-bebege-yaptiklari-pes-dedirtti-goruntulere-tepki-yagdi-p373301",
       "source": "Sözcü",
       "published_at": "2026-10-27T14:10:23Z"
+    },
+    {
+      "title": "Mert Hakan'dan derbi açıklaması!",
+      "link": "https://www.haberturk.com/spor/mert-hakan-yandas-tan-galatasaray-maci-sonrasi-yasanan-olaylarla-ilgili-aciklama-3923005",
+      "source": "Habertürk",
+      "published_at": "2026-10-27T14:09:13Z"
     },
     {
       "title": "İsrail'de muhalefet liderine bıçaklı saldırı girişimi",
@@ -214,12 +226,6 @@
       "link": "https://www.sozcu.com.tr/haslama-suyuna-bir-cay-kasigi-ekleyin-sert-et-lokum-gibi-dagiliyor-p373291",
       "source": "Sözcü",
       "published_at": "2026-10-27T13:26:02Z"
-    },
-    {
-      "title": "Denizolgun’un doktoruna hapis ve tahliye",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-eski-ulastirma-bakani-arif-ahmet-denizolgun-un-olumune-iliskin-doktor-nurettin-demirkol-un-yargilanmasi-basliyor-3922847",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T13:21:48Z"
     },
     {
       "title": "Mekke Anlaşması komisyonda kabul edildi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-baslarindan-vurulmus-halde-bulundular-3922945",
       "source": "Habertürk",
       "published_at": "2026-10-27T10:50:49Z"
-    },
-    {
-      "title": "Netanyahu Ben Gvir'in iddiasını reddetti",
-      "link": "https://www.haberturk.com/dunya/netanyahu-ben-gvir-in-abd-ye-kendisini-disarida-birakan-hukumet-kurma-sozu-verildigi-iddiasini-3922944",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T10:50:25Z"
     }
   ]
 }
