@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:29:33.492366Z",
+  "generated_at": "2026-10-28T12:34:36.121071Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "Vücudunuzu ayakta tutan 20 besin",
+      "link": "https://www.haberturk.com/yasam/foto/vucudunuzu-ayakta-tutan-20-besin-3923014",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T12:27:24Z"
+    },
+    {
+      "title": "Fransa'da polise 'gaz bombası' soruşturması",
+      "link": "https://www.haberturk.com/dunya/fransa-da-polisin-cocuklarin-bulundugu-noktaya-gaz-bombasi-firlatmasi-hakkinda-sorusturma-3923205",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T12:27:04Z"
+    },
+    {
+      "title": "\"Estetik yaptırdım\"",
+      "link": "https://www.haberturk.com/magazin/jennifer-lawrence-tan-meme-estetigi-itirafi-3923199",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T12:26:38Z"
+    },
+    {
+      "title": "Taksim Cumhuriyet Anıtı önünde tören",
+      "link": "https://www.haberturk.com/gundem/taksim-cumhuriyet-aniti-onunde-toren-3923204",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T12:26:31Z"
+    },
+    {
       "title": "VakıfBank'a Eylül Akarçeşme Yatgın'dan kötü haber",
       "link": "https://www.sozcu.com.tr/vakifbank-a-eylul-akarcesme-yatgin-in-kotu-haber-p373637",
       "source": "Sözcü",
@@ -58,12 +82,6 @@
       "link": "https://www.haberturk.com/ekonomi/emekli-zamminda-uc-ayakli-model-3923201",
       "source": "Habertürk",
       "published_at": "2026-10-28T12:21:53Z"
-    },
-    {
-      "title": "\"Estetik yaptırdım\"",
-      "link": "https://www.haberturk.com/magazin/jennifer-lawrence-tan-meme-estetigi-itirafi-3923199",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T12:21:12Z"
     },
     {
       "title": "Türkiye, Avrupa Kadınlar Curling Şampiyonası'na zaferle başladı",
@@ -316,12 +334,6 @@
       "link": "https://www.haberturk.com/dunya/ispanya-da-iki-tren-carpisti-3923143",
       "source": "Habertürk",
       "published_at": "2026-10-28T11:32:44Z"
-    },
-    {
-      "title": "Vücudunuzu ayakta tutan 20 besin",
-      "link": "https://www.haberturk.com/yasam/foto/vucudunuzu-ayakta-tutan-20-besin-3923014",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T11:31:52Z"
     },
     {
       "title": "Aşırı yağışların sigortaya maliyeti 12 milyar lirayı aştı",
@@ -678,6 +690,12 @@
       "published_at": "2026-10-28T09:29:00Z"
     },
     {
+      "title": "Dağdan yuvarladıkları kaya tüm köyü yok etti",
+      "link": "https://www.sozcu.com.tr/dagdan-yuvarladiklari-kaya-tum-koyu-yok-etti-p373553",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T09:23:38Z"
+    },
+    {
       "title": "İspanya'da hızlı trenler çarpıştı: Ölü ve yaralılar var",
       "link": "https://www.trthaber.com/haber/dunya/ispanyada-hizli-trenler-carpisti-olu-ve-yaralilar-var-961468.html",
       "source": "TRT Haber",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/istanbul-ve-4-ilde-selin-sigorta-maliyeti-12-milyar-liraya-dayandi-961462.html",
       "source": "TRT Haber",
       "published_at": "2026-10-28T08:54:00Z"
-    },
-    {
-      "title": "Evlilik desteği projesinde destekler genişletilecek",
-      "link": "https://www.trthaber.com/haber/gundem/evlilik-destegi-projesinde-destekler-genisletilecek-961461.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T08:51:00Z"
-    },
-    {
-      "title": "Türk Yıldızları, Ankara'da prova ve tören uçuşları yapacak",
-      "link": "https://www.trthaber.com/haber/turkiye/turk-yildizlari-ankarada-prova-ve-toren-ucuslari-yapacak-961460.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T08:47:00Z"
-    },
-    {
-      "title": "YENİ Parti'nin Kurultay tarihi belli oldu!",
-      "link": "https://www.sozcu.com.tr/yeni-parti-nin-kurultay-tarihi-belli-oldu-p373527",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T08:43:29Z"
     }
   ]
 }
