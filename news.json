@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:53:47.873683Z",
+  "generated_at": "2026-10-28T18:58:53.021304Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "Son dakika... Özgür Özel Sözcü TV'de gündemi yorumluyor",
+      "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-sozcu-tv-de-gundemi-yorumluyor-p373705",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T18:57:12Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan ile Trump telefonda görüştü",
+      "link": "https://www.sozcu.com.tr/erdogan-trump-gorusmesi-28-ekim-2026-p373724",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T18:56:44Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961537.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T18:53:00Z"
+    },
+    {
+      "title": "Kanada'da 2023'ten bu yana ilk faiz artırımı",
+      "link": "https://www.haberturk.com/ekonomi/kanada-da-2023-ten-bu-yana-ilk-faiz-artirimi-3923290",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T18:49:30Z"
+    },
+    {
       "title": "Dev dalgalar sokakları yuttu: 180 binden fazla kişi tahliye edildi",
       "link": "https://www.sozcu.com.tr/dev-dalgalar-sokaklari-yuttu-180-binden-fazla-kisi-tahliye-edildi-p373723",
       "source": "Sözcü",
@@ -52,12 +76,6 @@
       "link": "https://www.haberturk.com/gundem/ekipler-emrah-gedik-icin-seferber-oldu-3923289",
       "source": "Habertürk",
       "published_at": "2026-10-28T18:39:00Z"
-    },
-    {
-      "title": "Son dakika... Özgür Özel Sözcü TV'de gündemi yorumluyor",
-      "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-sozcu-tv-de-gundemi-yorumluyor-p373705",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T18:38:27Z"
     },
     {
       "title": "Sarıgül soruşturmasında 10 gözaltı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/mansur-yavas-murat-kurum-la-bir-araya-geldi-p373586",
       "source": "Sözcü",
       "published_at": "2026-10-28T13:25:40Z"
-    },
-    {
-      "title": "İspanya'da 24 maç ertelendi",
-      "link": "https://www.sozcu.com.tr/ispanya-da-24-mac-ertelendi-p373655",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T13:23:09Z"
-    },
-    {
-      "title": "F.Bahçe Kuyt yönetiminde çalıştı",
-      "link": "https://www.haberturk.com/spor/fenerbahce-kuyt-yonetiminde-calisti-3923223",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T13:22:35Z"
-    },
-    {
-      "title": "Ankara'daki cami elektrik faturasını sıfırladı",
-      "link": "https://www.haberturk.com/gundem/foto/ankara-daki-cami-elektrik-faturasini-sifirladi-3923220",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T13:21:48Z"
     }
   ]
 }
