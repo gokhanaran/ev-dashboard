@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:53:40.786938Z",
+  "generated_at": "2026-10-28T23:58:44.109706Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul Boğazı'nda gemi arızası: Trafik çift yönlü askıya alındı",
+      "link": "https://www.sozcu.com.tr/istanbul-bogazinda-gemi-arizasi-trafik-cift-yonlu-askiya-alindi-p373779",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T23:56:20Z"
+    },
     {
       "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
       "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961543.html",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi-961526.html",
       "source": "TRT Haber",
       "published_at": "2026-10-28T15:33:00Z"
-    },
-    {
-      "title": "Atatürk’e ve Türk bayrağına hakaret eden öğretmen tutuklandı",
-      "link": "https://www.sozcu.com.tr/ataturk-e-ve-turk-bayragina-hakaret-eden-ogretmen-tutuklandi-p373687",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T15:28:34Z"
     }
   ]
 }
