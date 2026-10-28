@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:09:58.919698Z",
+  "generated_at": "2026-10-28T13:15:02.541020Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,40 @@
   ],
   "items": [
     {
+      "title": "Son Dakika... İspanya'da iki hızlı tren çarpıştı: 64 kişi öldü",
+      "link": "https://www.sozcu.com.tr/ispanya-da-iki-hizli-tren-kafa-kafaya-carpisti-cok-sayida-yarali-var-p373548",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T13:11:24Z"
+    },
+    {
+      "title": "Kameralar önünde büyüdü: Acun Ilıcalı’dan 13 yaşına giren kızı Melisa'ya duygusal mesaj",
+      "link": "https://www.sozcu.com.tr/kameralar-onunde-buyudu-acun-ilicali-dan-13-yasina-giren-kizina-duygusal-mesaj-p373651",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T13:11:08Z"
+    },
+    {
+      "title": "Muratpaşa Kaymakamı hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/muratpasa-kaymakami-ihsan-kara-hayatini-kaybetti-3923188",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T13:09:20Z"
+    },
+    {
       "title": "Türkiye'nin tatil cenneti felaketi yaşıyor: Muğla'da evler, iş yerleri ve tarım arazileri su altında kaldı",
       "link": "https://www.sozcu.com.tr/turkiye-nin-tatil-cenneti-felaketi-yasiyor-mugla-da-evler-is-yerleri-ve-tarim-arazileri-su-altinda-p373643",
       "source": "Sözcü",
       "published_at": "2026-10-28T13:08:20Z"
+    },
+    {
+      "title": "Ankara'ya 645 bin metrekarelik yeni yaşam alanı: Beştepe Millet Ormanı",
+      "link": "https://www.trthaber.com/haber/turkiye/ankaraya-645-bin-metrekarelik-yeni-yasam-alani-bestepe-millet-ormani-961506.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T13:07:00Z"
+    },
+    {
+      "title": "MEB'den yapay zeka destekli 'Yeni EBA'",
+      "link": "https://www.haberturk.com/gundem/meb-den-yapay-zeka-destekli-yeni-eba-haberler-3923215",
+      "source": "Habertürk",
+      "published_at": "2026-10-28T13:06:01Z"
     },
     {
       "title": "Sivas'ın 40 yıllık hayalinde ilk etap şekilleniyor",
@@ -322,12 +352,6 @@
       "link": "https://www.trthaber.com/haber/dunya/guney-koreden-google-ve-applea-475-milyon-dolar-ceza-961498.html",
       "source": "TRT Haber",
       "published_at": "2026-10-28T11:53:00Z"
-    },
-    {
-      "title": "Muratpaşa Kaymakamı hayatını kaybetti",
-      "link": "https://www.haberturk.com/gundem/muratpasa-kaymakami-ihsan-kara-hayatini-kaybetti-3923188",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T11:52:52Z"
     },
     {
       "title": "Bakanlık marka adı vererek ifşa etti",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/tbmm-baskani-kurtulmus-2027-yili-butce-teklifimiz-33-7-milyar-lira-3923123",
       "source": "Habertürk",
       "published_at": "2026-10-28T10:23:58Z"
-    },
-    {
-      "title": "Dijital Üniversite Platformu'nda başvurular 233 bini aştı",
-      "link": "https://www.trthaber.com/haber/egitim/dijital-universite-platformunda-basvurular-233-bini-asti-961481.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T10:12:00Z"
-    },
-    {
-      "title": "TDT Dışişleri Bakanları Konseyi Toplantısı Ankara'da yapılacak",
-      "link": "https://www.trthaber.com/haber/gundem/tdt-disisleri-bakanlari-konseyi-toplantisi-ankarada-yapilacak-961482.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T10:05:00Z"
-    },
-    {
-      "title": "Ayrılığa kesin gözüyle bakılıyordu! İsmail Kartal'dan sonra vazgeçti",
-      "link": "https://www.sozcu.com.tr/ayriliga-kesin-gozuyle-bakiliyordu-ismail-kartaldan-sonra-vazgecti-p373561",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T10:04:37Z"
-    },
-    {
-      "title": "Borsa günü 11.165,44 puandan tamamladı",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-1116544-puandan-tamamladi-961478.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T10:00:00Z"
     }
   ]
 }
