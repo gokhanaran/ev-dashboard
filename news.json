@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:12:40.754754Z",
+  "generated_at": "2026-10-28T05:17:44.071969Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Yaptığı bir haberden daha beraat",
+      "link": "https://www.sozcu.com.tr/yaptigi-haberden-beraat-p373386",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T05:12:38Z"
+    },
+    {
+      "title": "KabatepeGökçeada feribot seferlerine fırtına engeli",
+      "link": "https://www.trthaber.com/haber/turkiye/kabatepe-gokceada-feribot-seferlerine-firtina-engeli-961432.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T05:11:00Z"
+    },
+    {
       "title": "Benzin ve motorine peş peşe zam için tarih verildi",
       "link": "https://www.sozcu.com.tr/benzin-ve-motorine-pes-pese-zam-icin-tarih-verildi-p373424",
       "source": "Sözcü",
@@ -46,6 +58,12 @@
       "link": "https://www.haberturk.com/magazin/alina-boz-un-annesi-olga-boz-dan-yikim-tepkisi-insan-guvenligi-hafife-alinmamali-3923052",
       "source": "Habertürk",
       "published_at": "2026-10-28T05:07:08Z"
+    },
+    {
+      "title": "İsrail genel seçimlerinde oyların yüzde 28'i sayılırken, Netanyahu bloğu dışındaki partiler öne geçti",
+      "link": "https://www.trthaber.com/haber/dunya/israil-genel-secimlerinde-oylarin-yuzde-28i-sayilirken-netanyahu-blogu-disindaki-partiler-one-gecti-961431.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T05:07:00Z"
     },
     {
       "title": "17 ülkeden acil stok yapın çağrısı geldi",
@@ -336,14 +354,14 @@
       "published_at": "2026-10-28T02:30:01Z"
     },
     {
-      "title": "Yaptığı haberden beraat",
-      "link": "https://www.sozcu.com.tr/yaptigi-haberden-beraat-p373386",
+      "title": "Bir ayda ikinci emekli polis intiharı",
+      "link": "https://www.sozcu.com.tr/bir-ayda-ikinci-emekli-polis-intihari-p373380",
       "source": "Sözcü",
       "published_at": "2026-10-28T02:30:01Z"
     },
     {
-      "title": "Bir ayda ikinci emekli polis intiharı",
-      "link": "https://www.sozcu.com.tr/bir-ayda-ikinci-emekli-polis-intihari-p373380",
+      "title": "Yaptığı haberden beraat",
+      "link": "https://www.sozcu.com.tr/yaptigi-haberden-beraat-p373386",
       "source": "Sözcü",
       "published_at": "2026-10-28T02:30:01Z"
     },
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/aziz-yildirim-canli-yayinda-kaza-yapti-p373348",
       "source": "Sözcü",
       "published_at": "2026-10-27T18:46:39Z"
-    },
-    {
-      "title": "Bahçeşehir, PAOK'u devirdi!",
-      "link": "https://www.haberturk.com/spor/bahcesehir-koleji-84-paok-81-mac-sonucu-3923062",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T18:40:59Z"
-    },
-    {
-      "title": "Cevdet Yılmaz: Ödemeler Cuma günü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cevdet-yilmaz-odemeler-cuma-gunu-3923049",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T18:38:16Z"
-    },
-    {
-      "title": "Trump’tan seçim sonuçları için dikkat çeken şart",
-      "link": "https://www.sozcu.com.tr/trump-tan-secim-sonuclari-icin-dikkat-ceken-sart-p373346",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T18:36:41Z"
     }
   ]
 }
