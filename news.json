@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:20:06.012686Z",
+  "generated_at": "2026-10-28T13:25:08.410638Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İspanya'da 24 maç ertelendi",
+      "link": "https://www.sozcu.com.tr/ispanya-da-24-mac-ertelendi-p373655",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T13:23:09Z"
+    },
+    {
+      "title": "İspanya''da 1 yıl bitmeden ikinci büyük tren faciası",
+      "link": "https://www.sozcu.com.tr/ispanya-da-iki-hizli-tren-kafa-kafaya-carpisti-cok-sayida-yarali-var-p373548",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T13:21:18Z"
+    },
     {
       "title": "Cem Akaş hayatını kaybetti: Oğlunun ölümünden bir hafta sonra acı haber",
       "link": "https://www.sozcu.com.tr/cem-aktas-hayatini-kaybetti-oglunun-olumunden-bir-hafta-sonra-aci-haber-p373537",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/alperen-sengunden-kotu-haber-p373585",
       "source": "Sözcü",
       "published_at": "2026-10-28T10:37:11Z"
-    },
-    {
-      "title": "Bakan Kurum, Ankara Büyükşehir Belediye Başkanı Yavaş'ı kabul etti",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-ankara-buyuksehir-belediye-baskani-yavasi-kabul-etti-961485.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T10:34:00Z"
-    },
-    {
-      "title": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
-      "link": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T10:27:00Z"
     }
   ]
 }
