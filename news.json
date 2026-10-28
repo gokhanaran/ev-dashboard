@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:37:56.540700Z",
+  "generated_at": "2026-10-28T05:42:59.508451Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Bayrağa ve Atatürk’e hakaret eden öğretmen gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/bayraga-ve-ataturke-hakaret-eden-ogretmen-gozaltina-alindi-p373354",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T05:42:44Z"
+    },
+    {
+      "title": "Fenerbahçe'nin stadının yanındaki binalara yıkım kararı",
+      "link": "https://www.sozcu.com.tr/kadikoyde-uc-binada-tahliye-gerginligi-elimize-tebligat-verin-p373437",
+      "source": "Sözcü",
+      "published_at": "2026-10-28T05:39:47Z"
+    },
+    {
+      "title": "İstanbul'da kaçak tütün ticaretine operasyon",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kacak-tutun-ticaretine-operasyon-961433.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T05:37:00Z"
+    },
     {
       "title": "Derbinin faturası ağır oldu: PFDK sevkleri açıklandı, tarihi cezalar yolda",
       "link": "https://www.sozcu.com.tr/derbinin-faturasi-agir-oldu-pfdk-sevkleri-aciklandi-tarihi-cezalar-yolda-p373439",
@@ -726,12 +744,6 @@
       "published_at": "2026-10-27T19:25:26Z"
     },
     {
-      "title": "Bayrağa ve Atatürk’e hakaret eden Öğretmen gözaltına alındı",
-      "link": "https://www.sozcu.com.tr/bayraga-ve-ataturke-hakaret-eden-ogretmen-gozaltina-alindi-p373354",
-      "source": "Sözcü",
-      "published_at": "2026-10-27T19:24:09Z"
-    },
-    {
       "title": "Sürücülerin korkulu rüyası olan yollardan biri de Türkiye'de",
       "link": "https://www.sozcu.com.tr/suruculerin-korkulu-ruyasi-olan-yollardan-biri-de-turkiye-de-p373352",
       "source": "Sözcü",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sile-belediyesi-davasi-ertelendi-3923070",
       "source": "Habertürk",
       "published_at": "2026-10-27T19:18:30Z"
-    },
-    {
-      "title": "\"Ege ve Doğu Akdeniz’deki menfaatlerimizi korumaya devam edeceğiz\"",
-      "link": "https://www.haberturk.com/dunya/ege-ve-dogu-akdenizdeki-menfaatlerimizi-korumaya-devam-edecegiz-3923068",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T19:11:47Z"
-    },
-    {
-      "title": "İsrail'deki seçimlere yoğun katılım",
-      "link": "https://www.haberturk.com/dunya/israil-deki-secimlere-yogun-katilim-3923056",
-      "source": "Habertürk",
-      "published_at": "2026-10-27T19:04:58Z"
     }
   ]
 }
