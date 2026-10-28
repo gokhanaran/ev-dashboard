@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:03:15.204161Z",
+  "generated_at": "2026-10-28T23:53:40.786938Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
+      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961543.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-28T23:42:00Z"
+    },
     {
       "title": "İstanbul Boğazı'nda gemi arızası",
       "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-gemi-arizasi-3923327",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ataturk-e-ve-turk-bayragina-hakaret-eden-ogretmen-tutuklandi-p373687",
       "source": "Sözcü",
       "published_at": "2026-10-28T15:28:34Z"
-    },
-    {
-      "title": "İletişim Başkanlığı Türk Dünyası Diyalog Forumu düzenleyecek",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-turk-dunyasi-diyalog-forumu-duzenleyecek-961524.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T15:28:00Z"
     }
   ]
 }
