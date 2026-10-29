@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:21:32.015502Z",
+  "generated_at": "2026-10-29T23:26:36.439890Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yıldırım düşen tütün deposunda yangın çıktı",
+      "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T23:18:03Z"
+    },
     {
       "title": "Mersin'de yıldırım düşen tütün deposunda yangın çıktı",
       "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/resmi-ilanlar/balikesir-vakiflar-bolge-mudurlugu-3923465",
       "source": "Habertürk",
       "published_at": "2026-10-29T16:13:39Z"
-    },
-    {
-      "title": "İran basını: Vance'in barış müzakerelerini yeniden başlatmak için gönderdiği mektuba Tahran yanıt vermedi",
-      "link": "https://www.trthaber.com/haber/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi-961659.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T16:13:00Z"
     }
   ]
 }
