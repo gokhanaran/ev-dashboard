@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:11:25.190659Z",
+  "generated_at": "2026-10-29T23:21:32.015502Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Mersin'de yıldırım düşen tütün deposunda yangın çıktı",
+      "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T23:15:09Z"
+    },
     {
       "title": "Duvardan atlarken dikenli teller karnına saplandı!",
       "link": "https://www.haberturk.com/gundem/bursa-da-duvardan-atlarken-dikenli-teller-karnina-saplandi-3923604",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi-961659.html",
       "source": "TRT Haber",
       "published_at": "2026-10-29T16:13:00Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T16:05:00Z"
     }
   ]
 }
