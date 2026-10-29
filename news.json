@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:21:52.878540Z",
+  "generated_at": "2026-10-29T13:26:56.798408Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Kapadokya'da peribacası çöktü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-kapadokya-da-bir-peribacasi-coktu-3923514",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T13:23:03Z"
+    },
+    {
       "title": "Son dakika... Göreme'de peribacası çöktü: Ölü ve yaralılar var",
       "link": "https://www.sozcu.com.tr/goremede-peribacasi-coktu-olu-ve-yaralilar-var-p374013",
       "source": "Sözcü",
@@ -48,10 +54,10 @@
       "published_at": "2026-10-29T13:18:46Z"
     },
     {
-      "title": "Kapadokya'da peribacası çöktü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kapadokya-da-bir-peribacasi-coktu-3923514",
+      "title": "ECB faiz kararını açıkladı",
+      "link": "https://www.haberturk.com/ekonomi/ecb-faiz-kararini-acikladi-iste-piyasalarin-bekledigi-karar-3923517",
       "source": "Habertürk",
-      "published_at": "2026-10-29T13:13:46Z"
+      "published_at": "2026-10-29T13:15:46Z"
     },
     {
       "title": "Babasından kök hücre nakli ile lösemiyi yendi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/foto/kan-sekerini-dengelemeye-yardimci-5-meyve-3923443",
       "source": "Habertürk",
       "published_at": "2026-10-29T09:54:47Z"
-    },
-    {
-      "title": "İletişim Başkanı Duran, Kazakistan Kültür ve Enformasyon Bakanı Kırıkbayev ile görüştü",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-kazakistan-kultur-ve-enformasyon-bakani-kirikbayev-ile-gorustu-961613.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T09:51:00Z"
     }
   ]
 }
