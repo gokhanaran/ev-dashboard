@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:45:47.637758Z",
+  "generated_at": "2026-10-29T05:55:52.328473Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Futbol sahalarında şaşkına çeviren olay: Gol atmadan 3 puan aldılar",
+      "link": "https://www.sozcu.com.tr/futbol-sahalarinda-saskina-ceviren-olay-gol-atmadan-3-puan-aldilar-p373823",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:50:36Z"
+    },
+    {
+      "title": "26 sarı, 4 turuncu uyarı! Şiddetli yağışlarla sel tehlikesi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-26-sari-4-turuncu-uyari-siddetli-yagislarla-sel-tehlikesi-29-ekim-hava-durumu-3923341",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T05:48:10Z"
+    },
     {
       "title": "Fon krizi anketlere yansıdı! Yeni Parti MYK'da gündeme geldi: AKP'de 6 puanlık kayıp",
       "link": "https://www.sozcu.com.tr/yeni-parti-myk-da-gundeme-geldi-akp-nin-oyu-yuzde-kac-p373691",
@@ -196,12 +208,6 @@
       "link": "https://www.haberturk.com/ekonomi/bakan-bolat-kazakistan-la-ticaret-hedefimiz-15-milyar-dolar-3923342",
       "source": "Habertürk",
       "published_at": "2026-10-29T04:40:59Z"
-    },
-    {
-      "title": "26 sarı, 4 turuncu uyarı! Şiddetli yağışlarla sel tehlikesi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-26-sari-4-turuncu-uyari-siddetli-yagislarla-sel-tehlikesi-29-ekim-hava-durumu-3923341",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T04:39:50Z"
     },
     {
       "title": "Ehliyetine el konulmuştu! Ünlü oyuncu Emrah Aytemur'un cezası belli oldu",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ankara-yollar-kapatilacak-29-30-ekim-2026-p373751",
       "source": "Sözcü",
       "published_at": "2026-10-28T20:48:01Z"
-    },
-    {
-      "title": "T.C. İZMİR GAYRİMENKUL SATIŞ İCRA DAİRESİ",
-      "link": "https://www.haberturk.com/resmi-ilanlar/tc-izmir-gayrimenkul-satis-icra-dairesi-3922679",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:41:46Z"
     }
   ]
 }
