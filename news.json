@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:18:32.504694Z",
+  "generated_at": "2026-10-29T19:23:36.901419Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon krizi valiliğe sıçradı: AKP’li isimden valinin sözlerine sert tepki",
+      "link": "https://www.sozcu.com.tr/fon-krizi-valilige-sicradi-akp-li-isimden-valinin-sozlerine-sert-tepki-p374108",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T19:19:45Z"
+    },
     {
       "title": "Cemil Tugay İzmir'de Fener Alayına katılmadı",
       "link": "https://www.sozcu.com.tr/cemil-tugay-izmir-de-fener-alayina-katilmadi-p374094",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ortak-duzenlemeler-hedefliyor-961644.html",
       "source": "TRT Haber",
       "published_at": "2026-10-29T13:32:00Z"
-    },
-    {
-      "title": "Babasından kök hücre nakli ile lösemiyi yendi",
-      "link": "https://www.haberturk.com/saglik/babasindan-kok-hucre-nakli-ile-losemiyi-yendi-3923515",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T13:31:25Z"
     }
   ]
 }
