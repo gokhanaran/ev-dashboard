@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:13:28.576766Z",
+  "generated_at": "2026-10-29T19:18:32.504694Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Cemil Tugay İzmir'de Fener Alayına katılmadı",
+      "link": "https://www.sozcu.com.tr/cemil-tugay-izmir-de-fener-alayina-katilmadi-p374094",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T19:15:56Z"
+    },
+    {
+      "title": "Ankara'da doğalgaz patlaması paniği",
+      "link": "https://www.haberturk.com/gundem/ankara-nin-cankaya-ilcesinde-dogalgaz-patlamasi-sonrasi-bir-dairede-yangin-cikti-3923581",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T19:12:27Z"
+    },
+    {
       "title": "Galatasaray’ın eski yıldızından iddialı sözler: 'Bütün takımlarda oynarım'",
       "link": "https://www.sozcu.com.tr/galatasarayin-eski-yildizindan-iddiali-sozler-butun-takimlarda-oynarim-p374105",
       "source": "Sözcü",
       "published_at": "2026-10-29T19:10:04Z"
+    },
+    {
+      "title": "İsrail'de oy sayımı tamamlandı",
+      "link": "https://www.haberturk.com/dunya/israil-de-oy-sayimi-tamamlandi-3923582",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T19:09:57Z"
     },
     {
       "title": "Türkiye Kupası'nda kura çekiminin saati değişti",
@@ -202,12 +220,6 @@
       "link": "https://www.sozcu.com.tr/kasimpasa-3-golle-4-tura-yukseldi-p374095",
       "source": "Sözcü",
       "published_at": "2026-10-29T18:00:18Z"
-    },
-    {
-      "title": "Cemil Tugay İzmir'de Fener Alayına katılmadı",
-      "link": "https://www.sozcu.com.tr/cemil-tugay-izmir-de-fener-alayina-katilmadi-p374094",
-      "source": "Sözcü",
-      "published_at": "2026-10-29T17:53:53Z"
     },
     {
       "title": "Yavaş: Biz işimize bakıyoruz",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/saglik/babasindan-kok-hucre-nakli-ile-losemiyi-yendi-3923515",
       "source": "Habertürk",
       "published_at": "2026-10-29T13:31:25Z"
-    },
-    {
-      "title": "Mersin'de sağanak: Ev ve iş yerlerini su bastı",
-      "link": "https://www.trthaber.com/haber/turkiye/mersinde-saganak-ev-ve-is-yerlerini-su-basti-961642.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T13:31:00Z"
-    },
-    {
-      "title": "ECB faiz kararını açıkladı",
-      "link": "https://www.haberturk.com/ekonomi/ecb-faiz-kararini-acikladi-iste-piyasalarin-bekledigi-karar-3923517",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T13:28:47Z"
     }
   ]
 }
