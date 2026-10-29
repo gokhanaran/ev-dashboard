@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:33:45.240402Z",
+  "generated_at": "2026-10-29T19:38:49.563119Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Galatasaray Çağdaş Faktoring Kızılyıldız'a kayıp",
+      "link": "https://www.sozcu.com.tr/galatasaray-cagdas-faktoring-kizilyildiz-a-kayip-p374110",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T19:33:23Z"
+    },
+    {
+      "title": "Kapadokya'da peribacası çöktü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-kapadokya-da-bir-peribacasi-coktu-3923514",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T19:32:11Z"
+    },
     {
       "title": "Türk dünyasına dayanışma mesajı",
       "link": "https://www.haberturk.com/gundem/emine-erdogan-tdt-zirvesi-ndeki-resmi-yemekte-kardeslik-ve-dayanismayi-vurguladi-3923584",
@@ -426,12 +438,6 @@
       "published_at": "2026-10-29T16:13:00Z"
     },
     {
-      "title": "Kapadokya'da peribacası çöktü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kapadokya-da-bir-peribacasi-coktu-3923514",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T16:06:38Z"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğiz",
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-onumuzdeki-donemi-turk-asri-yapmak-icin-mucadele-edecegiz-961658.html",
       "source": "TRT Haber",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/abd-de-buyume-beklentiyi-asti-3923525",
       "source": "Habertürk",
       "published_at": "2026-10-29T13:42:56Z"
-    },
-    {
-      "title": "Para vermeyen annesini bıçakla rehin aldı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-boyle-evlat-olmaz-olsun-kahramanmaras-ta-para-vermeyen-annesini-bicakla-rehin-alan-supheli-yakalandi-3923520",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T13:39:27Z"
     }
   ]
 }
