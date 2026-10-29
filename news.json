@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:30:38.515968Z",
+  "generated_at": "2026-10-29T05:35:41.378165Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Ne doğalgaz ne elektrik: -20 derecede bile evi hamam gibi yapıyor",
+      "link": "https://www.sozcu.com.tr/ne-dogalgaz-ne-elektrik-20-derecede-bile-evi-hamam-gibi-yapiyor-p373813",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:33:28Z"
+    },
+    {
+      "title": "Saçlarını kestirdi, son halini kimse tanıyamadı",
+      "link": "https://www.sozcu.com.tr/saclarini-kestirdi-son-halini-kimse-taniyamadi-p373812",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:32:28Z"
+    },
     {
       "title": "İstanbul’da 12 ilçede 8 saatlik elektrik kesintisi!",
       "link": "https://www.sozcu.com.tr/istanbul-da-12-ilcede-8-saatlik-kesinti-p373800",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-10-gozalti-3923281",
       "source": "Habertürk",
       "published_at": "2026-10-28T20:31:21Z"
-    },
-    {
-      "title": "Beşiktaş, Olympiakos'a boyun eğdi!",
-      "link": "https://www.haberturk.com/spor/besiktas-73-olympiakos-81-mac-sonucu-3923307",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:29:51Z"
-    },
-    {
-      "title": "Silivri açıklarında bir cansız beden daha",
-      "link": "https://www.haberturk.com/gundem/silivri-aciklarinda-batan-geminin-kayip-murettebatini-ararken-cansiz-beden-bulundu-3923308",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:27:40Z"
     }
   ]
 }
