@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:03:20.171291Z",
+  "generated_at": "2026-10-29T19:08:24.068380Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Türkiye Kupası'nda kura çekiminin saati değişti",
+      "link": "https://www.sozcu.com.tr/turkiye-kupasinda-kura-cekiminin-saati-degisti-p374104",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T19:03:40Z"
+    },
+    {
       "title": "Beden eğitimi öğretmeninin 29 Ekim yürüyüşü sosyal medyada gündem oldu",
       "link": "https://www.sozcu.com.tr/beden-egitimi-ogretmeninin-29-ekim-yuruyusu-sosyal-medyada-gundem-oldu-p374073",
       "source": "Sözcü",
@@ -58,6 +64,12 @@
       "link": "https://www.sozcu.com.tr/uefa-ve-tff-heyetleri-final-icin-tupras-stadini-inceledi-p374103",
       "source": "Sözcü",
       "published_at": "2026-10-29T18:54:32Z"
+    },
+    {
+      "title": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
+      "link": "https://www.trthaber.com/haber/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-961669.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T18:54:00Z"
     },
     {
       "title": "Ulaşılması zor uçurumun tepesine yerleşip dev surlar inşa etmişler",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/turkiye-nin-38-yillik-lastik-firmasi-iflasin-esiginde-mahkeme-2-ay-ek-sure-verdi-p374025",
       "source": "Sözcü",
       "published_at": "2026-10-29T13:27:26Z"
-    },
-    {
-      "title": "Türkiye ile Özbekistan arasında 5 anlaşma imzalandı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-961641.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T13:22:00Z"
-    },
-    {
-      "title": "Avrupa Merkez Bankası politika faizini sabit tuttu",
-      "link": "https://www.trthaber.com/haber/dunya/avrupa-merkez-bankasi-politika-faizini-sabit-tuttu-961640.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T13:20:00Z"
     }
   ]
 }
