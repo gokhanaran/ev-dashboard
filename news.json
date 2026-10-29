@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:25:35.756966Z",
+  "generated_at": "2026-10-29T05:30:38.515968Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul’da 12 ilçede 8 saatlik elektrik kesintisi!",
+      "link": "https://www.sozcu.com.tr/istanbul-da-12-ilcede-8-saatlik-kesinti-p373800",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:25:49Z"
+    },
+    {
+      "title": "Doğu demir yolu hattına dev modernizasyon",
+      "link": "https://www.haberturk.com/ekonomi/bakan-uraloglu-duyurdu-divrigi-kars-gurcistan-siniri-demir-yolu-hatti-modernize-edilecek-3923347",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T05:23:10Z"
+    },
     {
       "title": "On binlerce buzdolabını limana bıraktılar",
       "link": "https://www.sozcu.com.tr/on-binlerce-buzdolabini-limana-biraktilar-p373803",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/silivri-aciklarinda-batan-geminin-kayip-murettebatini-ararken-cansiz-beden-bulundu-3923308",
       "source": "Habertürk",
       "published_at": "2026-10-28T20:27:40Z"
-    },
-    {
-      "title": "\"Her iki takım da kazanmayı hak etti\"",
-      "link": "https://www.haberturk.com/spor/besiktas-basantrenoru-dusan-alimpijevic-her-iki-takim-da-kazanmayi-hak-etti-3923309",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:27:35Z"
-    },
-    {
-      "title": "AKP'li Tayyar'dan fon krizi uyarısı: Hesap sorulması da önemli",
-      "link": "https://www.sozcu.com.tr/samil-tayyar-fon-aciklamasi-28-ekim-2026-p373740",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T20:18:39Z"
     }
   ]
 }
