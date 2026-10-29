@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:35:41.378165Z",
+  "generated_at": "2026-10-29T05:40:44.306351Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Kuş gribi kabusu geri döndü: Avrupa ülkesi karantina kararı aldı",
+      "link": "https://www.sozcu.com.tr/kus-gribi-kabusu-geri-dondu-avrupa-ulkesi-karantina-karari-aldi-p373816",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:38:24Z"
+    },
+    {
       "title": "Ne doğalgaz ne elektrik: -20 derecede bile evi hamam gibi yapıyor",
       "link": "https://www.sozcu.com.tr/ne-dogalgaz-ne-elektrik-20-derecede-bile-evi-hamam-gibi-yapiyor-p373813",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/saclarini-kestirdi-son-halini-kimse-taniyamadi-p373812",
       "source": "Sözcü",
       "published_at": "2026-10-29T05:32:28Z"
+    },
+    {
+      "title": "Ünlülerden 29 Ekim mesajları",
+      "link": "https://www.haberturk.com/magazin/foto/unlulerde-29-ekim-cumhuriyet-bayrami-paylasimlari-3923311",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T05:30:04Z"
     },
     {
       "title": "İstanbul’da 12 ilçede 8 saatlik elektrik kesintisi!",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/ismail-jakobs-milli-takima-veda-etti-3923310",
       "source": "Habertürk",
       "published_at": "2026-10-28T20:34:32Z"
-    },
-    {
-      "title": "Brezilyalı Senatör: Bolsonaro'nun ülkeyi terk etmesinden haberimiz yoktu",
-      "link": "https://www.trthaber.com/haber/dunya/brezilyali-senator-bolsonaronun-ulkeyi-terk-etmesinden-haberimiz-yoktu-961539.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-28T20:34:00Z"
-    },
-    {
-      "title": "Sarıgül soruşturması: 10 gözaltı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-10-gozalti-3923281",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:31:21Z"
     }
   ]
 }
