@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:46:25.581224Z",
+  "generated_at": "2026-10-29T12:51:29.298027Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Son dakika... Göreme'de peribacası çöktü: Ölü ve yaralılar var",
+      "link": "https://www.sozcu.com.tr/goremede-peribacasi-coktu-olu-ve-yaralilar-var-p374013",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T12:48:48Z"
+    },
+    {
       "title": "Son dakika: Aliyev Türkiye'ye gelmiyor!",
       "link": "https://www.sozcu.com.tr/son-dakika-aliyev-turkiye-ye-gelmiyor-p374008",
       "source": "Sözcü",
-      "published_at": "2026-10-29T12:44:14Z"
+      "published_at": "2026-10-29T12:47:33Z"
+    },
+    {
+      "title": "6 il için kuvvetli yağış uyarısı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-meteoroloji-den-6-il-icin-kuvvetli-yagis-uyarisi-3923510",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T12:46:33Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan Mirziyoyev ile görüştü",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-mirziyoyev-ile-gorustu-3923509",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T12:46:09Z"
     },
     {
       "title": "ABD ekonomisinde büyüme son bir yılın zirvesinde",
@@ -52,6 +70,12 @@
       "link": "https://www.sozcu.com.tr/kredi-kartinin-asgarisini-odeyen-herkesi-ilgilendiriyor-p373998",
       "source": "Sözcü",
       "published_at": "2026-10-29T12:39:00Z"
+    },
+    {
+      "title": "Filistin'den İsrail seçimleri açıklaması: İşgali bitirecek bir ortak çıkmasını umuyoruz",
+      "link": "https://www.trthaber.com/haber/dunya/filistinden-israil-secimleri-aciklamasi-isgali-bitirecek-bir-ortak-cikmasini-umuyoruz-961634.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T12:38:00Z"
     },
     {
       "title": "10 yaşında 5 kitap yazdı, şimdi gözünü Mars'a dikti",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-trabzon-haberleri-havuzdan-cikti-otomobilinde-fenalasti-trabzon-da-polis-memuru-sahin-saglam-dan-aci-haber-3923446",
       "source": "Habertürk",
       "published_at": "2026-10-29T09:25:13Z"
-    },
-    {
-      "title": "10. haftanın hakemleri belirlendi!",
-      "link": "https://www.haberturk.com/spor/trendyol-super-lig-in-10-haftasinda-oynanacak-maclarin-hakemleri-mhk-tarafindan-belirlendi-3923439",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T09:25:05Z"
-    },
-    {
-      "title": "Medyada kadınlara yönelik olumsuz içerikler yapay zekayla tespit edilecek",
-      "link": "https://www.trthaber.com/haber/turkiye/medyada-kadinlara-yonelik-olumsuz-icerikler-yapay-zekayla-tespit-edilecek-961608.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T09:25:00Z"
-    },
-    {
-      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD'ye ait MQM170 tipi İHA ele geçirildi",
-      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abdye-ait-mqm-170-tipi-iha-ele-gecirildi-961607.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T09:24:00Z"
-    },
-    {
-      "title": "Kasımpaşa'ya zor, hedef Celtic!",
-      "link": "https://www.haberturk.com/spor/besiktas-ta-orkun-kokcu-kasimpasa-ya-zor-hedef-celtic-deplasmani-3923445",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T09:22:43Z"
     }
   ]
 }
