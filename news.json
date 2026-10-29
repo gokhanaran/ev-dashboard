@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:05:57.873446Z",
+  "generated_at": "2026-10-29T06:11:00.828980Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Cumhurbaşkanı Erdoğan’dan Cumhuriyet Bayramı mesajı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-3923355",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T06:03:55Z"
+    },
+    {
       "title": "30 ilde alarm! Yeni felaket mi geliyor?",
       "link": "https://www.sozcu.com.tr/29-ekim-icin-kuvvetli-yagis-uyarisi-dort-ilde-turuncu-kod-p373815",
       "source": "Sözcü",
@@ -48,16 +54,22 @@
       "published_at": "2026-10-29T06:02:39Z"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan’dan Cumhuriyet Bayramı mesajı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-3923355",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T06:01:06Z"
+      "title": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T06:00:00Z"
     },
     {
       "title": "Kırmızı şapkanın sırrı ortaya çıktı: Melisa Döngel’den Torreira açıklaması",
       "link": "https://www.sozcu.com.tr/kirmizi-sapkanin-sirri-ortaya-cikti-melisa-dongel-den-torreira-aciklamasi-p373827",
       "source": "Sözcü",
       "published_at": "2026-10-29T05:59:41Z"
+    },
+    {
+      "title": "MİT Başkanı Kalın'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+      "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T05:59:00Z"
     },
     {
       "title": "Fenerbahçe'de akıllara durgunluk veren istatistik: Tam 346 gün",
@@ -94,6 +106,12 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-26-sari-4-turuncu-uyari-siddetli-yagislarla-sel-tehlikesi-29-ekim-hava-durumu-3923341",
       "source": "Habertürk",
       "published_at": "2026-10-29T05:48:10Z"
+    },
+    {
+      "title": "Şırnak'ta yolcu otobüsü ile tır çarpıştı: 15 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/sirnakta-yolcu-otobusu-ile-tir-carpisti-15-yarali-961574.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T05:47:00Z"
     },
     {
       "title": "Fon krizi anketlere yansıdı! Yeni Parti MYK'da gündeme geldi: AKP'de 6 puanlık kayıp",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/siyasilerden-cumhuriyet-mesajlari-3923317",
       "source": "Habertürk",
       "published_at": "2026-10-28T21:20:52Z"
-    },
-    {
-      "title": "İstanbul’da 8 saatlik kesinti!",
-      "link": "https://www.haberturk.com/bilgi/foto/istanbulda-8-saatlik-elektrik-kesintisi-bedas-duyurdu-30-ekim-elektrikler-ne-zaman-saat-kacta-gelecek-3923316",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T21:18:56Z"
-    },
-    {
-      "title": "SPK’dan o iddialara yalanlama",
-      "link": "https://www.sozcu.com.tr/spk-dan-o-iddialara-yalanlama-p373759",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T21:16:29Z"
-    },
-    {
-      "title": "Son dakika... Özgür Özel Sözcü TV'de tek tek yanıtladı",
-      "link": "https://www.sozcu.com.tr/son-dakika-ozgur-ozel-sozcu-tv-de-gundemi-yorumluyor-p373705",
-      "source": "Sözcü",
-      "published_at": "2026-10-28T21:09:24Z"
     }
   ]
 }
