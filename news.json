@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:23:36.901419Z",
+  "generated_at": "2026-10-29T19:28:41.080698Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
+      "link": "https://www.trthaber.com/haber/dunya/bosna-hersekte-eufora-ait-helikopter-dustu-961671.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T19:23:00Z"
+    },
+    {
+      "title": "Sofrada babasını öldürdü",
+      "link": "https://www.haberturk.com/gundem/sofrada-babasini-oldurdu-3923583",
+      "source": "Habertürk",
+      "published_at": "2026-10-29T19:22:24Z"
+    },
+    {
       "title": "Fon krizi valiliğe sıçradı: AKP’li isimden valinin sözlerine sert tepki",
       "link": "https://www.sozcu.com.tr/fon-krizi-valilige-sicradi-akp-li-isimden-valinin-sozlerine-sert-tepki-p374108",
       "source": "Sözcü",
       "published_at": "2026-10-29T19:19:45Z"
+    },
+    {
+      "title": "Emine Erdoğan'dan TDT liderleriyle akşam yemeği paylaşımı",
+      "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-tdt-liderleriyle-aksam-yemegi-paylasimi-961670.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T19:19:00Z"
     },
     {
       "title": "Cemil Tugay İzmir'de Fener Alayına katılmadı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/cem-akas-son-yolculuguna-ugurlandi-cenazede-yurek-burkan-anlar-p374028",
       "source": "Sözcü",
       "published_at": "2026-10-29T13:39:14Z"
-    },
-    {
-      "title": "TIR şoförlerini ilgilendiren vize açıklaması",
-      "link": "https://www.haberturk.com/ekonomi/bakanliktan-tir-soforlerini-ilgilendiren-vize-aciklamasi-3923442",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T13:36:13Z"
-    },
-    {
-      "title": "Mekke Ortak Savunma Anlaşması",
-      "link": "https://www.haberturk.com/gundem/mekke-ortak-savunma-anlasmasi-3923522",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T13:35:21Z"
-    },
-    {
-      "title": "AB, çocukların çevrim içi ortamda korunmasında ortak düzenlemeler hedefliyor",
-      "link": "https://www.trthaber.com/haber/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ortak-duzenlemeler-hedefliyor-961644.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T13:32:00Z"
     }
   ]
 }
