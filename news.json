@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:20:33.181318Z",
+  "generated_at": "2026-10-29T05:25:35.756966Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,28 @@
   ],
   "items": [
     {
+      "title": "On binlerce buzdolabını limana bıraktılar",
+      "link": "https://www.sozcu.com.tr/on-binlerce-buzdolabini-limana-biraktilar-p373803",
+      "source": "Sözcü",
+      "published_at": "2026-10-29T05:20:27Z"
+    },
+    {
       "title": "Sergen Yalçın'a milli yıldızlardan tarihi rest iddiası: 'Benim teknik direktörüm olamaz'",
       "link": "https://www.sozcu.com.tr/sergen-yalcin-a-milli-yildizlardan-tarihi-rest-iddiasi-benim-teknik-direktorum-olamaz-p373782",
       "source": "Sözcü",
       "published_at": "2026-10-29T05:17:57Z"
     },
     {
-      "title": "On binlerce buzdolabını limana bıraktılar",
-      "link": "https://www.sozcu.com.tr/on-binlerce-buzdolabini-limana-biraktilar-p373803",
-      "source": "Sözcü",
-      "published_at": "2026-10-29T05:17:47Z"
-    },
-    {
       "title": "Elindeki 1 tane ataçla hiç para harcamadan ev sahibi oldu",
       "link": "https://www.sozcu.com.tr/elindeki-1-tane-atacla-hic-para-harcamadan-ev-sahibi-oldu-p373802",
       "source": "Sözcü",
       "published_at": "2026-10-29T05:16:22Z"
+    },
+    {
+      "title": "İstanbul'da 29 Ekim sebebiyle bazı yollar trafiğe kapatıldı",
+      "link": "https://www.trthaber.com/haber/turkiye/istanbulda-29-ekim-sebebiyle-bazi-yollar-trafige-kapatildi-961572.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-29T05:14:00Z"
     },
     {
       "title": "Türkiye Cumhuriyeti 103 yaşında!",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/samil-tayyar-fon-aciklamasi-28-ekim-2026-p373740",
       "source": "Sözcü",
       "published_at": "2026-10-28T20:18:39Z"
-    },
-    {
-      "title": "Anadolu Efes, Tel Aviv'e mağlup!",
-      "link": "https://www.haberturk.com/spor/hapoel-tel-aviv-118-anadolu-efes-88-mac-sonucu-3923306",
-      "source": "Habertürk",
-      "published_at": "2026-10-28T20:15:08Z"
     }
   ]
 }
