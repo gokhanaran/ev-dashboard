@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:53:05.840316Z",
+  "generated_at": "2026-10-30T22:58:10.155384Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Polonya'da siyasi gerginlik",
+      "link": "https://www.haberturk.com/dunya/polonya-da-anayasa-mahkemesi-krizi-3923844",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T22:54:54Z"
+    },
     {
       "title": "Son dakika...Orta Doğu'yu tedirgin eden gelişme: Onlarca ABD uçağı İsrail'de konuşlandı",
       "link": "https://www.sozcu.com.tr/son-dakika-orta-dogu-yu-tedirgin-eden-gelisme-onlarca-abd-ucagi-israil-de-konuslandi-p374454",
@@ -154,12 +160,6 @@
       "link": "https://www.haberturk.com/kultur-sanat/foto/haftanin-kitaplari-3923810",
       "source": "Habertürk",
       "published_at": "2026-10-30T21:21:31Z"
-    },
-    {
-      "title": "Polonya'da siyasi gerginlik",
-      "link": "https://www.haberturk.com/dunya/polonya-da-anayasa-mahkemesi-krizi-3923844",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T21:15:40Z"
     },
     {
       "title": "Batrakov attığı golle Süper Lig tarihine geçti! Galatasaray'ın Rus yıldızı oynadığı futbolla kendine hayran bıraktı",
