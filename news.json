@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:37:46.132119Z",
+  "generated_at": "2026-10-30T12:42:48.837648Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Merkez Bankası rezervleri bir haftada 6,9 milyar dolar azaldı",
+      "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervleri-bir-haftada-69-milyar-dolar-azaldi-p374366",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T12:41:07Z"
+    },
+    {
+      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
+      "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-961748.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T12:40:00Z"
+    },
+    {
+      "title": "Gençler COP31'de iklim krizine teknolojik çözüm için buluşuyor",
+      "link": "https://www.trthaber.com/haber/gundem/gencler-cop31de-iklim-krizine-teknolojik-cozum-icin-bulusuyor-961747.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T12:36:00Z"
+    },
+    {
+      "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
+      "link": "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T12:33:00Z"
+    },
     {
       "title": "Bankaların kredi hacmi 28,8 trilyon liraya yükseldi",
       "link": "https://www.trthaber.com/haber/ekonomi/bankalarin-kredi-hacmi-288-trilyon-liraya-yukseldi-961745.html",
@@ -106,6 +130,12 @@
       "link": "https://www.sozcu.com.tr/istanbul-a-yeni-metro-hatti-ilk-surus-yapildi-p374355",
       "source": "Sözcü",
       "published_at": "2026-10-30T12:14:43Z"
+    },
+    {
+      "title": "İnternet bağımlılığında başvurular iki katına yaklaştı",
+      "link": "https://www.trthaber.com/haber/cocuk/internet-bagimliliginda-basvurular-iki-katina-yaklasti-961742.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T12:14:00Z"
     },
     {
       "title": "Kanlı tapu çetesi liderinin 18 yıllık değişimi",
@@ -724,36 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/piyasalar-butce-gorusmelerine-ve-merkez-bankasina-odaklanacak-961720.html",
       "source": "TRT Haber",
       "published_at": "2026-10-30T08:38:00Z"
-    },
-    {
-      "title": "Amazon'un kârında düşüş",
-      "link": "https://www.haberturk.com/ekonomi/amazon-un-krinda-dusus-3923698",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T08:35:34Z"
-    },
-    {
-      "title": "Türk aksanını eleştiren yolcuya hostesin Atatürklü yanıtı sosyal medyada gündem oldu",
-      "link": "https://www.sozcu.com.tr/turk-aksanini-elestiren-yolcuya-ataturk-u-hatirlatti-hostesin-yaniti-gundem-oldu-p374274",
-      "source": "Sözcü",
-      "published_at": "2026-10-30T08:33:07Z"
-    },
-    {
-      "title": "Karaborsa soruşturmasında 14 hapis talebi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-besiktas-fenerbahce-maci-biletlerinin-karaborsada-satilmasina-iliskin-sorusturma-tamamlandi-14-supheliye-hapis-istemi-3923693",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T08:32:10Z"
-    },
-    {
-      "title": "Beşiktaş yıldız isim için 10 milyon euroyu gözden çıkardı",
-      "link": "https://www.sozcu.com.tr/besiktas-yildiz-isim-icin-10-milyon-euroyu-gozden-cikardi-p374280",
-      "source": "Sözcü",
-      "published_at": "2026-10-30T08:31:27Z"
-    },
-    {
-      "title": "Ekonomi güven endeksi geriledi",
-      "link": "https://www.haberturk.com/ekonomi/ekim-ayinda-ekonomik-guven-endeksi-97-3-oldu-3923695",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T08:31:16Z"
     }
   ]
 }
