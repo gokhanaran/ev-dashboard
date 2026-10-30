@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:25:06.215131Z",
+  "generated_at": "2026-10-30T05:30:09.712590Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,48 @@
   ],
   "items": [
     {
+      "title": "Dolar 50 lira sınırında",
+      "link": "https://www.sozcu.com.tr/dolar-50-lira-sinirinda-p374182",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T05:28:14Z"
+    },
+    {
+      "title": "Sonbahar yüzünü sert gösterecek: Sel ve baskın riski uyarısı yapıldı",
+      "link": "https://www.sozcu.com.tr/sonbahar-yuzunu-sert-gosterecek-sel-ve-baskin-riski-uyarisi-yapildi-p374181",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T05:27:05Z"
+    },
+    {
+      "title": "Bosna'da askeri helikopter düştü: 4 ölü, 11 yaralı",
+      "link": "https://www.haberturk.com/dunya/son-dakika-bosna-hersek-te-askeri-helikopter-dustu-4-olu-11-yarali-3923627",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T05:26:10Z"
+    },
+    {
+      "title": "Usta oyuncu vefat etti",
+      "link": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T05:25:40Z"
+    },
+    {
+      "title": "Kocasının yanındaki boş koltuğa oturmak istedi! Olan tüm yolculara oldu",
+      "link": "https://www.sozcu.com.tr/ucakta-bos-koltuk-tartismasi-tum-yolcular-indirildi-p374180",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T05:25:32Z"
+    },
+    {
+      "title": "Kripto devinde güvenlik alarmı",
+      "link": "https://www.haberturk.com/ekonomi/kripto-devinde-guvenlik-alarmi-binance-islemleri-durdurdu-2-54-milyar-dolarlik-varlik-donduruldu-3923622",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T05:25:29Z"
+    },
+    {
+      "title": "\"2 ay önce göçen yer gibi birçok yeri tespit ettik\" Kapadokya uyarısı!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-2-ay-once-gocen-yer-gibi-bircok-yeri-tespit-ettik-kapadokya-uyarisi-3923615",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T05:23:40Z"
+    },
+    {
       "title": "Jennifer Lawrence’ın estetik sonrası hali şaşırttı: Yüzü, bakışı, ifadesi değişti",
       "link": "https://www.sozcu.com.tr/jennifer-lawrence-in-estetik-sonrasi-hali-sasirtti-yuzu-bakisi-ifadesi-degisti-p374178",
       "source": "Sözcü",
@@ -45,7 +87,7 @@
       "title": "Fon tasfiyesinde ara ödemeler bugün başlıyor",
       "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-tasfiyesinde-ara-odemeler-bugun-basliyor-tasfiye-edilen-fonlarda-kimler-oncelikli-1-milyon-tl-ara-odeme-basvuru-ve-detaylari-3923626",
       "source": "Habertürk",
-      "published_at": "2026-10-30T05:17:46Z"
+      "published_at": "2026-10-30T05:18:51Z"
     },
     {
       "title": "Binance para yatırma ve çekmeyi durdurdu: 2,54 milyar dolar donduruldu",
@@ -132,12 +174,6 @@
       "published_at": "2026-10-30T04:44:43Z"
     },
     {
-      "title": "Kripto devinde güvenlik alarmı",
-      "link": "https://www.haberturk.com/ekonomi/kripto-devinde-guvenlik-alarmi-binance-islemleri-durdurdu-2-54-milyar-dolarlik-varlik-donduruldu-3923622",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T04:44:33Z"
-    },
-    {
       "title": "İsrail'den kalkan gemi Karadeniz'de batırıldı",
       "link": "https://www.sozcu.com.tr/karadenizde-israilden-kalkan-gemi-dronelarla-batirildi-p374164",
       "source": "Sözcü",
@@ -198,12 +234,6 @@
       "published_at": "2026-10-30T04:21:05Z"
     },
     {
-      "title": "\"2 ay önce göçen yer gibi birçok yeri tespit ettik\" Kapadokya uyarısı!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-2-ay-once-gocen-yer-gibi-bircok-yeri-tespit-ettik-kapadokya-uyarisi-3923615",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T04:20:05Z"
-    },
-    {
       "title": "Peribacaları gazeteci çifte mezar oldu",
       "link": "https://www.haberturk.com/gundem/kapadokya-daki-peribacasi-faciasinda-gazeteci-eray-tuna-ve-esi-hayatini-kaybetti-3923588",
       "source": "Habertürk",
@@ -250,12 +280,6 @@
       "link": "https://www.trthaber.com/haber/dunya/arabanizin-en-buyuk-guvenlik-zafiyeti-beklenmedik-bir-yerde-olabilir-961693.html",
       "source": "TRT Haber",
       "published_at": "2026-10-30T04:03:00Z"
-    },
-    {
-      "title": "Usta oyuncu vefat etti",
-      "link": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T04:02:26Z"
     },
     {
       "title": "\"İran, Keşm Adası yakınlarında 'düşman' savaş uçağını engelledi\"",
@@ -426,14 +450,14 @@
       "published_at": "2026-10-30T02:30:13Z"
     },
     {
-      "title": "Sınavsız müdürlük için hülle yöntemi",
-      "link": "https://www.sozcu.com.tr/sinavsiz-mudurluk-icin-hulle-yontemi-p374130",
+      "title": "Jeff Bezos’u yakalayan MASAK 299 milyarı 3 günde çekenleri görmemiş",
+      "link": "https://www.sozcu.com.tr/jeff-bezos-u-yakalayan-masak-299-milyari-3-gunde-cekenleri-gormemis-p374124",
       "source": "Sözcü",
       "published_at": "2026-10-30T02:30:13Z"
     },
     {
-      "title": "Jeff Bezos’u yakalayan MASAK 299 milyarı 3 günde çekenleri görmemiş",
-      "link": "https://www.sozcu.com.tr/jeff-bezos-u-yakalayan-masak-299-milyari-3-gunde-cekenleri-gormemis-p374124",
+      "title": "Sınavsız müdürlük için hülle yöntemi",
+      "link": "https://www.sozcu.com.tr/sinavsiz-mudurluk-icin-hulle-yontemi-p374130",
       "source": "Sözcü",
       "published_at": "2026-10-30T02:30:13Z"
     },
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-cagdas-faktoring-68-kizilyildiz-78-mac-sonucu-3923586",
       "source": "Habertürk",
       "published_at": "2026-10-29T19:40:40Z"
-    },
-    {
-      "title": "Kapadokya'da peribacası çöktü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kapadokya-da-bir-peribacasi-coktu-3923514",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T19:40:29Z"
-    },
-    {
-      "title": "Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-kultur-ve-sanat-buyuk-odullerinin-sahipleri-belli-oldu-961672.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-29T19:40:00Z"
-    },
-    {
-      "title": "Galatasaray Çağdaş Faktoring Kızılyıldız'a kayıp",
-      "link": "https://www.sozcu.com.tr/galatasaray-cagdas-faktoring-kizilyildiz-a-kayip-p374110",
-      "source": "Sözcü",
-      "published_at": "2026-10-29T19:33:23Z"
-    },
-    {
-      "title": "Türk dünyasına dayanışma mesajı",
-      "link": "https://www.haberturk.com/gundem/emine-erdogan-tdt-zirvesi-ndeki-resmi-yemekte-kardeslik-ve-dayanismayi-vurguladi-3923584",
-      "source": "Habertürk",
-      "published_at": "2026-10-29T19:24:06Z"
     }
   ]
 }
