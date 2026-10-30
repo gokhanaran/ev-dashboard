@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:03:01.451479Z",
+  "generated_at": "2026-10-30T13:08:04.112915Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Memurların zamlı maaş tablosu ortaya çıktı: Polis, öğretmen, doktor...",
+      "link": "https://www.sozcu.com.tr/memurlarin-zamli-maas-tablosu-ortaya-cikti-polis-ogretmen-doktor-p374204",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T13:02:55Z"
+    },
     {
       "title": "Avrupa'nın en büyük havayolu şirketi Türkiye'yi listesine almadı",
       "link": "https://www.sozcu.com.tr/avrupa-nin-en-buyuk-havayolu-sirketi-turkiye-yi-listesine-almadi-p374367",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/kellige-karsi-hap-gelistirildi-6-ay-boyunca-sac-cikardi-haberler-3923688",
       "source": "Habertürk",
       "published_at": "2026-10-30T08:50:58Z"
-    },
-    {
-      "title": "Son dilimi isteyen var mı?",
-      "link": "https://www.haberturk.com/yasam/foto/ispanyollarin-utanc-parcasi-dedigi-son-lokma-masadaki-gizli-hiyerarsiyi-ele-veriyor-3923200",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T08:49:52Z"
     }
   ]
 }
