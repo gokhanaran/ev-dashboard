@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:45:35.858901Z",
+  "generated_at": "2026-10-30T18:55:41.717976Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 25
+      "items": 26
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,22 @@
   ],
   "items": [
     {
-      "title": "TMSF, Kontrolmatik'e kayyum atandı; yeni yönetim belli oldu",
-      "link": "https://www.sozcu.com.tr/tmsf-kontrolmatik-e-kayyum-atadi-p374425",
+      "title": "Fon soruşturmasında iki iş insanının mal varlıklarına tedbir kararı",
+      "link": "https://www.sozcu.com.tr/kemal-akkaya-ve-enver-cevik-mal-varligi-tedbir-karari-p374435",
       "source": "Sözcü",
-      "published_at": "2026-10-30T18:38:27Z"
+      "published_at": "2026-10-30T18:53:04Z"
     },
     {
       "title": "Çamurda can pazarı",
       "link": "https://www.haberturk.com/gundem/sultanbeyli-de-cocugunu-kurtarmaya-kosan-anne-de-mahsur-kaldi-3923820",
       "source": "Habertürk",
-      "published_at": "2026-10-30T18:36:00Z"
+      "published_at": "2026-10-30T18:48:10Z"
+    },
+    {
+      "title": "TMSF, Kontrolmatik'e kayyum atandı; yeni yönetim belli oldu",
+      "link": "https://www.sozcu.com.tr/tmsf-kontrolmatik-e-kayyum-atadi-p374425",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T18:38:27Z"
     },
     {
       "title": "13 yaşındaki çocuk ve annesi çamura saplandı: Ekipler seferber oldu",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/gencler-cop31de-iklim-krizine-teknolojik-cozum-icin-bulusuyor-961747.html",
       "source": "TRT Haber",
       "published_at": "2026-10-30T12:36:00Z"
-    },
-    {
-      "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
-      "link": "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-30T12:33:00Z"
     }
   ]
 }
