@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:58:10.155384Z",
+  "generated_at": "2026-10-30T23:08:17.401636Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,13 @@
       "title": "Polonya'da siyasi gerginlik",
       "link": "https://www.haberturk.com/dunya/polonya-da-anayasa-mahkemesi-krizi-3923844",
       "source": "Habertürk",
-      "published_at": "2026-10-30T22:54:54Z"
+      "published_at": "2026-10-30T23:00:59Z"
+    },
+    {
+      "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
+      "link": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T22:58:00Z"
     },
     {
       "title": "Son dakika...Orta Doğu'yu tedirgin eden gelişme: Onlarca ABD uçağı İsrail'de konuşlandı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/alanya-belediyespor-plaj-futbolu-dunya-kulupler-sampiyonasi-na-veda-etti-p374403",
       "source": "Sözcü",
       "published_at": "2026-10-30T15:02:46Z"
-    },
-    {
-      "title": "Kulüpler Birliği, Futbol Zirvesi düzenleyecek!",
-      "link": "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-duzenleyecek-3923784",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T15:00:38Z"
     }
   ]
 }
