@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:42:48.837648Z",
+  "generated_at": "2026-10-30T12:47:51.469294Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Bu da görünür kaza: Göz göre göre saplandı",
+      "link": "https://www.sozcu.com.tr/bu-da-gorunur-kaza-goz-gore-gore-saplandi-p374364",
+      "source": "Sözcü",
+      "published_at": "2026-10-30T12:46:51Z"
+    },
+    {
+      "title": "Başkent'te kadın cinayeti! 2 kız çocuğu yetim ve öksüz kaldı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-baskent-te-kadin-cinayeti-2-kiz-cocugu-yetim-ve-oksuz-kaldi-3923757",
+      "source": "Habertürk",
+      "published_at": "2026-10-30T12:43:48Z"
+    },
     {
       "title": "Merkez Bankası rezervleri bir haftada 6,9 milyar dolar azaldı",
       "link": "https://www.sozcu.com.tr/merkez-bankasi-rezervleri-bir-haftada-69-milyar-dolar-azaldi-p374366",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/tff-bahis-cezalarini-az-buldu-tahkim-kurulu-na-basvurdu-3923691",
       "source": "Habertürk",
       "published_at": "2026-10-30T08:38:52Z"
-    },
-    {
-      "title": "Bir sıcak bir serin! Önce 10 derece artacak, sonra serinleyecek!",
-      "link": "https://www.haberturk.com/son-dakika-hava-durumu-bir-sicak-bir-serin-once-10-derece-artacak-sonra-serinleyecek-3792884",
-      "source": "Habertürk",
-      "published_at": "2026-10-30T08:38:30Z"
-    },
-    {
-      "title": "Piyasalar bütçe görüşmelerine ve Merkez Bankası'na odaklanacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/piyasalar-butce-gorusmelerine-ve-merkez-bankasina-odaklanacak-961720.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-30T08:38:00Z"
     }
   ]
 }
