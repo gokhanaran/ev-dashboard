@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:40:31.175856Z",
+  "generated_at": "2026-10-30T18:45:35.858901Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -88,6 +88,12 @@
       "link": "https://www.haberturk.com/spor/fenerbahce-goztepe-macinin-hazirliklarini-tamamladi-3923812",
       "source": "Habertürk",
       "published_at": "2026-10-30T18:13:09Z"
+    },
+    {
+      "title": "İsrail ordusu, El Halil'de abluka altındaki bölgeyi kapalı askeri bölge ilan etti",
+      "link": "https://www.trthaber.com/haber/dunya/israil-ordusu-el-halilde-abluka-altindaki-bolgeyi-kapali-askeri-bolge-ilan-etti-961766.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-30T18:13:00Z"
     },
     {
       "title": "Doğal gazda limitler güncellendi! Bu sınırı aşan yüksek fatura ödeyecek",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
       "source": "TRT Haber",
       "published_at": "2026-10-30T12:33:00Z"
-    },
-    {
-      "title": "Bankaların kredi hacmi 28,8 trilyon liraya yükseldi",
-      "link": "https://www.trthaber.com/haber/ekonomi/bankalarin-kredi-hacmi-288-trilyon-liraya-yukseldi-961745.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-30T12:32:00Z"
     }
   ]
 }
