@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:14:41.734869Z",
+  "generated_at": "2026-10-31T23:19:45.601195Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bayrağa ve şehide hakarete gözaltı",
+      "link": "https://www.haberturk.com/gundem/bayraga-ve-sehide-hakarete-gozalti-3924030",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T23:12:40Z"
+    },
     {
       "title": "Fidan: Anlaşmaya varmak zorundalar",
       "link": "https://www.haberturk.com/dunya/son-dakika-fidan-anlasmaya-varmak-zorundalar-3924028",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/son-dakika-cumhurbaskani-erdogan-dan-onemli-aciklamalar-3923870",
       "source": "Habertürk",
       "published_at": "2026-10-31T14:47:00Z"
-    },
-    {
-      "title": "Ege Denizi'nde deprem meydana geldi",
-      "link": "https://www.sozcu.com.tr/ege-denizi-nde-deprem-meydana-geldi-p374647",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T14:42:37Z"
     }
   ]
 }
