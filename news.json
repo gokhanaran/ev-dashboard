@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:15:29.073592Z",
+  "generated_at": "2026-10-31T20:20:33.011339Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Kadıköy'de 'Yönetim istifa' sesleri",
+      "link": "https://www.sozcu.com.tr/kadikoyde-yonetim-istifa-sesleri-p374675",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T20:18:08Z"
+    },
+    {
+      "title": "4 gollü derbide puan 90'da geldi",
+      "link": "https://www.sozcu.com.tr/4-gollu-derbide-puan-90da-geldi-p374696",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T20:16:19Z"
+    },
     {
       "title": "Zelenskiy'den patrikhaneye ziyaret",
       "link": "https://www.haberturk.com/gundem/ukrayna-devlet-baskani-zelenskiyfener-rum-patrikhanesi-ni-ziyaret-etti-3924016",
@@ -208,12 +220,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-borsa-istanbul-genel-muduru-enes-argun-gozaltina-alindi-p374668",
       "source": "Sözcü",
       "published_at": "2026-10-31T18:30:35Z"
-    },
-    {
-      "title": "Kadıköy'de 'Yönetim istifa' sesleri",
-      "link": "https://www.sozcu.com.tr/kadikoyde-yonetim-istifa-sesleri-p374675",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T18:28:52Z"
     },
     {
       "title": "Toprak kayması binayı tehdit etti",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html",
       "source": "TRT Haber",
       "published_at": "2026-10-31T13:00:00Z"
-    },
-    {
-      "title": "Babasını öldürüp sitenin havuzuna gömmüştü! İşte caniye istenen ceza",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-babasini-oldurup-sitenin-havuzuna-gommustu-iste-caniye-istenen-ceza-3923937",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T12:58:21Z"
     }
   ]
 }
