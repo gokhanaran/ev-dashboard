@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:08:03.749873Z",
+  "generated_at": "2026-10-31T10:18:08.276666Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Samsunspor, kötü gidişe dur demek istiyor!",
+      "link": "https://www.haberturk.com/spor/samsunspor-kotu-gidise-basaksehir-fk-karsisinda-dur-demek-istiyor-3923912",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T10:09:23Z"
+    },
+    {
+      "title": "Türkiye-Özbekistan ticaretinde 10 milyar dolar hedefi",
+      "link": "https://www.haberturk.com/ekonomi/turkiye-ve-ozbekistan-ekonomik-baglarini-guclendiriyor-3923914",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T10:09:01Z"
+    },
     {
       "title": "Suriye'deki cadılar bayramı kutlaması sosyal medyayı karıştırdı",
       "link": "https://www.sozcu.com.tr/suriye-deki-cadilar-bayrami-kutlamasi-sosyal-medyayi-karistirdi-p374579",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/20-milyar-ve-35-milyar-tl-iddiasi-akp-li-sayan-sordu-bddk-den-jet-yanit-geldi-p374486",
       "source": "Sözcü",
       "published_at": "2026-10-31T04:30:52Z"
-    },
-    {
-      "title": "Bir askerimiz şehit oldu",
-      "link": "https://www.trthaber.com/haber/gundem/bir-askerimiz-sehit-oldu-961785.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-31T04:04:00Z"
-    },
-    {
-      "title": "‘Mumya ceset’ dosyası 19 yıl sonra yeniden açıldı: 6 gözaltı",
-      "link": "https://www.sozcu.com.tr/mumya-ceset-dosyasi-19-yil-sonra-yeniden-acildi-6-gozalti-p374484",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T04:00:05Z"
     }
   ]
 }
