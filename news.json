@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T15:40:05.308168Z",
+  "generated_at": "2026-10-31T15:45:07.960181Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da 44 bin paket kayısı ile 4 ton çiğköfte dağıtıldı",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-44-bin-paket-kayisi-ile-4-ton-cigkofte-dagitildi-3923974",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T15:37:21Z"
+    },
     {
       "title": "Rize'de tahta arabalarla \"Laz Ralli\"",
       "link": "https://www.haberturk.com/gundem/foto/rize-de-tahta-arabalarla-laz-ralli-3923971",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/sarigul-ailesine-yonelik-kara-para-sorusturmasinda-2-tutuklama-p374573",
       "source": "Sözcü",
       "published_at": "2026-10-31T09:50:11Z"
-    },
-    {
-      "title": "3 canını kaybetti! Enkaz altında can verdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-canini-kaybetti-enkaz-altinda-can-verdi-mersin-haberleri-3923868",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T09:50:09Z"
     }
   ]
 }
