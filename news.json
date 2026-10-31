@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:45:51.909463Z",
+  "generated_at": "2026-10-31T23:14:41.734869Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 24
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,124 @@
   ],
   "items": [
     {
+      "title": "Fidan: Anlaşmaya varmak zorundalar",
+      "link": "https://www.haberturk.com/dunya/son-dakika-fidan-anlasmaya-varmak-zorundalar-3924028",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T22:20:52Z"
+    },
+    {
+      "title": "Erdoğan'ın imzasıyla 3 isim görevden alındı",
+      "link": "https://www.sozcu.com.tr/erdoganin-imzasiyla-3-isim-gorevden-alindi-p374716",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T22:15:12Z"
+    },
+    {
+      "title": "Kasım ayında 9 oyun seyirciyle buluşuyor",
+      "link": "https://www.haberturk.com/kultur-sanat/kasim-ayinda-9-oyun-seyirciyle-bulusuyor-3924015",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T22:09:57Z"
+    },
+    {
+      "title": "MIX Festival 10 yaşında",
+      "link": "https://www.haberturk.com/kultur-sanat/mix-festival-10-yasinda-3924011",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T22:09:10Z"
+    },
+    {
+      "title": "Gaye Çevikel ile mirasın inşası İstanbul Modern'de",
+      "link": "https://www.haberturk.com/kultur-sanat/gaye-cevikel-ile-mirasin-insasi-istanbul-modern-de-3924013",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T22:07:52Z"
+    },
+    {
+      "title": "Barcelona gol oldu yağdı!",
+      "link": "https://www.haberturk.com/spor/barcelona-deportivo-alaves-mac-sonucu-iste-barcelona-deportivo-alaves-maci-ozeti-ve-golleri-ispanya-laliga-3924025",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T22:04:33Z"
+    },
+    {
+      "title": "SPK Başkanılığı'na Muhsin Atcı getirildi",
+      "link": "https://www.sozcu.com.tr/spk-baskaniligi-na-muhsin-atci-getirildi-p374705",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T22:00:37Z"
+    },
+    {
+      "title": "SPK Başkanlığına Muhsin Atcı atandı",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-spk-baskanligina-muhsin-atci-atandi-3924019",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T21:54:05Z"
+    },
+    {
+      "title": "Altın Portakal 'Taş ve Tüy'e",
+      "link": "https://www.haberturk.com/kultur-sanat/altin-portakal-tas-ve-tuy-e-3924021",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T21:49:27Z"
+    },
+    {
+      "title": "Adana'da markete silahlı saldırı: Ekmek getiren fırıncı hayatını kaybetti",
+      "link": "https://www.sozcu.com.tr/adana-da-markete-silahli-saldiri-ekmek-getiren-firinci-hayatini-kaybetti-p374712",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T21:47:30Z"
+    },
+    {
+      "title": "Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/bolu-dagi-tunelinde-tirin-carptigi-otomobil-takla-atti-4-yarali-961850.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-31T21:47:00Z"
+    },
+    {
+      "title": "Milan, Inter'e 'dur' dedi!",
+      "link": "https://www.haberturk.com/spor/milan-3-inter-1-mac-sonucu-ozeti-ve-golleri-3924023",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T21:43:49Z"
+    },
+    {
+      "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+      "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-961849.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-31T21:35:00Z"
+    },
+    {
+      "title": "\"Kuyt geçiş dönemini yönetemez\"",
+      "link": "https://www.haberturk.com/spor/usta-yorumcular-fenerbahce-goztepe-macini-degerlendirdi-kuyt-gecis-donemini-yonetemez-3924020",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T21:32:34Z"
+    },
+    {
+      "title": "Altın Portakal'da 'Taş ve Tüy'e 6 ödül",
+      "link": "https://www.sozcu.com.tr/altin-portakalda-tas-ve-tuye-6-odul-p374708",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T21:21:26Z"
+    },
+    {
+      "title": "Fransa’da sokaklar yine karıştı: 511 kişi gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/fransa-da-sokaklar-yine-karisti-511-kisi-gozaltina-alindi-p374707",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T21:16:04Z"
+    },
+    {
+      "title": "G.Saray MCT Technic deplasmanda kazandı!",
+      "link": "https://www.haberturk.com/spor/yukatel-denizli-basket-74-galatasaray-mct-technic-87-mac-sonucu-3924018",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T21:07:54Z"
+    },
+    {
+      "title": "Türkiye’nin köklü firması iflas etti: 46 yıldır üretim yapıyordu",
+      "link": "https://www.sozcu.com.tr/turkiye-nin-koklu-firmasi-iflas-etti-46-yildir-uretim-yapiyordu-p374704",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T20:56:19Z"
+    },
+    {
       "title": "Etkinlikte YENİ Parti’ye övgü sonrası kavga çıktı",
       "link": "https://www.sozcu.com.tr/sivas-kultur-gunlerinde-kursu-onundeki-tartisma-kavgaya-donustu-p374699",
       "source": "Sözcü",
       "published_at": "2026-10-31T20:42:27Z"
+    },
+    {
+      "title": "Katil Netanyahu'ya karşı mecliste güç birliği",
+      "link": "https://www.trthaber.com/haber/dunya/katil-netanyahuya-karsi-mecliste-guc-birligi-961846.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-31T20:40:00Z"
     },
     {
       "title": "G.Saray'ın rakibi B.Leverkusen'i devirdi!",
@@ -640,120 +754,6 @@
       "link": "https://www.sozcu.com.tr/ege-denizi-nde-deprem-meydana-geldi-p374647",
       "source": "Sözcü",
       "published_at": "2026-10-31T14:42:37Z"
-    },
-    {
-      "title": "İBB, 4 yeni zemin altı otoparkı açtı",
-      "link": "https://www.haberturk.com/gundem/ibb-4-yeni-zemin-alti-otoparki-hizmete-acti-3923960",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:34:10Z"
-    },
-    {
-      "title": "Çocuklara yapay zeka kısıtlaması",
-      "link": "https://www.haberturk.com/ekonomi/new-york-tan-yapay-zeka-sohbet-botlarina-cocuk-kisitlamasi-3923958",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:31:14Z"
-    },
-    {
-      "title": "Chelsea, M. United'ı rahat geçti!",
-      "link": "https://www.haberturk.com/spor/chelsea-2-manchester-united-0-mac-sonucu-3923955",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:30:23Z"
-    },
-    {
-      "title": "Kaan Kahriman'dan gümüş madalya!",
-      "link": "https://www.haberturk.com/spor/kaan-kahriman-dan-gumus-madalya-3923959",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:27:51Z"
-    },
-    {
-      "title": "Soykırımcı İsrail'in ateşkese rağmen Gazze'deki saldırılarında 3 Filistinli hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-ateskese-ragmen-gazzedeki-saldirilarinda-3-filistinli-hayatini-kaybetti-961833.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-31T14:23:00Z"
-    },
-    {
-      "title": "Erdoğan Zelenskiy ile bir araya geldi",
-      "link": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T14:22:13Z"
-    },
-    {
-      "title": "\"Ben hep aldatıldım\"",
-      "link": "https://www.haberturk.com/magazin/foto/bahar-sahin-ben-hep-aldatildim-3923949",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:18:41Z"
-    },
-    {
-      "title": "Köprüden dereye uçtular: 3 yaralı",
-      "link": "https://www.haberturk.com/gundem/hatay-in-antakya-ilcesinde-kopruden-dereye-dusen-otomobilde-3-kisi-yaralandi-3923954",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:14:53Z"
-    },
-    {
-      "title": "Mısır'da feci kaza: 10 ölü, 24 yaralı",
-      "link": "https://www.sozcu.com.tr/misir-da-feci-kaza-10-olu-24-yarali-p374644",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T14:14:22Z"
-    },
-    {
-      "title": "Murat Ağırel cezaevinden haber yaptı: \"Bundan sonra eğer bir zehirlenme olayı yaşanırsa...\"",
-      "link": "https://www.sozcu.com.tr/murat-agirel-cezaevinden-haber-yapti-bundan-sonra-eger-bir-zehirlenme-olayi-yasanirsa-p374641",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T14:10:50Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Ukrayna lideri Zelenskiy'le görüştü",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-gorustu-3923956",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:10:11Z"
-    },
-    {
-      "title": "İran Dışişleri Bakanı Arakçi: ABD makamları ile görüşme planımız yok",
-      "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-abd-makamlari-ile-gorusme-planimiz-yok-961832.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-31T13:57:00Z"
-    },
-    {
-      "title": "112 Acil Çağrı Sisteminde yeni dönem",
-      "link": "https://www.trthaber.com/haber/gundem/112-acil-cagri-sisteminde-yeni-donem-961831.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-31T13:49:00Z"
-    },
-    {
-      "title": "Burak Yılmaz Fenerbahçe çağrısı yaptı",
-      "link": "https://www.sozcu.com.tr/burak-yilmaz-fenerbahce-cagrisi-yapti-p374636",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T13:45:13Z"
-    },
-    {
-      "title": "Kızını ve erkek arkadaşını öldürmüştü! İşte ifadesi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-ankara-da-kizini-ve-erkek-arkadasini-olduren-baba-niyetim-konusmakti-kufur-edince-oldurdum-3923947",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T13:42:29Z"
-    },
-    {
-      "title": "\"Ayaklarımız yere basacak!\"",
-      "link": "https://www.haberturk.com/spor/burak-yilmaz-ayaklarimiz-yere-basacak-3923946",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T13:38:01Z"
-    },
-    {
-      "title": "Nev'in ağabeyinden iddialara yanıt",
-      "link": "https://www.haberturk.com/magazin/foto/nev-in-agabeyi-zeyyat-dogansoy-dan-iddialara-yanit-3923941",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T13:36:42Z"
-    },
-    {
-      "title": "Miçotakis'in haritası alay konusu oldu",
-      "link": "https://www.sozcu.com.tr/micotakis-in-haritasi-alay-konusu-oldu-p374624",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T13:34:35Z"
-    },
-    {
-      "title": "Şehit polisin ailesine taziye",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-esenyurt-ta-sehit-olan-polis-topatan-in-ailesine-bassagligi-diledi-3923944",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T13:31:46Z"
     }
   ]
 }
