@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:47:53.187352Z",
+  "generated_at": "2026-10-31T09:52:55.737278Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara büyük savaşı önlemek için devreye girdi",
+      "link": "https://www.sozcu.com.tr/ankara-buyuk-savasi-onlemek-icin-devreye-girdi-p374574",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T09:51:20Z"
+    },
+    {
+      "title": "Son dakika: Sarıgül soruşturmasında 2 tutuklama",
+      "link": "https://www.sozcu.com.tr/sarigul-ailesine-yonelik-kara-para-sorusturmasinda-2-tutuklama-p374573",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T09:50:11Z"
+    },
+    {
+      "title": "3 canını kaybetti! Enkaz altında can verdi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-canini-kaybetti-enkaz-altinda-can-verdi-mersin-haberleri-3923868",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T09:50:09Z"
+    },
+    {
+      "title": "Nehir sularının yönünü değiştirince felaketi yaşadılar",
+      "link": "https://www.sozcu.com.tr/nehir-sularinin-yonunu-degistirince-felaketi-yasadilar-p374571",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T09:47:30Z"
+    },
+    {
+      "title": "Kademeli emeklilikte milyonların beklediği gelişme! AKP'nin tavrı netleşti",
+      "link": "https://www.sozcu.com.tr/kademeli-emeklilikte-milyonlarin-bekledigi-gelisme-akp-nin-tavri-netlesti-p374570",
+      "source": "Sözcü",
+      "published_at": "2026-10-31T09:46:42Z"
+    },
+    {
+      "title": "Yargıtay'dan milyonları ilgilendiren karar! Düğün sonrası araç hayali kuranlar dikkat!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yargitay-dan-milyonlari-ilgilendiren-karar-dugun-sonrasi-arac-hayali-kuranlar-dikkat-3923881",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T09:45:56Z"
+    },
+    {
+      "title": "Yorgunluk sanılan belirtiler gençlerde inmenin habercisi olabilir",
+      "link": "https://www.haberturk.com/saglik/yorgunluk-sanilan-belirtiler-genclerde-inmenin-habercisi-olabilir-3923897",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T09:41:56Z"
+    },
+    {
+      "title": "Eski erkek arkadaşı uzaklaştırılamadı... Kumsal'ı da kaybettik",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eski-erkek-arkadasi-uzaklastirilamadi-kumsal-kayan-i-da-kaybettik-3923894",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T09:41:14Z"
+    },
     {
       "title": "\"Jülide Kural, dayıma evlenme teklifi etti\"",
       "link": "https://www.haberturk.com/magazin/foto/levent-inanir-julide-kural-dayima-evlenme-teklifi-etti-3923665",
@@ -238,18 +286,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-likya-yolu-nda-gunlerdir-araniyordu-alman-turistten-aci-haber-3923866",
       "source": "Habertürk",
       "published_at": "2026-10-31T08:44:12Z"
-    },
-    {
-      "title": "Yargıtay'dan milyonları ilgilendiren karar! Düğün sonrası araç hayali kuranlar dikkat!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yargitay-dan-milyonlari-ilgilendiren-karar-dugun-sonrasi-arac-hayali-kuranlar-dikkat-3923881",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T08:44:09Z"
-    },
-    {
-      "title": "Eski erkek arkadaşı uzaklaştırılamadı... Kumsal'ı da kaybettik",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eski-erkek-arkadasi-uzaklastirilamadi-kumsal-kayan-i-da-kaybettik-3923894",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T08:42:38Z"
     },
     {
       "title": "\"ABD-İran müzakerelerinde ilerleme kaydedildi\"",
@@ -612,12 +648,6 @@
       "published_at": "2026-10-31T06:11:00Z"
     },
     {
-      "title": "3 canını kaybetti! Enkaz altında can verdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-3-canini-kaybetti-enkaz-altinda-can-verdi-mersin-haberleri-3923868",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T06:07:35Z"
-    },
-    {
       "title": "Emeklilikte son 7 yıl kuralı",
       "link": "https://www.haberturk.com/ekonomi/emeklilikte-son-7-yil-kurali-3923767",
       "source": "Habertürk",
@@ -722,36 +752,6 @@
     {
       "title": "İnanır’ın lüks saatleri kayıp",
       "link": "https://www.sozcu.com.tr/inanir-in-luks-saatleri-kayip-p374468",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T02:30:01Z"
-    },
-    {
-      "title": "19 Mayıs logosundaki Atatürk’ü de çıkardılar",
-      "link": "https://www.sozcu.com.tr/19-mayis-logosundaki-ataturk-u-de-cikardilar-p374479",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T02:30:01Z"
-    },
-    {
-      "title": "10.3 milyon oy hapiste 2.6 milyon oy AKP’de",
-      "link": "https://www.sozcu.com.tr/10-3-milyon-oy-hapiste-2-6-milyon-oy-akp-de-p374478",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T02:30:01Z"
-    },
-    {
-      "title": "Ortak sınavların soruları öğretmenlerden gizlendi",
-      "link": "https://www.sozcu.com.tr/ortak-sinavlarin-sorulari-ogretmenlerden-gizlendi-p374476",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T02:30:01Z"
-    },
-    {
-      "title": "'Hepimiz enflasyonun altında kalacağız'",
-      "link": "https://www.sozcu.com.tr/hepimiz-enflasyonun-altinda-kalacagiz-p374475",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T02:30:01Z"
-    },
-    {
-      "title": "Boşa umut vermeyin eskiye dönün yeter",
-      "link": "https://www.sozcu.com.tr/bosa-umut-vermeyin-eskiye-donun-yeter-p374473",
       "source": "Sözcü",
       "published_at": "2026-10-31T02:30:01Z"
     }
