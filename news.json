@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:05:22.034560Z",
+  "generated_at": "2026-10-31T20:15:29.073592Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Zelenskiy'den patrikhaneye ziyaret",
+      "link": "https://www.haberturk.com/gundem/ukrayna-devlet-baskani-zelenskiyfener-rum-patrikhanesi-ni-ziyaret-etti-3924016",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T20:07:29Z"
+    },
     {
       "title": "Galatasaray, Denizli deplasmanında kazandı",
       "link": "https://www.sozcu.com.tr/galatasaray-denizli-deplasmaninda-kazandi-p374691",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-babasini-oldurup-sitenin-havuzuna-gommustu-iste-caniye-istenen-ceza-3923937",
       "source": "Habertürk",
       "published_at": "2026-10-31T12:58:21Z"
-    },
-    {
-      "title": "Sokağın ortasında kadın erkeği darp etti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-sokagin-ortasinda-kadin-erkegi-darp-etti-3923932",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T12:54:40Z"
     }
   ]
 }
