@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T19:50:10.223081Z",
+  "generated_at": "2026-10-31T19:55:14.201875Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Almanya'da derbide kazanan yok!",
+      "link": "https://www.haberturk.com/spor/bayern-munih-2-borussia-dortmund-2-mac-sonucu-ozeti-ve-golleri-3924010",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T19:48:58Z"
+    },
     {
       "title": "Almanya'de derbide kazanan yok!",
       "link": "https://www.haberturk.com/spor/bayern-munih-2-borussia-dortmund-2-mac-sonucu-ozeti-ve-golleri-3924010",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/mahsun-kirmizigul-den-muzisyenlere-yesil-pasaport-cagrisi-3923811",
       "source": "Habertürk",
       "published_at": "2026-10-31T12:45:04Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan şehit ailesine başsağlığı mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-sehit-ailesine-bassagligi-mesaji-961826.html",
-      "source": "TRT Haber",
-      "published_at": "2026-10-31T12:43:00Z"
     }
   ]
 }
