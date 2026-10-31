@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:25:37.121752Z",
+  "generated_at": "2026-10-31T20:30:41.479320Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/kadikoyde-yonetim-istifa-sesleri-p374675",
       "source": "Sözcü",
       "published_at": "2026-10-31T20:18:08Z"
+    },
+    {
+      "title": "Zonguldak'ta el freni çekilmeyen kamyonet devrildi: O anlar kamerada",
+      "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-el-freni-cekilmeyen-kamyonet-devrildi-o-anlar-kamerada-961845.html",
+      "source": "TRT Haber",
+      "published_at": "2026-10-31T20:17:00Z"
     },
     {
       "title": "4 gollü derbide puan 90'da geldi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-stuttgart-macinin-hazirliklarina-basladi-3923940",
       "source": "Habertürk",
       "published_at": "2026-10-31T13:26:17Z"
-    },
-    {
-      "title": "Fenerbahçe'de Lukaku'ya 2 talip birden çıktı! Yollar ayrılabilir",
-      "link": "https://www.sozcu.com.tr/fenerbahcede-lukakuya-2-talip-birden-cikti-yollar-ayrilabilir-p374623",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T13:21:34Z"
     }
   ]
 }
