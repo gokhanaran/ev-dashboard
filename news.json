@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:58:03.701391Z",
+  "generated_at": "2026-11-01T19:03:07.274386Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Savcı Sayan'a AKP'den uyarı!",
+      "link": "https://www.sozcu.com.tr/mucahit-yanilmaz-sayci-sayan-tepki-p374965",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T19:01:46Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gitti-3924165",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T18:57:49Z"
+    },
+    {
       "title": "Süper Loto sonuçları açıklandı!",
       "link": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-aciklandi-1-kasim-2026-milli-piyango-super-loto-cekilis-sonuclari-bilet-sorgula-ekrani-3924168",
       "source": "Habertürk",
@@ -64,12 +76,6 @@
       "link": "https://www.sozcu.com.tr/7-bin-600-tonluk-binayi-198-robot-ayakla-tasidilar-p374964",
       "source": "Sözcü",
       "published_at": "2026-11-01T18:44:25Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gitti-3924165",
-      "source": "Habertürk",
-      "published_at": "2026-11-01T18:38:11Z"
     },
     {
       "title": "Liverpool'u deplasmanda devirdi! Premier Lig'in lideri oldu",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-metin-ozturk-yonetim-kurulu-gorevinden-istifa-etti-3924103",
       "source": "Habertürk",
       "published_at": "2026-11-01T11:01:17Z"
-    },
-    {
-      "title": "\"Tüm dünya yaptıklarımızı konuşuyor!\"",
-      "link": "https://www.haberturk.com/spor/trabzonspor-baskani-ertugrul-dogan-tum-dunya-yaptiklarimizi-konusuyor-3924113",
-      "source": "Habertürk",
-      "published_at": "2026-11-01T10:59:21Z"
     }
   ]
 }
