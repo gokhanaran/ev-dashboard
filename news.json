@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:59:31.751632Z",
+  "generated_at": "2026-11-01T23:09:38.454211Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Cumhurbaşkanı Erdoğan'a vekalet edecek",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-yardimcisi-yilmaz-cumhurbaskani-erdogan-a-vekalet-edecek-3924190",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T22:59:32Z"
+    },
+    {
+      "title": "Masterchef kim elendi, kim gitti?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-1-kasim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3924178",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T22:56:31Z"
+    },
     {
       "title": "İzmir'de 3 bina tahliye edildi",
       "link": "https://www.haberturk.com/gundem/izmir-de-3-bina-tahliye-edildi-3924189",
@@ -184,12 +196,6 @@
       "link": "https://www.haberturk.com/ekonomi/umut-guner-hakkinda-adli-kontrol-tedbiri-3924119",
       "source": "Habertürk",
       "published_at": "2026-11-01T20:36:32Z"
-    },
-    {
-      "title": "Masterchef kim elendi, kim gitti?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-1-kasim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3924178",
-      "source": "Habertürk",
-      "published_at": "2026-11-01T20:35:23Z"
     },
     {
       "title": "Dünyanın gözü bu maçtaydı! 2 kırmızı kartın çıktığı maçı Boca Juniors kazandı",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
       "source": "TRT Haber",
       "published_at": "2026-11-01T13:40:00Z"
-    },
-    {
-      "title": "Fenerbahçe arsaVev 8-0 kazandı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-arsavev-8-0-kazandi-p374911",
-      "source": "Sözcü",
-      "published_at": "2026-11-01T13:39:18Z"
     }
   ]
 }
