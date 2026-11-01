@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:39:56.653203Z",
+  "generated_at": "2026-11-01T00:05:10.198364Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Muhalefet, Netanyahu'ya karşı harekete geçecek",
+      "link": "https://www.haberturk.com/dunya/muhalefet-netanyahu-ya-karsi-harekete-gececek-3924032",
+      "source": "Habertürk",
+      "published_at": "2026-10-31T23:56:40Z"
+    },
     {
       "title": "Sosyal medyaya 15 yaş sınırı! Resmi Gazete'de yayımlandı",
       "link": "https://www.haberturk.com/gundem/sosyal-medyaya-15-yas-siniri-resmi-gazete-de-yayimlandi-3924031",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kabus-devam-ediyor-manchester-united-galibiyeti-unuttu-p374650",
       "source": "Sözcü",
       "published_at": "2026-10-31T14:51:11Z"
-    },
-    {
-      "title": "Gençlere çağrı: Korkmayın, icat çıkartın!",
-      "link": "https://www.haberturk.com/saglik/saglik-bakani-memisoglu-genclere-seslendi-fikrinizi-soyleyin-korkmayin-icat-cikartin-3923964",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T14:49:13Z"
     }
   ]
 }
