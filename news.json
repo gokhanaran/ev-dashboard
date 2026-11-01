@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:38:11.227816Z",
+  "generated_at": "2026-11-01T05:48:15.310401Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yürüyüşe çıkan şarkıcı ormanda ölü bulundu: 5 aylık sır çözüldü",
+      "link": "https://www.sozcu.com.tr/yuruyuse-cikan-sarkici-ormanda-olu-bulundu-5-aylik-sir-cozuldu-p374747",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T05:43:48Z"
+    },
     {
       "title": "Dizi sektöründe kazan kaynıyor: Bölüm başı milyonları kazananlara zam freni",
       "link": "https://www.sozcu.com.tr/dizi-sektorunde-kazan-kayniyor-bolum-basi-milyonlari-kazananlara-zam-freni-p374745",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/fevzi-korkmaz-bizim-icin-firsat-maciydi-3923984",
       "source": "Habertürk",
       "published_at": "2026-10-31T16:40:38Z"
-    },
-    {
-      "title": "Greenwood, Göztepe maçında yok!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-de-mason-greenwood-goztepe-macinda-forma-giyemeyecek-3923981",
-      "source": "Habertürk",
-      "published_at": "2026-10-31T16:33:45Z"
     }
   ]
 }
