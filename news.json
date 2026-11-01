@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:39:18.618217Z",
+  "generated_at": "2026-11-01T22:49:25.175611Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "ABD'de 9 kişiyi taşıyan özel jetin düşüş anı görüntülendi",
+      "link": "https://www.haberturk.com/dunya/abd-de-9-kisiyi-tasiyan-ozel-jetin-dusus-ani-goruntulendi-3924186",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T22:41:34Z"
+    },
     {
       "title": "Aziz Yıldırım'a sürpriz destek! Seçimde rakip olmuşlardı",
       "link": "https://www.sozcu.com.tr/aziz-yildirim-a-surpriz-destek-secimde-rakip-olmuslardi-p374994",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/oz-kizini-ev-ev-dolastirip-istismara-surukledi-6-yasindan-beri-p374909",
       "source": "Sözcü",
       "published_at": "2026-11-01T13:31:12Z"
-    },
-    {
-      "title": "Trabzon'da trafikte saldırı girişimine 180 bin lira ceza",
-      "link": "https://www.trthaber.com/haber/turkiye/trabzonda-trafikte-saldiri-girisimine-180-bin-lira-ceza-961885.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-01T13:29:00Z"
     }
   ]
 }
