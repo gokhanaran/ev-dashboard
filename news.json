@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:03:07.274386Z",
+  "generated_at": "2026-11-01T19:13:13.719290Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Dünya Gazetesi'nin ortağı Umut Güner'e ev hapsi",
+      "link": "https://www.sozcu.com.tr/umut-guner-hakkinda-karar-p374967",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T19:10:22Z"
+    },
+    {
+      "title": "Dev maçta üç puan Arsenal'in!",
+      "link": "https://www.haberturk.com/spor/liverpool-arsenal-mac-sonucu-iste-liverpool-arsenal-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3924169",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T19:06:48Z"
+    },
     {
       "title": "Savcı Sayan'a AKP'den uyarı!",
       "link": "https://www.sozcu.com.tr/mucahit-yanilmaz-sayci-sayan-tepki-p374965",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gidiyor-3924092",
       "source": "Habertürk",
       "published_at": "2026-11-01T11:03:12Z"
-    },
-    {
-      "title": "AntalyaAlanya Otoyolu ile 2,5 saatlik yol 36 dakikaya düşecek",
-      "link": "https://www.trthaber.com/haber/turkiye/antalya-alanya-otoyolu-ile-25-saatlik-yol-36-dakikaya-dusecek-961877.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-01T11:03:00Z"
-    },
-    {
-      "title": "Galatasaray'da Metin Öztürk istifa etti!",
-      "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-metin-ozturk-yonetim-kurulu-gorevinden-istifa-etti-3924103",
-      "source": "Habertürk",
-      "published_at": "2026-11-01T11:01:17Z"
     }
   ]
 }
