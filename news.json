@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:09:38.454211Z",
+  "generated_at": "2026-11-01T23:34:52.925901Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bahçeli'nin seçim adımı 100 il 1000 ilçe",
+      "link": "https://www.sozcu.com.tr/bahceli-nin-secim-adimi-100-il-1000-ilce-p374998",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T23:30:12Z"
+    },
     {
       "title": "Cumhurbaşkanı Erdoğan'a vekalet edecek",
       "link": "https://www.haberturk.com/gundem/cumhurbaskani-yardimcisi-yilmaz-cumhurbaskani-erdogan-a-vekalet-edecek-3924190",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/sevket-coruh-pinar-altug-un-elini-sikmadi-tamer-karadagli-ya-gonderme-yapti-p374912",
       "source": "Sözcü",
       "published_at": "2026-11-01T13:43:28Z"
-    },
-    {
-      "title": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
-      "link": "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-01T13:40:00Z"
     }
   ]
 }
