@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:14:42.872698Z",
+  "generated_at": "2026-11-01T13:19:46.306351Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,7 +39,13 @@
       "title": "Trabzonspor-Gaziantep FK maçı canlı anlatımı (Süper Lig 10. hafta)",
       "link": "https://www.sozcu.com.tr/trabzonspor-gaziantep-fk-maci-canli-anlatimi-super-lig-10-hafta-p374906",
       "source": "Sözcü",
-      "published_at": "2026-11-01T13:11:37Z"
+      "published_at": "2026-11-01T13:18:48Z"
+    },
+    {
+      "title": "Boluspor Sivas'ta 3 puana uzandı!",
+      "link": "https://www.haberturk.com/spor/sivasspor-boluspor-mac-sonucu-ozeti-ve-golleri-trendyol-1-lig-3924126",
+      "source": "Habertürk",
+      "published_at": "2026-11-01T13:14:47Z"
     },
     {
       "title": "Amedspor'da şok! Hat-trick yapmıştı, Galatasaray maçında yok",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/fren-yerine-gaza-basti-otomobiliyle-bahceye-uctu-961858.html",
       "source": "TRT Haber",
       "published_at": "2026-11-01T07:14:00Z"
-    },
-    {
-      "title": "Sosyal medyada çocuklar için yeni dönem",
-      "link": "https://www.trthaber.com/haber/gundem/sosyal-medyada-cocuklar-icin-yeni-donem-961860.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-01T07:12:00Z"
     }
   ]
 }
