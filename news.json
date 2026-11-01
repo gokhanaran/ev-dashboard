@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:58:20.323526Z",
+  "generated_at": "2026-11-01T06:03:22.941290Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Bilim insanlarının 66 yıl önceki tahmini tutarsa 12 gün sonra kıyamet kopacak",
+      "link": "https://www.sozcu.com.tr/bilim-insanlarinin-66-yil-onceki-tahmini-tutarsa-12-gun-sonra-kiyamet-kopacak-p374752",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T06:01:46Z"
+    },
+    {
+      "title": "Dünya devi 89'da neye uğradığını şaşırdı: Ne olduysa son anlarda yaşandı",
+      "link": "https://www.sozcu.com.tr/dunya-devi-89-da-neye-ugradigini-sasirdi-ne-olduysa-son-anlarda-yasandi-p374755",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T06:00:17Z"
+    },
+    {
+      "title": "Kerem Aktürkoğlu ile tribünler arasında gerilim! Büyük protesto",
+      "link": "https://www.sozcu.com.tr/kerem-akturkoglu-ile-tribunler-arasinda-gerilim-buyuk-protesto-p374673",
+      "source": "Sözcü",
+      "published_at": "2026-11-01T05:59:25Z"
+    },
     {
       "title": "Öykü Karayel'in ödülü alırken yaptığı bu konuşma geceye damga vurdu",
       "link": "https://www.sozcu.com.tr/oyku-karayel-in-odulu-alirken-yaptigi-bu-konusma-geceye-damga-vurdu-p374753",
@@ -58,12 +76,6 @@
       "link": "https://www.sozcu.com.tr/sivas-kultur-gunlerinde-kursu-onundeki-tartisma-kavgaya-donustu-p374699",
       "source": "Sözcü",
       "published_at": "2026-11-01T05:54:24Z"
-    },
-    {
-      "title": "Bilim insanlarının 66 yıl önceki tahmini tutArsa 12 gün sonra kıyamet kopacak",
-      "link": "https://www.sozcu.com.tr/bilim-insanlarinin-66-yil-onceki-tahmini-tutarsa-12-gun-sonra-kiyamet-kopacak-p374752",
-      "source": "Sözcü",
-      "published_at": "2026-11-01T05:53:56Z"
     },
     {
       "title": "Sosyal medyada yeni düzenleme yürürlüğe girdi: Bu şarta uymayan hesap açamayacak",
@@ -588,12 +600,6 @@
       "published_at": "2026-10-31T18:46:09Z"
     },
     {
-      "title": "Kerem Aktürkoğlu ile tribünler arasında gerilim! Büyük protesto",
-      "link": "https://www.sozcu.com.tr/kerem-akturkoglu-ile-tribunler-arasinda-gerilim-buyuk-protesto-p374673",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T18:46:09Z"
-    },
-    {
       "title": "Fenerbahçe üstünlüğünü koruyamıyor!",
       "link": "https://www.haberturk.com/spor/foto/fenerbahce-ustunlugunu-koruyamiyor-kritik-puan-kayiplari-3924002",
       "source": "Habertürk",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-agir-darbe-uydu-goruntuleri-gercegi-ortaya-cikardi-p374665",
       "source": "Sözcü",
       "published_at": "2026-10-31T17:02:52Z"
-    },
-    {
-      "title": "‘Dur’ ihtarına uymayan alkollü sürücüye rekor ceza",
-      "link": "https://www.sozcu.com.tr/dur-ihtarina-uymayan-alkollu-surucuye-rekor-ceza-p374661",
-      "source": "Sözcü",
-      "published_at": "2026-10-31T16:54:05Z"
     }
   ]
 }
