@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:38:53.938051Z",
+  "generated_at": "2026-11-02T11:43:58.101916Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye'den gitti 5 ülkeye dağıtıldı: Acil olarak toplatılıyor",
+      "link": "https://www.sozcu.com.tr/turkiye-den-gitti-5-ulkeye-dagitildi-acil-olarak-toplatiliyor-p375205",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T11:39:25Z"
+    },
+    {
+      "title": "Bankalar Kasım rakamlarını duyurdu: İşte kuruşu kuruşuna güncel emekli promosyonları",
+      "link": "https://www.sozcu.com.tr/bankalar-kasim-rakamlarini-duyurdu-iste-kurusu-kurusuna-guncel-emekli-promosyonlari-p375240",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T11:39:16Z"
+    },
     {
       "title": "\"Daha iyi bir iş hayal edemiyorum\"",
       "link": "https://www.haberturk.com/magazin/olivia-wilde-hizli-ve-ofkeli-yi-yonetmek-istiyor-3924299",
@@ -358,12 +370,6 @@
       "link": "https://www.sozcu.com.tr/dem-parti-nin-bu-aciklamasi-sosyal-medyayi-karistirdi-ibb-el-mi-degistiriyor-sorusunun-yaniti-p375150",
       "source": "Sözcü",
       "published_at": "2026-11-02T10:03:33Z"
-    },
-    {
-      "title": "Türkiye'den gitti 5 ülkeye dağıtıldı: Acil olarak toplatılıyor",
-      "link": "https://www.sozcu.com.tr/turkiye-den-gitti-5-ulkeye-dagitildi-acil-olarak-toplatiliyor-p375205",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T10:01:37Z"
     },
     {
       "title": "Unutulmaya yüz tutan geleneği yaşatıyorlar",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbulda-metrobus-arizasi-961939.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T08:21:00Z"
-    },
-    {
-      "title": "ABD'de Türk 'girişimciye' 25 ay hapis cezası",
-      "link": "https://www.haberturk.com/ekonomi/abd-de-turk-girisimciye-25-ay-hapis-cezasi-3924258",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T08:20:54Z"
     }
   ]
 }
