@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:56:51.138538Z",
+  "generated_at": "2026-11-02T21:01:54.078883Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 11
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Ahmet Nazif Zorlu hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-3924437",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T20:56:16Z"
+    },
+    {
       "title": "ABD Başkanı Trump, İran'la savaş konusunda acelesinin olmadığını belirtti",
       "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-savas-konusunda-acelesinin-olmadigini-belirtti-961998.html",
       "source": "TRT Haber",
@@ -52,12 +58,6 @@
       "link": "https://www.sozcu.com.tr/korkmaz-enes-ergun-hakkinda-karar-p375306",
       "source": "Sözcü",
       "published_at": "2026-11-02T20:49:54Z"
-    },
-    {
-      "title": "Ahmet Nazif Zorlu hayatını kaybetti",
-      "link": "https://www.haberturk.com/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-3924437",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T20:49:24Z"
     },
     {
       "title": "İstanbul'da sağanak etkili oldu! Esenyurt'ta yol çöktü",
