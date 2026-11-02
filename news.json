@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:51:48.242172Z",
+  "generated_at": "2026-11-02T20:56:51.138538Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,28 @@
   ],
   "items": [
     {
+      "title": "ABD Başkanı Trump, İran'la savaş konusunda acelesinin olmadığını belirtti",
+      "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-iranla-savas-konusunda-acelesinin-olmadigini-belirtti-961998.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T20:52:00Z"
+    },
+    {
+      "title": "Yoğun bakıma kaldırıldı",
+      "link": "https://www.haberturk.com/magazin/killa-hakan-yogun-bakima-kaldirildi-3924432",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T20:50:40Z"
+    },
+    {
       "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'a tutuklama istemi",
       "link": "https://www.sozcu.com.tr/korkmaz-enes-ergun-hakkinda-karar-p375306",
       "source": "Sözcü",
       "published_at": "2026-11-02T20:49:54Z"
     },
     {
-      "title": "Yoğun bakıma kaldırıldı",
-      "link": "https://www.haberturk.com/magazin/killa-hakan-yogun-bakima-kaldirildi-3924432",
+      "title": "Ahmet Nazif Zorlu hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-3924437",
       "source": "Habertürk",
-      "published_at": "2026-11-02T20:48:22Z"
+      "published_at": "2026-11-02T20:49:24Z"
     },
     {
       "title": "İstanbul'da sağanak etkili oldu! Esenyurt'ta yol çöktü",
@@ -94,12 +106,6 @@
       "link": "https://www.haberturk.com/dunya/donald-trump-iran-la-anlasma-olabilir-3924430",
       "source": "Habertürk",
       "published_at": "2026-11-02T20:29:19Z"
-    },
-    {
-      "title": "Ahmet Nazif Zorlu hayatını kaybetti",
-      "link": "https://www.haberturk.com/gundem/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-3924437",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T20:28:29Z"
     },
     {
       "title": "Katil İsrail'in Gazze'ye saldırılarında 7 Filistinli daha hayatını kaybetti",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/avrupa-ulkelerinde-marketlerin-sogutma-sistemlerinde-siber-saldiri-alarmi-961978.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T13:50:00Z"
-    },
-    {
-      "title": "İran: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarptı",
-      "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti-961977.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-02T13:49:00Z"
     }
   ]
 }
