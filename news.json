@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:53:16.778034Z",
+  "generated_at": "2026-11-02T10:58:20.828505Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Ankara Film Festivali’nin biletleri bugün satışa çıkıyor",
+      "link": "https://www.haberturk.com/kultur-sanat/ankara-film-festivalinin-biletleri-bugun-satisa-cikiyor-3924325",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T10:52:54Z"
+    },
+    {
       "title": "Çiftliklerini bir aileye bırakacaklar, tek şartları var",
       "link": "https://www.sozcu.com.tr/ciftliklerini-bir-aileye-birakacaklar-tek-sartlari-var-p375221",
       "source": "Sözcü",
@@ -54,16 +60,40 @@
       "published_at": "2026-11-02T10:49:52Z"
     },
     {
+      "title": "Gaziantep Büyükşehir'in et fiyatları belli oldu",
+      "link": "https://www.haberturk.com/gundem/gaziantep-buyuksehir-in-et-fiyatlari-belli-oldu-3924324",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T10:49:46Z"
+    },
+    {
       "title": "3 yaşındaki çocuğa feci şiddet! Böyle anne olmaz olsun",
       "link": "https://www.haberturk.com/gundem/son-dakika-haber-3-yasindaki-cocuga-feci-siddet-boyle-anne-olmaz-olsun-ankara-haberleri-3924318",
       "source": "Habertürk",
-      "published_at": "2026-11-02T10:46:37Z"
+      "published_at": "2026-11-02T10:49:45Z"
+    },
+    {
+      "title": "3 yaşındaki çocuğunu darp eden anne tutuklandı",
+      "link": "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T10:49:00Z"
+    },
+    {
+      "title": "Uykusuzluğa son: Geceleri gözünüz kapanmıyor mu? Yatmadan önce 2 tane yiyen sabaha kadar deliksiz uyuyor!",
+      "link": "https://www.haberturk.com/bilgi/uykusuzluga-son-geceleri-gozunuz-kapanmiyor-mu-yatmadan-once-2-tane-yiyen-sabaha-kadar-deliksiz-uyuyor-3924313",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T10:48:40Z"
     },
     {
       "title": "Pahalı ürünlere veda edin: Evde Rapunzel gibi saçlara kavuşmanın 5 doğal ve etkili yolu",
       "link": "https://www.haberturk.com/bilgi/pahali-urunlere-veda-edin-evde-rapunzel-gibi-saclara-kavusmanin-5-dogal-ve-etkili-yolu-3924322",
       "source": "Habertürk",
-      "published_at": "2026-11-02T10:46:32Z"
+      "published_at": "2026-11-02T10:48:30Z"
+    },
+    {
+      "title": "Biri dev kayanın altında, diğeri tek binada yaşıyor: Dünyanın en sıra dışı 3 yeri",
+      "link": "https://www.haberturk.com/bilgi/foto/biri-dev-kayanin-altinda-digeri-tek-binada-yasiyor-dunyanin-en-sira-disi-3-yeri-3924301",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T10:48:27Z"
     },
     {
       "title": "Aida Garifullina ile Murat Karahan aynı sahnede",
@@ -130,12 +160,6 @@
       "link": "https://www.haberturk.com/kultur-sanat/bakan-ersoy-tum-dunyanin-calinan-eserlerin-yerinde-degerli-oldugunu-ogrenmesi-gerekiyor-3924314",
       "source": "Habertürk",
       "published_at": "2026-11-02T10:25:40Z"
-    },
-    {
-      "title": "Uykusuzluğa son: Geceleri gözünüz kapanmıyor mu? Yatmadan önce 2 tane yiyen sabaha kadar deliksiz uyuyor!",
-      "link": "https://www.haberturk.com/bilgi/uykusuzluga-son-geceleri-gozunuz-kapanmiyor-mu-yatmadan-once-2-tane-yiyen-sabaha-kadar-deliksiz-uyuyor-3924313",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T10:23:30Z"
     },
     {
       "title": "Doğum izninde emsal karar: Ayrımcılık tazminatı sebebi sayılacak",
@@ -226,12 +250,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/altin-gumus-platin-ve-paladyum-son-2-ayi-kayipla-gecirdi-961947.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T10:05:00Z"
-    },
-    {
-      "title": "Biri dev kayanın altında, diğeri tek binada yaşıyor: Dünyanın en sıra dışı 3 yeri",
-      "link": "https://www.haberturk.com/bilgi/foto/biri-dev-kayanin-altinda-digeri-tek-binada-yasiyor-dunyanin-en-sira-disi-3-yeri-3924301",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T10:04:22Z"
     },
     {
       "title": "'İBB el mi değiştiriyor' sorusunun yanıtı açıklamanın satır aralarında gizli",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-ingiliz-turist-antalya-da-bir-otel-odasinda-olu-bulundu-3924250",
       "source": "Habertürk",
       "published_at": "2026-11-02T07:49:51Z"
-    },
-    {
-      "title": "İYİ Partili Usta: Tepkim karşılık buldu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haber-iyi-partili-erhan-usta-tepkim-karsilik-buldu-3924252",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T07:48:44Z"
-    },
-    {
-      "title": "Doncic'ten 45 sayılık şov!",
-      "link": "https://www.haberturk.com/spor/luka-doncic-ten-45-sayilik-sov-3924244",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T07:48:32Z"
-    },
-    {
-      "title": "Onana kaleciler arasında zirvede!",
-      "link": "https://www.haberturk.com/spor/foto/andre-onana-kaleciler-arasinda-zirvede-3924234",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T07:46:30Z"
     }
   ]
 }
