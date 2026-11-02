@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:46:45.572655Z",
+  "generated_at": "2026-11-02T20:51:48.242172Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'a tutuklama istemi",
+      "link": "https://www.sozcu.com.tr/korkmaz-enes-ergun-hakkinda-karar-p375306",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T20:49:54Z"
+    },
+    {
+      "title": "Yoğun bakıma kaldırıldı",
+      "link": "https://www.haberturk.com/magazin/killa-hakan-yogun-bakima-kaldirildi-3924432",
+      "source": "Habertürk",
+      "published_at": "2026-11-02T20:48:22Z"
+    },
+    {
+      "title": "İstanbul'da sağanak etkili oldu! Esenyurt'ta yol çöktü",
+      "link": "https://www.sozcu.com.tr/istanbul-da-saganak-etkili-oluyor-p375350",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T20:47:45Z"
+    },
+    {
       "title": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
       "link": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-hayatini-kaybetti-p375362",
       "source": "Sözcü",
@@ -52,6 +70,12 @@
       "link": "https://www.haberturk.com/bilgi/zorlu-holding-in-kurucusu-ahmet-nazif-zorlu-hayatini-kaybetti-ahmet-nazif-zorlu-kimdir-nereli-3924438",
       "source": "Habertürk",
       "published_at": "2026-11-02T20:42:46Z"
+    },
+    {
+      "title": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği saldırılarda 24 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-saldirilarda-24-kisi-hayatini-kaybetti-961997.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T20:38:00Z"
     },
     {
       "title": "Altın arayışı felakete dönüştü, yollar çökmeye başladı",
@@ -102,12 +126,6 @@
       "published_at": "2026-11-02T20:16:00Z"
     },
     {
-      "title": "Yoğun bakıma kaldırıldı",
-      "link": "https://www.haberturk.com/magazin/killa-hakan-yogun-bakima-kaldirildi-3924432",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T20:12:54Z"
-    },
-    {
       "title": "İran basını: ABD ile iletişimde yeni gelişme yok",
       "link": "https://www.haberturk.com/dunya/iran-basini-abd-ile-iletisimde-yeni-gelisme-yok-3924435",
       "source": "Habertürk",
@@ -118,12 +136,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-glint-cayirova-belediyespor-mac-sonucu-ve-ozeti-turkiye-sigorta-basketbol-super-ligi-3924434",
       "source": "Habertürk",
       "published_at": "2026-11-02T20:09:51Z"
-    },
-    {
-      "title": "İstanbul'da sağanak etkili oldu! Esenyurt'ta yol çöktü",
-      "link": "https://www.sozcu.com.tr/istanbul-da-saganak-etkili-oluyor-p375350",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T20:09:18Z"
     },
     {
       "title": "Önce ABD şimdi de Meksika! Bir uçak daha yere çakıldı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti-961977.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T13:49:00Z"
-    },
-    {
-      "title": "Google aramaları konut fiyatları için gösterge mi?",
-      "link": "https://www.haberturk.com/ekonomi/google-aramalari-konut-fiyatlari-icin-gosterge-mi-3924377",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T13:45:25Z"
-    },
-    {
-      "title": "Sivasta kaybolan Büşra bebeği arama çalışmaları sürüyor",
-      "link": "https://www.trthaber.com/haber/turkiye/sivasta-kaybolan-busra-bebegi-arama-calismalari-suruyor-961976.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-02T13:36:00Z"
     }
   ]
 }
