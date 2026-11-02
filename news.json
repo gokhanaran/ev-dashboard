@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:32:13.878095Z",
+  "generated_at": "2026-11-02T21:37:16.332929Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Eski Borsa İstanbul Genel Müdürü Ergun'a tutuklama talebi",
+      "link": "https://www.trthaber.com/haber/gundem/eski-borsa-istanbul-genel-muduru-erguna-tutuklama-talebi-962003.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T21:32:00Z"
+    },
+    {
+      "title": "Kayseri'de sıra dışı anlar! Futbol sahasına tilki girdi",
+      "link": "https://www.sozcu.com.tr/kayseri-de-sira-disi-anlar-futbol-sahasina-tilki-girdi-p375377",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T21:31:32Z"
+    },
     {
       "title": "AFAD duyurdu: Osmaniye'de 4,2 büyüklüğünde deprem",
       "link": "https://www.sozcu.com.tr/osmaniye-deprem-2-kasim-2026-p375343",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/son-dakika-once-yagmur-sonra-kis-tipi-hava-geliyor-sicakliklar-7-derece-birden-dusecek-3924385",
       "source": "Habertürk",
       "published_at": "2026-11-02T14:25:50Z"
-    },
-    {
-      "title": "Gölden çıkarılan dev balık görenleri hayrete düşürdü",
-      "link": "https://www.sozcu.com.tr/golden-cikarilan-dev-balik-gorenleri-hayrete-dusurdu-p375304",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T14:22:23Z"
-    },
-    {
-      "title": "Batrakov menajerinden Liverpool açıklaması!",
-      "link": "https://www.haberturk.com/spor/aleksey-batrakov-menajerinden-aciklama-haberler-dogru-degil-3924388",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T14:21:30Z"
     }
   ]
 }
