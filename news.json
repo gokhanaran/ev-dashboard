@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:12:00.724647Z",
+  "generated_at": "2026-11-02T21:17:04.736588Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.haberturk.com/kultur-sanat/veda-ritueli-istanbul-tiyatro-festivali-nde-3924316",
       "source": "Habertürk",
       "published_at": "2026-11-02T21:06:18Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan MHP Genel Başkanı Bahçeliye başsağlığı mesajı",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-mhp-genel-baskani-bahceliye-bassagligi-mesaji-962001.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T21:06:00Z"
     },
     {
       "title": "Gerçekle hayal arasında 'Yaşayan Karakterler' bu sergide",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/akbank-2030-surdurulebilir-finansman-hedefini-2-5-trilyon-liraya-yukseltti-3924383",
       "source": "Habertürk",
       "published_at": "2026-11-02T14:05:12Z"
-    },
-    {
-      "title": "Fenerbahçe'de Liverpool mesaisi!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-de-liverpool-mesaisi-3924341",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T14:00:42Z"
     }
   ]
 }
