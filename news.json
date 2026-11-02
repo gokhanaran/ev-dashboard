@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:27:10.689018Z",
+  "generated_at": "2026-11-02T21:32:13.878095Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "AFAD duyurdu: Osmaniye'de 4,2 büyüklüğünde deprem",
+      "link": "https://www.sozcu.com.tr/osmaniye-deprem-2-kasim-2026-p375343",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T21:30:32Z"
+    },
+    {
+      "title": "Diyarbakır’da feci kaza! Kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı",
+      "link": "https://www.sozcu.com.tr/diyarbakir-da-feci-kaza-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-13-yarali-p375376",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T21:28:39Z"
+    },
+    {
+      "title": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası'nda patlama sesleri duyuldu",
+      "link": "https://www.trthaber.com/haber/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu-962002.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T21:24:00Z"
+    },
     {
       "title": "Alanyaspor teknik direktörü Pereira: \"Türkiye'ye geldiğimden beri en kötü günümüzü yaşadık\"",
       "link": "https://www.sozcu.com.tr/pereira-turkiyeye-geldigimden-beri-en-kotu-gunumuzu-yasadik-p375372",
@@ -292,12 +310,6 @@
       "link": "https://www.haberturk.com/spor/foto/tff-baskani-ibrahim-haciosmanoglu-super-lig-de-rakip-takim-kazansin-diye-bahis-oynayan-yonetici-var-3924424",
       "source": "Habertürk",
       "published_at": "2026-11-02T19:20:02Z"
-    },
-    {
-      "title": "AFAD duyurdu: Osmaniye'de 4,2 büyüklüğünde deprem",
-      "link": "https://www.sozcu.com.tr/osmaniye-deprem-2-kasim-2026-p375343",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T19:15:13Z"
     },
     {
       "title": "Devlet Bahçeli'nin acı günü",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/aleksey-batrakov-menajerinden-aciklama-haberler-dogru-degil-3924388",
       "source": "Habertürk",
       "published_at": "2026-11-02T14:21:30Z"
-    },
-    {
-      "title": "Anadolu Sigorta'ya yeni genel müdür",
-      "link": "https://www.haberturk.com/ekonomi/anadolu-sigorta-ya-yeni-genel-mudur-3924387",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T14:20:15Z"
-    },
-    {
-      "title": "Yeniden Refah MKYK üyesi hayatını kaybetti",
-      "link": "https://www.haberturk.com/yeniden-refah-partisi-mkyk-uyesi-mehmet-tan-hayatini-kaybetti-3924386",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T14:18:08Z"
     }
   ]
 }
