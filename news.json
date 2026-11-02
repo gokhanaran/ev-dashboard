@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:18:37.478779Z",
+  "generated_at": "2026-11-02T11:23:41.176795Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.sozcu.com.tr/9-kisinin-oldugu-ozel-ucagin-pilotu-cakilamadan-saniyeler-once-bunlari-soyledi-p375219",
       "source": "Sözcü",
       "published_at": "2026-11-02T11:14:23Z"
+    },
+    {
+      "title": "Çukur ve yol bozukluklarının yol açtığı hasarda tazminat mümkün",
+      "link": "https://www.trthaber.com/haber/turkiye/cukur-ve-yol-bozukluklarinin-yol-actigi-hasarda-tazminat-mumkun-961957.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-02T11:14:00Z"
     },
     {
       "title": "Galatasaray maçı öncesi Stuttgart'ta üç önemli eksik",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/galatasaray-stuttgart-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3924253",
       "source": "Habertürk",
       "published_at": "2026-11-02T07:57:50Z"
-    },
-    {
-      "title": "TSK Spor Gücü'nün bir asırlık başarı yolculuğu",
-      "link": "https://www.trthaber.com/haber/gundem/tsk-spor-gucunun-bir-asirlik-basari-yolculugu-961935.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-02T07:57:00Z"
     }
   ]
 }
