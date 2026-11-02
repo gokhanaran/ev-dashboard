@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:29:39.780436Z",
+  "generated_at": "2026-11-02T02:34:42.771412Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kavala’dan cezaevinde dokuzuncu yıl mesajı",
+      "link": "https://www.sozcu.com.tr/kavala-dan-cezaevinde-dokuzuncu-yil-mesaji-p375006",
+      "source": "Sözcü",
+      "published_at": "2026-11-02T02:30:14Z"
+    },
     {
       "title": "Aşkımız hiç bitmesin tıpkı Ordu yolları gibi",
       "link": "https://www.sozcu.com.tr/askimiz-hic-bitmesin-tipki-ordu-yollari-gibi-p375005",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kucucuk-adaya-ev-yaptilar-bahceye-bile-yer-kalmadi-p374923",
       "source": "Sözcü",
       "published_at": "2026-11-01T14:44:04Z"
-    },
-    {
-      "title": "Batı Şeria'da zeytin hasadı sezonunda işgalci İsrail saldırılarında 13 bin ağaç zarar gördü",
-      "link": "https://www.trthaber.com/haber/dunya/bati-seriada-zeytin-hasadi-sezonunda-isgalci-israil-saldirilarinda-13-bin-agac-zarar-gordu-961889.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-01T14:39:00Z"
     }
   ]
 }
