@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:24:46.259367Z",
+  "generated_at": "2026-11-03T11:29:48.762064Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "3 ay boyunca her gün domates yiyenlerin beynindeki değişim herkesi şaşırttı",
+      "link": "https://www.sozcu.com.tr/3-ay-boyunca-her-gun-domates-yiyenlerin-beynindeki-degisim-herkesi-sasirtti-p375616",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T11:27:11Z"
+    },
+    {
       "title": "Uçaklarda bunları yapanlar yandı! Cezalar sil baştan, rekor rakam açıklandı",
       "link": "https://www.sozcu.com.tr/ucaklarda-bunlari-yapanlar-yandi-cezalar-sil-bastan-rekor-rakam-aciklandi-p375611",
       "source": "Sözcü",
       "published_at": "2026-11-03T11:22:29Z"
+    },
+    {
+      "title": "İsviçre'de enflasyon yaklaşık 3 yılın zirvesinde",
+      "link": "https://www.haberturk.com/ekonomi/isvicre-de-enflasyon-yaklasik-3-yilin-zirvesine-cikti-3924602",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T11:17:55Z"
     },
     {
       "title": "14 yaşındaki arkadaşını öldürmüştü! Yapay zeka ayrıntısı!",
@@ -64,6 +76,12 @@
       "link": "https://www.sozcu.com.tr/galatasarayli-yildiza-rekor-bonservis-turk-futbol-tarihine-gecebilir-p375534",
       "source": "Sözcü",
       "published_at": "2026-11-03T11:14:35Z"
+    },
+    {
+      "title": "Genç çift kaza kurbanı!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-genc-cift-kaza-kurbani-3924549",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T11:14:14Z"
     },
     {
       "title": "Sokak ortasında dehşet! Durup dururken tanımadığı kadına tokat attı",
@@ -334,12 +352,6 @@
       "link": "https://www.haberturk.com/ekonomi/fon-koordinasyon-kurulu-ara-odemelere-devam-edilecek-3924574",
       "source": "Habertürk",
       "published_at": "2026-11-03T09:59:23Z"
-    },
-    {
-      "title": "Genç çift kaza kurbanı!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-genc-cift-kaza-kurbani-3924549",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T09:55:18Z"
     },
     {
       "title": "Kaleciyle çarpışan futbolcu hayatını kaybetti!",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/mersin-buyuksehir-den-goruntulu-isaret-dili-3924537",
       "source": "Habertürk",
       "published_at": "2026-11-03T08:28:43Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-de-3924496",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T08:24:11Z"
-    },
-    {
-      "title": "Türk devletlerinden uzayda Turan hedefi",
-      "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-devletlerinden-uzayda-turan-hedefi-962063.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-03T08:22:00Z"
     }
   ]
 }
