@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:07:57.969171Z",
+  "generated_at": "2026-11-03T19:13:21.602723Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,28 @@
   ],
   "items": [
     {
-      "title": "ABD'de ara seçim günü!",
-      "link": "https://www.sozcu.com.tr/abd-ara-secim-3-kasim-2026-p375730",
+      "title": "Kasımpaşa'dan onay geldi! Emre Belözoğlu Fenerbahçe'ye imzayı atıyor",
+      "link": "https://www.sozcu.com.tr/kasimpasadan-onay-geldi-emre-belozoglu-fenerbahceye-imzayi-atiyor-p375693",
       "source": "Sözcü",
-      "published_at": "2026-11-03T19:05:26Z"
+      "published_at": "2026-11-03T19:12:55Z"
     },
     {
       "title": "Galatasaray-Stuttgart maçı canlı anlatım (Şampiyonlar Ligi 4. hafta)",
       "link": "https://www.sozcu.com.tr/galatasaray-stuttgart-maci-canli-anlatim-sampiyonlar-ligi-4-hafta-p375685",
       "source": "Sözcü",
-      "published_at": "2026-11-03T19:03:12Z"
+      "published_at": "2026-11-03T19:09:28Z"
+    },
+    {
+      "title": "ABD'de ara seçim günü!",
+      "link": "https://www.sozcu.com.tr/abd-ara-secim-3-kasim-2026-p375730",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T19:08:52Z"
+    },
+    {
+      "title": "ABD'de ara seçim heyecanı",
+      "link": "https://www.haberturk.com/dunya/dunyanin-bekledigi-secimler-icin-geri-sayim-basladi-abd-de-ara-secim-heyecani-trump-in-siyasi-3924524",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T19:00:05Z"
     },
     {
       "title": "111 lira yazdığı ürüne 6 bin lira isteyen satıcıya 1 milyon lira ceza",
@@ -90,6 +102,12 @@
       "published_at": "2026-11-03T18:54:38Z"
     },
     {
+      "title": "Avrupa alarmda! Bir günde 7 uçağa bomba ihbarı!",
+      "link": "https://www.sozcu.com.tr/avrupa-da-ucaklara-bomba-ihbari-p375736",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T18:52:16Z"
+    },
+    {
       "title": "Kilosu 224 bin liraya satılıyor: Toprağın altında yetişen serveti bulmak artık daha zor",
       "link": "https://www.sozcu.com.tr/kilosu-224-bin-liraya-satiliyor-topragin-altinda-yetisen-serveti-bulmak-artik-daha-zor-p375739",
       "source": "Sözcü",
@@ -112,12 +130,6 @@
       "link": "https://www.sozcu.com.tr/selahattin-demirtastan-uzun-sure-sonra-surec-aciklamasi-p375737",
       "source": "Sözcü",
       "published_at": "2026-11-03T18:36:46Z"
-    },
-    {
-      "title": "ABD'de ara seçim heyecanı",
-      "link": "https://www.haberturk.com/dunya/dunyanin-bekledigi-secimler-icin-geri-sayim-basladi-abd-de-ara-secim-heyecani-trump-in-siyasi-3924524",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T18:36:26Z"
     },
     {
       "title": "Selahattin Demirtaş'tan uzun süre sonra süreç açıklaması",
@@ -570,12 +582,6 @@
       "published_at": "2026-11-03T15:03:53Z"
     },
     {
-      "title": "Kasımpaşa'dan onay geldi! Emre Belözoğlu Fenerbahçe'ye imzayı atıyor",
-      "link": "https://www.sozcu.com.tr/kasimpasadan-onay-geldi-emre-belozoglu-fenerbahceye-imzayi-atiyor-p375693",
-      "source": "Sözcü",
-      "published_at": "2026-11-03T15:03:13Z"
-    },
-    {
       "title": "Yılmaz Erdoğan özür diledi",
       "link": "https://www.haberturk.com/magazin/yilmaz-erdogan-organize-isler-deki-sahne-nedeniyle-ozur-diledi-3924648",
       "source": "Habertürk",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-cumhurbaskani-uretim-carkinin-durmamasi-icin-gerekirse-odamdaki-elektrigi-keserim-962110.html",
       "source": "TRT Haber",
       "published_at": "2026-11-03T13:49:00Z"
-    },
-    {
-      "title": "Bakan Şimşek: Hizmet enflasyonunda ataletin azalması enflasyondaki düşüşü destekleyecektir",
-      "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-hizmet-enflasyonunda-ataletin-azalmasi-enflasyondaki-dususu-destekleyecektir-962109.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-03T13:48:00Z"
     }
   ]
 }
