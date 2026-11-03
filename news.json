@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:36:08.375890Z",
+  "generated_at": "2026-11-03T03:41:12.475115Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Dünyada 'kıyamet günü' paniği: Acil durum uyarıları sonrası Rusya ve Ukrayna'da nükleer alarm",
+      "link": "https://www.sozcu.com.tr/dunyada-kiyamet-gunu-panigi-acil-durum-uyarilari-sonrasi-rusya-ve-ukrayna-da-nukleer-alarm-p375400",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T03:37:38Z"
+    },
     {
       "title": "Enflasyon oranı ne zaman açıklanacak?",
       "link": "https://www.haberturk.com/bilgi/foto/tuik-enflasyon-beklenti-anketi-aciklandi-2026-ekim-ayi-enflasyon-orani-ne-zaman-aciklanacak-saat-3924175",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-riyad-bolgesinde-2-iha-imha-edildi-961988.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T17:12:00Z"
-    },
-    {
-      "title": "Muğla açıklarında 5,1 büyüklüğünde deprem",
-      "link": "https://www.haberturk.com/gundem/mugla-da-5-1-buyuklugunde-deprem-3924414",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T17:11:03Z"
     }
   ]
 }
