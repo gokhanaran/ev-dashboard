@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:15:53.196525Z",
+  "generated_at": "2026-11-03T03:25:59.880675Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "AKP’li Şamil Tayyar duyurdu: İhbar etti 2 milyon dolar ödül aldı",
+      "link": "https://www.sozcu.com.tr/akp-li-samil-tayyar-duyurdu-ihbar-etti-2-milyon-dolar-odul-aldi-p375399",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T03:22:23Z"
+    },
+    {
+      "title": "Siber operasyon: 86 tutuklama!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-siber-operasyon-86-tutuklama-3924359",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T03:21:26Z"
+    },
     {
       "title": "Ahmet Nazif Zorlu'nun ardından dev şirketler kaldı! İşte o markalar",
       "link": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-nun-ardindan-dev-sirketler-kaldi-iste-o-markalar-p375398",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T17:07:00Z"
-    },
-    {
-      "title": "Stuttgartlı Mittelstadt: 'Galatasaray geçen sezon olağanüstüydü'",
-      "link": "https://www.sozcu.com.tr/stuttgartli-mittelstadt-galatasaray-gecen-sezon-olaganustuydu-p375333",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T17:04:34Z"
-    },
-    {
-      "title": "\"Engel olarak görmedim\"",
-      "link": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T17:01:34Z"
     }
   ]
 }
