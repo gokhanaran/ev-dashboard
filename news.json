@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:25:59.880675Z",
+  "generated_at": "2026-11-03T03:31:04.374637Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Zorlu Holding'in kurucusu Ahmet Nazif Zorlu hayatını kaybetti!",
+      "link": "https://www.haberturk.com/bilgi/ahmet-nazif-zorlu-hayatini-kaybetti-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-kimdir-3924438",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T03:25:11Z"
+    },
+    {
       "title": "AKP’li Şamil Tayyar duyurdu: İhbar etti 2 milyon dolar ödül aldı",
       "link": "https://www.sozcu.com.tr/akp-li-samil-tayyar-duyurdu-ihbar-etti-2-milyon-dolar-odul-aldi-p375399",
       "source": "Sözcü",
@@ -52,6 +58,12 @@
       "link": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-nun-ardindan-dev-sirketler-kaldi-iste-o-markalar-p375398",
       "source": "Sözcü",
       "published_at": "2026-11-03T03:14:06Z"
+    },
+    {
+      "title": "7 il için kuvvetli yağış uyarısı",
+      "link": "https://www.trthaber.com/haber/turkiye/7-il-icin-kuvvetli-yagis-uyarisi-962012.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-03T03:13:00Z"
     },
     {
       "title": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
@@ -274,12 +286,6 @@
       "link": "https://www.haberturk.com/spor/anadolu-efes-deplasmanda-aliaga-petkimspor-u-maglup-etti-3924417",
       "source": "Habertürk",
       "published_at": "2026-11-02T22:14:22Z"
-    },
-    {
-      "title": "Zorlu Holding'in kurucusu Ahmet Nazif Zorlu hayatını kaybetti!",
-      "link": "https://www.haberturk.com/bilgi/ahmet-nazif-zorlu-hayatini-kaybetti-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-kimdir-3924438",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T22:09:13Z"
     },
     {
       "title": "Hoparlör paylaşımı sonrası özür dilediler!",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/anadolu-efes-aliaga-petkimspor-deplasmaninda-galip-p375335",
       "source": "Sözcü",
       "published_at": "2026-11-02T17:08:24Z"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti",
-      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-02T17:07:00Z"
     }
   ]
 }
