@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:05:46.416661Z",
+  "generated_at": "2026-11-03T03:15:53.196525Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Ahmet Nazif Zorlu'nun ardından dev şirketler kaldı! İşte o markalar",
+      "link": "https://www.sozcu.com.tr/ahmet-nazif-zorlu-nun-ardindan-dev-sirketler-kaldi-iste-o-markalar-p375398",
+      "source": "Sözcü",
+      "published_at": "2026-11-03T03:14:06Z"
+    },
+    {
+      "title": "Sıcaklıklar yarından itibaren 5 ila 8 derece azalacak",
+      "link": "https://www.trthaber.com/haber/gundem/sicakliklar-yarindan-itibaren-5-ila-8-derece-azalacak-962011.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-03T03:05:00Z"
+    },
     {
       "title": "İğneden ipliğe zam yağacak",
       "link": "https://www.sozcu.com.tr/igneden-iplige-zam-yagacak-p375397",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/sinem-kobal-hicbir-zaman-bir-engel-olarak-gormedim-3924405",
       "source": "Habertürk",
       "published_at": "2026-11-02T17:01:34Z"
-    },
-    {
-      "title": "Rusya'dan Türk Devletleri Teşkilatı'na dair açıklama",
-      "link": "https://www.haberturk.com/dunya/rusya-dan-turk-devletleri-teskilati-na-dair-aciklama-3924409",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T16:55:18Z"
-    },
-    {
-      "title": "Sebastian Hoeness: ‘Atmosferi dört gözle bekleyeceğiz’",
-      "link": "https://www.sozcu.com.tr/sebastian-hoeness-atmosferi-dort-gozle-bekleyecegiz-p375330",
-      "source": "Sözcü",
-      "published_at": "2026-11-02T16:50:25Z"
     }
   ]
 }
