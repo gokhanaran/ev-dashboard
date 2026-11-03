@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:25:04.860365Z",
+  "generated_at": "2026-11-03T18:30:30.493059Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/galatasaray-stuttgart-maci-canli-anlatim-sampiyonlar-ligi-4-hafta-p375685",
       "source": "Sözcü",
       "published_at": "2026-11-03T18:22:27Z"
+    },
+    {
+      "title": "İşçilerin kaldığı konteynerler alev aldı",
+      "link": "https://www.haberturk.com/gundem/sakarya-daki-toplu-konut-santiyesinde-cikan-yanginda-bir-isci-dumandan-etkilendi-3924710",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T18:21:32Z"
     },
     {
       "title": "Heyecan sürüyor!",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-yarin-liverpoolu-agirlayacak-962103.html",
       "source": "TRT Haber",
       "published_at": "2026-11-03T13:24:00Z"
-    },
-    {
-      "title": "Kocaeli'de motosiklet yasağı",
-      "link": "https://www.haberturk.com/gundem/kocaeli-de-motosiklet-scooter-ve-motokuryelerin-trafige-cikmasi-yasaklandi-3924635",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T13:23:23Z"
     }
   ]
 }
