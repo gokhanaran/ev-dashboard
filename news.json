@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:04:34.631076Z",
+  "generated_at": "2026-11-03T11:09:37.964968Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-chp-genel-baskani-kemal-kilicdaroglu-partisinin-grup-toplantisinda-konusuyor-3924582",
       "source": "Habertürk",
       "published_at": "2026-11-03T10:58:45Z"
+    },
+    {
+      "title": "Yargıtay'dan emsal karar: Dede ve babaanne torununu yatılı görebilecek",
+      "link": "https://www.trthaber.com/haber/turkiye/yargitaydan-emsal-karar-dede-ve-babaanne-torununu-yatili-gorebilecek-962086.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-03T10:57:00Z"
     },
     {
       "title": "Mersin'de atık enerjisi serada ısı oldu",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-bugun-turkiye-yuzyili-hedefiyle-daha-buyuk-hayallere-yuruyoruz-962059.html",
       "source": "TRT Haber",
       "published_at": "2026-11-03T08:09:00Z"
-    },
-    {
-      "title": "AK Parti'nin iktidarda 24. yılı",
-      "link": "https://www.trthaber.com/haber/gundem/ak-partinin-iktidarda-24-yili-962058.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-03T08:05:00Z"
     }
   ]
 }
