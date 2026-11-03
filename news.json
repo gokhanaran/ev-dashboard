@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:50:34.730387Z",
+  "generated_at": "2026-11-03T02:55:38.788666Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Baba ve kızı evde ölü bulundu",
+      "link": "https://www.haberturk.com/gundem/hatay-da-baba-ve-kizi-evde-olu-bulundu-3924456",
+      "source": "Habertürk",
+      "published_at": "2026-11-03T02:50:34Z"
+    },
     {
       "title": "Batık kredi rakamı 1 trilyona koşuyor",
       "link": "https://www.sozcu.com.tr/batik-kredi-rakami-1-trilyona-kosuyor-p375393",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/kayseride-toptan-satis-magazasinda-yangin-961984.html",
       "source": "TRT Haber",
       "published_at": "2026-11-02T16:37:00Z"
-    },
-    {
-      "title": "\"Galatasaray’ın canını yakabiliriz\"",
-      "link": "https://www.haberturk.com/spor/stuttgart-ta-maximilian-mittelstadt-galatasarayin-canini-yakabilecegimizi-dusunuyoruz-3924410",
-      "source": "Habertürk",
-      "published_at": "2026-11-02T16:30:08Z"
     }
   ]
 }
