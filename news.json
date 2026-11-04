@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:07:56.951070Z",
+  "generated_at": "2026-11-04T14:18:01.386166Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "ABD seçimlerinde hezimete uğrayan Trump’la ilgili Rusya’dan ilk açıklama",
+      "link": "https://www.sozcu.com.tr/abd-secimlerinde-hezimete-ugrayan-trump-la-ilgili-rusya-dan-ilk-aciklama-p376018",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T14:16:01Z"
+    },
+    {
       "title": "Milyon dolarlık otomobilleri çölün ortasında çürümeye bıraktılar",
       "link": "https://www.sozcu.com.tr/milyon-dolarlik-otomobilleri-colun-ortasinda-curumeye-biraktilar-p376016",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/arda-gulerden-emre-belozogluna-destek-mesaji-p376017",
       "source": "Sözcü",
       "published_at": "2026-11-04T14:04:19Z"
+    },
+    {
+      "title": "Dolandırıcıların hedefindeki iOS kullanıcılarına kritik güncelleme uyarısı",
+      "link": "https://www.trthaber.com/haber/gundem/dolandiricilarin-hedefindeki-ios-kullanicilarina-kritik-guncelleme-uyarisi-962247.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-04T13:59:00Z"
     },
     {
       "title": "Dolandırcıların hedefindeki IOS kullanıcılarına kritik güncelleme uyarısı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ogrencilerden-hakkari-nin-sonbahar-lezzetleri-3924872",
       "source": "Habertürk",
       "published_at": "2026-11-04T10:44:55Z"
-    },
-    {
-      "title": "İsrail'in işgali ve saldırıları Lübnan'ın güneyindeki çiftçilerin zeytin hasadını engelliyor",
-      "link": "https://www.trthaber.com/haber/dunya/israilin-isgali-ve-saldirilari-lubnanin-guneyindeki-ciftcilerin-zeytin-hasadini-engelliyor-962223.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-04T10:38:00Z"
-    },
-    {
-      "title": "Ümit Özdağ'a tehdit davasından beraat",
-      "link": "https://www.haberturk.com/gundem/umit-ozdag-tehdit-davasindan-beraat-etti-3924871",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T10:34:38Z"
     }
   ]
 }
