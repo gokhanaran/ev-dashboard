@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:25:21.146350Z",
+  "generated_at": "2026-11-04T00:50:34.736897Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Gece yarısı aile katliamı: Anne ve kızı öldü, 1 kızı yaralı",
+      "link": "https://www.sozcu.com.tr/aile-ici-dehset-anne-ve-kizi-oldu-1-kizi-yarali-p375790",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T00:48:54Z"
+    },
     {
       "title": "İspanyol Bakan, hızlı tren faciası sonrası istifa etti",
       "link": "https://www.haberturk.com/dunya/ispanya-ulastirma-bakani-puente-hizli-tren-faciasi-sonrasi-istifa-etti-3924751",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/is-insanlarini-tehdit-edip-harac-isteyen-suc-orgutune-operasyon-19-gozalti-962122.html",
       "source": "TRT Haber",
       "published_at": "2026-11-03T16:21:00Z"
-    },
-    {
-      "title": "\"Mutlaka evlenmek gerek diye bir kural yok\"",
-      "link": "https://www.haberturk.com/magazin/behzat-uygur-bir-iliskide-mutlaka-evlenmek-gerek-diye-bir-kural-yok-3924668",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T16:17:07Z"
     }
   ]
 }
