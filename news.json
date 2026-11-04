@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:36:07.793132Z",
+  "generated_at": "2026-11-04T21:41:10.226022Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "O maçta 53 kırmızı kart çıktı!",
+      "link": "https://www.haberturk.com/spor/brezilya-daki-bir-macta-53-kirmizi-kart-cikti-3925002",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T21:34:35Z"
+    },
     {
       "title": "\"Ne kadar büyük olduğumuzu gösterdik\"",
       "link": "https://www.haberturk.com/spor/fenerbahce-liverpool-maci-sonrasi-vedat-muriqi-ne-kadar-buyuk-oldugumuzu-gosterdik-3924986",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sultangazi-de-saganakta-yol-coktu-3924940",
       "source": "Habertürk",
       "published_at": "2026-11-04T14:59:23Z"
-    },
-    {
-      "title": "Ağırel ve Saymaz hakkında iddianame",
-      "link": "https://www.haberturk.com/gundem/son-dakika-murat-agirel-ve-ismail-saymaz-hakkinda-yurutulen-sorusturma-tamamlandi-3924930",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T14:58:34Z"
     }
   ]
 }
