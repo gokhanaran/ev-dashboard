@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:23:04.240586Z",
+  "generated_at": "2026-11-04T14:33:09.616612Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fatma Betül Sayan Kaya ve eşi ifadeye çağrıldı",
+      "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-ve-esi-ifadeye-cagrildi-p376021",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T14:32:36Z"
+    },
     {
       "title": "ABD seçimlerinde hezimete uğrayan Trump’la ilgili Rusya’dan ilk açıklama",
       "link": "https://www.sozcu.com.tr/abd-secimlerinde-hezimete-ugrayan-trump-la-ilgili-rusya-dan-ilk-aciklama-p376018",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/west-ham-united-da-teknik-direktorluge-scott-parker-getirildi-3924875",
       "source": "Habertürk",
       "published_at": "2026-11-04T10:56:46Z"
-    },
-    {
-      "title": "\"Gözaltılar için neyi beklediniz?\"",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-iyi-parti-genel-baskani-musavat-dervisoglu-gozaltilar-icin-neyi-beklediniz-3924854",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T10:53:20Z"
     }
   ]
 }
