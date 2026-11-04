@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:05:10.483368Z",
+  "generated_at": "2026-11-04T00:25:21.146350Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "İspanyol Bakan, hızlı tren faciası sonrası istifa etti",
+      "link": "https://www.haberturk.com/dunya/ispanya-ulastirma-bakani-puente-hizli-tren-faciasi-sonrasi-istifa-etti-3924751",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T00:22:12Z"
+    },
+    {
       "title": "ABD'de ara seçim heyecanı",
       "link": "https://www.haberturk.com/dunya/dunyanin-bekledigi-secimler-icin-geri-sayim-basladi-abd-de-ara-secim-heyecani-trump-in-siyasi-3924524",
       "source": "Habertürk",
       "published_at": "2026-11-04T00:00:02Z"
+    },
+    {
+      "title": "Trump: İran'ı derhal vurma planımız yok",
+      "link": "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-03T23:53:00Z"
     },
     {
       "title": "İspanya'da 69 kişinin öldüğü tren kazasının ardından bakan istifa etti",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/magazin/behzat-uygur-bir-iliskide-mutlaka-evlenmek-gerek-diye-bir-kural-yok-3924668",
       "source": "Habertürk",
       "published_at": "2026-11-03T16:17:07Z"
-    },
-    {
-      "title": "10. haftanın VAR kayıtları açıklandı!",
-      "link": "https://www.haberturk.com/spor/trendyol-super-lig-in-10-haftasinin-var-kayitlari-aciklandi-3924686",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T16:14:36Z"
-    },
-    {
-      "title": "Collins'e göre 2026'nın kelimesi gölgede bırakmak anlamındaki Mogging",
-      "link": "https://www.trthaber.com/haber/dunya/collinse-gore-2026nin-kelimesi-golgede-birakmak-anlamindaki-mogging-962127.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-03T16:09:00Z"
     }
   ]
 }
