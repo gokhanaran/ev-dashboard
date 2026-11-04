@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:41:10.226022Z",
+  "generated_at": "2026-11-04T21:51:14.458839Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Aiwanger otelde ölü bulundu",
+      "link": "https://www.trthaber.com/haber/dunya/almanyada-bavyera-eyalet-basbakan-yardimcisi-aiwanger-otelde-olu-bulundu-962273.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-04T21:45:00Z"
+    },
     {
       "title": "O maçta 53 kırmızı kart çıktı!",
       "link": "https://www.haberturk.com/spor/brezilya-daki-bir-macta-53-kirmizi-kart-cikti-3925002",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-yagisin-etkisiyle-trafik-yogunlugu-yuzde-89-a-ulasti-3924939",
       "source": "Habertürk",
       "published_at": "2026-11-04T15:00:31Z"
-    },
-    {
-      "title": "Sultangazi'de sağanakta yol çöktü",
-      "link": "https://www.haberturk.com/gundem/sultangazi-de-saganakta-yol-coktu-3924940",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T14:59:23Z"
     }
   ]
 }
