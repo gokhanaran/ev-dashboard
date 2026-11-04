@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:19:35.622017Z",
+  "generated_at": "2026-11-04T06:24:38.530316Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "ABD'liler sandıkta mesajı verdi: Trump hezimete uğradı",
+      "link": "https://www.sozcu.com.tr/abd-secim-heyecani-ilk-sandiklar-kapandi-p375788",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T06:19:29Z"
+    },
+    {
       "title": "Trump yenilgiye kılıf buldu",
       "link": "https://www.sozcu.com.tr/trump-hezimeti-kabul-etti-art-arda-aciklamalar-yapti-p375810",
       "source": "Sözcü",
@@ -48,10 +54,22 @@
       "published_at": "2026-11-04T06:18:11Z"
     },
     {
+      "title": "Trump'tan seçim sonrası ilk açıklama",
+      "link": "https://www.haberturk.com/dunya/son-dakika-trump-tan-secim-sonrasi-ilk-aciklama-3924758",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T06:17:11Z"
+    },
+    {
       "title": "Milyonlarca lirayı zimmetine geçirdi... Hırsız katipten şok itiraf!",
       "link": "https://www.sozcu.com.tr/milyonlarca-lirayi-zimmetine-gecirdi-hirsiz-katipten-itiraf-esi-ihbar-etti-p375838",
       "source": "Sözcü",
       "published_at": "2026-11-04T06:13:57Z"
+    },
+    {
+      "title": "Bozuk döner 34 kişiyi zehirledi!",
+      "link": "https://www.haberturk.com/gundem/bozuk-doner-34-kisiyi-zehirledi-3924782",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T06:13:23Z"
     },
     {
       "title": "ABD'de kritik ara seçim!",
@@ -118,12 +136,6 @@
       "link": "https://www.haberturk.com/bilgi/surekli-ayni-sarkiyi-dinleyenlerin-psikolojik-nedeni-sasirtiyor-aslinda-zihniniz-size-bir-sey-anlatiyor-olabilir-3924771",
       "source": "Habertürk",
       "published_at": "2026-11-04T05:58:23Z"
-    },
-    {
-      "title": "Trump'tan seçim sonrası ilk açıklama",
-      "link": "https://www.haberturk.com/dunya/son-dakika-trump-tan-secim-sonrasi-ilk-aciklama-3924758",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T05:57:19Z"
     },
     {
       "title": "Akaryakıtta zam sonrası yeni fiyatlar!",
@@ -202,12 +214,6 @@
       "link": "https://www.haberturk.com/gundem/istanbulda-sabah-saatlerinde-yagisla-birlikte-trafik-yogunlugu-yuzde-71e-ulasti-3924774",
       "source": "Habertürk",
       "published_at": "2026-11-04T05:40:08Z"
-    },
-    {
-      "title": "ABD'liler sandıkta mesajı verdi: Trump hezimete uğradı",
-      "link": "https://www.sozcu.com.tr/abd-secim-heyecani-ilk-sandiklar-kapandi-p375788",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T05:35:59Z"
     },
     {
       "title": "Konserinde abla diye seslenen hayranına dayanamadı: \"Bir kere daha derseniz...\"",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/galatasaray-maglubiyeti-sonrasi-stuttgart-ta-fabian-bredlow-ht-spor-a-ozel-konustu-taraftarimiza-puanla-karsilik-veremedik-3924746",
       "source": "Habertürk",
       "published_at": "2026-11-03T22:04:03Z"
-    },
-    {
-      "title": "20 yıl sonra 3 kişi tutuklandı",
-      "link": "https://www.haberturk.com/gundem/20-yil-sonra-3-kisi-tutuklandi-3924745",
-      "source": "Habertürk",
-      "published_at": "2026-11-03T22:03:36Z"
     }
   ]
 }
