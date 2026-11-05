@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:06:40.460525Z",
+  "generated_at": "2026-11-05T02:11:43.596139Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Swift Gözlemevi Dünya'ya düşüyor",
+      "link": "https://www.haberturk.com/dunya/nasa-ya-ait-swift-gozlemevi-dunya-ya-dusuyor-3925012",
+      "source": "Habertürk",
+      "published_at": "2026-11-05T02:06:00Z"
+    },
+    {
       "title": "AFAD duyurdu! Afyonkarahisar ve Adana'da gece yarısı korkutan deprem",
       "link": "https://www.sozcu.com.tr/afad-duyurdu-adanada-gece-yarisi-korkutan-deprem-p376142",
       "source": "Sözcü",
@@ -46,6 +52,12 @@
       "link": "https://www.haberturk.com/gundem/afyonkarahisar-da-4-1-buyuklugunde-deprem-3925011",
       "source": "Habertürk",
       "published_at": "2026-11-05T01:46:54Z"
+    },
+    {
+      "title": "Katil İsrail'in Gazze'de bir çadıra düzenlediği hava saldırısında 1 kişi öldü",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-bir-cadira-duzenledigi-hava-saldirisinda-1-kisi-oldu-962278.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-05T01:46:00Z"
     },
     {
       "title": "Manisa'da otomobil şarampole devrildi: 5 yaralı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/dunya/rusya-uclu-muzakerelerde-guvenlik-ele-alinacak-3924958",
       "source": "Habertürk",
       "published_at": "2026-11-04T16:39:46Z"
-    },
-    {
-      "title": "Brown'dan olaylı derbi sözleri!",
-      "link": "https://www.haberturk.com/spor/foto/archie-brown-dan-olayli-derbi-sozleri-bu-benim-karakterim-degil-3924912",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:38:31Z"
-    },
-    {
-      "title": "Şişli'deki alt geçidi su bastı",
-      "link": "https://www.trthaber.com/haber/turkiye/sislideki-alt-gecidi-su-basti-962255.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-04T16:34:00Z"
     }
   ]
 }
