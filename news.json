@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:41:59.358239Z",
+  "generated_at": "2026-11-05T02:47:02.937647Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -104,6 +104,18 @@
     {
       "title": "Facia gibi tahliye!",
       "link": "https://www.sozcu.com.tr/facia-gibi-tahliye-p376111",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T02:30:03Z"
+    },
+    {
+      "title": "Dervişoğlu: Kral tutsak",
+      "link": "https://www.sozcu.com.tr/dervisoglu-kral-tutsak-p376109",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T02:30:03Z"
+    },
+    {
+      "title": "Cumhuriyet’in kıvılcımlarına saygı duruşu",
+      "link": "https://www.sozcu.com.tr/cumhuriyet-in-kivilcimlarina-saygi-durusu-p376092",
       "source": "Sözcü",
       "published_at": "2026-11-05T02:30:03Z"
     },
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/dso-turkiye-cop-muzakereleri-kapsaminda-saglik-gundeminin-onculerinden-biri-haline-geldi-962260.html",
       "source": "TRT Haber",
       "published_at": "2026-11-04T17:33:00Z"
-    },
-    {
-      "title": "İsrail basını: ABD ara seçimlerini Demokratların kazanması Trump ve İsrail için ağır darbe",
-      "link": "https://www.trthaber.com/haber/dunya/israil-basini-abd-ara-secimlerini-demokratlarin-kazanmasi-trump-ve-israil-icin-agir-darbe-962259.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-04T17:32:00Z"
-    },
-    {
-      "title": "Nobel ödüllü bilim insanı Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
-      "link": "https://www.trthaber.com/haber/dunya/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi-962258.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-04T17:30:00Z"
     }
   ]
 }
