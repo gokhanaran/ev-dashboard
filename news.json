@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:11:43.596139Z",
+  "generated_at": "2026-11-05T02:31:52.670529Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Adana'da 3,8 büyüklüğünde deprem",
+      "link": "https://www.haberturk.com/gundem/adana-da-3-8-buyuklugunde-deprem-3925013",
+      "source": "Habertürk",
+      "published_at": "2026-11-05T02:27:24Z"
+    },
     {
       "title": "Swift Gözlemevi Dünya'ya düşüyor",
       "link": "https://www.haberturk.com/dunya/nasa-ya-ait-swift-gozlemevi-dunya-ya-dusuyor-3925012",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/oneill-artik-puan-kazanmamiz-gerektiginin-farkindayiz-p376057",
       "source": "Sözcü",
       "published_at": "2026-11-04T16:41:57Z"
-    },
-    {
-      "title": "Rusya: Üçlü müzakerelerde güvenlik ele alınacak",
-      "link": "https://www.haberturk.com/dunya/rusya-uclu-muzakerelerde-guvenlik-ele-alinacak-3924958",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:39:46Z"
     }
   ]
 }
