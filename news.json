@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:42:55.193062Z",
+  "generated_at": "2026-11-05T10:48:00.394185Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon skandalı için 'Okçular tepesi' benzetmesi yaptı: AKP Genel Başkan Yardımcısına tepki başka AKP'liden geldi",
+      "link": "https://www.sozcu.com.tr/fon-skandali-icin-okcular-tepesi-benzetmesi-yapti-akp-genel-baskan-yardimcisina-tepki-baska-akp-p376318",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T10:42:52Z"
+    },
     {
       "title": "Cristiano Ronaldo Portekiz Milli Takımı'nı bıraktı",
       "link": "https://www.sozcu.com.tr/cristiano-ronaldo-portekiz-milli-takimi-ni-birakti-p376316",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/sirdan-240-liradan-80-liraya-dustu-gece-yarisindan-once-tukeniyor-p376236",
       "source": "Sözcü",
       "published_at": "2026-11-05T07:42:18Z"
-    },
-    {
-      "title": "Kuzey Kore hava savunma füze sistemi denemesi yaptı",
-      "link": "https://www.trthaber.com/haber/dunya/kuzey-kore-hava-savunma-fuze-sistemi-denemesi-yapti-962310.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-05T07:38:00Z"
     }
   ]
 }
