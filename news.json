@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:08:06.356861Z",
+  "generated_at": "2026-11-05T19:13:10.301445Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,28 @@
   ],
   "items": [
     {
+      "title": "Özgür Özel adaylığını duyurdu ve 17 maddelik programlarını açıkladı",
+      "link": "https://www.sozcu.com.tr/ozel-17-baslikli-programini-acikladi-hedef-cumhurbaskanligi-ve-meclis-cogunlugu-p376447",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T19:09:31Z"
+    },
+    {
       "title": "Canlı | Trabzonspor - Freiburg maçı canlı anlatımı (UEFA Konferans Ligi)",
       "link": "https://www.sozcu.com.tr/canli-veya-trabzonspor-freiburg-maci-canli-anlatimi-uefa-konferans-ligi-p376402",
       "source": "Sözcü",
       "published_at": "2026-11-05T19:04:34Z"
     },
     {
-      "title": "Afyonkarahisar'da bir şüpheli 8 kişiyi vurdu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-afyonkarahisarda-arac-icinde-5-kisinin-cesedi-bulundu-3925198",
+      "title": "TÜREB Başkanı Erden: 2027 rüzgar enerjisinde yatırım yılı olacak",
+      "link": "https://www.haberturk.com/ekonomi/tureb-baskani-erden-2027-ruzgar-enerjisinde-yatirim-yili-olacak-3925200",
       "source": "Habertürk",
-      "published_at": "2026-11-05T18:56:09Z"
+      "published_at": "2026-11-05T19:03:09Z"
+    },
+    {
+      "title": "Afyonkarahisar'da bir şüpheli 8 kişiyi vurdu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-afyonkarahisar-da-bir-supheli-8-kisiyi-vurdu-3925198",
+      "source": "Habertürk",
+      "published_at": "2026-11-05T19:02:33Z"
     },
     {
       "title": "Bakan Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/cristiano-ronaldo-dan-tarihi-veda-bir-devir-sona-erdi-p376373",
       "source": "Sözcü",
       "published_at": "2026-11-05T13:05:49Z"
-    },
-    {
-      "title": "Fenerbahçe, Emre Belözoğlu'nun imza töreninin tarihini açıkladı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-emre-belozoglunun-imza-toreninin-tarihini-acikladi-p376372",
-      "source": "Sözcü",
-      "published_at": "2026-11-05T13:03:21Z"
-    },
-    {
-      "title": "Bakan Bayraktar: Türkiye ekonomisini elektrikleştirecek",
-      "link": "https://www.haberturk.com/ekonomi/bakan-bayraktar-turkiye-ekonomisini-elektriklestirecek-3925178",
-      "source": "Habertürk",
-      "published_at": "2026-11-05T13:00:32Z"
     }
   ]
 }
