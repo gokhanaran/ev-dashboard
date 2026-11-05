@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:06:23.142706Z",
+  "generated_at": "2026-11-05T02:06:40.460525Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,100 @@
   ],
   "items": [
     {
+      "title": "AFAD duyurdu! Afyonkarahisar ve Adana'da gece yarısı korkutan deprem",
+      "link": "https://www.sozcu.com.tr/afad-duyurdu-adanada-gece-yarisi-korkutan-deprem-p376142",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T01:49:12Z"
+    },
+    {
+      "title": "Afyonkarahisar'da 4,1 büyüklüğünde deprem",
+      "link": "https://www.haberturk.com/gundem/afyonkarahisar-da-4-1-buyuklugunde-deprem-3925011",
+      "source": "Habertürk",
+      "published_at": "2026-11-05T01:46:54Z"
+    },
+    {
+      "title": "Manisa'da otomobil şarampole devrildi: 5 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/manisada-otomobil-sarampole-devrildi-5-yarali-962276.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-04T23:35:00Z"
+    },
+    {
+      "title": "NASA'nın Swift Gözlemevi Dünya'ya düşüyor",
+      "link": "https://www.trthaber.com/haber/dunya/nasanin-swift-gozlemevi-dunyaya-dusuyor-962275.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-04T23:25:00Z"
+    },
+    {
+      "title": "Mekke Anlaşması'nın ilk maddesi kabul edildi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-anlasmasi-nin-ilk-maddesi-kabul-edildi-3925000",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T23:05:28Z"
+    },
+    {
+      "title": "Bavyera Başbakan Yardımcısı Aiwanger ölü bulundu",
+      "link": "https://www.haberturk.com/dunya/bavyera-basbakan-yardimcisi-aiwanger-otelde-olu-bulundu-3925009",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:47:21Z"
+    },
+    {
+      "title": "Şans Topu sonuçları açıklandı",
+      "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-ne-zaman-aciklanacak-4-kasim-sans-topu-cekilis-sonuclari-bilet-sorgulama-ekrani-3924946",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:42:02Z"
+    },
+    {
+      "title": "İstanbul elektrik kesinti programı",
+      "link": "https://www.haberturk.com/bilgi/foto/istanbul-elektrik-kesinti-programi-5-kasim-2026-elektrikler-ne-zaman-gelecek-bedas-ve-ayedas-kesinti-sorgulama-ekrani-3925007",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:41:18Z"
+    },
+    {
+      "title": "Devler Ligi'nde 4 hafta tamamlandı! Zirvede sürpriz yok",
+      "link": "https://www.sozcu.com.tr/devler-ligi-nde-4-hafta-tamamlandi-zirvede-surpriz-yok-p376136",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T22:37:59Z"
+    },
+    {
+      "title": "\"Halkın duygularını yansıtıyor\"",
+      "link": "https://www.haberturk.com/dunya/meksika-devlet-baskani-sheinbaum-halkin-duygularini-yansitiyor-3925008",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:31:24Z"
+    },
+    {
+      "title": "Hatay'da sağanak: Bazı ev ve iş yerlerini su bastı",
+      "link": "https://www.trthaber.com/haber/turkiye/hatayda-saganak-bazi-ev-ve-is-yerlerini-su-basti-962274.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-04T22:17:00Z"
+    },
+    {
+      "title": "Dirk Kuyt ayrılık sorusunu yanıtladı! Topu Emre Belözoğlu'na attı",
+      "link": "https://www.sozcu.com.tr/dirk-kuyt-ayrilik-sorusunu-yanitladi-topu-emre-belozoglu-na-atti-p376131",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T22:11:55Z"
+    },
+    {
+      "title": "Como'dan Lens'e 9 gol!",
+      "link": "https://www.haberturk.com/spor/lens-1-como-9-mac-sonucu-ozeti-ve-golleri-sampiyonlar-ligi-nde-gecenin-sonuclari-3925005",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:08:51Z"
+    },
+    {
+      "title": "Şampiyonlar Ligi'nde tarihi gece! Como 9 gol attı, Lens neye uğradığını şaşırdı",
+      "link": "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-tarihi-gece-como-9-gol-atti-lens-neye-ugradigini-sasirdi-p376125",
+      "source": "Sözcü",
+      "published_at": "2026-11-04T22:07:36Z"
+    },
+    {
       "title": "Liverpool teknik direktörü Iraola: \"Burası oynaması zor bir atmosfer\"",
       "link": "https://www.sozcu.com.tr/iraola-burasi-oynamasi-zor-bir-atmosfer-p376127",
       "source": "Sözcü",
       "published_at": "2026-11-04T22:03:37Z"
     },
     {
-      "title": "Şampiyonlar Ligi'nde tarihi gece! Como 9 gol attı, Lens neye uğradığını şaşırdı",
-      "link": "https://www.sozcu.com.tr/sampiyonlar-ligi-nde-tarihi-gece-como-9-gol-atti-lens-neye-ugradigini-sasirdi-p376125",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T22:00:26Z"
+      "title": "Bugün okullar tatil mi?",
+      "link": "https://www.haberturk.com/bilgi/foto/bugun-okullar-tatil-mi-5-kasim-istanbulda-okul-var-mi-ders-islenecek-mi-valilik-duyurusu-geldi-mi-3925006",
+      "source": "Habertürk",
+      "published_at": "2026-11-04T22:00:40Z"
     },
     {
       "title": "Yıldız Tilbe'nin yeni tarzı gündem oldu",
@@ -76,12 +160,6 @@
       "link": "https://www.haberturk.com/spor/maccabi-ashdod-60-besiktas-boa-70-mac-sonucu-3925003",
       "source": "Habertürk",
       "published_at": "2026-11-04T21:54:54Z"
-    },
-    {
-      "title": "Mekke Anlaşması'nın ilk maddesi kabul edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mekke-anlasmasi-nin-ilk-maddesi-kabul-edildi-3925000",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T21:54:39Z"
     },
     {
       "title": "Batman merkezli yasadışı bahis operasyonu: 32 gözaltı",
@@ -528,12 +606,6 @@
       "published_at": "2026-11-04T17:56:26Z"
     },
     {
-      "title": "Şans Topu sonuçları açıklandı",
-      "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-ne-zaman-aciklanacak-4-kasim-sans-topu-cekilis-sonuclari-bilet-sorgulama-ekrani-3924946",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T17:52:36Z"
-    },
-    {
       "title": "ABD Senatosu Azınlık Lideri Demokrat Schumer: İran'la savaşı sona erdireceğiz",
       "link": "https://www.trthaber.com/haber/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz-962264.html",
       "source": "TRT Haber",
@@ -682,78 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/sislideki-alt-gecidi-su-basti-962255.html",
       "source": "TRT Haber",
       "published_at": "2026-11-04T16:34:00Z"
-    },
-    {
-      "title": "\"CHP'den hiçbir farkları yok\"",
-      "link": "https://www.haberturk.com/gundem/chp-li-sari-chp-den-hicbir-farklari-yok-3924957",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:33:34Z"
-    },
-    {
-      "title": "Tima Pouye için sakatlık açıklaması!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-kadin-basketbol-takimi-ndan-tima-pouye-aciklamasi-3924955",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:27:51Z"
-    },
-    {
-      "title": "AK Parti ve MHP'den reform görüşmesi",
-      "link": "https://www.haberturk.com/gundem/ak-parti-ve-mhp-den-yerel-yonetimler-reform-gorusmesi-3924954",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:27:00Z"
-    },
-    {
-      "title": "İsrail basınında Trump paniği",
-      "link": "https://www.haberturk.com/dunya/abd-deki-secim-yenilgisi-trump-i-sarsti-israil-basininda-endiseler-artti-3924953",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:23:33Z"
-    },
-    {
-      "title": "Hatay'da denizde hortum oluştu",
-      "link": "https://www.haberturk.com/gundem/hatay-da-denizde-hortum-olustu-3924950",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:05:15Z"
-    },
-    {
-      "title": "İstanbul'da yollar göle döndü",
-      "link": "https://www.haberturk.com/gundem/besiktas-zincirlikuyu-da-saganak-nedeniyle-su-basan-alt-gecit-trafige-kapatildi-3924949",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T16:03:07Z"
-    },
-    {
-      "title": "Espiye Belediye Başkanı Erol Karadere, Yeni Parti'ye katıldı",
-      "link": "https://www.sozcu.com.tr/erol-karadere-yeni-parti-ye-katildi-p376048",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T15:56:34Z"
-    },
-    {
-      "title": "Oyuncu Ekin Türkmen'de erkeklerle ilgili itiraf gibi açıklama",
-      "link": "https://www.sozcu.com.tr/oyuncu-ekin-turkmen-de-erkeklerle-ilgili-itiraf-gibi-aciklama-p376047",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T15:51:48Z"
-    },
-    {
-      "title": "PAOK açıkladı: Cedi Osman ameliyat olacak",
-      "link": "https://www.sozcu.com.tr/paok-acikladi-cedi-osman-ameliyat-olacak-p376046",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T15:51:24Z"
-    },
-    {
-      "title": "Başkan Saniye Caran, CHP'den istifa etti",
-      "link": "https://www.haberturk.com/gundem/baskan-saniye-caran-chp-den-istifa-etti-3924948",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T15:50:44Z"
-    },
-    {
-      "title": "Antalya'da 7 ilçede uzaktan eğitim",
-      "link": "https://www.haberturk.com/gundem/cop31-liderler-zirvesi-nedeniyle-antalya-nin-7-ilcesinde-uzaktan-egitime-gecilecek-3924945",
-      "source": "Habertürk",
-      "published_at": "2026-11-04T15:45:39Z"
-    },
-    {
-      "title": "Okan Buruk hakkında sürpriz aşk iddiası! İkisini o isim tanıştırmış",
-      "link": "https://www.sozcu.com.tr/okan-buruk-hakkinda-surpriz-ask-iddiasi-ikisini-o-isim-tanistirmis-p376043",
-      "source": "Sözcü",
-      "published_at": "2026-11-04T15:40:22Z"
     }
   ]
 }
