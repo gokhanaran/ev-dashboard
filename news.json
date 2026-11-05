@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:18:13.981060Z",
+  "generated_at": "2026-11-05T19:23:17.978252Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Alina Boz hamileliğinde yaşadığı sağlık sorununu ilk kez anlattı",
+      "link": "https://www.sozcu.com.tr/alina-boz-hamileliginde-yasadigi-saglik-sorununu-ilk-kez-anlatti-p376450",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T19:21:09Z"
+    },
+    {
+      "title": "Canlı | Trabzonspor - Freiburg maçı canlı anlatımı (UEFA Konferans Ligi)",
+      "link": "https://www.sozcu.com.tr/canli-veya-trabzonspor-freiburg-maci-canli-anlatimi-uefa-konferans-ligi-p376402",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T19:18:04Z"
+    },
+    {
       "title": "Ekonomik kriz siyasi krize dönüştü: Devlet başkanı istifa etti",
       "link": "https://www.sozcu.com.tr/ekonomik-kriz-siyasi-krize-donustu-devlet-baskani-istifa-etti-p376448",
       "source": "Sözcü",
@@ -52,12 +64,6 @@
       "link": "https://www.trthaber.com/haber/dunya/paraguay-devlet-baskani-santiago-pena-gorevinden-istifa-etti-962370.html",
       "source": "TRT Haber",
       "published_at": "2026-11-05T19:05:00Z"
-    },
-    {
-      "title": "Canlı | Trabzonspor - Freiburg maçı canlı anlatımı (UEFA Konferans Ligi)",
-      "link": "https://www.sozcu.com.tr/canli-veya-trabzonspor-freiburg-maci-canli-anlatimi-uefa-konferans-ligi-p376402",
-      "source": "Sözcü",
-      "published_at": "2026-11-05T19:04:34Z"
     },
     {
       "title": "TÜREB Başkanı Erden: 2027 rüzgar enerjisinde yatırım yılı olacak",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/barcelona-raphinha-ile-sozlesme-uzatti-3925192",
       "source": "Habertürk",
       "published_at": "2026-11-05T13:08:54Z"
-    },
-    {
-      "title": "Bankacılığın kredi hacmi 29 trilyon lirayı aştı",
-      "link": "https://www.haberturk.com/ekonomi/bankacilik-sektorunun-kredi-hacmi-29-trilyon-lirayi-asti-3925191",
-      "source": "Habertürk",
-      "published_at": "2026-11-05T13:08:24Z"
     }
   ]
 }
