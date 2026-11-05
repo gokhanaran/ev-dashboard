@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:53:05.580921Z",
+  "generated_at": "2026-11-05T10:58:10.102458Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Emeklileri heyecanlandıran haber Bakandan geldi!",
+      "link": "https://www.sozcu.com.tr/emeklileri-heyecanlandiran-haber-bakandan-geldi-p376322",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T10:56:51Z"
+    },
+    {
+      "title": "Seçim son çiviyi çaktı: Savaş Trump'ı tamamen köşeye sıkıştırdı",
+      "link": "https://www.sozcu.com.tr/secim-son-civiyi-cakti-savas-trump-i-tamamen-koseye-sikistirdi-p376320",
+      "source": "Sözcü",
+      "published_at": "2026-11-05T10:52:40Z"
+    },
+    {
+      "title": "İsrail Cumhurbaşkanı, Ben-Gvir'in partisiyle tartıştı",
+      "link": "https://www.haberturk.com/dunya/israil-cumhurbaskani-herzog-asiri-sagci-ben-gvir-in-partisinin-temsilcileriyle-tartisti-3925153",
+      "source": "Habertürk",
+      "published_at": "2026-11-05T10:49:26Z"
+    },
+    {
+      "title": "Bakan Fidan'dan KKTC ziyareti: İki devletli çözüm masada",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-kktc-ziyareti-iki-devletli-cozum-masada-962338.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-05T10:49:00Z"
+    },
     {
       "title": "Bahçelievler'de toprak kayması! Göçük altında kalanlar var",
       "link": "https://www.haberturk.com/gundem/son-dakika-bahcelievler-de-toprak-kaymasi-gocuk-altinda-kalanlar-var-3925148",
@@ -730,30 +754,6 @@
       "link": "https://www.sozcu.com.tr/hasadi-goren-ciftci-perisan-oldu-tonlarca-mahsulu-aceleyle-topraga-gommeye-basladilar-p376242",
       "source": "Sözcü",
       "published_at": "2026-11-05T07:45:14Z"
-    },
-    {
-      "title": "Kar yağmadan taktırmayan pişman oluyor",
-      "link": "https://www.haberturk.com/bilgi/suruculer-dikkat-kis-lastiginde-7-derece-kuralina-dikkat-kar-yagmadan-taktirmayan-pisman-oluyor-3925081",
-      "source": "Habertürk",
-      "published_at": "2026-11-05T07:44:55Z"
-    },
-    {
-      "title": "'Muhtemel Aşk'ta başlangıçlar yerini endişeye bırakıyor!",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-yeni-bolumuyle-bu-aksam-show-tv-de-3925080",
-      "source": "Habertürk",
-      "published_at": "2026-11-05T07:44:43Z"
-    },
-    {
-      "title": "Alperen Şengün'ün 'triple-double'ı yetmedi, Houston Rockets kaybetti",
-      "link": "https://www.sozcu.com.tr/alperen-sengun-un-triple-double-i-yetmedi-houston-rockets-kaybetti-p376239",
-      "source": "Sözcü",
-      "published_at": "2026-11-05T07:44:22Z"
-    },
-    {
-      "title": "En çok turist nereden geldi?",
-      "link": "https://www.haberturk.com/ekonomi/en-cok-turist-nereden-geldi-3925082",
-      "source": "Habertürk",
-      "published_at": "2026-11-05T07:42:42Z"
     }
   ]
 }
