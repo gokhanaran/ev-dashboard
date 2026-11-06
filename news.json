@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:29:31.663964Z",
+  "generated_at": "2026-11-06T15:34:36.106258Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Doktorum yasakladı\"",
+      "link": "https://www.haberturk.com/magazin/foto/cem-yilmaz-doktorum-yasakladi-3925451",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T15:25:59Z"
+    },
     {
       "title": "Meteoroloji'den 'zirai don' uyarısı",
       "link": "https://www.haberturk.com/gundem/meteoroloji-den-zirai-don-uyarisi-3925459",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/en-yeni-cuma-mesajlari-2026-en-guzel-anlamli-kisa-ve-duali-hayirli-cumalar-mesajlari-farkli-sik-resimli-cuma-mesajlari-ve-sozleri-3925306",
       "source": "Habertürk",
       "published_at": "2026-11-06T10:55:58Z"
-    },
-    {
-      "title": "Milli heyecan İzmir'e taşınıyor! İşte kritik maçın bilet fiyatları",
-      "link": "https://www.sozcu.com.tr/milli-heyecan-izmire-tasiniyor-iste-kritik-macin-bilet-fiyatlari-p376677",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T10:47:31Z"
     }
   ]
 }
