@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:14:17.442704Z",
+  "generated_at": "2026-11-06T15:19:22.151901Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump’tan olay yaratacak seçim açıklaması: Daha dün yenilgiyi kabul etmişti",
+      "link": "https://www.sozcu.com.tr/trump-tan-olay-yaratacak-secim-aciklamasi-daha-dun-yenilgiyi-kabul-etmisti-p376747",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T15:17:11Z"
+    },
     {
       "title": "Kastamonu'da 24 köye su tankeri verildi",
       "link": "https://www.haberturk.com/gundem/kastamonu-da-24-koye-su-tankeri-verildi-3925456",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/16-yasindaki-cocugu-oldurduler-izleri-geri-donusum-merkezlerinde-takip-edildi-3925383",
       "source": "Habertürk",
       "published_at": "2026-11-06T10:44:32Z"
-    },
-    {
-      "title": "Bıçakladığı sevgilisi kaçıp yardım isteyince tekrar bıçakladı!",
-      "link": "https://www.haberturk.com/gundem/istanbul-da-dehset-bicakladigi-sevgilisi-kacip-yardim-isteyince-tekrar-bicakladi-3925374",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T10:43:43Z"
     }
   ]
 }
