@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:57:57.886117Z",
+  "generated_at": "2026-11-06T07:08:03.526372Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,52 @@
   ],
   "items": [
     {
+      "title": "Son dakika... KYK burs ve öğrenim kredisi başvuru sonuçları açıklandı",
+      "link": "https://www.sozcu.com.tr/son-dakika-kyk-burs-ve-ogrenim-kredisi-basvuru-sonuclari-aciklandi-p376581",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T07:06:55Z"
+    },
+    {
+      "title": "Dolar/TL bir rekor daha kırdı",
+      "link": "https://www.sozcu.com.tr/dolar-tl-bir-rekor-daha-kirdi-p376582",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T07:06:46Z"
+    },
+    {
+      "title": "Liderlik maçında Okan Buruk'tan sürpriz kararlar!",
+      "link": "https://www.sozcu.com.tr/liderlik-macinda-okan-buruktan-surpriz-kararlar-p376573",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T07:06:28Z"
+    },
+    {
+      "title": "Burs ve öğrenim kredisi başvuru sonuçları açıklandı",
+      "link": "https://www.trthaber.com/haber/gundem/burs-ve-ogrenim-kredisi-basvuru-sonuclari-aciklandi-962415.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T07:01:00Z"
+    },
+    {
+      "title": "19 yıl önce bebeğini çöpe atmıştı! Akıl sağlığı raporu geldi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haber-19-yil-once-bebegini-cope-atmisti-akil-sagligi-raporu-geldi-3925327",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T06:59:51Z"
+    },
+    {
       "title": "Bir ilimizi betonla ortadan ikiye böldüler: Karşıya geçmek için şehir turu atıyorlar",
       "link": "https://www.sozcu.com.tr/bir-ilimizi-betonla-ortadan-ikiye-bolduler-karsiya-gecmek-icin-sehir-turu-atiyorlar-p376574",
       "source": "Sözcü",
       "published_at": "2026-11-06T06:55:51Z"
+    },
+    {
+      "title": "California Valisi Newsom, eyaletteki tüm idam mahkumlarının cezasını müebbet hapse çevirdi",
+      "link": "https://www.trthaber.com/haber/dunya/california-valisi-newsom-eyaletteki-tum-idam-mahkumlarinin-cezasini-muebbet-hapse-cevirdi-962414.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T06:54:00Z"
+    },
+    {
+      "title": "Bilim insanları uyardı: O hatayı hemen bırakın!",
+      "link": "https://www.haberturk.com/bilgi/temiz-hava-sandiginiz-o-koku-meger-tehlike-saciyormus-bilim-insanlari-uyardi-o-hatayi-hemen-birakin-3925326",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T06:53:53Z"
     },
     {
       "title": "Belözoğlu gelir gelmez gönderiyor! 12 yıldır Fenerbahçe'nin vazgeçilmeziydi",
@@ -712,48 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/israil-cumhurbaskani-herzog-hukumet-kurma-gorevini-verecegi-ismi-pazar-gunu-aciklayacak-962390.html",
       "source": "TRT Haber",
       "published_at": "2026-11-06T03:22:00Z"
-    },
-    {
-      "title": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
-      "link": "https://www.trthaber.com/haber/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu-962388.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T03:21:00Z"
-    },
-    {
-      "title": "16 il için sarı uyarı: Kuvvetli yağışa dikkat",
-      "link": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-962389.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T03:19:00Z"
-    },
-    {
-      "title": "ABD'nin İsrail Büyükelçisi, İsrail'e yardımın ne zaman durdurulacağına ilişkin netlik bulunmadığını savundu",
-      "link": "https://www.trthaber.com/haber/dunya/abdnin-israil-buyukelcisi-israile-yardimin-ne-zaman-durdurulacagina-iliskin-netlik-bulunmadigini-savundu-962387.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T03:19:00Z"
-    },
-    {
-      "title": "Beşiktaş, Avrupa’da kayıp! Siyah-beyazlılar Celtic’e mağlup oldu",
-      "link": "https://www.sozcu.com.tr/besiktas-avrupa-da-kayip-siyah-beyazlilar-celtic-e-maglup-oldu-p376425",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T03:17:28Z"
-    },
-    {
-      "title": "10. TRT World Forum Merkezsiz Dünya temasıyla İstanbul'da toplanacak",
-      "link": "https://www.trthaber.com/haber/gundem/10-trt-world-forum-merkezsiz-dunya-temasiyla-istanbulda-toplanacak-962386.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T03:10:00Z"
-    },
-    {
-      "title": "Avrupa Birliği’nin dayattığı yeni şartlar böyle dedirtti: Pes be annem!",
-      "link": "https://www.sozcu.com.tr/avrupa-birligi-nin-dayattigi-yeni-sartlar-boyle-dedirtti-pes-be-annem-p376498",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T02:30:22Z"
-    },
-    {
-      "title": "'Haksızlığın böylesine insan aklını yitirir'",
-      "link": "https://www.sozcu.com.tr/haksizligin-boylesine-insan-aklini-yitirir-p376489",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T02:30:22Z"
     }
   ]
 }
