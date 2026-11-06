@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:16:39.760780Z",
+  "generated_at": "2026-11-06T21:21:45.089113Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "11 üniversiteye rektör ataması",
+      "link": "https://www.trthaber.com/haber/gundem/11-universiteye-rektor-atamasi-962479.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T21:13:00Z"
+    },
     {
       "title": "Üç aylar ne zaman başlıyor ve bitiyor?",
       "link": "https://www.haberturk.com/bilgi/foto/uc-aylar-ne-zaman-basliyor-ve-bitiyor-diyanet-2026-2027-takvimi-ile-recep-saban-ve-ramazan-ayi-tarihleri-3925529",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/duzce-sehir-mezarligi-nda-karekodlu-uygulama-3925452",
       "source": "Habertürk",
       "published_at": "2026-11-06T15:00:54Z"
-    },
-    {
-      "title": "COP31 alanı ve yapıları Antalya'nın marka değerini güçlendirecek",
-      "link": "https://www.trthaber.com/haber/gundem/cop31-alani-ve-yapilari-antalyanin-marka-degerini-guclendirecek-962457.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T15:00:00Z"
     }
   ]
 }
