@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:59:05.782180Z",
+  "generated_at": "2026-11-06T15:09:13.045700Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Düzce Şehir Mezarlığı'nda karekodlu uygulama",
+      "link": "https://www.haberturk.com/gundem/duzce-sehir-mezarligi-nda-karekodlu-uygulama-3925452",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T15:00:54Z"
+    },
+    {
+      "title": "COP31 alanı ve yapıları Antalya'nın marka değerini güçlendirecek",
+      "link": "https://www.trthaber.com/haber/gundem/cop31-alani-ve-yapilari-antalyanin-marka-degerini-guclendirecek-962457.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T15:00:00Z"
+    },
     {
       "title": "Hatice’nin estetik ameliyatı sonrası ölümünde doktora soruşturma izni",
       "link": "https://www.sozcu.com.tr/haticenin-estetik-ameliyati-sonrasi-olumunde-doktora-sorusturma-izni-p376742",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/secil-erzana-211-yil-9-aya-kadar-hapis-talebi-istinafin-bozma-kararinin-ardindan-yeni-mutalaa-3925387",
       "source": "Habertürk",
       "published_at": "2026-11-06T10:36:57Z"
-    },
-    {
-      "title": "Trump'ın Washington'daki inşaatına mahkeme engeli",
-      "link": "https://www.haberturk.com/dunya/trump-in-washington-da-planladigi-kemerin-insasina-mahkeme-engeli-3925386",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T10:34:10Z"
-    },
-    {
-      "title": "Fransa'da yüz binlerce kişi sokaklara döküldü",
-      "link": "https://www.haberturk.com/dunya/foto/fransa-da-yuz-binlerce-kisi-sokaklara-dokuldu-3925314",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T10:31:13Z"
     }
   ]
 }
