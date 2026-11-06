@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:39:40.421654Z",
+  "generated_at": "2026-11-06T15:44:44.821898Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Mersin'de bir evden 2 ton çöp çıktı",
+      "link": "https://www.haberturk.com/gundem/mersin-de-bir-evden-2-ton-cop-cikti-3925465",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T15:36:40Z"
+    },
     {
       "title": "Boğazda gemi trafiği askıya alındı",
       "link": "https://www.haberturk.com/gundem/bogazda-gemi-trafigi-askiya-alindi-3925436",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/turkan-soray-cop31-de-yesilcam-filminin-formulunu-anlatacak-3925392",
       "source": "Habertürk",
       "published_at": "2026-11-06T11:06:54Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: TRT'miz verdiğimiz adalet mücadelesine önemli bir güç katıyor",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-trtmiz-verdigimiz-adalet-mucadelesine-onemli-bir-guc-katiyor-962439.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T11:06:00Z"
     }
   ]
 }
