@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:51:21.451272Z",
+  "generated_at": "2026-11-06T21:06:31.531993Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 9
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Beyaz Saray'da üst düzey görev değişimi: Trump o ismi seçti",
+      "link": "https://www.sozcu.com.tr/beyaz-saray-da-ust-duzey-gorev-degisimi-trump-o-ismi-secti-p376799",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T21:03:22Z"
+    },
+    {
       "title": "TRT World Forum 2026'da 'Uluslararası Hukuk ile İnsani Çöküşün Kesişiminde Gazze' konuşuldu",
       "link": "https://www.trthaber.com/haber/dunya/trt-world-forum-2026da-uluslararasi-hukuk-ile-insani-cokusun-kesisiminde-gazze-konusuldu-962477.html",
       "source": "TRT Haber",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/endiselendiren-iddia-sonrasi-iran-halka-iyot-tableti-dagitmaya-basladi-p376791",
       "source": "Sözcü",
       "published_at": "2026-11-06T20:40:53Z"
+    },
+    {
+      "title": "Rusya, Ukrayna’da insani yardım noktasını vurdu",
+      "link": "https://www.sozcu.com.tr/rusya-ukrayna-da-insani-yardim-noktasini-vurdu-p376792",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T20:33:28Z"
     },
     {
       "title": "\"İran ile görüşüyoruz\"",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/nenad-bjelica-zaman-istedi-p376744",
       "source": "Sözcü",
       "published_at": "2026-11-06T14:50:33Z"
-    },
-    {
-      "title": "İletişim Başkanı Duran: Dünyanın ihtiyacı yeni bir barışın kurucularıdır",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-dunyanin-ihtiyaci-yeni-bir-barisin-kurucularidir-962456.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T14:50:00Z"
-    },
-    {
-      "title": "Hayat arkadaşı entübe edildi",
-      "link": "https://www.haberturk.com/magazin/yesim-gul-u-yikan-haber-hayat-arkadasi-gokhan-suar-icin-dua-istedi-3925415",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T14:47:20Z"
     }
   ]
 }
