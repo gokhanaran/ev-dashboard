@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:24:26.999958Z",
+  "generated_at": "2026-11-06T15:29:31.663964Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Meteoroloji'den 'zirai don' uyarısı",
+      "link": "https://www.haberturk.com/gundem/meteoroloji-den-zirai-don-uyarisi-3925459",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T15:20:55Z"
+    },
     {
       "title": "Trump’tan olay yaratacak seçim açıklaması: Daha dün yenilgiyi kabul etmişti",
       "link": "https://www.sozcu.com.tr/trump-tan-olay-yaratacak-secim-aciklamasi-daha-dun-yenilgiyi-kabul-etmisti-p376747",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/milli-heyecan-izmire-tasiniyor-iste-kritik-macin-bilet-fiyatlari-p376677",
       "source": "Sözcü",
       "published_at": "2026-11-06T10:47:31Z"
-    },
-    {
-      "title": "Kafalarda soru işareti bıraktı",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolumunde-yasanacaklar-merak-konusu-oldu-3925389",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T10:46:15Z"
     }
   ]
 }
