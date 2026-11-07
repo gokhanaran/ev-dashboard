@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:00:26.867511Z",
+  "generated_at": "2026-11-07T19:05:30.309246Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,40 @@
   ],
   "items": [
     {
+      "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
+      "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:59:42Z"
+    },
+    {
+      "title": "Kanto, Korkut Ata'nın gönlünü fethetti",
+      "link": "https://www.haberturk.com/kultur-sanat/istanbul-daki-korkut-ata-film-festivali-nde-en-iyi-film-kanto-secildi-3925697",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:59:40Z"
+    },
+    {
+      "title": "Coşkun Sabah: 'Anılar' kırmızı çizgim",
+      "link": "https://www.haberturk.com/magazin/coskun-sabah-tan-ahmet-selcuk-ilkan-a-anilar-benim-kirmizi-cizgim-3925572",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:57:35Z"
+    },
+    {
       "title": "İnternette pamuk, etikette polyester: Firmaya dudak uçuklatan ceza",
       "link": "https://www.sozcu.com.tr/internette-pamuk-etikette-polyester-firmaya-dudak-ucuklatan-ceza-p377009",
       "source": "Sözcü",
       "published_at": "2026-11-07T18:57:07Z"
+    },
+    {
+      "title": "Hakkında soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/magazin/foto/mauro-icardi-hakkinda-sorusturma-baslatildi-3925646",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:56:37Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'a gidecek",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gidecek-3925694",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:53:14Z"
     },
     {
       "title": "Galatasaray kulüp rekorunu egale etti!",
@@ -48,22 +78,10 @@
       "published_at": "2026-11-07T18:46:46Z"
     },
     {
-      "title": "Hakkında soruşturma başlatıldı",
-      "link": "https://www.haberturk.com/magazin/foto/mauro-icardi-hakkinda-sorusturma-baslatildi-3925646",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T18:43:03Z"
-    },
-    {
       "title": "Van'da feci kaza: 9 ölü 5 yaralı",
       "link": "https://www.haberturk.com/gundem/van-ozalp-karayolunda-tir-ile-minibus-carpisti-7-kisi-yaralandi-3925686",
       "source": "Habertürk",
       "published_at": "2026-11-07T18:42:57Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'a gidecek",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gidecek-3925694",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T18:35:35Z"
     },
     {
       "title": "Erdoğan, Azerbaycan kararını verdi",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/magazin/sebastin-lelio-hayatini-kaybetti-3925637",
       "source": "Habertürk",
       "published_at": "2026-11-07T12:44:41Z"
-    },
-    {
-      "title": "Süper Lig'de kritik randevu!",
-      "link": "https://www.haberturk.com/spor/galatasaray-amedspor-maci-canli-anlatim-galatasaray-amed-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-canli-yayinlanacak-iste-muhtemel-11-ler-ve-mac-kadrosu-3925561",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T12:42:47Z"
-    },
-    {
-      "title": "Kocaelispor Eyüpspor'u 2 golle geçti",
-      "link": "https://www.sozcu.com.tr/kocaelispor-eyupspor-u-2-golle-gecti-p376956",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T12:40:22Z"
-    },
-    {
-      "title": "Bu gece 22.00’de başlıyor, 4 gün sürecek: 5 ilimiz için peş peşe acil çağrı",
-      "link": "https://www.sozcu.com.tr/bu-gece-22-00-de-basliyor-4-gun-surecek-5-ilimiz-icin-pes-pese-acil-cagri-p376955",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T12:38:53Z"
     }
   ]
 }
