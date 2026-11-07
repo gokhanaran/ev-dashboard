@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:42:02.099135Z",
+  "generated_at": "2026-11-07T00:46:57.465796Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,136 @@
   ],
   "items": [
     {
+      "title": "Türkiye'nin BM Genel Sekreter adayı Sinirlioğlu: Tarafsız ve bağımsız bir genel sekreter olacağım",
+      "link": "https://www.trthaber.com/haber/gundem/turkiyenin-bm-genel-sekreter-adayi-sinirlioglu-tarafsiz-ve-bagimsiz-bir-genel-sekreter-olacagim-962484.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-07T00:33:00Z"
+    },
+    {
+      "title": "\"Tarafsız ve bağımsız bir genel sekreter olacağım\"",
+      "link": "https://www.haberturk.com/dunya/sinirlioglu-tarafsiz-ve-bagimsiz-bir-genel-sekreter-olacagim-3925542",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T00:22:54Z"
+    },
+    {
+      "title": "ABD'de Trump'ı öldürmekle tehdit eden şüpheli gözaltına alındı",
+      "link": "https://www.haberturk.com/dunya/abd-de-trump-i-oldurmekle-tehdit-eden-supheli-gozaltina-alindi-3925540",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T23:36:41Z"
+    },
+    {
+      "title": "İran basını: Keşm Adası'nda patlama sesleri duyuldu",
+      "link": "https://www.trthaber.com/haber/dunya/iran-basini-kesm-adasinda-patlama-sesleri-duyuldu-962483.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T23:12:00Z"
+    },
+    {
+      "title": "TIR ile çarpışan otomobil yandı: 2 ölü",
+      "link": "https://www.haberturk.com/gundem/canakkale-de-tir-ile-carpisan-otomobil-yandi-2-olu-3925538",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T23:02:16Z"
+    },
+    {
+      "title": "Akademi Giriş Sınavı AGS ne zaman yapılacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/akademi-giris-sinavi-ags-ne-zaman-yapilacak-meb-2027-ags-sinav-ve-basvuru-tarihi-3925537",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:54:45Z"
+    },
+    {
+      "title": "ABD'den Kanadalı 8 şirkete yaptırım",
+      "link": "https://www.trthaber.com/haber/dunya/abdden-kanadali-8-sirkete-yaptirim-962482.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T22:28:00Z"
+    },
+    {
+      "title": "İran basını: Patlama sesleri duyuldu",
+      "link": "https://www.haberturk.com/dunya/iran-basini-patlama-sesleri-duyuldu-3925536",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:26:31Z"
+    },
+    {
+      "title": "AUZEF güz dönemi ara sınav giriş belgesi yayınlandı!",
+      "link": "https://www.haberturk.com/bilgi/foto/auzef-guz-donemi-ara-sinav-giris-belgesi-yayinlandi-2026-2027-auzef-sinavi-ne-zaman-3925483",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:09:42Z"
+    },
+    {
+      "title": "ÖGG sınav sonuçları ne zaman açıklanacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/ogg-sinav-sonuclari-ne-zaman-saat-kacta-aciklanacak-ozel-guvenlik-123-donem-ogg-sonuc-sorgulamasi-nasil-yapilir-3925502",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:09:31Z"
+    },
+    {
+      "title": "İBB burs sonuçları ne zaman açıklanacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/i-bb-burs-sonuclari-ne-zaman-aciklanacak-2026-2027-i-bb-genc-universiteli-egitim-destegi-yardimi-ne-kadar-3925509",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:09:03Z"
+    },
+    {
+      "title": "SPK’dan 3 şirkete suç duyurusu kararı",
+      "link": "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:07:34Z"
+    },
+    {
+      "title": "Masterchef dokunulmazlık oyununu kim kazandı?",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazlik-oyununu-kim-kazandi-6-kasim-2026-masterchef-turkiye-eleme-adaylari-kim-oldu-3925521",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:06:22Z"
+    },
+    {
+      "title": "Fransız gemisi ipleri gerdi! Dışişleri'nden sert açıklama geldi",
+      "link": "https://www.sozcu.com.tr/fransiz-gemisi-ipleri-gerdi-disislerinden-sert-aciklama-geldi-p376811",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T22:03:26Z"
+    },
+    {
+      "title": "İran'dan \"iyot tableti\" iddialarına dair açıklama",
+      "link": "https://www.haberturk.com/dunya/iran-dan-iyot-tablet-dagitiliyor-iddialarina-dair-aciklama-3925533",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T22:02:57Z"
+    },
+    {
+      "title": "11 üniversiteye yeni rektör ataması",
+      "link": "https://www.haberturk.com/gundem/son-dakika-11-universiteye-yeni-rektor-atamasi-3925530",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T21:59:20Z"
+    },
+    {
+      "title": "Elektrikler ne zaman, saat kaçta gelecek?",
+      "link": "https://www.haberturk.com/bilgi/foto/elektrikler-ne-zaman-saat-kacta-gelecek-7-kasim-2026-bedas-elektrik-kesintisi-sorgulama-ekrani-3925534",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T21:59:05Z"
+    },
+    {
+      "title": "Yemen'de Husilerin ablukası sağlık tesislerinin yüzde 80'ini kapattı",
+      "link": "https://www.trthaber.com/haber/dunya/yemende-husilerin-ablukasi-saglik-tesislerinin-yuzde-80ini-kapatti-962480.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T21:54:00Z"
+    },
+    {
+      "title": "37 yıllık dev santralde üretim durdu! Yüzlerce işçi evlerine gönderildi",
+      "link": "https://www.sozcu.com.tr/kangal-termik-santrali-uretim-durdurma-aciklamasi-p376793",
+      "source": "Sözcü",
+      "published_at": "2026-11-06T21:53:32Z"
+    },
+    {
+      "title": "Bakan Çiftçi: Fon soruşturmasında sorumlular hesabını verecek",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-fon-sorusturmasinda-sorumlular-hesabini-verecek-962481.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-06T21:53:00Z"
+    },
+    {
       "title": "Rusya, Ukrayna’da insani yardım noktasını vurdu",
       "link": "https://www.sozcu.com.tr/rusya-ukrayna-da-insani-yardim-noktasini-vurdu-p376792",
       "source": "Sözcü",
       "published_at": "2026-11-06T21:41:46Z"
+    },
+    {
+      "title": "Kayseri'de muhtelif suç gruplarına operasyon: 17 tutuklama",
+      "link": "https://www.haberturk.com/gundem/kayseri-de-muhtelif-suc-gruplarina-operasyon-17-tutuklama-3925532",
+      "source": "Habertürk",
+      "published_at": "2026-11-06T21:38:49Z"
     },
     {
       "title": "Kaza sonrası alev alan araçta 2 kişi yanarak can verdi",
@@ -82,12 +208,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/magnum-ceki-li-s-sonuclari-2026-porsche-taycan-kazanan-asil-ve-yedek-isim-listesi-aciklandi-mi-3-ve-4-donem-magnum-cekilis-sonuclari-ne-zaman-aciklanacak-3925099",
       "source": "Habertürk",
       "published_at": "2026-11-06T21:26:46Z"
-    },
-    {
-      "title": "11 üniversiteye yeni rektör ataması",
-      "link": "https://www.haberturk.com/gundem/son-dakika-11-universiteye-yeni-rektor-atamasi-3925530",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T21:26:41Z"
     },
     {
       "title": "Kasım ara tatili yaklaştı! Okullar kaç gün tatil olacak?",
@@ -190,12 +310,6 @@
       "link": "https://www.haberturk.com/dunya/donald-trump-tan-ozel-kalem-atamasi-3925518",
       "source": "Habertürk",
       "published_at": "2026-11-06T20:07:45Z"
-    },
-    {
-      "title": "Masterchef dokunulmazlık oyununu kim kazandı?",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazlik-oyununu-kim-kazandi-6-kasim-2026-masterchef-turkiye-eleme-adaylari-kim-oldu-3925521",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T19:55:41Z"
     },
     {
       "title": "Çiftçi: 26 bin polis görevde",
@@ -330,12 +444,6 @@
       "published_at": "2026-11-06T19:11:00Z"
     },
     {
-      "title": "İBB burs sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/i-bb-burs-sonuclari-ne-zaman-aciklanacak-2026-2027-i-bb-genc-universiteli-egitim-destegi-yardimi-ne-kadar-3925509",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T19:01:36Z"
-    },
-    {
       "title": "İsrail’de ortalık karıştı: Muhalefet liderinden Netanyahu hakkında çok konuşulacak sözler",
       "link": "https://www.sozcu.com.tr/israil-de-ortalik-karisti-muhalefet-liderinden-netanyahu-hakkinda-cok-konusulacak-sozler-p376779",
       "source": "Sözcü",
@@ -382,12 +490,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abddeki-ara-secimde-temsilciler-meclisinde-demokratlar-onde-962466.html",
       "source": "TRT Haber",
       "published_at": "2026-11-06T18:38:00Z"
-    },
-    {
-      "title": "ÖGG sınav sonuçları ne zaman açıklanacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/ogg-sinav-sonuclari-ne-zaman-saat-kacta-aciklanacak-ozel-guvenlik-123-donem-ogg-sonuc-sorgulamasi-nasil-yapilir-3925502",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T18:34:53Z"
     },
     {
       "title": "Emekliye refah düzenlemesi yolda",
@@ -522,12 +624,6 @@
       "published_at": "2026-11-06T17:16:00Z"
     },
     {
-      "title": "AUZEF güz dönemi ara sınav giriş belgesi yayınlandı!",
-      "link": "https://www.haberturk.com/bilgi/foto/auzef-guz-donemi-ara-sinav-giris-belgesi-yayinlandi-2026-2027-auzef-sinavi-ne-zaman-3925483",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T17:15:55Z"
-    },
-    {
       "title": "Salah’ın köyünden Trabzonspor çağrısı: ‘Davet bekliyoruz’",
       "link": "https://www.sozcu.com.tr/salah-in-koyunden-trabzonspor-cagrisi-davet-bekliyoruz-p376768",
       "source": "Sözcü",
@@ -658,102 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3925468",
       "source": "Habertürk",
       "published_at": "2026-11-06T15:50:50Z"
-    },
-    {
-      "title": "Melis Sezen'den kırmızı şov; davette tüm gözler ona çevrildi",
-      "link": "https://www.sozcu.com.tr/melis-sezen-kirmizi-elbise-dikkat-cekti-p376751",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T15:50:17Z"
-    },
-    {
-      "title": "Putin'den Japon devine beklenmedik hamle: Tokyo yönetimi ayağa kalktı, böyle tepki gösterdi",
-      "link": "https://www.sozcu.com.tr/putin-den-japon-devine-beklenmedik-hamle-tokyo-yonetimi-ayaga-kalkti-boyle-tepki-gosterdi-p376750",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T15:46:55Z"
-    },
-    {
-      "title": "SPK'dan kapalı yatırım fonları açıklaması",
-      "link": "https://www.haberturk.com/ekonomi/spk-alim-satima-kapatilan-yatirim-fonlarinin-acilma-kosullarini-acikladi-3925466",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:44:15Z"
-    },
-    {
-      "title": "Mersin'de bir evden 2 ton çöp çıktı",
-      "link": "https://www.haberturk.com/gundem/mersin-de-bir-evden-2-ton-cop-cikti-3925465",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:36:40Z"
-    },
-    {
-      "title": "Boğazda gemi trafiği askıya alındı",
-      "link": "https://www.haberturk.com/gundem/bogazda-gemi-trafigi-askiya-alindi-3925436",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:34:31Z"
-    },
-    {
-      "title": "Bomba ihbarlarını \"hibrit saldırı\" olarak değerlendirdi",
-      "link": "https://www.haberturk.com/dunya/ispanya-disisleri-bakani-bomba-ihbarlarini-hibrit-saldiri-ve-psikolojik-savas-girisimi-olarak-degerlendirdi-3925462",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:34:20Z"
-    },
-    {
-      "title": "\"Doktorum yasakladı\"",
-      "link": "https://www.haberturk.com/magazin/foto/cem-yilmaz-doktorum-yasakladi-3925451",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:32:56Z"
-    },
-    {
-      "title": "\"Dünya yeni barışın kurucularına muhtaç\"",
-      "link": "https://www.haberturk.com/gundem/iletisim-baskani-burhanettin-duran-istanbul-da-yeni-bir-baris-duzeni-cagrisi-yapti-3925463",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:32:29Z"
-    },
-    {
-      "title": "Eskişehir'de şehitlerin anısına fidan dikildi",
-      "link": "https://www.haberturk.com/gundem/eskisehir-de-sehitlerin-anisina-fidan-dikildi-3925464",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:32:24Z"
-    },
-    {
-      "title": "Beşiktaş - Zalgiris maçı ne zaman?",
-      "link": "https://www.haberturk.com/bilgi/foto/besiktas-zalgiris-maci-ne-zaman-saat-kacta-hangi-kanalda-besiktas-zalgiris-kaunas-maci-izle-3925460",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:31:55Z"
-    },
-    {
-      "title": "Gaziantep FK – Kasımpaşa maçı hangi kanalda?",
-      "link": "https://www.haberturk.com/bilgi/foto/gaziantep-fk-kasimpasa-maci-canli-izle-gaziantep-fk-kasimpasa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3925461",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:30:31Z"
-    },
-    {
-      "title": "Trump’tan olay yaratacak seçim açıklaması: Daha dün yenilgiyi kabul etmişti",
-      "link": "https://www.sozcu.com.tr/trump-tan-olay-yaratacak-secim-aciklamasi-daha-dun-yenilgiyi-kabul-etmisti-p376747",
-      "source": "Sözcü",
-      "published_at": "2026-11-06T15:17:11Z"
-    },
-    {
-      "title": "Ankara Valiliğinden zirai don uyarısı",
-      "link": "https://www.trthaber.com/haber/turkiye/ankara-valiliginden-zirai-don-uyarisi-962459.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T15:17:00Z"
-    },
-    {
-      "title": "Fenerbahçe, Emre Belözoğlu'yla imzaladı!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-emre-belozoglu-yla-imzaladi-bu-koltugun-agirliginin-farkindayim-3925417",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:16:19Z"
-    },
-    {
-      "title": "Emine Erdoğan: Kadınlar sanatın ve zanaatın atan kalbi",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-kadinlar-sanatin-ve-zanaatin-atan-kalbi-962458.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-06T15:11:00Z"
-    },
-    {
-      "title": "Kastamonu'da 24 köye su tankeri verildi",
-      "link": "https://www.haberturk.com/gundem/kastamonu-da-24-koye-su-tankeri-verildi-3925456",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:09:40Z"
     }
   ]
 }
