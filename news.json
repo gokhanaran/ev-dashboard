@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:30:30.489899Z",
+  "generated_at": "2026-11-07T14:35:34.084529Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Potadaki derbide zafer G.Saray'ın!",
+      "link": "https://www.haberturk.com/spor/galatasaray-cagdas-faktoring-83-besiktas-boa-61-mac-sonucu-3925649",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T14:28:16Z"
+    },
+    {
       "title": "Süper Lig kulübünün başkanından Fenerbahçe maçı için iddialı sözler",
       "link": "https://www.sozcu.com.tr/super-lig-kulubunun-baskanindan-fenerbahce-maci-icin-iddiali-sozler-p376980",
       "source": "Sözcü",
       "published_at": "2026-11-07T14:26:24Z"
+    },
+    {
+      "title": "Bakan Kurum: COP31'de hayatın bütün alanlarına dokunacağız",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-cop31de-hayatin-butun-alanlarina-dokunacagiz-962545.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-07T14:25:00Z"
     },
     {
       "title": "Kadınlar derbisinde zafer Fenerbahçe'nin!",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kadin-ev-arkadas-kadini-oldurmustu-sir-perdesi-aralandi-3925568",
       "source": "Habertürk",
       "published_at": "2026-11-07T09:20:45Z"
-    },
-    {
-      "title": "167 bin lira ödememek için aracınızın camına patates sürün",
-      "link": "https://www.sozcu.com.tr/167-bin-lira-odememek-icin-aracinizin-camina-patates-surun-p376905",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T09:18:44Z"
-    },
-    {
-      "title": "Ege Denizi için fırtına uyarısı",
-      "link": "https://www.trthaber.com/haber/turkiye/ege-denizi-icin-firtina-uyarisi-962521.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-07T09:16:00Z"
     }
   ]
 }
