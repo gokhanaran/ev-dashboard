@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:05:30.309246Z",
+  "generated_at": "2026-11-07T19:10:33.707519Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Milli araya lider girmek önemliydi\"",
+      "link": "https://www.haberturk.com/spor/yunus-akgun-milli-araya-lider-girmek-onemliydi-3925699",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T19:06:33Z"
+    },
     {
       "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
       "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/yol-verme-tartismasinda-araci-yumruklayan-kadina-180-bin-lira-ceza-962538.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T12:46:00Z"
-    },
-    {
-      "title": "Ünlü yönetmen hayatını kaybetti",
-      "link": "https://www.haberturk.com/magazin/sebastin-lelio-hayatini-kaybetti-3925637",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T12:44:41Z"
     }
   ]
 }
