@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:45:17.968863Z",
+  "generated_at": "2026-11-07T18:55:23.777573Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Galatasaray kulüp rekorunu egale etti!",
+      "link": "https://www.haberturk.com/spor/foto/galatasaray-dan-tarihi-seri-kulup-rekorunu-egale-etti-3925696",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:46:46Z"
+    },
+    {
+      "title": "Hakkında soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/magazin/foto/mauro-icardi-hakkinda-sorusturma-baslatildi-3925646",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:43:03Z"
+    },
+    {
       "title": "Van'da feci kaza: 9 ölü 5 yaralı",
       "link": "https://www.haberturk.com/gundem/van-ozalp-karayolunda-tir-ile-minibus-carpisti-7-kisi-yaralandi-3925686",
       "source": "Habertürk",
-      "published_at": "2026-11-07T18:41:58Z"
+      "published_at": "2026-11-07T18:42:57Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'a gidecek",
@@ -396,12 +408,6 @@
       "published_at": "2026-11-07T15:44:34Z"
     },
     {
-      "title": "Hakkında soruşturma başlatıldı",
-      "link": "https://www.haberturk.com/magazin/foto/mauro-icardi-hakkinda-sorusturma-baslatildi-3925646",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T15:44:14Z"
-    },
-    {
       "title": "Hayrabolu tarımında dijital dönüşüm",
       "link": "https://www.haberturk.com/gundem/hayrabolu-tariminda-dijital-donusum-3925665",
       "source": "Habertürk",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-victor-osimhen-ameliyat-oldu-3925601",
       "source": "Habertürk",
       "published_at": "2026-11-07T12:37:07Z"
-    },
-    {
-      "title": "Bakan Kacır: BİLGE'nin ilk sürümünü çok yakında geliştiricilerin kullanımına sunacağız",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-bilgenin-ilk-surumunu-cok-yakinda-gelistiricilerin-kullanimina-sunacagiz-962537.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-07T12:35:00Z"
     }
   ]
 }
