@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:20:23.152883Z",
+  "generated_at": "2026-11-07T14:25:26.355059Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Kadınlar derbisinde zafer Fenerbahçe'nin!",
+      "link": "https://www.haberturk.com/spor/fenerbahce-arsavev-1-galatasaray-0-mac-sonucu-kadin-futbol-super-ligi-3925648",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T14:20:13Z"
+    },
+    {
+      "title": "Halkbanklı voleybolcular 'sağlık' için bıyık bıraktı",
+      "link": "https://www.sozcu.com.tr/halkbankli-voleybolcular-saglik-icin-biyik-birakti-p376979",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T14:20:12Z"
+    },
     {
       "title": "FB otobüsüne saldırıda yeni deliller",
       "link": "https://www.haberturk.com/gundem/fenerbahce-kafilesine-yonelik-silahli-saldirinin-iddianamesinde-5-supheliye-agir-suclama-3925645",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/galatasaray-amedspor-macinin-var-hakemi-belli-oldu-p376900",
       "source": "Sözcü",
       "published_at": "2026-11-07T09:09:49Z"
-    },
-    {
-      "title": "Polisten kaçan sürücüye 770 bin lira ceza",
-      "link": "https://www.trthaber.com/haber/turkiye/polisten-kacan-surucuye-770-bin-lira-ceza-962520.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-07T09:06:00Z"
-    },
-    {
-      "title": "Magnum çekiliş sonuçları sorgulama ekranı",
-      "link": "https://www.haberturk.com/bilgi/foto/magnum-ceki-li-s-sonuclari-2026-porsche-taycan-ve-500-bin-tl-kazananlar-bugun-belli-oluyor-3-ve-4-donem-magnum-cekilis-sonuclari-aciklandi-mi-isim-listesi-nereden-sorgulanir-3925567",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T09:03:15Z"
     }
   ]
 }
