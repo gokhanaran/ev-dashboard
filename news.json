@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:35:11.111994Z",
+  "generated_at": "2026-11-07T18:40:14.350771Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'a gidecek",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gidecek-3925694",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T18:35:35Z"
+    },
+    {
+      "title": "Erdoğan, Azerbaycan kararını verdi",
+      "link": "https://www.sozcu.com.tr/erdogan-azerbaycan-kararini-verdi-p377008",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T18:34:51Z"
+    },
     {
       "title": "Van'da feci kaza: 9 ölü 5 yaralı",
       "link": "https://www.haberturk.com/gundem/van-ozalp-karayolunda-tir-ile-minibus-carpisti-7-kisi-yaralandi-3925686",
@@ -154,12 +166,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/real-madrid-valencia-deplasmaninda-valencia-real-madrid-maci-ne-zaman-saat-kacta-hangi-kanalda-arda-guler-ilk-11-de-mi-3925593",
       "source": "Habertürk",
       "published_at": "2026-11-07T17:53:36Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan Azerbaycan'a gidecek",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycana-gidecek-962560.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-07T17:52:00Z"
     },
     {
       "title": "Rusya'dan Avrupa'nın Ukrayna planına tepki: Tüm askerler hedefimiz olacak",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-bilgenin-ilk-surumunu-cok-yakinda-gelistiricilerin-kullanimina-sunacagiz-962537.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T12:35:00Z"
-    },
-    {
-      "title": "Özel'den Emir Sarıgül'e tazminat davası",
-      "link": "https://www.haberturk.com/gundem/son-dakika-ozgur-ozelden-emir-sarigule-hem-suc-duyurusu-hem-tazminat-davasi-3925633",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T12:34:29Z"
     }
   ]
 }
