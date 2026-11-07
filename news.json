@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:01:38.368422Z",
+  "generated_at": "2026-11-07T07:06:42.157978Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,22 +36,34 @@
   ],
   "items": [
     {
+      "title": "Erdoğan imzaladı: Tartışmalı isim görevden alındı",
+      "link": "https://www.sozcu.com.tr/erdogan-imzaladi-tartismali-isim-gorevden-alindi-p376865",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T07:03:02Z"
+    },
+    {
       "title": "Erdoğan imzalı, tartışmalı isim görevden alındı",
       "link": "https://www.sozcu.com.tr/erdogan-imzali-tartismali-isim-gorevden-alindi-p376865",
       "source": "Sözcü",
       "published_at": "2026-11-07T07:00:12Z"
     },
     {
-      "title": "Beyaz Saray yakınlarında Trump’a ölüm tehdidi: Araçtan üç silah çıktı",
-      "link": "https://www.sozcu.com.tr/beyaz-saray-yakinlarinda-trumpa-olum-tehdidi-aractan-uc-silah-cikti-p376863",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T06:57:49Z"
+      "title": "\"Evlenmek ve anne olmak istiyorum\"",
+      "link": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T06:58:32Z"
     },
     {
       "title": "17 yaşındaki Mustafa Demir cinayetinde karar! Çocuk katillere ceza yağdı",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-17-yasindaki-mustafa-demir-cinayetinde-cocuk-katillere-ceza-yagdi-gaziantep-haberleri-3925562",
       "source": "Habertürk",
-      "published_at": "2026-11-07T06:55:34Z"
+      "published_at": "2026-11-07T06:58:19Z"
+    },
+    {
+      "title": "Beyaz Saray yakınlarında Trump’a ölüm tehdidi: Araçtan üç silah çıktı",
+      "link": "https://www.sozcu.com.tr/beyaz-saray-yakinlarinda-trumpa-olum-tehdidi-aractan-uc-silah-cikti-p376863",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T06:57:49Z"
     },
     {
       "title": "Süper Lig'de kritik randevu!",
@@ -190,12 +202,6 @@
       "link": "https://www.sozcu.com.tr/denize-kiyisi-olmayan-ilimizde-balik-bollugu-yasaniyor-karadeniz-e-rakip-oldu-p376832",
       "source": "Sözcü",
       "published_at": "2026-11-07T06:09:15Z"
-    },
-    {
-      "title": "\"Evlenmek ve anne olmak istiyorum\"",
-      "link": "https://www.haberturk.com/magazin/melisa-dongel-evlenmek-ve-anne-olmak-istiyorum-3925553",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T06:07:16Z"
     },
     {
       "title": "Pazar gecesinden itibaren çifte çile başlıyor: İstanbul'da bir yol 15 gün, diğeri 180 gün trafiğe kapatılacak",
@@ -384,12 +390,6 @@
       "published_at": "2026-11-07T02:46:00Z"
     },
     {
-      "title": "Sönmedi bu yangın",
-      "link": "https://www.sozcu.com.tr/sonmedi-bu-yangin-p376822",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T02:30:16Z"
-    },
-    {
       "title": "Sayan Kaya üye ise örgütün lideri kim?",
       "link": "https://www.sozcu.com.tr/sayan-kaya-uye-ise-orgutun-lideri-kim-p376820",
       "source": "Sözcü",
@@ -422,6 +422,12 @@
     {
       "title": "\"Bu benim kızım mı?\"",
       "link": "https://www.sozcu.com.tr/bu-benim-kizim-mi-p376812",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T02:30:16Z"
+    },
+    {
+      "title": "Sönmedi bu yangın",
+      "link": "https://www.sozcu.com.tr/sonmedi-bu-yangin-p376822",
       "source": "Sözcü",
       "published_at": "2026-11-07T02:30:16Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/trt-world-forum-2026da-uluslararasi-sistemde-amerikan-paradoksu-degerlendirildi-962473.html",
       "source": "TRT Haber",
       "published_at": "2026-11-06T19:49:00Z"
-    },
-    {
-      "title": "Türkiye organ naklinde ilk 5'te",
-      "link": "https://www.haberturk.com/saglik/bakan-memisoglu-turkiye-nin-organ-nakli-kapasitesinde-dunyada-ilk-5-te-oldugunu-acikladi-3925520",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T19:45:05Z"
     }
   ]
 }
