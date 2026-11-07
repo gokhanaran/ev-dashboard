@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:15:37.333347Z",
+  "generated_at": "2026-11-07T19:25:42.966873Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Polonya’da silahlı saldırı: Ölü ve yaralılar var",
+      "link": "https://www.sozcu.com.tr/polonya-da-silahli-saldiri-olu-ve-yaralilar-var-p376993",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T19:23:54Z"
+    },
+    {
+      "title": "Leao'dan sakatlık açıklaması!",
+      "link": "https://www.haberturk.com/spor/rafael-leao-dan-sakatlik-aciklamasi-3925701",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T19:19:28Z"
+    },
+    {
+      "title": "\"Artık Galatasaray, Osimhen olmadan da oynayabiliyor!\"",
+      "link": "https://www.haberturk.com/spor/usta-isimler-ht-spor-da-degerlendirdi-3925695",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T19:19:07Z"
+    },
     {
       "title": "Derin dondurucuyu açan kadın hayatının şokunu yaşadı: Annesinin ölümü sonrası eşyalarını toparlıyordu",
       "link": "https://www.sozcu.com.tr/derin-dondurucuyu-acan-kadin-hayatinin-sokunu-yasadi-annesinin-olumu-sonrasi-esyalarini-toparliyordu-p377010",
@@ -376,12 +394,6 @@
       "link": "https://www.sozcu.com.tr/acun-ilicali-icin-muthis-iddia-ucuncu-kulubunu-aliyor-p376982",
       "source": "Sözcü",
       "published_at": "2026-11-07T16:13:05Z"
-    },
-    {
-      "title": "Polonya’da silahlı saldırı: Ölü ve yaralılar var",
-      "link": "https://www.sozcu.com.tr/polonya-da-silahli-saldiri-olu-ve-yaralilar-var-p376993",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T16:06:28Z"
     },
     {
       "title": "Lösemili çocuklara 7,4 milyarlık destek",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/egitim/turkiye-bilimsel-yayin-uretiminde-dunyada-13-siraya-yukseldi-962540.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T12:51:00Z"
-    },
-    {
-      "title": "Keçiörengücü tek golle kazandı",
-      "link": "https://www.haberturk.com/spor/ankara-keciorengucu-manisa-fk-mac-sonucu-iste-keciorengucu-manisa-maci-ozeti-1-lig-3925638",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T12:50:34Z"
-    },
-    {
-      "title": "Komşuların tartışması cinayetle bitti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-komsularin-tartismasi-cinayetle-bitti-malatya-haberleri-3925635",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T12:47:28Z"
     }
   ]
 }
