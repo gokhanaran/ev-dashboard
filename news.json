@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:46:35.186142Z",
+  "generated_at": "2026-11-07T23:01:42.917789Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara'ya kar yağdı",
+      "link": "https://www.haberturk.com/gundem/ankara-ya-kar-yagdi-3925717",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T22:54:43Z"
+    },
     {
       "title": "Polonya'nın Krakov kentinde silahlı saldırı: 6 ölü",
       "link": "https://www.trthaber.com/haber/dunya/polonyanin-krakov-kentinde-silahli-saldiri-6-olu-962565.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-tekirdag-belediye-baskani-yeni-parti-den-istifa-etti-3925644",
       "source": "Habertürk",
       "published_at": "2026-11-07T15:10:09Z"
-    },
-    {
-      "title": "Kazı çukuru motosikletliyi hayattan kopardı",
-      "link": "https://www.haberturk.com/gundem/kazi-cukuru-motosikletliyi-hayattan-kopardi-3925658",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T15:05:58Z"
     }
   ]
 }
