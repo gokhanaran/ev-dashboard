@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:46:57.465796Z",
+  "generated_at": "2026-11-07T01:12:07.452055Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Çanakkale'de tır ile çarpışan otomobildeki 2 kişi hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/turkiye/canakkalede-tir-ile-carpisan-otomobildeki-2-kisi-hayatini-kaybetti-962485.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-07T00:56:00Z"
+    },
     {
       "title": "Türkiye'nin BM Genel Sekreter adayı Sinirlioğlu: Tarafsız ve bağımsız bir genel sekreter olacağım",
       "link": "https://www.trthaber.com/haber/gundem/turkiyenin-bm-genel-sekreter-adayi-sinirlioglu-tarafsiz-ve-bagimsiz-bir-genel-sekreter-olacagim-962484.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/carlos-cuestadan-kotu-haber-son-karar-galatasarayda-p376752",
       "source": "Sözcü",
       "published_at": "2026-11-06T15:54:52Z"
-    },
-    {
-      "title": "Borsa günü yükselişle tamamladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3925468",
-      "source": "Habertürk",
-      "published_at": "2026-11-06T15:50:50Z"
     }
   ]
 }
