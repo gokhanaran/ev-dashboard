@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:35:34.084529Z",
+  "generated_at": "2026-11-07T14:40:37.394066Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Komşusundan aldı, pişirip yedikten saatler sonra hayatını kaybetti",
+      "link": "https://www.sozcu.com.tr/komsusundan-aldi-pisirip-yedikten-saatler-sonra-hayatini-kaybetti-p376984",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T14:38:46Z"
+    },
+    {
+      "title": "Kadınlar derbisini Fenerbahçe 89'da kazandı: Zirveyi devraldı",
+      "link": "https://www.sozcu.com.tr/kadinlar-derbisini-fenerbahce-89da-kazandi-zirveyi-devraldi-p376983",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T14:37:49Z"
+    },
+    {
+      "title": "Acun Ilıcalı için müthiş iddia: Üçüncü kulübünü alıyor",
+      "link": "https://www.sozcu.com.tr/acun-ilicali-icin-muthis-iddia-ucuncu-kulubunu-aliyor-p376982",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T14:36:19Z"
+    },
     {
       "title": "Potadaki derbide zafer G.Saray'ın!",
       "link": "https://www.haberturk.com/spor/galatasaray-cagdas-faktoring-83-besiktas-boa-61-mac-sonucu-3925649",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/6-kasim-2026-reyti-ng-sonuclari-total-ab-ve-abc1-siralamasina-gore-dun-en-cok-ne-izlendi-kizilcik-serbeti-tasacak-bu-deniz-ve-omur-usta-reytinglerde-kacinci-oldu-3925546",
       "source": "Habertürk",
       "published_at": "2026-11-07T09:31:10Z"
-    },
-    {
-      "title": "SPK'dan 88 kişi hakkında suç duyurusu kararı",
-      "link": "https://www.haberturk.com/ekonomi/spk-dan-tmpol-isvea-ve-tera-islemlerine-iliskin-kararlar-3925595",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T09:27:25Z"
-    },
-    {
-      "title": "Özbekistan'ın kırmızı bültenle aradığı uyuşturucu zanlısı Mersin'de yakalandı",
-      "link": "https://www.trthaber.com/haber/gundem/ozbekistanin-kirmizi-bultenle-aradigi-uyusturucu-zanlisi-mersinde-yakalandi-962522.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-07T09:26:00Z"
-    },
-    {
-      "title": "Kadın, ev arkadaşı kadını öldürmüştü! Sır perdesi aralandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kadin-ev-arkadas-kadini-oldurmustu-sir-perdesi-aralandi-3925568",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T09:20:45Z"
     }
   ]
 }
