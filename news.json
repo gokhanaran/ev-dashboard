@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:15:19.715436Z",
+  "generated_at": "2026-11-07T14:20:23.152883Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "FB otobüsüne saldırıda yeni deliller",
+      "link": "https://www.haberturk.com/gundem/fenerbahce-kafilesine-yonelik-silahli-saldirinin-iddianamesinde-5-supheliye-agir-suclama-3925645",
+      "source": "Habertürk",
+      "published_at": "2026-11-07T14:14:56Z"
+    },
     {
       "title": "Galatasaray-Amedspor maçına saatler kala saha zemini hayrete düşürdü",
       "link": "https://www.sozcu.com.tr/galatasarayamedspor-macina-saatler-kala-saha-zemini-hayrete-dusurdu-p376976",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/magnum-ceki-li-s-sonuclari-2026-porsche-taycan-ve-500-bin-tl-kazananlar-bugun-belli-oluyor-3-ve-4-donem-magnum-cekilis-sonuclari-aciklandi-mi-isim-listesi-nereden-sorgulanir-3925567",
       "source": "Habertürk",
       "published_at": "2026-11-07T09:03:15Z"
-    },
-    {
-      "title": "ABD'den güvenlik uyarısı",
-      "link": "https://www.haberturk.com/dunya/son-dakika-haberi-abd-orta-dogu-daki-vatandaslarina-guvenlik-uyarisi-yapti-3925592",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T08:57:01Z"
     }
   ]
 }
