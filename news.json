@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:25:26.355059Z",
+  "generated_at": "2026-11-07T14:30:30.489899Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Süper Lig kulübünün başkanından Fenerbahçe maçı için iddialı sözler",
+      "link": "https://www.sozcu.com.tr/super-lig-kulubunun-baskanindan-fenerbahce-maci-icin-iddiali-sozler-p376980",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T14:26:24Z"
+    },
     {
       "title": "Kadınlar derbisinde zafer Fenerbahçe'nin!",
       "link": "https://www.haberturk.com/spor/fenerbahce-arsavev-1-galatasaray-0-mac-sonucu-kadin-futbol-super-ligi-3925648",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/ege-denizi-icin-firtina-uyarisi-962521.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T09:16:00Z"
-    },
-    {
-      "title": "Galatasaray-Amedspor maçının VAR hakemi belli oldu",
-      "link": "https://www.sozcu.com.tr/galatasaray-amedspor-macinin-var-hakemi-belli-oldu-p376900",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T09:09:49Z"
     }
   ]
 }
