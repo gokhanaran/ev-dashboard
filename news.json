@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:50:02.166509Z",
+  "generated_at": "2026-11-07T13:55:05.863298Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "SON DAKİKA | YENİ Parti Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer istifa etti",
+      "link": "https://www.sozcu.com.tr/son-dakika-veya-yeni-parti-tekirdag-buyuksehir-belediye-baskani-candan-yuceer-istifa-etti-p376973",
+      "source": "Sözcü",
+      "published_at": "2026-11-07T13:52:09Z"
+    },
     {
       "title": "Yıllar sonra bir araya geldiler",
       "link": "https://www.haberturk.com/magazin/okan-yalabik-ile-selma-ergec-yillar-sonra-bir-araya-geldi-3925642",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/devrim-muhafizlari-sozcusu-muhibbi-fuzelerin-menzilini-artirma-calismalari-devam-ediyor-962515.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T08:42:00Z"
-    },
-    {
-      "title": "Başkan Tugay: EXPO için her şey hazır",
-      "link": "https://www.haberturk.com/gundem/baskan-tugay-expo-icin-her-sey-hazir-3925585",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T08:40:17Z"
     }
   ]
 }
