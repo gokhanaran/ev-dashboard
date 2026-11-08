@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:35:31.771582Z",
+  "generated_at": "2026-11-08T21:40:34.083524Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Mevsimin ilk kar tatili haberi: 2 ilin 8 ilçesinde eğitime ara",
+      "link": "https://www.sozcu.com.tr/trabzon-van-9-kasim-2026-okullar-tatil-p379335",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T21:35:15Z"
+    },
+    {
+      "title": "Cevad Prekazi kimdir?",
+      "link": "https://www.haberturk.com/bilgi/foto/cevad-prekazi-kimdir-galatasaray-in-efsanevi-ismi-cevad-prekazi-kac-yasinda-neden-oldu-hastaligi-neydi-3925865",
+      "source": "Habertürk",
+      "published_at": "2026-11-08T21:33:56Z"
+    },
     {
       "title": "Italiano'dan Beşiktaşlıları kızdıracak sözler! 'Ligin en iyi takımı Galatasaray'",
       "link": "https://www.sozcu.com.tr/italiano-dan-besiktaslilari-kizdiracak-sozler-ligin-en-iyi-takimi-galatasaray-p379334",
@@ -370,6 +382,12 @@
       "link": "https://www.sozcu.com.tr/nusret-gokce-ispanya-da-ilk-sube-is-birligini-duyurdu-p377306",
       "source": "Sözcü",
       "published_at": "2026-11-08T18:33:55Z"
+    },
+    {
+      "title": "Balığın çöpe atılan organından servet kazanıyorlar",
+      "link": "https://www.sozcu.com.tr/baligin-cope-atilan-organindan-servet-kazaniyorlar-p377309",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T18:31:38Z"
     },
     {
       "title": "Mardin'de kazanan çıkmadı",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/apple-yonetim-kurulu-baskani-tim-cook-bagdat-caddesi-nde-3925817",
       "source": "Habertürk",
       "published_at": "2026-11-08T15:06:14Z"
-    },
-    {
-      "title": "Performansı mest etti! Fenerbahçe'de golleri atanlar değil o konuşuluyor",
-      "link": "https://www.sozcu.com.tr/edersondan-muthis-performans-taraftarlar-golleri-atani-degil-onu-konusuyor-p377269",
-      "source": "Sözcü",
-      "published_at": "2026-11-08T15:06:03Z"
-    },
-    {
-      "title": "Türkiye ve Irak'tan güvenlik mutabakatı",
-      "link": "https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-08T15:03:00Z"
-    },
-    {
-      "title": "İstanbul için sıcaklık ve kar yağışı açıklaması",
-      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-icin-sicaklik-ve-kar-yagisi-aciklamasi-3925815",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T15:02:14Z"
     }
   ]
 }
