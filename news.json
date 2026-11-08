@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:12:25.588395Z",
+  "generated_at": "2026-11-08T02:17:29.053372Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
+      "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
+      "source": "Habertürk",
+      "published_at": "2026-11-08T02:04:23Z"
+    },
     {
       "title": "Taner Yıldız'dan 'fon' iddialarına yalanlama",
       "link": "https://www.haberturk.com/gundem/taner-yildiz-dan-fon-iddialarina-yalanlama-3925719",
@@ -76,12 +82,6 @@
       "link": "https://www.trthaber.com/haber/dunya/devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carpti-962564.html",
       "source": "TRT Haber",
       "published_at": "2026-11-07T22:29:00Z"
-    },
-    {
-      "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
-      "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T22:24:56Z"
     },
     {
       "title": "Brezilya'da yağmur altında pole pozisyonu Norris'in",
