@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:20:24.096136Z",
+  "generated_at": "2026-11-08T21:25:26.489691Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -82,6 +82,12 @@
       "link": "https://www.sozcu.com.tr/storck-besiktas-galibiyeti-hak-etti-p379328",
       "source": "Sözcü",
       "published_at": "2026-11-08T20:59:03Z"
+    },
+    {
+      "title": "2 ilde eğitime kar engeli",
+      "link": "https://www.trthaber.com/haber/turkiye/2-ilde-egitime-kar-engeli-962620.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-08T20:59:00Z"
     },
     {
       "title": "Trabzon'da eğitime kar engeli",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/antalyada-bazi-guzergahlarda-motosiklet-ve-bisiklet-kisitlamasina-gidildi-962610.html",
       "source": "TRT Haber",
       "published_at": "2026-11-08T14:54:00Z"
-    },
-    {
-      "title": "Derbide kazanan G.Saray!",
-      "link": "https://www.haberturk.com/spor/galatasaray-daikin-3-besiktas-1-mac-sonucu-3925816",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T14:53:12Z"
     }
   ]
 }
