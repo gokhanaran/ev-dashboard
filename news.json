@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:52:49.441527Z",
+  "generated_at": "2026-11-08T02:57:52.906854Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -118,6 +118,12 @@
       "link": "https://www.sozcu.com.tr/imamoglu-durum-acildir-p377028",
       "source": "Sözcü",
       "published_at": "2026-11-08T02:30:26Z"
+    },
+    {
+      "title": "Suudi Arabistan'ın 3 kentinde erken uyarı sistemi devreye alındı",
+      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-3-kentinde-erken-uyari-sistemi-devreye-alindi-962567.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-08T02:29:00Z"
     },
     {
       "title": "Suudi Arabistan'da 'tehlike alarmı' verildi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/melikgazi-de-6-bin-500-saksili-sergi-3925668",
       "source": "Habertürk",
       "published_at": "2026-11-07T15:54:58Z"
-    },
-    {
-      "title": "E-kira sözleşmesi sayısı 21 bine ulaştı",
-      "link": "https://www.haberturk.com/kira-sozlesmelerinin-e-devlet-uzerinden-yapilmasi-yayginlasiyor-3793878-ekonomi",
-      "source": "Habertürk",
-      "published_at": "2026-11-07T15:54:24Z"
     }
   ]
 }
