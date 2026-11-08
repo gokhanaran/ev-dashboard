@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:42:28.616533Z",
+  "generated_at": "2026-11-08T10:47:32.688754Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Kademeli emeklilik yok ama erken emeklilik için 8 formül var",
+      "link": "https://www.sozcu.com.tr/kademeli-emeklilik-yok-ama-erken-emeklilik-icin-8-formul-var-p377152",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T10:42:12Z"
+    },
+    {
+      "title": "Yöresel lezzetler buluştu",
+      "link": "https://www.haberturk.com/yasam/tahinli-piyazdan-sis-kofteye-serpme-borekten-hibese-antalyanin-yoresel-lezzetleri-88-lezzet-noktasinda-bulustu-3925780",
+      "source": "Habertürk",
+      "published_at": "2026-11-08T10:40:01Z"
+    },
+    {
       "title": "'Of of... Allah'ım! Adamı ezdi' 7 aracın karıştığı kazada dehşet anları kamerada",
       "link": "https://www.sozcu.com.tr/of-of-allah-im-adami-ezdi-7-aracin-karistigi-kazada-dehset-anlari-kamerada-p377168",
       "source": "Sözcü",
@@ -46,6 +58,12 @@
       "link": "https://www.haberturk.com/spor/enner-valencia-906-da-atti-boca-juniors-sampiyon-oldu-3925781",
       "source": "Habertürk",
       "published_at": "2026-11-08T10:37:17Z"
+    },
+    {
+      "title": "ASELSAN, enerji ihtiyacının tamamını güneşten karşılayacak",
+      "link": "https://www.trthaber.com/haber/bilim-teknoloji/aselsan-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak-962589.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-08T10:37:00Z"
     },
     {
       "title": "Kar yağışı ulaşımı aksattı",
@@ -136,6 +154,12 @@
       "link": "https://www.sozcu.com.tr/her-180-gunde-bir-ulke-degistiren-ada-350-yildir-devam-ediyor-p377190",
       "source": "Sözcü",
       "published_at": "2026-11-08T10:04:49Z"
+    },
+    {
+      "title": "Gazeteci Tarık Devrim hayatını kaybetti",
+      "link": "https://www.sozcu.com.tr/gazeteci-tarik-devrim-hayatini-kaybetti-p377188",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T10:04:34Z"
     },
     {
       "title": "Fenerbahçe'de Dirk Kuyt'ın kaderi belli oldu: Belözoğlu kararını verdi",
@@ -456,12 +480,6 @@
       "published_at": "2026-11-08T08:09:13Z"
     },
     {
-      "title": "Kademeli emeklilik yok ama erken emeklilik için 8 formül var",
-      "link": "https://www.sozcu.com.tr/kademeli-emeklilik-yok-ama-erken-emeklilik-icin-8-formul-var-p377152",
-      "source": "Sözcü",
-      "published_at": "2026-11-08T08:06:48Z"
-    },
-    {
       "title": "Alperen Şengün'ün 15 sayısı Rockets'a yetmedi",
       "link": "https://www.sozcu.com.tr/alperen-sengun-un-15-sayisi-rockets-a-yetmedi-p377153",
       "source": "Sözcü",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/kesfet/kritik-esik-cop31-3924964",
       "source": "Habertürk",
       "published_at": "2026-11-08T06:15:54Z"
-    },
-    {
-      "title": "Kızamık neden hortladı?",
-      "link": "https://youtu.be/ODxxgkXg5B4",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T06:15:08Z"
-    },
-    {
-      "title": "Hisseli tapuda kural değişti: Milyonları ilgilendiren karar",
-      "link": "https://www.sozcu.com.tr/aym-onalimda-rayic-bedel-kuralini-iptal-etti-p377085",
-      "source": "Sözcü",
-      "published_at": "2026-11-08T06:14:27Z"
-    },
-    {
-      "title": "Bebek’te çifte cinayet! Köpeğin sessizliği katilleri ortaya çıkardı!",
-      "link": "https://www.haberturk.com/gundem/bebekte-cifte-cinayet-kopegin-sessizligi-katilleri-ortaya-cikardi-3925729",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T06:07:53Z"
     }
   ]
 }
