@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:01:56.785076Z",
+  "generated_at": "2026-11-08T10:07:00.782961Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Her 180 günde bir ülke değiştiren ada: 350 yıldır devam ediyor",
+      "link": "https://www.sozcu.com.tr/her-180-gunde-bir-ulke-degistiren-ada-350-yildir-devam-ediyor-p377190",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T10:04:49Z"
+    },
+    {
+      "title": "Fenerbahçe'de Dirk Kuyt'ın kaderi belli oldu: Belözoğlu kararını verdi",
+      "link": "https://www.sozcu.com.tr/fenerbahcede-dirk-kuytin-kaderi-belli-oldu-belozoglu-kararini-verdi-p377183",
+      "source": "Sözcü",
+      "published_at": "2026-11-08T10:04:14Z"
+    },
     {
       "title": "İstanbul'da Sibirya soğukları alarmı: Yağmurlar bitti kar fırtınası başladı",
       "link": "https://www.sozcu.com.tr/18-il-icin-alarm-verildi-yagmurlar-bitti-kar-firtinasi-basladi-p377060",
@@ -99,12 +111,6 @@
       "title": "Kabine Toplanıyor",
       "link": "https://www.haberturk.com/gundem/kabine-toplaniyor-emekli-maasi-duzenlemesi-fon-sorusturmasi-terorsuz-turkiye-sureci-masada-3925767",
       "source": "Habertürk",
-      "published_at": "2026-11-08T09:36:45Z"
-    },
-    {
-      "title": "Fenerbahçe'de Dirk Kuyt'ın kaderi belli oldu: Belözoğlu kararını verdi",
-      "link": "https://www.sozcu.com.tr/fenerbahcede-dirk-kuytin-kaderi-belli-oldu-belozoglu-kararini-verdi-p377183",
-      "source": "Sözcü",
       "published_at": "2026-11-08T09:36:45Z"
     },
     {
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
       "source": "TRT Haber",
       "published_at": "2026-11-08T04:27:00Z"
-    },
-    {
-      "title": "Siyasilerden Van'daki kazaya taziyeler",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-siyasilerden-van-daki-trafik-kazasinda-hayatini-kaybedenler-icin-taziye-mesajlari-3925724",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T04:25:03Z"
     }
   ]
 }
