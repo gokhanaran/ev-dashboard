@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:17:29.053372Z",
+  "generated_at": "2026-11-08T02:22:32.412212Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Suudi Arabistan'da 'tehlike alarmı' verildi",
+      "link": "https://www.haberturk.com/dunya/suudi-arabistan-da-tehlike-alarmi-verildi-3925722",
+      "source": "Habertürk",
+      "published_at": "2026-11-08T02:15:00Z"
+    },
     {
       "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
       "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/dunya/bakan-fidan-misirli-mevkidasi-ile-gorustu-3925661",
       "source": "Habertürk",
       "published_at": "2026-11-07T15:17:39Z"
-    },
-    {
-      "title": "Samsunspor'un hasreti sona erdi",
-      "link": "https://www.sozcu.com.tr/samsunsporun-hasreti-sona-erdi-p376987",
-      "source": "Sözcü",
-      "published_at": "2026-11-07T15:15:39Z"
     }
   ]
 }
