@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:00:14.437497Z",
+  "generated_at": "2026-11-08T21:05:17.191266Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 8
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,22 @@
   ],
   "items": [
     {
+      "title": "Cevad Prekazi hayatını kaybetti",
+      "link": "https://www.haberturk.com/spor/galatasaray-in-efsanesi-cevad-prekazi-hayatini-kaybetti-3925862",
+      "source": "Habertürk",
+      "published_at": "2026-11-08T20:59:18Z"
+    },
+    {
       "title": "Gençlerbirliği teknik direktörü Storck: Beşiktaş galibiyeti hak etti",
       "link": "https://www.sozcu.com.tr/storck-besiktas-galibiyeti-hak-etti-p379328",
       "source": "Sözcü",
       "published_at": "2026-11-08T20:59:03Z"
     },
     {
-      "title": "Cevad Prekazi hayatını kaybetti",
-      "link": "https://www.haberturk.com/spor/galatasaray-in-efsanesi-cevad-prekazi-hayatini-kaybetti-3925862",
+      "title": "\"Çok önemli bir galibiyet\"",
+      "link": "https://www.haberturk.com/spor/dusan-vlahovic-cok-onemli-bir-galibiyet-3925863",
       "source": "Habertürk",
-      "published_at": "2026-11-08T20:45:09Z"
+      "published_at": "2026-11-08T20:58:49Z"
     },
     {
       "title": "\"İki takım arkadaşım da bana hediye almalı\"",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/besiktas-genclerbirligi-maci-canli-anlatim-bjk-genclerbirligi-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-tum-detaylar-3925734",
       "source": "Habertürk",
       "published_at": "2026-11-08T14:40:33Z"
-    },
-    {
-      "title": "Korkunç detaylar: Siz iyi kurtulmuşsunuz",
-      "link": "https://www.haberturk.com/gundem/8-kisiyi-olduren-saldirganin-gasbettigi-aracin-sahibi-yasadiklarini-anlatti-3925809",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T14:35:00Z"
     }
   ]
 }
