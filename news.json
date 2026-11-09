@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:00:51.604830Z",
+  "generated_at": "2026-11-09T19:05:56.380918Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Karşıyaka Beşiktaş'ı tek farklıa devirdi",
+      "link": "https://www.haberturk.com/spor/karsiyaka-84-besiktas-83-mac-sonucu-3926110",
+      "source": "Habertürk",
+      "published_at": "2026-11-09T18:57:24Z"
+    },
     {
       "title": "İzmir'deki patlamanın nedeni belli oldu! Bakan Işıkhan ilk bilgileri paylaştı",
       "link": "https://www.sozcu.com.tr/vedat-isikhan-izmir-patlama-nedenini-acikladi-p379667",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-un-dosyasi-ankara-ya-gonderildi-p379595",
       "source": "Sözcü",
       "published_at": "2026-11-09T13:14:30Z"
-    },
-    {
-      "title": "Sarıgül soruşturmasında eski korumanın ifadesiyle yer yerinden oynayacak!",
-      "link": "https://www.sozcu.com.tr/sarigul-sorusturmasinda-eski-korumanin-ifadesiyle-yer-yerinden-oynayacak-p379525",
-      "source": "Sözcü",
-      "published_at": "2026-11-09T13:11:51Z"
     }
   ]
 }
