@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:44:24.495723Z",
+  "generated_at": "2026-11-09T01:09:33.766795Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Dev tesisin hazin sonu",
+      "link": "https://www.sozcu.com.tr/dev-tesisin-hazin-sonu-p379339",
+      "source": "Sözcü",
+      "published_at": "2026-11-09T01:00:02Z"
+    },
     {
       "title": "Vücudunuzun toksin yükünü nasıl azaltırsınız?",
       "link": "https://www.sozcu.com.tr/vucudunuzun-toksin-yukunu-nasil-azaltirsiniz-p379317",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/irfan-can-kahveci-den-sergen-yalcin-a-olay-gonderme-a-milli-takim-a-kadrosuna-alinmamisti-p377265",
       "source": "Sözcü",
       "published_at": "2026-11-08T16:08:50Z"
-    },
-    {
-      "title": "Milan 6 dakikada fişi çekti!",
-      "link": "https://www.haberturk.com/spor/genoa-1-milan-2-mac-sonucu-ozeti-ve-golleri-3925829",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T16:06:58Z"
     }
   ]
 }
