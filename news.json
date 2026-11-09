@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:14:36.573802Z",
+  "generated_at": "2026-11-09T01:39:46.862396Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Uhud’daki okçuları lotçulara benzetti!",
+      "link": "https://www.sozcu.com.tr/uhud-daki-okculari-lotculara-benzetti-p379342",
+      "source": "Sözcü",
+      "published_at": "2026-11-09T01:30:02Z"
+    },
     {
       "title": "Trump: Haftaya Şi ve Putin ile görüşebilirim",
       "link": "https://www.trthaber.com/haber/dunya/trump-haftaya-si-ve-putin-ile-gorusebilirim-962624.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/mehmet-gunsur-den-sehzade-mustafa-itirafi-idam-sahnesinden-sonra-yasadiklarini-anlatti-p377284",
       "source": "Sözcü",
       "published_at": "2026-11-08T16:14:02Z"
-    },
-    {
-      "title": "Liverpool'a Crystal Palace tesellisi!",
-      "link": "https://www.haberturk.com/spor/crystal-palace-liverpool-mac-sonucu-iste-crystal-palace-liverpool-maci-ozeti-ingiltere-premier-lig-3925830",
-      "source": "Habertürk",
-      "published_at": "2026-11-08T16:09:11Z"
     }
   ]
 }
