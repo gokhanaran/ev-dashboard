@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:09:33.766795Z",
+  "generated_at": "2026-11-09T01:14:36.573802Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump: Haftaya Şi ve Putin ile görüşebilirim",
+      "link": "https://www.trthaber.com/haber/dunya/trump-haftaya-si-ve-putin-ile-gorusebilirim-962624.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-09T01:06:00Z"
+    },
     {
       "title": "Dev tesisin hazin sonu",
       "link": "https://www.sozcu.com.tr/dev-tesisin-hazin-sonu-p379339",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/crystal-palace-liverpool-mac-sonucu-iste-crystal-palace-liverpool-maci-ozeti-ingiltere-premier-lig-3925830",
       "source": "Habertürk",
       "published_at": "2026-11-08T16:09:11Z"
-    },
-    {
-      "title": "İrfan Can Kahveci’den Sergen Yalçın’a olay gönderme! A Milli Takım kadrosuna alınmamıştı",
-      "link": "https://www.sozcu.com.tr/irfan-can-kahveci-den-sergen-yalcin-a-olay-gonderme-a-milli-takim-a-kadrosuna-alinmamisti-p377265",
-      "source": "Sözcü",
-      "published_at": "2026-11-08T16:08:50Z"
     }
   ]
 }
