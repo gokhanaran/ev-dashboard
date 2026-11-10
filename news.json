@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:06:52.849125Z",
+  "generated_at": "2026-11-10T02:17:00.165598Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Suçlananlar bekliyor gizli tanıklar gelmiyor",
+      "link": "https://www.sozcu.com.tr/suclananlar-bekliyor-gizli-taniklar-gelmiyor-p379713",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T02:10:07Z"
+    },
     {
       "title": "Beni hatırlayınız",
       "link": "https://www.sozcu.com.tr/beni-hatirlayiniz-p379686",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/thy-2026nin-ilk-10-ayinda-815-milyon-yolcu-tasidi-962709.html",
       "source": "TRT Haber",
       "published_at": "2026-11-09T16:45:00Z"
-    },
-    {
-      "title": "Fon soruşturmasıyla ilgili 1 gözaltı daha",
-      "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasiyla-ilgili-1-gozalti-daha-962708.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-09T16:43:00Z"
     }
   ]
 }
