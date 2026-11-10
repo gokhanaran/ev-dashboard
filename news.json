@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:17:00.165598Z",
+  "generated_at": "2026-11-10T02:22:04.199304Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Allah’a emanet çalışıyoruz",
+      "link": "https://www.sozcu.com.tr/allah-a-emanet-calisiyoruz-p379702",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T02:20:08Z"
+    },
     {
       "title": "Suçlananlar bekliyor gizli tanıklar gelmiyor",
       "link": "https://www.sozcu.com.tr/suclananlar-bekliyor-gizli-taniklar-gelmiyor-p379713",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/spk-dan-fon-dolandiriciligi-uyarisi-p379649",
       "source": "Sözcü",
       "published_at": "2026-11-09T16:46:58Z"
-    },
-    {
-      "title": "THY, 2026'nın ilk 10 ayında 81,5 milyon yolcu taşıdı",
-      "link": "https://www.trthaber.com/haber/ekonomi/thy-2026nin-ilk-10-ayinda-815-milyon-yolcu-tasidi-962709.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-09T16:45:00Z"
     }
   ]
 }
