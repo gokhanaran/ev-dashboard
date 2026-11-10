@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:57:21.932086Z",
+  "generated_at": "2026-11-10T18:02:26.014317Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Mirza'dan ailesine: Hepiniz defolup gideceksiniz!",
+      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T17:57:00Z"
+    },
     {
       "title": "Freiburg'in başarı hikayesi!",
       "link": "https://www.haberturk.com/spor/freiburg-in-basari-hikayesi-teknik-direktor-istikrarindan-avrupa-ligi-finaline-3926364",
@@ -746,12 +752,6 @@
     {
       "title": "İletişim Başkanlığının COP31 temalı Ayın Tarihi dergisinin ekim sayısı yayımlandı",
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi-962824.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T12:54:00Z"
-    },
-    {
-      "title": "İtalya'da zırhlı para nakil aracına silahlı soygun girişimi",
-      "link": "https://www.trthaber.com/haber/dunya/italyada-zirhli-para-nakil-aracina-silahli-soygun-girisimi-962823.html",
       "source": "TRT Haber",
       "published_at": "2026-11-10T12:54:00Z"
     }
