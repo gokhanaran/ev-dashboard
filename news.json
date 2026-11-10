@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:36:38.684968Z",
+  "generated_at": "2026-11-10T09:41:42.105764Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:35:43Z"
+    },
+    {
       "title": "Emlak Katılım satın almaları tamamladı",
-      "link": "https://www.sozcu.com.tr/emlak-katilim-satin-almalari-tamamladi-p379886",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T09:35:23Z"
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-emlak-katilim-satin-almalari-tamamladi-3926250",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:33:23Z"
+    },
+    {
+      "title": "150 yıl sonra Pentagon’da azil depremi",
+      "link": "https://www.haberturk.com/dunya/150-yil-sonra-pentagonda-azil-depremi-trumpin-savas-bakani-tarihle-yuzlesiyor-3926247",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:31:56Z"
     },
     {
       "title": "Türkiye-Belçika maçına İsviçreli hakem",
@@ -58,12 +70,6 @@
       "link": "https://www.sozcu.com.tr/reytinglerde-cift-haneye-cikti-uzak-sehir-bu-sezon-ilk-kez-basardi-p379883",
       "source": "Sözcü",
       "published_at": "2026-11-10T09:29:57Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T09:28:29Z"
     },
     {
       "title": "10 Kasım'da Dolmabahçe'ye akın! Valiliğin dron kamerası kaydetti...",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/yasam/cam-ormanlariyla-cevrili-dumanli-tabiat-parki-karla-kaplandi-3926181",
       "source": "Habertürk",
       "published_at": "2026-11-10T07:17:59Z"
-    },
-    {
-      "title": "Yurtta saat: 09.05 oldu... Her yerde hayat durdu! Şükran, minnet ve rahmetle andık",
-      "link": "https://www.haberturk.com/gundem/10-kasim-ataturk-u-anma-yurtta-saat-0905-oldu-her-yerde-hayat-durdu-sukran-minnet-ve-rahmetle-andik-3926168",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:17:30Z"
     }
   ]
 }
