@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:41:42.105764Z",
+  "generated_at": "2026-11-10T09:46:46.082807Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
+      "title": "Emlak Katılım dev satın almaları bitirdi",
+      "link": "https://www.sozcu.com.tr/emlak-katilim-satin-almalari-tamamladi-p379886",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T09:44:08Z"
+    },
+    {
+      "title": "BİM’e oyun bilgisayarı geliyor!",
+      "link": "https://www.haberturk.com/bilgi/foto/bi-m-e-oyun-bilgisayari-geliyor-10-11-kasim-2026-bi-m-aktuel-urunler-katalogunda-bu-hafta-neler-var-hangi-urunler-indirimde-3926243",
       "source": "Habertürk",
-      "published_at": "2026-11-10T09:35:43Z"
+      "published_at": "2026-11-10T09:43:11Z"
     },
     {
       "title": "Emlak Katılım satın almaları tamamladı",
       "link": "https://www.haberturk.com/ekonomi/son-dakika-emlak-katilim-satin-almalari-tamamladi-3926250",
       "source": "Habertürk",
-      "published_at": "2026-11-10T09:33:23Z"
+      "published_at": "2026-11-10T09:42:46Z"
+    },
+    {
+      "title": "Birlikte uyumak: Yakınlık mı, bağımlılık mı?",
+      "link": "https://hthayat.haberturk.com/birlikte-uyumak-yakinlik-mi-bagimlilik-mi-1088336",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:41:26Z"
+    },
+    {
+      "title": "Altında 26 yıllık reel getiri serisi ekimde sona erdi",
+      "link": "https://www.trthaber.com/haber/ekonomi/altinda-26-yillik-reel-getiri-serisi-ekimde-sona-erdi-962795.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-10T09:38:00Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:35:43Z"
     },
     {
       "title": "150 yıl sonra Pentagon’da azil depremi",
@@ -262,6 +286,12 @@
       "link": "https://www.haberturk.com/magazin/kurk-mantolu-madonna-filminin-maria-puder-i-meryem-uzerli-oldu-3926209",
       "source": "Habertürk",
       "published_at": "2026-11-10T08:43:55Z"
+    },
+    {
+      "title": "Sibirya soğukları gidiyor 'yalancı bahar' geliyor: Tarih belli oldu",
+      "link": "https://www.sozcu.com.tr/sibirya-soguklari-gidiyor-yalanci-bahar-geliyor-tarih-belli-oldu-p379835",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T08:43:44Z"
     },
     {
       "title": "\"Kadınların tarımda daha fazla söz sahibi olması için çalışacağız\"",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/spor/spor-federasyonlari-ve-kulupleri-ulu-onder-mustafa-kemal-ataturk-u-10-kasim-da-andi-3926183",
       "source": "Habertürk",
       "published_at": "2026-11-10T07:22:38Z"
-    },
-    {
-      "title": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6 arttı",
-      "link": "https://www.trthaber.com/haber/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-26-artti-962769.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T07:22:00Z"
-    },
-    {
-      "title": "Büyük Önder Atatürk, Dolmabahçe Sarayı'ndaki odasında törenle anıldı",
-      "link": "https://www.trthaber.com/haber/gundem/buyuk-onder-ataturk-dolmabahce-sarayindaki-odasinda-torenle-anildi-962768.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T07:20:00Z"
-    },
-    {
-      "title": "Emine Erdoğan'dan 10 Kasım Atatürk'ü Anma Günü mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-10-kasim-ataturku-anma-gunu-mesaji-962767.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T07:19:00Z"
-    },
-    {
-      "title": "İnşaat maliyet endeksi eylülde arttı",
-      "link": "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T07:19:00Z"
-    },
-    {
-      "title": "Çam ormanlarıyla çevrili park karla kaplandı",
-      "link": "https://www.haberturk.com/yasam/cam-ormanlariyla-cevrili-dumanli-tabiat-parki-karla-kaplandi-3926181",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:17:59Z"
     }
   ]
 }
