@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:02:26.014317Z",
+  "generated_at": "2026-11-10T18:07:29.989267Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İran: ABD'nin yanıtı aldatıcı",
+      "link": "https://www.haberturk.com/dunya/iranli-yetkili-abd-nin-yaniti-aldatici-3926375",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T17:59:02Z"
+    },
     {
       "title": "Mirza'dan ailesine: Hepiniz defolup gideceksiniz!",
       "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/yasam/kibyra-antik-kenti-nde-medusa-mozaiginin-uzeri-kapatildi-3926301",
       "source": "Habertürk",
       "published_at": "2026-11-10T13:00:06Z"
-    },
-    {
-      "title": "İletişim Başkanlığının COP31 temalı Ayın Tarihi dergisinin ekim sayısı yayımlandı",
-      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanliginin-cop31-temali-ayin-tarihi-dergisinin-ekim-sayisi-yayimlandi-962824.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-10T12:54:00Z"
     }
   ]
 }
