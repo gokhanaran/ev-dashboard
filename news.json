@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:31:35.297069Z",
+  "generated_at": "2026-11-10T09:36:38.684968Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Emlak Katılım satın almaları tamamladı",
+      "link": "https://www.sozcu.com.tr/emlak-katilim-satin-almalari-tamamladi-p379886",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T09:35:23Z"
+    },
+    {
+      "title": "Türkiye-Belçika maçına İsviçreli hakem",
+      "link": "https://www.haberturk.com/spor/turkiye-belcika-macinin-hakemi-sandro-scharer-3926245",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:30:12Z"
+    },
+    {
+      "title": "Dijital suçlarla mücadelede yapay zeka destekli sistemler devrede",
+      "link": "https://www.trthaber.com/haber/gundem/dijital-suclarla-mucadelede-yapay-zeka-destekli-sistemler-devrede-962794.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-10T09:30:00Z"
+    },
+    {
       "title": "Reytinglerde çift haneye çıktı: Uzak Şehir bu sezon ilk kez başardı",
       "link": "https://www.sozcu.com.tr/reytinglerde-cift-haneye-cikti-uzak-sehir-bu-sezon-ilk-kez-basardi-p379883",
       "source": "Sözcü",
       "published_at": "2026-11-10T09:29:57Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:28:29Z"
     },
     {
       "title": "10 Kasım'da Dolmabahçe'ye akın! Valiliğin dron kamerası kaydetti...",
@@ -52,18 +76,6 @@
       "link": "https://www.haberturk.com/ekonomi/porsche-turkiye-den-yeni-finansman-modeli-3926246",
       "source": "Habertürk",
       "published_at": "2026-11-10T09:22:05Z"
-    },
-    {
-      "title": "Türkiye-Belçika maçına İsviçreli hakem",
-      "link": "https://www.haberturk.com/spor/turkiye-belcika-macinin-hakemi-sandro-scharer-3926245",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T09:20:23Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "link": "https://www.haberturk.com/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T09:20:15Z"
     },
     {
       "title": "A Milli Takım'ın Belçika ile oynayacağı maça İsviçreli hakem",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/10-kasim-ataturk-u-anma-yurtta-saat-0905-oldu-her-yerde-hayat-durdu-sukran-minnet-ve-rahmetle-andik-3926168",
       "source": "Habertürk",
       "published_at": "2026-11-10T07:17:30Z"
-    },
-    {
-      "title": "Kış lastiği zorunluluğu için geri sayım!",
-      "link": "https://www.haberturk.com/bilgi/foto/kis-lastigi-zorunlulugu-baslama-tarihi-2026-zorunlu-kis-lastigi-uygulamasi-ne-zaman-baslayacak-takmama-cezasi-ne-kadar-3926175",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:16:44Z"
-    },
-    {
-      "title": "Türkiye Ata'sını anıyor: Saat 09.05'te zaman durdu",
-      "link": "https://www.sozcu.com.tr/turkiye-ata-sini-aniyor-saat-09-05-te-zaman-durdu-p379786",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T07:14:21Z"
     }
   ]
 }
