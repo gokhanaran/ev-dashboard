@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:01:48.487614Z",
+  "generated_at": "2026-11-10T02:06:52.849125Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Beni hatırlayınız",
+      "link": "https://www.sozcu.com.tr/beni-hatirlayiniz-p379686",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T02:05:38Z"
+    },
     {
       "title": "‘Fatma Betül bir sonuç, saadet zinciri bayağı uzun’",
       "link": "https://www.sozcu.com.tr/fatma-betul-bir-sonuc-saadet-zinciri-bayagi-uzun-p379691",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasiyla-ilgili-1-gozalti-daha-962708.html",
       "source": "TRT Haber",
       "published_at": "2026-11-09T16:43:00Z"
-    },
-    {
-      "title": "FIFA yılın 11’i belli oldu! Dikkat çeken Messi ve Ronaldo detayı",
-      "link": "https://www.sozcu.com.tr/fifa-yilin-11i-belli-oldu-messi-ve-ronaldo-detayi-dikkat-cekti-p379647",
-      "source": "Sözcü",
-      "published_at": "2026-11-09T16:35:00Z"
     }
   ]
 }
