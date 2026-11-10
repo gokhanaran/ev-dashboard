@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:52:16.855900Z",
+  "generated_at": "2026-11-10T17:57:21.932086Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Freiburg'in başarı hikayesi!",
+      "link": "https://www.haberturk.com/spor/freiburg-in-basari-hikayesi-teknik-direktor-istikrarindan-avrupa-ligi-finaline-3926364",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T17:51:16Z"
+    },
     {
       "title": "Rojda Demirer'in son hali şaşırttı! Çenesindeki değişim dikkat çekti",
       "link": "https://www.sozcu.com.tr/rojda-demirer-in-son-hali-sasirtti-cenesindeki-degisim-dikkat-cekti-p380035",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/italyada-zirhli-para-nakil-aracina-silahli-soygun-girisimi-962823.html",
       "source": "TRT Haber",
       "published_at": "2026-11-10T12:54:00Z"
-    },
-    {
-      "title": "Herkesin kapısını tanıdığı ev 505 milyon TL'ye satılıyor",
-      "link": "https://www.sozcu.com.tr/herkesin-kapisini-tanidigi-ev-505-milyon-tl-ye-satiliyor-p379956",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T12:52:11Z"
     }
   ]
 }
