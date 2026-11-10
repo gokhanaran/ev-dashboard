@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:46:46.082807Z",
+  "generated_at": "2026-11-10T09:51:50.220989Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Özgür Özel'den Emir Sarıgül'e milyonluk tazminat davası",
+      "link": "https://www.sozcu.com.tr/ozgur-ozel-den-emir-sarigul-e-milyonluk-tazminat-davasi-p379894",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T09:50:38Z"
+    },
+    {
       "title": "Emlak Katılım dev satın almaları bitirdi",
       "link": "https://www.sozcu.com.tr/emlak-katilim-satin-almalari-tamamladi-p379886",
       "source": "Sözcü",
-      "published_at": "2026-11-10T09:44:08Z"
+      "published_at": "2026-11-10T09:49:52Z"
     },
     {
       "title": "BİM’e oyun bilgisayarı geliyor!",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/ataturkun-manevi-mirasi-savarona-dolmabahce-aciklarinda-962770.html",
       "source": "TRT Haber",
       "published_at": "2026-11-10T07:24:00Z"
-    },
-    {
-      "title": "Spor dünyasından 10 Kasım mesajları",
-      "link": "https://www.haberturk.com/spor/spor-federasyonlari-ve-kulupleri-ulu-onder-mustafa-kemal-ataturk-u-10-kasim-da-andi-3926183",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:22:38Z"
     }
   ]
 }
