@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:56:54.852433Z",
+  "generated_at": "2026-11-10T10:01:58.797388Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "'Ülkelerin sınırlarını değiştirecek' görüşmeler başladı",
+      "link": "https://www.sozcu.com.tr/abu-dabi-de-rusya-ukrayna-ve-abd-arasindaki-uclu-muzakereler-basladi-p379899",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T10:00:56Z"
+    },
+    {
+      "title": "Antalya Büyükşehir'de dört yönetici görevden alındı",
+      "link": "https://www.sozcu.com.tr/antalya-buyuksehirde-dort-yonetici-gorevden-alindi-p379895",
+      "source": "Sözcü",
+      "published_at": "2026-11-10T09:57:28Z"
+    },
+    {
+      "title": "Köy okulunda 1 öğretmen ve 2 öğrenciyle en büyük anma",
+      "link": "https://www.haberturk.com/gundem/10-kasim-ataturk-u-anma-toreni-koy-okulunda-1-ogretmen-ve-2-ogrenciyle-en-buyuk-anma-3926179",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:55:07Z"
+    },
+    {
       "title": "Son anketlerde milliyetçilerin tercihi: Uzun bir aradan sonra bir ilk yaşandı",
       "link": "https://www.sozcu.com.tr/son-anketlerde-milliyetcilerin-tercihi-uzun-bir-aradan-sonra-bir-ilk-yasandi-p379896",
       "source": "Sözcü",
       "published_at": "2026-11-10T09:55:06Z"
+    },
+    {
+      "title": "Elife 23 yıl önce kayboldu! En yakını tutuklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-elife-dogrul-23-yil-once-kayboldu-en-yakini-tutuklandi-aydin-haberleri-3926216",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T09:54:08Z"
     },
     {
       "title": "Emlak Katılım’da devir süreci tamamlandı",
@@ -63,7 +87,7 @@
       "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3926201",
       "source": "Habertürk",
-      "published_at": "2026-11-10T09:46:10Z"
+      "published_at": "2026-11-10T09:49:36Z"
     },
     {
       "title": "Yeşil Mutabakat Eylem Planı ile 41 hedef için yol haritası çizildi",
@@ -390,12 +414,6 @@
       "published_at": "2026-11-10T08:40:00Z"
     },
     {
-      "title": "Elife 23 yıl önce kayboldu! En yakını tutuklandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-elife-dogrul-23-yil-once-kayboldu-en-yakini-tutuklandi-aydin-haberleri-3926216",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T08:36:54Z"
-    },
-    {
       "title": "İstanbul'da yağış ve sis etkili oluyor",
       "link": "https://www.haberturk.com/gundem/istanbul-da-yagis-ve-sis-etkili-oluyor-3926219",
       "source": "Habertürk",
@@ -612,12 +630,6 @@
       "published_at": "2026-11-10T08:00:06Z"
     },
     {
-      "title": "Köy okulunda 1 öğretmen ve 2 öğrenciyle en büyük anma",
-      "link": "https://www.haberturk.com/gundem/10-kasim-ataturk-u-anma-toreni-koy-okulunda-1-ogretmen-ve-2-ogrenciyle-en-buyuk-anma-3926179",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:59:32Z"
-    },
-    {
       "title": "Bugün borsa açık mı?",
       "link": "https://www.haberturk.com/bilgi/foto/bugun-borsa-acik-mi-10-kasim-da-borsalar-calisiyor-mu-borsa-i-stanbul-da-islem-goruluyor-mu-3926200",
       "source": "Habertürk",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/houston-rockets-evinde-denver-nuggets-i-110-100-maglup-etti-alperen-sengun-double-double-yapti-3926189",
       "source": "Habertürk",
       "published_at": "2026-11-10T07:29:16Z"
-    },
-    {
-      "title": "Dünya İngiltere Kralı 3. Charles'ın parmaklarını konuşuyor! Neyin habercisi?",
-      "link": "https://www.sozcu.com.tr/dunya-ingiltere-krali-3-charles-in-parmaklarini-konusuyor-neyin-habercisi-p379806",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T07:28:28Z"
-    },
-    {
-      "title": "Beşiktaş Atatürk'ü Dolmabahçe'de andı",
-      "link": "https://www.sozcu.com.tr/besiktas-ataturk-u-dolmabahce-de-andi-p379817",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T07:27:58Z"
     }
   ]
 }
