@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:07:03.402287Z",
+  "generated_at": "2026-11-10T10:12:07.419452Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Çelik fabrikasında facia: 17 ölü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-izmir-de-celik-fabrikasinda-facia-17-olu-izmir-son-dakika-3926148",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T10:09:10Z"
+    },
+    {
+      "title": "Sanayi üretiminde artış",
+      "link": "https://www.haberturk.com/ekonomi/sanayi-uretiminde-artis-3926254",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T10:05:48Z"
+    },
+    {
       "title": "18 yaşındaki Ayşenur böyle can verdi!",
       "link": "https://www.sozcu.com.tr/18-yasindaki-ayse-nin-sonu-olan-kaza-kamerada-p379857",
       "source": "Sözcü",
@@ -58,6 +70,12 @@
       "link": "https://www.sozcu.com.tr/abu-dabi-de-rusya-ukrayna-ve-abd-arasindaki-uclu-muzakereler-basladi-p379899",
       "source": "Sözcü",
       "published_at": "2026-11-10T10:01:43Z"
+    },
+    {
+      "title": "Ankara'da kar yağışı",
+      "link": "https://www.trthaber.com/haber/turkiye/ankarada-kar-yagisi-962799.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-10T09:59:00Z"
     },
     {
       "title": "Antalya Büyükşehir'de dört yönetici görevden alındı",
@@ -100,6 +118,12 @@
       "link": "https://www.sozcu.com.tr/emlak-katilim-satin-almalari-tamamladi-p379886",
       "source": "Sözcü",
       "published_at": "2026-11-10T09:53:58Z"
+    },
+    {
+      "title": "Bakan Bayraktar: Türkiye'nin enerji dönüşümü için 300 milyar dolar yatırım öngörüyoruz",
+      "link": "https://www.trthaber.com/haber/ekonomi/bakan-bayraktar-turkiyenin-enerji-donusumu-icin-300-milyar-dolar-yatirim-ongoruyoruz-962798.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-10T09:53:00Z"
     },
     {
       "title": "Özgür Özel'den Emir Sarıgül'e milyonluk tazminat davası",
@@ -600,12 +624,6 @@
       "published_at": "2026-11-10T08:09:00Z"
     },
     {
-      "title": "Çelik fabrikasında facia: 17 ölü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-izmir-de-celik-fabrikasinda-facia-17-olu-izmir-son-dakika-3926148",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T08:07:18Z"
-    },
-    {
       "title": "Avustralya'nın en büyük hava yolu şirketi Qantas, yaklaşık 850 kişiyi işten çıkaracak",
       "link": "https://www.trthaber.com/haber/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak-962776.html",
       "source": "TRT Haber",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/onumuzdeki-3-hafta-icinde-4-burc-icin-bir-devir-kapaniyor-hayatlari-bastan-asagi-degisecek-p379827",
       "source": "Sözcü",
       "published_at": "2026-11-10T07:42:11Z"
-    },
-    {
-      "title": "Batrakov'dan Fenerbahçelileri kızdıran sözler",
-      "link": "https://www.sozcu.com.tr/batrakovdan-fenerbahcelileri-kizdiran-sozler-p379789",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T07:39:32Z"
-    },
-    {
-      "title": "40 metreden ateş edilmiş",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-fenerbahce-otobusune-saldirida-yeni-detaylar-ortaya-cikti-40-metreden-ates-edilmis-3926186",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T07:36:23Z"
-    },
-    {
-      "title": "10 Kasım töreninde Cemil Tugay’a protesto... Tören alanında yuhalandı",
-      "link": "https://www.sozcu.com.tr/10-kasim-toreninde-cemil-tugay-a-protesto-toren-alaninda-yuhalandi-p379821",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T07:35:37Z"
     }
   ]
 }
