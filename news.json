@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:07:29.989267Z",
+  "generated_at": "2026-11-10T18:12:35.722764Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "\"Seni benden hiç kimse alamaz artık!\"",
+      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-in-yeni-bolumunden-2-nci-tanitim-3926376",
+      "source": "Habertürk",
+      "published_at": "2026-11-10T18:06:25Z"
+    },
+    {
       "title": "İran: ABD'nin yanıtı aldatıcı",
       "link": "https://www.haberturk.com/dunya/iranli-yetkili-abd-nin-yaniti-aldatici-3926375",
       "source": "Habertürk",
@@ -45,6 +51,12 @@
       "title": "Mirza'dan ailesine: Hepiniz defolup gideceksiniz!",
       "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
       "source": "Habertürk",
+      "published_at": "2026-11-10T17:57:00Z"
+    },
+    {
+      "title": "İletişim Başkanlığından iklim sözlüğünün ikinci baskısı",
+      "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligindan-iklim-sozlugunun-ikinci-baskisi-962852.html",
+      "source": "TRT Haber",
       "published_at": "2026-11-10T17:57:00Z"
     },
     {
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/birinde-3-400-digerinde-589-kilometre-100-dolarlik-yakitla-hangi-otomobil-ne-kadar-yol-gidiyor-fark-6-kati-buldu-3926311",
       "source": "Habertürk",
       "published_at": "2026-11-10T13:02:06Z"
-    },
-    {
-      "title": "Alanyaspor'da Pereira gitti, Uğur Uçar geldi!",
-      "link": "https://www.haberturk.com/spor/alanyaspor-da-joao-pereira-gitti-ugur-ucar-geldi-3926309",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T13:00:26Z"
-    },
-    {
-      "title": "Kibyra Antik Kenti'nde Medusa mozaiğinin üzeri kapatıldı",
-      "link": "https://www.haberturk.com/yasam/kibyra-antik-kenti-nde-medusa-mozaiginin-uzeri-kapatildi-3926301",
-      "source": "Habertürk",
-      "published_at": "2026-11-10T13:00:06Z"
     }
   ]
 }
