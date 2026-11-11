@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:30:03.322760Z",
+  "generated_at": "2026-11-11T14:35:06.962483Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "'İşte onları silmen lazım sadece orayı' sözleri Güllü'nün oğlunu harekete geçirdi",
+      "link": "https://www.sozcu.com.tr/gullunun-oglundan-istinaf-basvurusu-gorusme-kayitlari-arastirilsin-p380368",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T14:32:35Z"
+    },
+    {
+      "title": "Yeni aşkı da bir kovboy",
+      "link": "https://www.haberturk.com/magazin/bella-hadid-yeni-askini-buldu-3926598",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:27:35Z"
+    },
+    {
+      "title": "Almanya menzil kısıtlamasını kaldırdı",
+      "link": "https://www.haberturk.com/almanya-ukrayna-icin-menzil-kisitlamasini-kaldirdi-3794235",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:26:54Z"
+    },
     {
       "title": "Yüksek sesli müzik tartışmasında 10 yaşındaki çocuk katil oldu: 16 yaşındaki komşusunu öldürdü",
       "link": "https://www.sozcu.com.tr/yuksek-sesli-muzik-tartismasinda-10-yasindaki-cocuk-katil-oldu-16-yasindaki-komsusunu-oldurdu-p380366",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-haberler-esini-bicakladi-cezaevinde-oldu-3-sayfa-haberleri-3926485",
       "source": "Habertürk",
       "published_at": "2026-11-11T10:46:02Z"
-    },
-    {
-      "title": "Icardi imza için başkanın telefonunu bekliyor",
-      "link": "https://www.sozcu.com.tr/icardi-imza-icin-baskanin-telefonunu-bekliyor-p380285",
-      "source": "Sözcü",
-      "published_at": "2026-11-11T10:45:54Z"
-    },
-    {
-      "title": "İş Sanat’ın Parlayan Yıldızlar konserleri başlıyor",
-      "link": "https://www.haberturk.com/kultur-sanat/is-sanatin-parlayan-yildizlarkonserleri-basliyor-3926544",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T10:43:19Z"
-    },
-    {
-      "title": "İstanbul Havalimanı'nın 4. pistiyle uçuşlarda yüzde 25 yakıt tasarrufu",
-      "link": "https://www.trthaber.com/haber/turkiye/istanbul-havalimaninin-4-pistiyle-ucuslarda-yuzde-25-yakit-tasarrufu-962939.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-11T10:43:00Z"
     }
   ]
 }
