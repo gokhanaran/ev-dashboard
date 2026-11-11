@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:09:48.715458Z",
+  "generated_at": "2026-11-11T14:14:52.266118Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Avrupa'nın en büyüğü yurda döndü!",
+      "link": "https://www.haberturk.com/euroleague-sampiyonu-fenerbahce-beko-yurda-dondu-3794231-spor",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:09:15Z"
+    },
+    {
+      "title": "Sultan ve Kervan hakkında suç duyurusu",
+      "link": "https://www.haberturk.com/gundem/gullu-nun-olumunde-yalan-taniklik-davasi-basladi-tugyan-beni-tehdit-etti--3926535",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:07:45Z"
+    },
     {
       "title": "3 isim hakkındaki sevk yazısında milyarlık işlem ve rüşvet iddiaları",
       "link": "https://www.sozcu.com.tr/bddk-nin-yonlendirmesiyle-kredi-artisi-iddiasi-fon-sorusturmasinda-carpici-sevk-yazisi-p380357",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/fetonun-yurt-disi-baglantili-finans-yapilanmasi-operasyonu-962936.html",
       "source": "TRT Haber",
       "published_at": "2026-11-11T10:21:00Z"
-    },
-    {
-      "title": "Fibabanka’nın ilk otonom yapay zekâ çalışanı NEO göreve başladı",
-      "link": "https://www.haberturk.com/ekonomi/fibabankanin-ilk-otonom-yapay-zek-calisani-neo-goreve-basladi-3926541",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T10:15:38Z"
-    },
-    {
-      "title": "İstanbul merkezli kara para operasyonu: 7 gözaltı",
-      "link": "https://www.trthaber.com/haber/gundem/istanbul-merkezli-kara-para-operasyonu-7-gozalti-962935.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-11T10:11:00Z"
     }
   ]
 }
