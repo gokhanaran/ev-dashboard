@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:55:57.746101Z",
+  "generated_at": "2026-11-11T22:01:02.594430Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/cop31-icin-antalya-ya-gelen-pasinyan-dan-cay-keyfi-p380398",
       "source": "Sözcü",
       "published_at": "2026-11-11T21:53:21Z"
+    },
+    {
+      "title": "Bayrampaşa'da bir bina tahliye edildi",
+      "link": "https://www.haberturk.com/gundem/bayrampasa-da-bir-bina-tahliye-edildi-3926673",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T21:52:39Z"
     },
     {
       "title": "Bakan Göktaş’tan tartışma yaratacak ‘kısırlık’ iddiası",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/ebrd-turkiye-de-temiz-enerjiye-6-milyar-dolar-yatirim-planliyor-3926611",
       "source": "Habertürk",
       "published_at": "2026-11-11T15:26:41Z"
-    },
-    {
-      "title": "İBB Meclisi'nde 20 ilçenin bütçesi onaylandı",
-      "link": "https://www.haberturk.com/gundem/ibb-meclisi-nde-20-ilcenin-butcesi-onaylandi-3926610",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T15:26:28Z"
     }
   ]
 }
