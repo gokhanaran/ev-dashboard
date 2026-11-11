@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:19:55.929367Z",
+  "generated_at": "2026-11-11T14:24:59.562634Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Borsa günü düşüşle tamamladı",
+      "link": "https://www.haberturk.com/borsa-gunu-dususle-tamamladi-3794234-ekonomi",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:21:24Z"
+    },
+    {
+      "title": "A Milli Futbol Takımı Belçika maçı için İzmir'e geldi",
+      "link": "https://www.sozcu.com.tr/a-milli-futbol-takimi-belcika-maci-icin-izmire-geldi-p380365",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T14:20:46Z"
+    },
+    {
       "title": "Galatasaray'ın zemininde son durum ne? İşte çimlerin son hali",
       "link": "https://www.sozcu.com.tr/galatasarayin-zemininde-son-durum-ne-iste-cimlerin-son-hali-p380362",
       "source": "Sözcü",
       "published_at": "2026-11-11T14:18:04Z"
+    },
+    {
+      "title": "BİM'de bu hafta neler var?",
+      "link": "https://www.haberturk.com/bim-aktuel-katalogu-30-mayis-2025-bim-de-bu-cuma-neler-var-bim-e-bu-hafta-klima-geliyor-iste-indirimli-urunler-listesi-3794232",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T14:16:16Z"
     },
     {
       "title": "Sultan ve Kervan hakkında suç duyurusu",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/galatasaray-da-lesley-ugochukwu-ile-ayrilik-yakin-3926542",
       "source": "Habertürk",
       "published_at": "2026-11-11T10:33:34Z"
-    },
-    {
-      "title": "Kamyon kasasında şüpheli ölüm!",
-      "link": "https://www.haberturk.com/gundem/kamyon-kasasinda-supheli-olum-3925750",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T10:29:28Z"
-    },
-    {
-      "title": "Ankara'da evlilik desteğinden yararlanan ailelere yeni doğan paketi verilecek",
-      "link": "https://www.trthaber.com/haber/turkiye/ankarada-evlilik-desteginden-yararlanan-ailelere-yeni-dogan-paketi-verilecek-962937.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-11T10:25:00Z"
-    },
-    {
-      "title": "Kavcıoğlu'nun ismini o gündeme getirmişti: AKP'li Sayan'dan \"Büyük depremi bekleyin\" çıkışı",
-      "link": "https://www.sozcu.com.tr/kavcioglu-nun-ismini-o-gundeme-getirmisti-akp-li-sayan-dan-buyuk-depremi-bekleyin-cikisi-p380278",
-      "source": "Sözcü",
-      "published_at": "2026-11-11T10:22:24Z"
     }
   ]
 }
