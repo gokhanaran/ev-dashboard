@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:10:24.255411Z",
+  "generated_at": "2026-11-11T21:15:28.391455Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Son dakika...Merkez Bankası'ndan kredi hamlesi: İhtiyaç, taşıt ve ticari kredilerde yeni dönem",
+      "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T21:14:53Z"
+    },
+    {
       "title": "Genç doktorun şüpheli ölümü: 8’inci kattan düştüğü öne sürüldü",
       "link": "https://www.sozcu.com.tr/genc-doktorun-supheli-olumu-8-inci-kattan-dustugu-one-suruldu-p380400",
       "source": "Sözcü",
       "published_at": "2026-11-11T21:08:36Z"
+    },
+    {
+      "title": "İmamoğlu davasının 108. duruşması sona erdi",
+      "link": "https://www.haberturk.com/gundem/imamoglu-davasinin-108-durusmasi-sona-erdi-3926669",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T21:06:49Z"
     },
     {
       "title": "Yüksek sesli müzik tartışmasında 10 yaşındaki çocuk katil oldu: 16 yaşındaki komşusunu öldürdü",
@@ -88,12 +100,6 @@
       "link": "https://www.trthaber.com/haber/dunya/katar-hurmuz-bogazindaki-krizin-kuresel-kalkinmaya-etkileri-giderek-agirlasiyor-962977.html",
       "source": "TRT Haber",
       "published_at": "2026-11-11T20:43:00Z"
-    },
-    {
-      "title": "Son dakika...Merkez Bankası'ndan kredi hamlesi: İhtiyaç, taşıt ve ticari kredilerde yeni dönem",
-      "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
-      "source": "Sözcü",
-      "published_at": "2026-11-11T20:41:20Z"
     },
     {
       "title": "Kurum: Hiçbir ülke iklim krizi karşısında tek başına güvende değil",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/bella-hadid-yeni-askini-buldu-3926598",
       "source": "Habertürk",
       "published_at": "2026-11-11T14:40:16Z"
-    },
-    {
-      "title": "Çin'de kaldırımlar canlı yayın stüdyosuna dönüştü! Her biri ayrı çadırda",
-      "link": "https://www.sozcu.com.tr/cin-de-kaldirimlar-canli-yayin-studyosuna-donustu-her-biri-ayri-cadirda-p380370",
-      "source": "Sözcü",
-      "published_at": "2026-11-11T14:40:12Z"
     }
   ]
 }
