@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:01:02.594430Z",
+  "generated_at": "2026-11-11T22:06:06.466437Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye'nin en güvenli 5 şehri belli oldu! Zirvedeki il şaşırttı",
+      "link": "https://www.sozcu.com.tr/turkiye-nin-en-guvenli-5-sehri-belli-oldu-zirvedeki-il-sasirtti-p380455",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T22:03:37Z"
+    },
+    {
+      "title": "4 tonluk beton bloklar tek tek denize bırakılacak",
+      "link": "https://www.sozcu.com.tr/4-tonluk-beton-bloklar-tek-tek-denize-birakilacak-p380454",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T22:00:39Z"
+    },
     {
       "title": "Paşinyan'dan Antalya'da tuhaf hareketler",
       "link": "https://www.sozcu.com.tr/cop31-icin-antalya-ya-gelen-pasinyan-dan-cay-keyfi-p380398",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-dahil-11-ile-kuvvetli-yagis-uyarisi-p380378",
       "source": "Sözcü",
       "published_at": "2026-11-11T15:28:05Z"
-    },
-    {
-      "title": "11 il için sarı kodlu uyarı",
-      "link": "https://www.haberturk.com/gundem/11-il-icin-sari-kodlu-uyari-3926609",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T15:27:59Z"
-    },
-    {
-      "title": "EBRD, Türkiye'de temiz enerjiye 6 milyar dolar yatırım planlıyor",
-      "link": "https://www.haberturk.com/ekonomi/ebrd-turkiye-de-temiz-enerjiye-6-milyar-dolar-yatirim-planliyor-3926611",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T15:26:41Z"
     }
   ]
 }
