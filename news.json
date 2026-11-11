@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:20:32.649753Z",
+  "generated_at": "2026-11-11T21:30:39.869741Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Rusya'nın Washington Büyükelçisi hayatını kaybetti",
+      "link": "https://www.haberturk.com/dunya/rusya-nin-washington-buyukelcisi-hayatini-kaybetti-3926670",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T21:21:58Z"
+    },
+    {
+      "title": "BM: 150 binden fazla çadır Gazze dışında sevk edilmeye hazır durumda bekletiliyor",
+      "link": "https://www.trthaber.com/haber/dunya/bm-150-binden-fazla-cadir-gazze-disinda-sevk-edilmeye-hazir-durumda-bekletiliyor-962980.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-11T21:21:00Z"
+    },
     {
       "title": "Genç doktorun şüpheli ölümü: 8’inci kattan düştüğü öne sürüldü",
       "link": "https://www.sozcu.com.tr/genc-doktorun-supheli-olumu-8-inci-kattan-dustugu-one-suruldu-p380400",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/salon-ve-mutfak-duzenli-yatak-odasi-daginiksa-dikkat-psikologlara-gore-bunun-nedeni-tembellik-olmayabilir-3926286",
       "source": "Habertürk",
       "published_at": "2026-11-11T14:41:10Z"
-    },
-    {
-      "title": "Sultan ve Kervan hakkında suç duyurusu",
-      "link": "https://www.haberturk.com/gundem/gullu-nun-olumunde-yalan-taniklik-davasi-basladi-tugyan-beni-tehdit-etti--3926535",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T14:40:54Z"
-    },
-    {
-      "title": "Yeni aşkı da bir kovboy",
-      "link": "https://www.haberturk.com/magazin/bella-hadid-yeni-askini-buldu-3926598",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T14:40:16Z"
     }
   ]
 }
