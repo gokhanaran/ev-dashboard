@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:54:04.157017Z",
+  "generated_at": "2026-11-11T06:04:10.791781Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ziraat Katılım ve Halk Katılım'ın TVF'ye pay devirleri tamamlandı",
+      "link": "https://www.haberturk.com/ekonomi/ziraat-katilim-ve-halk-katilim-in-tvf-ye-pay-devirleri-tamamlandi-3926423",
+      "source": "Habertürk",
+      "published_at": "2026-11-11T05:54:18Z"
+    },
     {
       "title": "Benzin ve motorine indirim geleceği tarih açıklandı",
       "link": "https://www.sozcu.com.tr/benzin-ve-motorine-indirim-gelecegi-tarih-aciklandi-p380141",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbulda-trafikte-kavga-eden-iki-surucuye-562-bin-lira-ceza-962858.html",
       "source": "TRT Haber",
       "published_at": "2026-11-10T19:43:00Z"
-    },
-    {
-      "title": "Kanatlı karıncalar şehri istila etmeye başladı",
-      "link": "https://www.sozcu.com.tr/kanatli-karincalar-sehri-istila-etmeye-basladi-p380054",
-      "source": "Sözcü",
-      "published_at": "2026-11-10T19:41:57Z"
     }
   ]
 }
