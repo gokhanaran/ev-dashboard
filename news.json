@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:45:50.701936Z",
+  "generated_at": "2026-11-11T21:55:57.746101Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Paşinyan'dan Antalya'da tuhaf hareketler",
+      "link": "https://www.sozcu.com.tr/cop31-icin-antalya-ya-gelen-pasinyan-dan-cay-keyfi-p380398",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T21:53:21Z"
+    },
+    {
+      "title": "Bakan Göktaş’tan tartışma yaratacak ‘kısırlık’ iddiası",
+      "link": "https://www.sozcu.com.tr/bakan-goktas-tan-tartisma-yaratacak-kisirlik-iddiasi-p380452",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T21:49:56Z"
+    },
     {
       "title": "Locarno Film Festivali İstanbul’da!",
       "link": "https://www.haberturk.com/kultur-sanat/locarno-film-festivali-istanbulda-3926660",
@@ -184,6 +196,12 @@
       "link": "https://www.trthaber.com/haber/dunya/katar-hurmuz-bogazindaki-krizin-kuresel-kalkinmaya-etkileri-giderek-agirlasiyor-962977.html",
       "source": "TRT Haber",
       "published_at": "2026-11-11T20:43:00Z"
+    },
+    {
+      "title": "Bursa’da otomobil ile motosiklet çarpıştı: Anne ve oğlu yaralandı",
+      "link": "https://www.sozcu.com.tr/bursa-da-otomobil-ile-motosiklet-carpisti-anne-ve-oglu-yaralandi-p380436",
+      "source": "Sözcü",
+      "published_at": "2026-11-11T20:36:00Z"
     },
     {
       "title": "Şehri dev bir saate dönüştürecekler: Yollar rakamlara göre düzenlenecek",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ibb-meclisi-nde-20-ilcenin-butcesi-onaylandi-3926610",
       "source": "Habertürk",
       "published_at": "2026-11-11T15:26:28Z"
-    },
-    {
-      "title": "Galatasaray'da zemin krizi devam ediyor 'Maçlar başka stadyumda oynansın'",
-      "link": "https://www.sozcu.com.tr/galatasaray-da-zemin-krizi-devam-ediyor-maclar-baska-stadyumda-oynansin-p380375",
-      "source": "Sözcü",
-      "published_at": "2026-11-11T15:14:00Z"
-    },
-    {
-      "title": "Arabesk müziğin usta ismi hayatını kaybetti",
-      "link": "https://www.haberturk.com/magazin/cengiz-tekin-hayatini-kaybetti-3926572",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T15:05:29Z"
-    },
-    {
-      "title": "Daha çok ağaç, daha çok bisiklet!",
-      "link": "https://www.haberturk.com/gundem/daha-cok-agac-daha-cok-bisiklet-3926603",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T15:00:40Z"
     }
   ]
 }
