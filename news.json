@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:16:02.252708Z",
+  "generated_at": "2026-11-12T19:21:06.919015Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,52 @@
   ],
   "items": [
     {
+      "title": "Malatya'da askeri helikopter düştü: 4 asker şehit",
+      "link": "https://www.sozcu.com.tr/malatya-da-helikopter-dustu-p380752",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T19:19:30Z"
+    },
+    {
+      "title": "İsrail’den Fransız siyasetçilere ülkeye giriş yasağı: Biri cumhurbaşkanı adayı",
+      "link": "https://www.sozcu.com.tr/israil-den-fransiz-siyasetcilere-ulkeye-giris-yasagi-biri-cumhurbaskani-adayi-p380787",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T19:17:52Z"
+    },
+    {
+      "title": "5’te 0 çeken milli takım 44 yıl sonra ilki yaşadı",
+      "link": "https://www.sozcu.com.tr/5te-0-ceken-milli-takim-44-yil-sonra-ilki-yasadi-p380786",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T19:15:41Z"
+    },
+    {
+      "title": "Evine polis baskını yapılmıştı! Icardi savcılıkta ifade verdi",
+      "link": "https://www.sozcu.com.tr/evine-polis-baskini-yapilmisti-icardi-savcilikta-ifade-verdi-p380784",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T19:15:12Z"
+    },
+    {
       "title": "Kayaçların arasında servet buldular: Her gün 800 bin metreküp çıkıyor",
       "link": "https://www.sozcu.com.tr/kayaclarin-arasinda-servet-buldular-her-gun-800-bin-metrekup-cikiyor-p380785",
       "source": "Sözcü",
       "published_at": "2026-11-12T19:14:33Z"
+    },
+    {
+      "title": "İran'ın Sirik şehrine saldırı",
+      "link": "https://www.haberturk.com/dunya/son-dakika-iran-in-sirik-sehrine-saldiri-3926952",
+      "source": "Habertürk",
+      "published_at": "2026-11-12T19:12:37Z"
+    },
+    {
+      "title": "Malatya'da helikopter düştü: 4 asker şehit oldu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-malatya-da-helikopter-dustu-3926921",
+      "source": "Habertürk",
+      "published_at": "2026-11-12T19:12:35Z"
+    },
+    {
+      "title": "Milliler 44 yıl sonra aynı kabusu yaşıyor!",
+      "link": "https://www.haberturk.com/spor/foto/a-milli-takim-44-yil-sonra-ayni-kabusu-yasiyor-5-maclik-kara-seri-3926951",
+      "source": "Habertürk",
+      "published_at": "2026-11-12T19:11:30Z"
     },
     {
       "title": "A Milli Takım, İzmir'de kayıp!",
@@ -64,12 +106,6 @@
       "link": "https://www.sozcu.com.tr/batrakov-11de-basladi-rusya-ozbekistani-maglup-etti-p380781",
       "source": "Sözcü",
       "published_at": "2026-11-12T19:05:59Z"
-    },
-    {
-      "title": "İran'ın Sirik şehrine saldırı",
-      "link": "https://www.haberturk.com/dunya/son-dakika-iran-in-sirik-sehrine-saldiri-3926952",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T19:04:46Z"
     },
     {
       "title": "Sergen Yalçın mağlubiyetle başladı",
@@ -150,22 +186,10 @@
       "published_at": "2026-11-12T18:48:00Z"
     },
     {
-      "title": "Malatya'da askeri helikopter düştü: 4 asker şehit",
-      "link": "https://www.sozcu.com.tr/malatya-da-helikopter-dustu-p380752",
-      "source": "Sözcü",
-      "published_at": "2026-11-12T18:46:01Z"
-    },
-    {
       "title": "İsrail basını: CENTCOM, orduya İran'a yeni saldırı ihtimaline hazırlıklı olma mesajı gönderdi",
       "link": "https://www.trthaber.com/haber/dunya/israil-basini-centcom-orduya-irana-yeni-saldiri-ihtimaline-hazirlikli-olma-mesaji-gonderdi-963109.html",
       "source": "TRT Haber",
       "published_at": "2026-11-12T18:41:00Z"
-    },
-    {
-      "title": "Malatya'da helikopter düştü: 4 asker şehit oldu",
-      "link": "https://www.haberturk.com/gundem/son-dakika-malatya-da-helikopter-dustu-3926921",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T18:39:42Z"
     },
     {
       "title": "Nvidia'nın eski CEO'su Jensen Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/zorunlu-afet-sigortasiyla-11-8-milyon-konuta-iklim-guvencesi-3926894",
       "source": "Habertürk",
       "published_at": "2026-11-12T14:13:01Z"
-    },
-    {
-      "title": "Emekli promosyon kampanyası 2026",
-      "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyasi-2026-kasim-ayinda-hangi-banka-ne-kadar-promosyon-odemesi-yapiyor-ve-ne-kadar-3926893",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T14:08:32Z"
-    },
-    {
-      "title": "Beyaz Saray çevresinde silah sesleri",
-      "link": "https://www.trthaber.com/haber/dunya/beyaz-saray-cevresinde-silah-sesleri-963089.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-12T14:07:00Z"
-    },
-    {
-      "title": "Musk, Nvidia Üst Yöneticisi Huang'ı işe almanın onur olacağını söyledi",
-      "link": "https://www.trthaber.com/haber/dunya/musk-nvidia-ust-yoneticisi-huangi-ise-almanin-onur-olacagini-soyledi-963088.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-12T14:05:00Z"
-    },
-    {
-      "title": "Suç örgütü elebaşı Yunanistan'da yakalandı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-suc-orgutu-elebasi-yunanistan-da-yakalandi-3926801",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T14:03:22Z"
     }
   ]
 }
