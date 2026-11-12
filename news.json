@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:00:47.778881Z",
+  "generated_at": "2026-11-12T19:05:52.292666Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Putin, Ukrayna ile müzakereleri değerlendirdi",
+      "link": "https://www.haberturk.com/dunya/vladimir-putin-ukrayna-ile-muzakereleri-degerlendirdi-3926946",
+      "source": "Habertürk",
+      "published_at": "2026-11-12T19:02:33Z"
+    },
     {
       "title": "Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Yalçın'ı hayran bıraktı",
       "link": "https://www.sozcu.com.tr/arda-guler-oyle-bir-gol-atti-ki-30-metreden-vurdu-sergen-yalcini-hayran-birakti-p380765",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/yenilenebilir-enerjide-yeni-donem-gunes-ve-ruzgara-kapasite-bedeli-lisanssiz-uretime-yeni-kurallar-3926889",
       "source": "Habertürk",
       "published_at": "2026-11-12T13:49:55Z"
-    },
-    {
-      "title": "TCMB rezervlerinde artış",
-      "link": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-artis-3926888",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T13:49:18Z"
     }
   ]
 }
