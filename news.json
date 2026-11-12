@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:37:31.056527Z",
+  "generated_at": "2026-11-12T03:42:33.522717Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
-      "title": "Türk Altın’dan Ankara’da 10 bin fidanlık hatıra ormanı",
-      "link": "https://www.haberturk.com/ekonomi/turk-altindan-ankarada-10-bin-fidanlik-hatira-ormani-3926604",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T03:31:58Z"
+      "title": "İtalya, İskoçya ve Kuzey İrlanda'daki okullara bomba tehdidi gönderildi",
+      "link": "https://www.trthaber.com/haber/dunya/italya-iskocya-ve-kuzey-irlandadaki-okullara-bomba-tehdidi-gonderildi-962990.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-12T03:37:00Z"
+    },
+    {
+      "title": "Ev hapsindeki 74 yaşındaki hükümlü balkondan iple inerek kaçtı",
+      "link": "https://www.trthaber.com/haber/dunya/ev-hapsindeki-74-yasindaki-hukumlu-balkondan-iple-inerek-kacti-962989.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-12T03:34:00Z"
     },
     {
       "title": "Ünlü gemi SS United States, Florida açıklarında batırılacak",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/evin-temelini-kazarken-servet-buldu-p380410",
       "source": "Sözcü",
       "published_at": "2026-11-11T18:12:49Z"
-    },
-    {
-      "title": "Kahkaha tufanına hazır olun!",
-      "link": "https://www.haberturk.com/magazin/guldur-guldur-show-dan-yeni-tanitim-3926638",
-      "source": "Habertürk",
-      "published_at": "2026-11-11T18:07:30Z"
     }
   ]
 }
