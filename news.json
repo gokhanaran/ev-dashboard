@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:19:34.266094Z",
+  "generated_at": "2026-11-12T11:24:38.201466Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "2027'de Türk vatandaşlarının sadece pasaportla gidebileceği ülkeler belli oldu",
+      "link": "https://www.sozcu.com.tr/2027-de-turk-vatandaslarinin-sadece-pasaportla-gidebilecegi-ulkeler-belli-oldu-p380656",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T11:21:32Z"
+    },
+    {
+      "title": "Netanyahu'ya 'ülke güvenliğini tehlikeye atma' uyarısı",
+      "link": "https://www.trthaber.com/haber/dunya/netanyahuya-ulke-guvenligini-tehlikeye-atma-uyarisi-963058.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-12T11:16:00Z"
+    },
     {
       "title": "Boşanma iddialarına yanıt",
       "link": "https://www.haberturk.com/magazin/foto/selahattin-pasali-dan-bosanma-iddialarina-yanit-3926823",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/kyk-bursu-ne-zaman-yatacak-2026-2027-kyk-lisans-yuksek-lisans-doktora-kyk-burs-ucretleri-odeme-takvimi-3926761",
       "source": "Habertürk",
       "published_at": "2026-11-12T08:39:00Z"
-    },
-    {
-      "title": "KOBİ’lere COP31 Finansman Paketi",
-      "link": "https://www.haberturk.com/ekonomi/is-bankasindan-kobilere-cop31-finansman-paketi-3926775",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T08:38:19Z"
-    },
-    {
-      "title": "Karlı dağda kayboldu, 3 gün sonra döndü",
-      "link": "https://www.haberturk.com/gundem/karli-dagda-kaybolan-kuzu-3-gun-sonra-dondu-3926770",
-      "source": "Habertürk",
-      "published_at": "2026-11-12T08:37:46Z"
     }
   ]
 }
