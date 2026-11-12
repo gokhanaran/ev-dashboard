@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:17:20.580693Z",
+  "generated_at": "2026-11-12T03:22:23.250446Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "AKOM'dan İstanbul için fırtına alarmı: Lodos 80 kilometreye ulaşacak",
+      "link": "https://www.sozcu.com.tr/akom-dan-istanbul-icin-firtina-alarmi-lodos-80-kilometreye-ulasacak-p380474",
+      "source": "Sözcü",
+      "published_at": "2026-11-12T03:18:19Z"
+    },
     {
       "title": "Eisenkot'tan Netanyahu'ya acil olmayan askeri eylemlere kalkışmama uyarısı",
       "link": "https://www.trthaber.com/haber/dunya/eisenkottan-netanyahuya-acil-olmayan-askeri-eylemlere-kalkismama-uyarisi-962986.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/a-milli-kadin-basketbol-takimi-karadagi-maglup-etti-p380405",
       "source": "Sözcü",
       "published_at": "2026-11-11T17:58:46Z"
-    },
-    {
-      "title": "Gazze'de yerinden edilmiş aileler çok az koruma ve şiddetli soğuklarla karşı karşıya",
-      "link": "https://www.trthaber.com/haber/dunya/gazzede-yerinden-edilmis-aileler-cok-az-koruma-ve-siddetli-soguklarla-karsi-karsiya-962965.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-11T17:43:00Z"
     }
   ]
 }
