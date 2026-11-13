@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:34:09.801097Z",
+  "generated_at": "2026-11-13T15:44:15.289430Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Bizim de var abilerimiz\"",
+      "link": "https://www.haberturk.com/magazin/bulent-sakrak-bizim-de-var-abilerimiz-3927214",
+      "source": "Habertürk",
+      "published_at": "2026-11-13T15:38:43Z"
+    },
     {
       "title": "Son dakika...Çanakkale Boğazı'nda gemi trafiği askıya alındı",
       "link": "https://www.sozcu.com.tr/son-dakika-canakkale-bogazi-nda-gemi-trafigi-askiya-alindi-p381115",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/muhtemel-ask-21-inci-bolumuyle-seyirciyle-bulustu-3927113",
       "source": "Habertürk",
       "published_at": "2026-11-13T11:46:01Z"
-    },
-    {
-      "title": "Rüyada savaş çıktığını görmek ne anlama gelir?",
-      "link": "https://www.haberturk.com/bilgi/ruyada-savas-ciktigini-gormek-ne-anlama-gelir-ruyada-ulkede-turkiye-de-ic-savas-ciktigini-gormek-tabiri-ve-anlami-3927118",
-      "source": "Habertürk",
-      "published_at": "2026-11-13T11:45:40Z"
     }
   ]
 }
