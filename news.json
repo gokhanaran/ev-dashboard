@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:03:08.294943Z",
+  "generated_at": "2026-11-13T07:08:11.109441Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,40 @@
   ],
   "items": [
     {
+      "title": "Borsa güne düşüşle başladı -13 Kasım 2026",
+      "link": "https://www.sozcu.com.tr/borsa-gune-dususle-basladi-13-kasim-2026-p380933",
+      "source": "Sözcü",
+      "published_at": "2026-11-13T07:04:22Z"
+    },
+    {
+      "title": "Psikologların güne iyi başlamak için yaptıkları 7 şey",
+      "link": "https://hthayat.haberturk.com/psikologlarin-gune-iyi-baslamak-icin-yaptiklari-7-sey-1088330",
+      "source": "Habertürk",
+      "published_at": "2026-11-13T07:02:03Z"
+    },
+    {
       "title": "Ekin Koç fotoğraflardan Alp Navruz'u sildi: Nedeni merak konusu oldu",
       "link": "https://www.sozcu.com.tr/ekin-koc-fotograflardan-alp-navruz-u-sildi-nedeni-merak-konusu-oldu-p380931",
       "source": "Sözcü",
       "published_at": "2026-11-13T07:00:00Z"
+    },
+    {
+      "title": "Galatasaray'da RAMS Park zemini için yeni plan!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-rams-park-zemini-icin-yeni-plan-3927013",
+      "source": "Habertürk",
+      "published_at": "2026-11-13T06:59:50Z"
+    },
+    {
+      "title": "Galatasaray'da istikrar abidesi Torreira!",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-istikrar-abidesi-lucas-torreira-kirilmasi-zor-bir-ise-imza-atti-3927015",
+      "source": "Habertürk",
+      "published_at": "2026-11-13T06:58:59Z"
+    },
+    {
+      "title": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne saldırılarında 3 Filistinli hayatını kaybetti",
+      "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusunun-ateskese-ragmen-gazze-seridine-saldirilarinda-3-filistinli-hayatini-kaybetti-963154.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-13T06:56:00Z"
     },
     {
       "title": "Bankacılık devlerinden peş peşe Türkiye analizi: Faiz, enflasyon ve kurda ayrı ayrı senaryolar",
@@ -76,6 +106,12 @@
       "link": "https://www.sozcu.com.tr/kuresel-piyasalar-karisik-seyrediyor-p380921",
       "source": "Sözcü",
       "published_at": "2026-11-13T06:44:02Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan COP31'de yoğun diplomasi trafiği",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-963155.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-13T06:44:00Z"
     },
     {
       "title": "CENTCOM: İsrail basınının ABD'nin İran'a saldırılarının süreceği iddiaları tamamen spekülasyon",
@@ -718,42 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abdnin-en-buyuk-eyaleti-hala-secim-sonuclarini-bekliyor-963124.html",
       "source": "TRT Haber",
       "published_at": "2026-11-13T03:19:00Z"
-    },
-    {
-      "title": "İsrailli haham, Arap partileriyle iş birliği yapan Yahudi siyasetçilerin öldürülmesine fetva verdi",
-      "link": "https://www.trthaber.com/haber/dunya/israilli-haham-arap-partileriyle-is-birligi-yapan-yahudi-siyasetcilerin-oldurulmesine-fetva-verdi-963123.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-13T03:10:00Z"
-    },
-    {
-      "title": "UNRWA, bu yıl 250 milyon dolarlık bütçe açığıyla karşı karşıya olduğunu belirtti",
-      "link": "https://www.trthaber.com/haber/dunya/unrwa-bu-yil-250-milyon-dolarlik-butce-acigiyla-karsi-karsiya-oldugunu-belirtti-963122.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-13T03:09:00Z"
-    },
-    {
-      "title": "Alman İHA üreticisi Quantum Systems'e siber saldırı",
-      "link": "https://www.trthaber.com/haber/dunya/alman-iha-ureticisi-quantum-systemse-siber-saldiri-963121.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-13T03:07:00Z"
-    },
-    {
-      "title": "Hamas, Barış Kurulu'nu İsrail'in Gazze'deki hastanelere ilişkin yanıltıcı iddialarını desteklemekle suçladı",
-      "link": "https://www.trthaber.com/haber/dunya/hamas-baris-kurulunu-israilin-gazzedeki-hastanelere-iliskin-yaniltici-iddialarini-desteklemekle-sucladi-963120.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-13T03:06:00Z"
-    },
-    {
-      "title": "BM Güvenlik Konseyi'nden 'Yemen' kararı",
-      "link": "https://www.haberturk.com/dunya/bm-guvenlik-konseyi-nden-yemen-karari-3926987",
-      "source": "Habertürk",
-      "published_at": "2026-11-13T02:54:43Z"
-    },
-    {
-      "title": "Son dakika... İBB davasında İmamoğlu'nun avukatı ve 7 kişiye tahliye kararı",
-      "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-imamoglu-nun-avukati-ve-7-kisiye-tahliye-karari-p380812",
-      "source": "Sözcü",
-      "published_at": "2026-11-13T02:53:47Z"
     }
   ]
 }
