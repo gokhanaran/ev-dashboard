@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:18:58.534760Z",
+  "generated_at": "2026-11-13T15:24:02.558448Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.sozcu.com.tr/galatasaray-da-istifa-depremi-resmi-siteden-aciklandi-p381113",
       "source": "Sözcü",
       "published_at": "2026-11-13T15:14:15Z"
+    },
+    {
+      "title": "Hindistan'da kaza: 23 ölü",
+      "link": "https://www.haberturk.com/dunya/hindistan-da-minibus-ile-kamyonun-carpismasi-sonucu-23-kisi-oldu-3927210",
+      "source": "Habertürk",
+      "published_at": "2026-11-13T15:13:40Z"
     },
     {
       "title": "Almanya, Ukrayna için yürütülecek yeni barış görüşmelerine katılacak",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/reyting-olcumleri-hakkinda-rekabet-sorusturmasi-3927111",
       "source": "Habertürk",
       "published_at": "2026-11-13T11:33:52Z"
-    },
-    {
-      "title": "Mustafa Sarıgül'ün evinde akşam yemeği... \"Poşetten 149 bin lira çıktı\"",
-      "link": "https://www.sozcu.com.tr/mustafa-sarigul-un-evinde-aksam-yemegi-posetten-149-bin-lira-cikti-p381011",
-      "source": "Sözcü",
-      "published_at": "2026-11-13T11:33:12Z"
     }
   ]
 }
