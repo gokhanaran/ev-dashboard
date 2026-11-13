@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:24:02.558448Z",
+  "generated_at": "2026-11-13T15:29:06.601635Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Trump’tan İran itirafı: Savaşı neden bitiremediğini açıkladı",
+      "link": "https://www.sozcu.com.tr/trump-tan-iran-itirafi-savasi-neden-bitiremedigini-acikladi-p381114",
+      "source": "Sözcü",
+      "published_at": "2026-11-13T15:26:32Z"
+    },
     {
       "title": "Galatasaray'da istifa depremi! Resmi siteden açıklandı",
       "link": "https://www.sozcu.com.tr/galatasaray-da-istifa-depremi-resmi-siteden-aciklandi-p381113",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/egitim/meb-okullarda-yenilikci-siniflarin-sayisini-artiracak-963188.html",
       "source": "TRT Haber",
       "published_at": "2026-11-13T11:37:00Z"
-    },
-    {
-      "title": "Reyting ölçümleri hakkında rekabet soruşturması",
-      "link": "https://www.haberturk.com/ekonomi/reyting-olcumleri-hakkinda-rekabet-sorusturmasi-3927111",
-      "source": "Habertürk",
-      "published_at": "2026-11-13T11:33:52Z"
     }
   ]
 }
