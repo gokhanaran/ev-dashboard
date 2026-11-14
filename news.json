@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:45:30.713936Z",
+  "generated_at": "2026-11-14T16:55:37.744043Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Bir türlü bekleneni verememişti! Beşiktaş'ın kararı belli oldu",
+      "link": "https://www.sozcu.com.tr/bir-turlu-bekleneni-verememisti-besiktasin-karari-belli-oldu-p381356",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T16:49:56Z"
+    },
     {
       "title": "Doğadan toplayıp yedi, hayatını kaybetti",
       "link": "https://www.sozcu.com.tr/dogadan-toplayip-yedi-hayatini-kaybetti-p381353",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/mi-lli-ler-fransa-i-le-karsi-karsiya-geli-yor-fransa-turkiye-maci-ne-zaman-saat-kacta-milli-mac-hangi-kanalda-3927296",
       "source": "Habertürk",
       "published_at": "2026-11-14T11:55:30Z"
-    },
-    {
-      "title": "Ünlü oyuncu Ecem Karavus’tan korkutan haber: ‘Canımla savaş içindeyim’",
-      "link": "https://www.sozcu.com.tr/unlu-oyuncu-ecem-karavus-tan-korkutan-haber-canimla-savas-icindeyim-p381300",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T11:55:12Z"
     }
   ]
 }
