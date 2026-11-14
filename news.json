@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:44:51.497939Z",
+  "generated_at": "2026-11-14T10:54:58.203222Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "\"Hızlı tren Gaziantep'ten Habur'a uzanacak\"",
+      "link": "https://www.haberturk.com/ekonomi/bakan-uraloglu-gaziantep-e-hizli-tren-gelecek-3927331",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T10:41:18Z"
+    },
     {
       "title": "Türkiye'nin afet yönetim modeli dünyaya örnek oluyor",
       "link": "https://www.trthaber.com/haber/turkiye/turkiyenin-afet-yonetim-modeli-dunyaya-ornek-oluyor-963270.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/saglik/icilen-her-sigara-kanser-riskini-artiriyor-haberler-3927274",
       "source": "Habertürk",
       "published_at": "2026-11-14T06:49:15Z"
-    },
-    {
-      "title": "Audi'de 32 yıllık dönem sona erdi",
-      "link": "https://www.haberturk.com/ekonomi/audi-a8-in-uretimi-durduruldu-32-yillik-donem-sona-erdi-3926866",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T06:44:46Z"
     }
   ]
 }
