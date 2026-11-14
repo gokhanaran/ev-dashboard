@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:44:48.978841Z",
+  "generated_at": "2026-11-14T21:49:52.701579Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 10
+      "items": 11
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu",
+      "link": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:45:32Z"
+    },
+    {
+      "title": "Yarından itibaren zorunlu: Aracına taktırmayan 6 bin lira ceza ödeyecek",
+      "link": "https://www.sozcu.com.tr/yarindan-itibaren-zorunlu-aracina-taktirmayan-6-bin-lira-ceza-odeyecek-p381253",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:45:15Z"
+    },
+    {
+      "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
+      "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:44:54Z"
+    },
+    {
       "title": "Portekiz'e soğuk duş!",
       "link": "https://www.haberturk.com/spor/portekiz-danimarka-mac-sonucu-iste-portekiz-danimarka-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3927431",
       "source": "Habertürk",
@@ -52,12 +70,6 @@
       "link": "https://www.trthaber.com/haber/dunya/israil-basini-iranin-trumpi-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-963312.html",
       "source": "TRT Haber",
       "published_at": "2026-11-14T21:39:00Z"
-    },
-    {
-      "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
-      "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T21:36:32Z"
     },
     {
       "title": "İstanbul Modern'de 'Tir Tir Salı'",
@@ -160,12 +172,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/14-kasim-2026-i-ski-baraj-doluluk-orani-omerli-terkos-alibey-buyukcekmece-i-stanbul-baraj-doluluk-orani-yuzde-kac-i-stanbul-barajlarinda-son-durum-3927283",
       "source": "Habertürk",
       "published_at": "2026-11-14T21:05:07Z"
-    },
-    {
-      "title": "Yarından itibaren zorunlu: Aracına taktırmayan 6 bin lira ceza ödeyecek",
-      "link": "https://www.sozcu.com.tr/yarindan-itibaren-zorunlu-aracina-taktirmayan-6-bin-lira-ceza-odeyecek-p381253",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T21:04:35Z"
     },
     {
       "title": "Ankara’da bugün trafiğe çıkacaklar dikkat: Çok sayıda yol kapatılacak",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-en-buyuk-kuantum-bilgisayari-2027de-devreye-alinacak-963295.html",
       "source": "TRT Haber",
       "published_at": "2026-11-14T14:30:00Z"
-    },
-    {
-      "title": "İtalya Verileri Koruma Kurumu, Meta'ya 805 milyon avro ceza kesti",
-      "link": "https://www.trthaber.com/haber/dunya/italya-verileri-koruma-kurumu-metaya-805-milyon-avro-ceza-kesti-963293.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-14T14:22:00Z"
     }
   ]
 }
