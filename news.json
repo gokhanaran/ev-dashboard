@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:34:42.340898Z",
+  "generated_at": "2026-11-14T21:39:45.792397Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
+      "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:36:32Z"
+    },
     {
       "title": "İstanbul Modern'de 'Tir Tir Salı'",
       "link": "https://www.haberturk.com/kultur-sanat/istanbul-modern-de-tir-tir-sali-3927416",
@@ -148,6 +154,12 @@
       "link": "https://www.sozcu.com.tr/ankara-da-yarin-trafige-cikacaklar-dikkat-cok-sayida-yol-kapatilacak-p381375",
       "source": "Sözcü",
       "published_at": "2026-11-14T21:03:43Z"
+    },
+    {
+      "title": "Reklam Kurulu'ndan fal, medyumluk ve büyü reklamlarına durdurma kararı",
+      "link": "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:02:16Z"
     },
     {
       "title": "A Milli Futbol Takımımız UEFA Uluslar Ligi'nde Fransa deplasmanında",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/openai-chatgpt-wallet-i-duyurdu-chatgpt-artik-odeme-yapacak-3927370",
       "source": "Habertürk",
       "published_at": "2026-11-14T14:13:59Z"
-    },
-    {
-      "title": "Trafikte bıçak çekip tehdit etti",
-      "link": "https://www.haberturk.com/gundem/pendik-te-otomobil-surucusu-tartistigi-motokuryeyi-bicak-gostererek-olumle-tehdit-etti-3927372",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:13:32Z"
-    },
-    {
-      "title": "Görevi başında rahatsızlanarak şehit olan askerimiz Yozgat'ta toprağa verildi",
-      "link": "https://www.trthaber.com/haber/turkiye/gorevi-basinda-rahatsizlanarak-sehit-olan-askerimiz-yozgatta-topraga-verildi-963291.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-14T14:09:00Z"
     }
   ]
 }
