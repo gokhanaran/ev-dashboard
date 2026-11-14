@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:05:03.765780Z",
+  "generated_at": "2026-11-14T22:10:07.284896Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu",
+      "link": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T22:07:47Z"
+    },
+    {
+      "title": "Emeklileri umutlandıran haber Cumhurbaşkanlığı'ndan geldi",
+      "link": "https://www.sozcu.com.tr/emeklileri-umutlandiran-haber-cumhurbaskanligindan-geldi-p381403",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T22:06:26Z"
+    },
+    {
       "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
       "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
       "source": "Sözcü",
       "published_at": "2026-11-14T22:03:43Z"
+    },
+    {
+      "title": "Kış lastiği uygulaması tarihleri 2026 2027",
+      "link": "https://www.haberturk.com/bilgi/foto/kis-lasti-gi-uygulamasi-tari-hleri-2026-2027-kis-lastigi-uygulamasi-ne-zaman-kis-lastigi-takmamanin-cezasi-ne-kadar-ve-hangi-araclara-zorunlu-3927433",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T22:01:37Z"
+    },
+    {
+      "title": "Fransa'da gösteriler sürüyor! Polis biber gazıyla müdahale etti",
+      "link": "https://www.haberturk.com/dunya/fransa-da-gosteriler-suruyor-3927432",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T22:00:35Z"
     },
     {
       "title": "Binbaşı Kulaksız saldırısının firari şüphelisi 11 yıl sonra yakalandı",
@@ -52,12 +76,6 @@
       "link": "https://www.haberturk.com/spor/portekiz-danimarka-mac-sonucu-iste-portekiz-danimarka-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3927431",
       "source": "Habertürk",
       "published_at": "2026-11-14T21:48:10Z"
-    },
-    {
-      "title": "Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu",
-      "link": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T21:45:32Z"
     },
     {
       "title": "Yarından itibaren zorunlu: Aracına taktırmayan 6 bin lira ceza ödeyecek",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/bugun-mac-var-mi-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-14-kasim-2026-mac-programi-belli-oldu-3927270",
       "source": "Habertürk",
       "published_at": "2026-11-14T14:37:06Z"
-    },
-    {
-      "title": "Tekirdağlı balıkçılara lodos engeli",
-      "link": "https://www.haberturk.com/gundem/tekirdagli-balikcilara-lodos-engeli-3927375",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:33:28Z"
-    },
-    {
-      "title": "Yeni Parti'de Özgür Özel yeniden genel başkan seçildi",
-      "link": "https://www.trthaber.com/haber/gundem/yeni-partide-ozgur-ozel-yeniden-genel-baskan-secildi-963294.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-14T14:32:00Z"
-    },
-    {
-      "title": "Türkiye'nin en büyük kuantum bilgisayarı 2027'de devreye alınacak",
-      "link": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-en-buyuk-kuantum-bilgisayari-2027de-devreye-alinacak-963295.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-14T14:30:00Z"
     }
   ]
 }
