@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:53:32.922118Z",
+  "generated_at": "2026-11-14T03:03:39.753180Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika...ABD'de havada kriz! Ülke çapında uçuşlar saatlerce yapılamadı",
+      "link": "https://www.sozcu.com.tr/son-dakika-abd-de-tum-ucuslar-durduruldu-p381155",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T02:58:33Z"
+    },
     {
       "title": "Liseliler adalet peşinde",
       "link": "https://www.sozcu.com.tr/liseliler-adalet-pesinde-p381179",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/1-lig-de-16-17-18-hafta-programlari-aciklandi-3927218",
       "source": "Habertürk",
       "published_at": "2026-11-13T15:53:42Z"
-    },
-    {
-      "title": "116 suçtan aranan Sercan Sayal tutuklandı",
-      "link": "https://www.haberturk.com/gundem/yunanistan-dan-turkiye-ye-getirilen-suc-orgutu-elebasi-sercan-sayal-tutuklandi-3927217",
-      "source": "Habertürk",
-      "published_at": "2026-11-13T15:53:10Z"
     }
   ]
 }
