@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:04:19.477695Z",
+  "generated_at": "2026-11-14T10:09:23.523959Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Patnos'ta öğrencilerin sahipsiz köpek endişesi",
+      "link": "https://www.haberturk.com/gundem/patnos-ta-ogrencilerin-sahipsiz-kopek-endisesi-3927324",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T10:04:34Z"
+    },
     {
       "title": "Özgür Özel kanser hastası bir vatandaşın gönderdiği para ve notu gösterdi, anlatırken zorlandı...",
       "link": "https://www.sozcu.com.tr/ozgur-ozel-kanser-hastasi-bir-vatandasin-gonderdigi-para-ve-notu-gosterdi-anlatirken-zorlandi-p381260",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/hamzabeylide-5586-milyon-lira-degerinde-kacak-esya-ele-gecirildi-963239.html",
       "source": "TRT Haber",
       "published_at": "2026-11-14T06:04:00Z"
-    },
-    {
-      "title": "Fırtına ne kadar sürecek? İstanbul Valiliği: 74 ihbar aldık! Marmara'da fırtına",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-hizi-saatte-90-km-yi-bulacak-istanbul-da-firtina-3927043",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T05:57:35Z"
     }
   ]
 }
