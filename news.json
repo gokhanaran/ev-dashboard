@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:39:45.792397Z",
+  "generated_at": "2026-11-14T21:44:48.978841Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Portekiz'e soğuk duş!",
+      "link": "https://www.haberturk.com/spor/portekiz-danimarka-mac-sonucu-iste-portekiz-danimarka-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3927431",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T21:40:45Z"
+    },
+    {
+      "title": "Portekiz, Ronaldo'suz ilk maçta darmaduman oldu",
+      "link": "https://www.sozcu.com.tr/portekiz-ronaldo-suz-ilk-macta-darmaduman-oldu-p381398",
+      "source": "Sözcü",
+      "published_at": "2026-11-14T21:40:45Z"
+    },
+    {
+      "title": "İsrail basını, İran'ın Trump'ı İHA saldırısıyla hedef almayı planladığını iddia etti",
+      "link": "https://www.trthaber.com/haber/dunya/israil-basini-iranin-trumpi-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-963312.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-14T21:39:00Z"
+    },
     {
       "title": "Ankara'da silahlı ve bıçaklı kavga: 1'i ağır 11 yaralı",
       "link": "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
@@ -202,6 +220,12 @@
       "link": "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
       "source": "Sözcü",
       "published_at": "2026-11-14T20:27:50Z"
+    },
+    {
+      "title": "Gazze'de enkazdan yaklaşık 3 yıl sonra çıkarılan 70 Filistinliye veda edildi",
+      "link": "https://www.trthaber.com/haber/dunya/gazzede-enkazdan-yaklasik-3-yil-sonra-cikarilan-70-filistinliye-veda-edildi-963311.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-14T20:19:00Z"
     },
     {
       "title": "Serdar Aziz'den Galatasaraylıları kızdıran sözler",
@@ -730,30 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/italya-verileri-koruma-kurumu-metaya-805-milyon-avro-ceza-kesti-963293.html",
       "source": "TRT Haber",
       "published_at": "2026-11-14T14:22:00Z"
-    },
-    {
-      "title": "Ronaldo'nun mirası Galatasaray'ın yıldızına geçiyor",
-      "link": "https://www.sozcu.com.tr/ronaldonun-mirasi-galatasarayinn-yildizina-geciyor-p381333",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T14:19:19Z"
-    },
-    {
-      "title": "Irak'ta Kerkük Valiliğine Türkmen siyasetçi Kahtan Vindavi seçildi",
-      "link": "https://www.trthaber.com/haber/dunya/irakta-kerkuk-valiligine-turkmen-siyasetci-kahtan-vindavi-secildi-963292.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-14T14:15:00Z"
-    },
-    {
-      "title": "İklim krizi en çok kadınları ve kız çocuklarını etkiliyor",
-      "link": "https://www.haberturk.com/saglik/iklim-krizi-en-cok-kadinlari-ve-kiz-cocuklarini-etkiliyor-haberler-3927371",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:14:03Z"
-    },
-    {
-      "title": "ChatGPT artık ödeme yapabilecek",
-      "link": "https://www.haberturk.com/ekonomi/openai-chatgpt-wallet-i-duyurdu-chatgpt-artik-odeme-yapacak-3927370",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:13:59Z"
     }
   ]
 }
