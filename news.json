@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T10:39:47.487042Z",
+  "generated_at": "2026-11-14T10:44:51.497939Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Türkiye'nin afet yönetim modeli dünyaya örnek oluyor",
+      "link": "https://www.trthaber.com/haber/turkiye/turkiyenin-afet-yonetim-modeli-dunyaya-ornek-oluyor-963270.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-14T10:37:00Z"
+    },
+    {
+      "title": "Gerçek yüzü ortaya çıktı",
+      "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-lider-in-gercek-yuzu-ortaya-cikti-3927329",
+      "source": "Habertürk",
+      "published_at": "2026-11-14T10:36:23Z"
+    },
     {
       "title": "'Platonik caniyi' hiç tanımıyordu! 8 yerinden bıçaklandı... Bir kadının feryadı",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-platonik-caniyi-hic-tanimiyordu-8-yerinden-bicaklandi-nurseli-sezerin-feryadi-3927328",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/audi-a8-in-uretimi-durduruldu-32-yillik-donem-sona-erdi-3926866",
       "source": "Habertürk",
       "published_at": "2026-11-14T06:44:46Z"
-    },
-    {
-      "title": "Yemek değil sanki meydan okuma: Türkiye'nin en sıra dışı 6 lezzeti",
-      "link": "https://www.sozcu.com.tr/yemek-degil-sanki-meydan-okuma-turkiye-nin-en-sira-disi-6-lezzeti-p381218",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T06:43:23Z"
-    },
-    {
-      "title": "Televizyonlarda dizi süreleri kısalıyor: İşte yeni bölüm süresi",
-      "link": "https://www.sozcu.com.tr/televizyonlarda-dizi-sureleri-kisaliyor-iste-yeni-bolum-suresi-p381217",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T06:36:50Z"
     }
   ]
 }
