@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:35:19.780412Z",
+  "generated_at": "2026-11-15T21:40:25.032827Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "A Milli Takım Fransa’dan mağlup döndü! Ay-yıldızlılar Uluslar Ligi’nde 6’da sıfır çekti",
+      "link": "https://www.sozcu.com.tr/a-milli-takim-fransa-dan-maglup-dondu-ay-yildizlilar-uluslar-ligi-nde-6-da-sifir-cekti-p381623",
+      "source": "Sözcü",
+      "published_at": "2026-11-15T21:39:13Z"
+    },
+    {
+      "title": "5 kişiye çarpan sürücü alkollü çıktı",
+      "link": "https://www.haberturk.com/gundem/5-kisiye-carpan-surucu-alkollu-cikti-3927554",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T21:37:29Z"
+    },
     {
       "title": "Fransa-Türkiye UEFA Uluslar Ligi maçı (Canlı)",
       "link": "https://www.sozcu.com.tr/fransa-turkiye-uefa-uluslar-ligi-maci-canli-p381623",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/fenerbahce-nin-kocaelispor-maci-hazirliklari-suruyor-3927504",
       "source": "Habertürk",
       "published_at": "2026-11-15T12:13:02Z"
-    },
-    {
-      "title": "İskoçya'da binlerce kişi yapay zeka veri merkezlerini protesto etti",
-      "link": "https://www.trthaber.com/haber/dunya/iskocyada-binlerce-kisi-yapay-zeka-veri-merkezlerini-protesto-etti-963347.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-15T12:13:00Z"
-    },
-    {
-      "title": "Rekabet Kurumu reytingleri mercek altına aldı",
-      "link": "https://www.trthaber.com/haber/gundem/rekabet-kurumu-reytingleri-mercek-altina-aldi-963343.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-15T12:10:00Z"
     }
   ]
 }
