@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:56:45.859982Z",
+  "generated_at": "2026-11-15T17:06:50.536054Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 15
+      "items": 16
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Bu karar Türkiye'de bir ilk oldu! Mahkemeden dikkat çeken araç kararı",
+      "link": "https://www.sozcu.com.tr/bu-karar-turkiye-de-bir-ilk-oldu-mahkemeden-dikkat-ceken-arac-karari-p381630",
+      "source": "Sözcü",
+      "published_at": "2026-11-15T17:03:23Z"
+    },
+    {
       "title": "G.Saray Daikin deplasmanda kazandı!",
       "link": "https://www.haberturk.com/spor/goztepe-yuppo-1-galatasaray-daikin-3-mac-sonucu-3927531",
       "source": "Habertürk",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/sehnaz-dilan-ediz-hun-a-cevap-verdi-p381622",
       "source": "Sözcü",
       "published_at": "2026-11-15T16:43:58Z"
+    },
+    {
+      "title": "Koskoca otobüsü çatının kenarına bıraktılar",
+      "link": "https://www.sozcu.com.tr/koskoca-otobusu-catinin-kenarina-biraktilar-p381628",
+      "source": "Sözcü",
+      "published_at": "2026-11-15T16:42:11Z"
     },
     {
       "title": "SPK'den olağanüstü tasfiyede halka açık ortaklıkların geri aldığı paylarla ilgili açıklama",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/uc-aylar-takvi-mi-2026-2027-uc-aylar-ne-zaman-basliyor-recep-saban-ramazan-ayi-ilk-oruc-ve-kandil-tarihleri-belli-oldu-3926778",
       "source": "Habertürk",
       "published_at": "2026-11-15T09:34:10Z"
-    },
-    {
-      "title": "Yatarken çorap giyenler dikkat!",
-      "link": "https://www.haberturk.com/bilgi/corapla-uyuyanlar-mi-hakli-cikarip-atanlar-mi-bilim-insanlari-son-noktayi-koydu-3927159",
-      "source": "Habertürk",
-      "published_at": "2026-11-15T09:33:48Z"
-    },
-    {
-      "title": "Rhaldney, Göztepe'nin bel kemiği oldu",
-      "link": "https://www.haberturk.com/spor/goztepe-de-kadroda-dusunulmeyen-rhaldney-takimin-bel-kemigi-oldu-3927488",
-      "source": "Habertürk",
-      "published_at": "2026-11-15T09:32:45Z"
     }
   ]
 }
