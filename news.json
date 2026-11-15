@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:21:28.676825Z",
+  "generated_at": "2026-11-15T16:26:31.353736Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Yeni Parti'de PM ve YDK seçimleri",
+      "link": "https://www.haberturk.com/gundem/yeni-parti-de-pm-ve-ydk-secimi-yapilacak-3927459",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T16:20:16Z"
+    },
     {
       "title": "İşte Özgür Özel'in blok listesinde yer alan isimler...",
       "link": "https://www.sozcu.com.tr/iste-ozgur-ozel-in-blok-listesinde-yer-alan-isimler-p381626",
@@ -226,12 +232,6 @@
       "link": "https://www.haberturk.com/spor/son-dakika-gaziantep-fk-volkan-demirel-donemi-3927517",
       "source": "Habertürk",
       "published_at": "2026-11-15T14:37:03Z"
-    },
-    {
-      "title": "Yeni Parti'de PM ve YDK seçimleri",
-      "link": "https://www.haberturk.com/gundem/yeni-parti-de-pm-ve-ydk-secimi-yapilacak-3927459",
-      "source": "Habertürk",
-      "published_at": "2026-11-15T14:35:00Z"
     },
     {
       "title": "ABD'ye kaçan Bolsonaro kalıcı oturum izni alacak mı?",
