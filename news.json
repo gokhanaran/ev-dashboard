@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:51:43.338487Z",
+  "generated_at": "2026-11-15T16:56:45.859982Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "G.Saray Daikin deplasmanda kazandı!",
+      "link": "https://www.haberturk.com/spor/goztepe-yuppo-1-galatasaray-daikin-3-mac-sonucu-3927531",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T16:48:47Z"
+    },
     {
       "title": "Yoksul filminin Leyla’sı Şehnaz Dilan’dan uzun zaman sonra ilk görüntü!",
       "link": "https://www.sozcu.com.tr/sehnaz-dilan-ediz-hun-a-cevap-verdi-p381622",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/goztepe-de-kadroda-dusunulmeyen-rhaldney-takimin-bel-kemigi-oldu-3927488",
       "source": "Habertürk",
       "published_at": "2026-11-15T09:32:45Z"
-    },
-    {
-      "title": "Profesörün paylaşımına soruşturma",
-      "link": "https://www.haberturk.com/gundem/izmir-de-profesorun-sanal-medya-paylasimina-sorusturma-3927487",
-      "source": "Habertürk",
-      "published_at": "2026-11-15T09:29:23Z"
     }
   ]
 }
