@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:41:55.733873Z",
+  "generated_at": "2026-11-15T09:46:58.825467Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fuhuş pazarlığında kavga çıktı: Olan taksiciye oldu",
+      "link": "https://www.sozcu.com.tr/fuhus-pazarliginda-kavga-cikti-olan-taksiciye-oldu-p381526",
+      "source": "Sözcü",
+      "published_at": "2026-11-15T09:41:37Z"
+    },
     {
       "title": "Muçi'den transfer sözleri: 'Umarım Salah beni Liverpool'a önerir'",
       "link": "https://www.sozcu.com.tr/muciden-transfer-sozleri-umarim-salah-beni-liverpoola-onerir-p381534",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-kayip-olarak-aranan-62-yasindaki-kadin-bulundu-963316.html",
       "source": "TRT Haber",
       "published_at": "2026-11-15T03:38:00Z"
-    },
-    {
-      "title": "Kocaeli'de zincirleme kaza: 8 yaralı",
-      "link": "https://www.trthaber.com/haber/turkiye/kocaelide-zincirleme-kaza-8-yarali-963315.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-15T03:34:00Z"
     }
   ]
 }
