@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:19:45.691817Z",
+  "generated_at": "2026-11-15T02:29:50.523264Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Alev alan araçta can pazarı: 2 ölü, 5 yaralı",
+      "link": "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
+      "source": "Sözcü",
+      "published_at": "2026-11-15T02:28:21Z"
+    },
     {
       "title": "İtalya'dan Meta'ya 805 milyon euro ceza!",
       "link": "https://www.haberturk.com/dunya/italya-dan-meta-ya-805-milyon-euro-ceza-3927438",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/nissan-primastar-turkiye-de-satisa-cikti-iste-fiyatlari-ve-ozellikleri-3927376",
       "source": "Habertürk",
       "published_at": "2026-11-14T14:41:46Z"
-    },
-    {
-      "title": "Kros Milli Takımı Balkan şampiyonu oldu",
-      "link": "https://www.sozcu.com.tr/kros-milli-takimi-balkan-sampiyonu-oldu-p381336",
-      "source": "Sözcü",
-      "published_at": "2026-11-14T14:41:14Z"
     }
   ]
 }
