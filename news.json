@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:40:25.032827Z",
+  "generated_at": "2026-11-15T21:45:29.039321Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 8
+      "items": 9
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,19 @@
       "title": "A Milli Takım Fransa’dan mağlup döndü! Ay-yıldızlılar Uluslar Ligi’nde 6’da sıfır çekti",
       "link": "https://www.sozcu.com.tr/a-milli-takim-fransa-dan-maglup-dondu-ay-yildizlilar-uluslar-ligi-nde-6-da-sifir-cekti-p381623",
       "source": "Sözcü",
-      "published_at": "2026-11-15T21:39:13Z"
+      "published_at": "2026-11-15T21:41:02Z"
+    },
+    {
+      "title": "A Milli Futbol Takımımız Fransa'ya kaybetti",
+      "link": "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-fransaya-kaybetti-963366.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-15T21:40:00Z"
+    },
+    {
+      "title": "Milliler Fransa'da mağlup oldu",
+      "link": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-fransa-a-milli-takim-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-3927446",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T21:39:11Z"
     },
     {
       "title": "5 kişiye çarpan sürücü alkollü çıktı",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/ve-osimhenin-donus-maci-belli-oldu-galatasaraylilari-sevindiren-haber-p381573",
       "source": "Sözcü",
       "published_at": "2026-11-15T12:20:13Z"
-    },
-    {
-      "title": "Babasının rahatsızlığı nedeniyle kepenk indirmişti: MasterChef şampiyonu 1 ay sonra kararını verdi",
-      "link": "https://www.sozcu.com.tr/babasinin-rahatsizligi-nedeniyle-kepenk-indirmisti-masterchef-sampiyonu-1-ay-sonra-kararini-verdi-p381572",
-      "source": "Sözcü",
-      "published_at": "2026-11-15T12:18:40Z"
-    },
-    {
-      "title": "Fenerbahçe'nin hazırlıkları devam etti",
-      "link": "https://www.haberturk.com/spor/fenerbahce-nin-kocaelispor-maci-hazirliklari-suruyor-3927504",
-      "source": "Habertürk",
-      "published_at": "2026-11-15T12:13:02Z"
     }
   ]
 }
