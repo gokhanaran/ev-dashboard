@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:04:38.443387Z",
+  "generated_at": "2026-11-15T02:19:45.691817Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İtalya'dan Meta'ya 805 milyon euro ceza!",
+      "link": "https://www.haberturk.com/dunya/italya-dan-meta-ya-805-milyon-euro-ceza-3927438",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T02:08:38Z"
+    },
     {
       "title": "\"İran, Trump'ı İHA saldırısıyla hedef alacak\"",
       "link": "https://www.haberturk.com/dunya/israil-basini-iran-in-trump-i-iha-saldirisiyla-hedef-almayi-planladigini-iddia-etti-3927437",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/kros-milli-takimi-balkan-sampiyonu-oldu-p381336",
       "source": "Sözcü",
       "published_at": "2026-11-14T14:41:14Z"
-    },
-    {
-      "title": "Dünün reyting birincisi belli oldu!",
-      "link": "https://www.haberturk.com/bilgi/foto/13-kasim-2026-reyti-ng-sonuclari-dunun-reyting-birincisi-kim-oldu-kizilcik-serbeti-tasacak-bu-deniz-masterchef-turkiye-total-ab-ve-abc1-reyting-siralamasi-3927269",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:41:00Z"
     }
   ]
 }
