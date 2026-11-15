@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:52:01.343018Z",
+  "generated_at": "2026-11-15T09:57:03.845990Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "DMM'den Almanya'dan 500 kişi Türkiye'ye gönderilecek iddiasına açıklama",
+      "link": "https://www.trthaber.com/haber/gundem/dmmden-almanyadan-500-kisi-turkiyeye-gonderilecek-iddiasina-aciklama-963332.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-15T09:54:00Z"
+    },
+    {
       "title": "Fuhuş pazarlığında kavga çıktı: Olan taksiciye oldu",
       "link": "https://www.sozcu.com.tr/fuhus-pazarliginda-kavga-cikti-olan-taksiciye-oldu-p381526",
       "source": "Sözcü",
       "published_at": "2026-11-15T09:49:37Z"
+    },
+    {
+      "title": "Karayolları İHA-SİHA pisti olacak",
+      "link": "https://www.haberturk.com/ekonomi/karayollari-iha-siha-pisti-olacak-3927486",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T09:47:09Z"
     },
     {
       "title": "\"Öfkeli, hasta ve çok yalnızdım\"",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/bir-salon-iki-kurultay-p381386",
       "source": "Sözcü",
       "published_at": "2026-11-15T04:19:51Z"
-    },
-    {
-      "title": "Alev alan araçta can pazarı: 2 ölü, 5 yaralı",
-      "link": "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
-      "source": "Sözcü",
-      "published_at": "2026-11-15T04:14:16Z"
-    },
-    {
-      "title": "Doğal gazda kademe limitleri değişti: 20 milyon abone yararlanacak",
-      "link": "https://www.sozcu.com.tr/dogal-gazda-kademe-limitleri-degisti-20-milyon-abone-yararlanacak-p381412",
-      "source": "Sözcü",
-      "published_at": "2026-11-15T04:12:35Z"
     }
   ]
 }
