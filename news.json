@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:29:50.523264Z",
+  "generated_at": "2026-11-15T02:34:53.367067Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Ali Koç'tan sunucuya Türkiye uyarısı",
+      "link": "https://www.haberturk.com/gundem/ali-koc-tan-cop31-de-sunucuya-turkiye-uyarisi-3927439",
+      "source": "Habertürk",
+      "published_at": "2026-11-15T02:28:41Z"
+    },
     {
       "title": "Alev alan araçta can pazarı: 2 ölü, 5 yaralı",
       "link": "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sarkisla-da-hayvan-pazari-tekrar-acildi-3927381",
       "source": "Habertürk",
       "published_at": "2026-11-14T14:42:06Z"
-    },
-    {
-      "title": "Nissan Primastar Türkiye'de satışta",
-      "link": "https://www.haberturk.com/ekonomi/nissan-primastar-turkiye-de-satisa-cikti-iste-fiyatlari-ve-ozellikleri-3927376",
-      "source": "Habertürk",
-      "published_at": "2026-11-14T14:41:46Z"
     }
   ]
 }
