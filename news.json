@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:18:40.148029Z",
+  "generated_at": "2026-11-16T09:23:42.867564Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -52,6 +52,12 @@
       "link": "https://www.haberturk.com/spor/foto/avrupa-basini-berke-ozer-in-fransa-turkiye-macindaki-performansini-on-plana-cikardi-olaganustu-bir-performans-3927611",
       "source": "Habertürk",
       "published_at": "2026-11-16T09:10:15Z"
+    },
+    {
+      "title": "Bakan Kurum: Türk devletleri arasında yeni bir platform kuruyoruz",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-turk-devletleri-arasinda-yeni-bir-platform-kuruyoruz-963414.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-16T09:10:00Z"
     },
     {
       "title": "COP31'de çocuklar trafik ve iklimi öğreniyor",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/altin-haftaya-nasil-basladi-963388.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T06:38:00Z"
-    },
-    {
-      "title": "Beşiktaş'ta yabancı kontenjanı doldu: İki isme yol göründü",
-      "link": "https://www.sozcu.com.tr/besiktasta-yabanci-kontenjani-doldu-iki-isme-yol-gorundu-p381767",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T06:29:58Z"
     }
   ]
 }
