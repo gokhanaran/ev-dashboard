@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:38:50.829778Z",
+  "generated_at": "2026-11-16T09:43:53.521938Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -24,8 +24,8 @@
     {
       "source": "TRT Haber",
       "url": "https://www.trthaber.com/sondakika_articles.rss",
-      "ok": true,
-      "items": 60
+      "ok": false,
+      "error": "<urlopen error timed out>"
     },
     {
       "source": "Ensonhaber",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Halkı yoksullukla boğuşan Afrika ülkesinde altın hazinesi! Dünya devleri harekete geçti",
+      "link": "https://www.sozcu.com.tr/zambiyaya-milyarlarca-dolarlik-maden-yatirimi-halkin-yuzde-70i-yoksulluk-icinde-p381844",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T09:41:27Z"
+    },
     {
       "title": "ABD'deki 4 saatlik kaos pilot ve kulelerin telsiz konuşmalarına yansıdı: 'Herkesi uçaktan indirin'",
       "link": "https://www.sozcu.com.tr/abd-deki-4-saatlik-kaos-pilot-ve-kulelerin-telsiz-konusmalarina-yansidi-herkesi-ucaktan-indirin-p381819",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/hulya-kocyigit-cop31-de-konustu-dunyayi-cok-hor-kullandik-3927580",
       "source": "Habertürk",
       "published_at": "2026-11-16T06:43:38Z"
-    },
-    {
-      "title": "Piyasalar haftaya temkinli başladı",
-      "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalar-yogun-gundemli-haftaya-temkinli-basladi-3927598",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T06:43:18Z"
     }
   ]
 }
