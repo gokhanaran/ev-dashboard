@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:15:36.392575Z",
+  "generated_at": "2026-11-16T20:20:40.700821Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Fon soruşturmasında 7 şüpheliye tutuklama talebi",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-p382027",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T20:17:15Z"
+    },
+    {
       "title": "ABD'nin dev bankalarında erişim krizi",
       "link": "https://www.haberturk.com/ekonomi/abd-de-jpmorgan-chase-bank-of-america-ve-us-bank-etkilendi-3927805",
       "source": "Habertürk",
-      "published_at": "2026-11-16T20:12:48Z"
+      "published_at": "2026-11-16T20:13:30Z"
     },
     {
       "title": "Fon soruşturmasında 7 tutuklama",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/abd-de-akilalmaz-olay-kocasina-gicik-oldu-cekip-vurdu-p381943",
       "source": "Sözcü",
       "published_at": "2026-11-16T14:25:25Z"
-    },
-    {
-      "title": "Beyoğlu Belediyesi Başkanvekili CHP'den istifa etti",
-      "link": "https://www.trthaber.com/haber/turkiye/beyoglu-belediyesi-baskanvekili-chpden-istifa-etti-963442.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-16T14:23:00Z"
     }
   ]
 }
