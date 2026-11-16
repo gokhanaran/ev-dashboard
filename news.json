@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:10:31.030590Z",
+  "generated_at": "2026-11-16T20:15:36.392575Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "ABD'nin dev bankalarında erişim krizi",
+      "link": "https://www.haberturk.com/ekonomi/abd-de-jpmorgan-chase-bank-of-america-ve-us-bank-etkilendi-3927805",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T20:12:48Z"
+    },
+    {
+      "title": "Fon soruşturmasında 7 tutuklama",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T20:08:08Z"
+    },
+    {
       "title": "Telegram bir ülkede daha yasaklandı",
       "link": "https://www.sozcu.com.tr/telegram-bir-ulkede-daha-yasaklandi-p382025",
       "source": "Sözcü",
       "published_at": "2026-11-16T20:06:30Z"
+    },
+    {
+      "title": "Mantardan zehirlenen 5 kişi hastaneye kaldırıldı",
+      "link": "https://www.trthaber.com/haber/turkiye/mantardan-zehirlenen-5-kisi-hastaneye-kaldirildi-963460.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-16T20:04:00Z"
     },
     {
       "title": "ABD'de çok sayıda bankaya erişilemiyor",
@@ -52,12 +70,6 @@
       "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-963459.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T19:54:00Z"
-    },
-    {
-      "title": "Fon soruşturmasında 7 tutuklama",
-      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T19:53:53Z"
     },
     {
       "title": "Abdullah Kavukcu'dan Dursun Özbek'e olay sözler! Kumpas ve iftira iddiası",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/beyoglu-belediyesi-baskanvekili-chpden-istifa-etti-963442.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T14:23:00Z"
-    },
-    {
-      "title": "Bugün Ne Oldu? 16 Kasım 2026 haberleri",
-      "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-16-kasim-2026-haberleri-karadenizde-yuk-gemisi-batti-12-murettebat-kurtarildi-cumhurbaskani-erdogandan-genclere-mesaj-altin-1-yilin-dibinde-abdli-devden-2027/923264",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T14:21:09Z"
-    },
-    {
-      "title": "Kasım ayında denize girdiler",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-antalya-da-sicaklar-suruyor-kasim-ayinda-denize-girdiler-3927737",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T14:14:32Z"
     }
   ]
 }
