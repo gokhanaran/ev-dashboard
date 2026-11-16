@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:20:40.700821Z",
+  "generated_at": "2026-11-16T20:30:48.589530Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 17
+      "items": 18
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "Doğadan toplayıp yediler... 3'ü çocuk 5 kişi hastaneye kaldırıldı",
+      "link": "https://www.sozcu.com.tr/dogadan-toplayip-yediler-3u-cocuk-5-kisi-hastaneye-kaldirildi-p382029",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T20:27:44Z"
+    },
+    {
+      "title": "Fon soruşturmasında 7 tutuklama",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T20:25:27Z"
+    },
+    {
+      "title": "Bosna Hersek Devlet Başkanlığı Konseyinin yeni üyeleri görevlerine başladı",
+      "link": "https://www.trthaber.com/haber/dunya/bosna-hersek-devlet-baskanligi-konseyinin-yeni-uyeleri-gorevlerine-basladi-963461.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-16T20:24:00Z"
+    },
+    {
       "title": "Fon soruşturmasında 7 şüpheliye tutuklama talebi",
       "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-p382027",
       "source": "Sözcü",
@@ -46,12 +64,6 @@
       "link": "https://www.haberturk.com/ekonomi/abd-de-jpmorgan-chase-bank-of-america-ve-us-bank-etkilendi-3927805",
       "source": "Habertürk",
       "published_at": "2026-11-16T20:13:30Z"
-    },
-    {
-      "title": "Fon soruşturmasında 7 tutuklama",
-      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T20:08:08Z"
     },
     {
       "title": "Telegram bir ülkede daha yasaklandı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-karaahmetoglu-chp-den-istifa-etti-3927735",
       "source": "Habertürk",
       "published_at": "2026-11-16T14:29:22Z"
-    },
-    {
-      "title": "\"Savaşı siz kazanacaksınız\"",
-      "link": "https://www.haberturk.com/magazin/foto/prens-harry-ukraynali-savas-gazilerini-ziyaret-etti-3927738",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T14:29:06Z"
-    },
-    {
-      "title": "ABD'de akılalmaz olay: Kocasına gıcık oldu çekip vurdu",
-      "link": "https://www.sozcu.com.tr/abd-de-akilalmaz-olay-kocasina-gicik-oldu-cekip-vurdu-p381943",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T14:25:25Z"
     }
   ]
 }
