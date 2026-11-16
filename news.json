@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:35:53.443553Z",
+  "generated_at": "2026-11-16T20:40:58.226927Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 18
+      "items": 19
     },
     {
       "source": "Sözcü",
@@ -39,7 +39,13 @@
       "title": "Azerbaycan’da başörtüsü yasağı sonrası bir yasak daha: Din görevlilerini ilgilendiriyor",
       "link": "https://www.sozcu.com.tr/azerbaycan-da-basortusu-yasagi-sonrasi-bir-yasak-daha-din-gorevlilerini-ilgilendiriyor-p382031",
       "source": "Sözcü",
-      "published_at": "2026-11-16T20:35:21Z"
+      "published_at": "2026-11-16T20:40:40Z"
+    },
+    {
+      "title": "Tanınmamak için estetik de yaptırdı ama... Kız arkadaşının evinde yakalandı",
+      "link": "https://www.sozcu.com.tr/taninmamak-icin-estetik-de-yaptirdi-ama-kiz-arkadasinin-evinde-yakalandi-p382033",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T20:39:17Z"
     },
     {
       "title": "Şehrin en işlek meydanını koyun sürüsü ele geçirdi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/bir-kopegin-kokusu-tarihi-degistirdi-1940-ta-bulunan-17-000-yillik-gizemli-magara-3927746",
       "source": "Habertürk",
       "published_at": "2026-11-16T14:38:13Z"
-    },
-    {
-      "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda son 24 saatte 3 kişi hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-963443.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-16T14:34:00Z"
     }
   ]
 }
