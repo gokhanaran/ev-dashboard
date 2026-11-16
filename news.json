@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:52:59.954521Z",
+  "generated_at": "2026-11-16T02:03:04.336514Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -56,6 +56,12 @@
     {
       "title": "TRT bandrol zengini",
       "link": "https://www.sozcu.com.tr/trt-bandrol-zengini-p381701",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T01:30:29Z"
+    },
+    {
+      "title": "Yen Aslan’ı yap transferi",
+      "link": "https://www.sozcu.com.tr/yen-aslan-i-yap-transferi-p381687",
       "source": "Sözcü",
       "published_at": "2026-11-16T01:30:29Z"
     },
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/juventusa-kenan-yildiz-soku-donusu-2027-yilina-uzayabilir-p381599",
       "source": "Sözcü",
       "published_at": "2026-11-15T14:16:33Z"
-    },
-    {
-      "title": "Bakan Şimşek: Piyasa manipülasyonuna karşı algoritmalı takip sistemi kurulacak",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-simsek-piyasa-manipulasyonuna-karsi-algoritmali-takip-sistemi-kurulacak-963350.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-15T14:10:00Z"
     }
   ]
 }
