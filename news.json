@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:28:45.434243Z",
+  "generated_at": "2026-11-16T09:33:47.988257Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Üzerine köprü yapıldı ama yine de yerinde durmuyor: Kontrolden çıktı",
+      "link": "https://www.sozcu.com.tr/uzerine-kopru-yapildi-ama-yine-de-yerinde-durmuyor-kontrolden-cikti-p381842",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T09:28:27Z"
+    },
     {
       "title": "Aslan'ın Oulai aşkı yeniden alevlendi!",
       "link": "https://www.haberturk.com/spor/lesley-ugochukwu-dan-bekledigini-alamayan-galatasaray-in-christ-oulai-harekati-yeniden-basladi-3927662",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9613-dolardan-islem-goruyor-963390.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T06:41:00Z"
-    },
-    {
-      "title": "Amazon'un 40 internet uydusunu taşıyan Vulcan roketi görevinde başarısız oldu",
-      "link": "https://www.trthaber.com/haber/dunya/amazonun-40-internet-uydusunu-tasiyan-vulcan-roketi-gorevinde-basarisiz-oldu-963389.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-16T06:40:00Z"
     }
   ]
 }
