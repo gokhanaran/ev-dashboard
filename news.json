@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:08:06.994674Z",
+  "generated_at": "2026-11-16T02:13:09.593991Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Tarikat tarikatı protesto etti",
+      "link": "https://www.sozcu.com.tr/tarikat-tarikati-protesto-etti-p381700",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T02:10:30Z"
+    },
     {
       "title": "Sayımı tam 8 saat sürdü! 20 milyon dolar rüşveti ormana gömmüşler!",
       "link": "https://www.sozcu.com.tr/sayimi-tam-8-saat-surdu-20-milyon-dolar-rusveti-ormana-gommusler-p381607",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/kultur-sanat/turkiye-is-bankasi-muzesi-19-yasinda-3927474",
       "source": "Habertürk",
       "published_at": "2026-11-15T14:21:13Z"
-    },
-    {
-      "title": "Juventus’a Kenan Yıldız şoku: Dönüşü 2027 yılına uzayabilir",
-      "link": "https://www.sozcu.com.tr/juventusa-kenan-yildiz-soku-donusu-2027-yilina-uzayabilir-p381599",
-      "source": "Sözcü",
-      "published_at": "2026-11-15T14:16:33Z"
     }
   ]
 }
