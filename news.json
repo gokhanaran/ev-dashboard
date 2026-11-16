@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:43:53.521938Z",
+  "generated_at": "2026-11-16T09:49:16.863943Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -24,8 +24,8 @@
     {
       "source": "TRT Haber",
       "url": "https://www.trthaber.com/sondakika_articles.rss",
-      "ok": false,
-      "error": "<urlopen error timed out>"
+      "ok": true,
+      "items": 60
     },
     {
       "source": "Ensonhaber",
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "ABD'deki 4 saatlik kaos pilot ve kulelerin telsiz konuşmalarına yansıdı: 'Herkesi uçaktan indirin'",
+      "link": "https://www.sozcu.com.tr/abd-deki-4-saatlik-kaos-pilot-ve-kulelerin-telsiz-konusmalarina-yansidi-herkesi-ucaktan-indirin-p381819",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T09:46:03Z"
+    },
+    {
+      "title": "IC'den gençlere istihdam desteği",
+      "link": "https://www.haberturk.com/ekonomi/ic-holding-den-genclere-egitim-ve-istihdam-destegi-3927669",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T09:42:21Z"
+    },
+    {
       "title": "Halkı yoksullukla boğuşan Afrika ülkesinde altın hazinesi! Dünya devleri harekete geçti",
       "link": "https://www.sozcu.com.tr/zambiyaya-milyarlarca-dolarlik-maden-yatirimi-halkin-yuzde-70i-yoksulluk-icinde-p381844",
       "source": "Sözcü",
       "published_at": "2026-11-16T09:41:27Z"
     },
     {
-      "title": "ABD'deki 4 saatlik kaos pilot ve kulelerin telsiz konuşmalarına yansıdı: 'Herkesi uçaktan indirin'",
-      "link": "https://www.sozcu.com.tr/abd-deki-4-saatlik-kaos-pilot-ve-kulelerin-telsiz-konusmalarina-yansidi-herkesi-ucaktan-indirin-p381819",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T09:34:39Z"
+      "title": "Yemek buzdolabına sıcak mı konur, soğuk mu?",
+      "link": "https://hthayat.haberturk.com/yemek-buzdolabina-sicak-mi-konur-soguk-mu-1088375",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T09:41:11Z"
+    },
+    {
+      "title": "Sürpriz nikah",
+      "link": "https://www.haberturk.com/magazin/foto/kutsi-ile-sevda-sonmez-evlendi-3927547",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T09:40:03Z"
+    },
+    {
+      "title": "Ortak Yazılı Sınav Sistemi'nin Analiz ve Raporlama modülü erişime açıldı",
+      "link": "https://www.trthaber.com/haber/egitim/ortak-yazili-sinav-sisteminin-analiz-ve-raporlama-modulu-erisime-acildi-963415.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-16T09:34:00Z"
     },
     {
       "title": "Mangal, faciayla bitti! Yaşlı kadın öldü!",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/magazin/grup-lacin-in-solisti-ali-abaci-hayatini-kaybetti-3927590",
       "source": "Habertürk",
       "published_at": "2026-11-16T06:53:02Z"
-    },
-    {
-      "title": "Boğaz'ın görüntüsü nefes kesti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-bogazi-ni-ucakla-gecti-essiz-manzaralar-ortaya-cikti-3927597",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T06:50:45Z"
-    },
-    {
-      "title": "53 ilin ihracat rakamları arttı",
-      "link": "https://www.trthaber.com/haber/ekonomi/53-ilin-ihracat-rakamlari-artti-963391.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-16T06:47:00Z"
-    },
-    {
-      "title": "Orhan Gencebay vasiyetini açıkladı",
-      "link": "https://www.sozcu.com.tr/orhan-gencebay-vasiyetini-acikladi-p381772",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T06:44:02Z"
-    },
-    {
-      "title": "\"Dünyayı çok hor kullandık\"",
-      "link": "https://www.haberturk.com/magazin/hulya-kocyigit-cop31-de-konustu-dunyayi-cok-hor-kullandik-3927580",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T06:43:38Z"
     }
   ]
 }
