@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:01:17.570156Z",
+  "generated_at": "2026-11-16T21:06:21.833768Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fon soruşturmasında 21 şirkete kayyum atandı",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-21-sirkete-kayyum-atandi-p382035",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T21:04:06Z"
+    },
     {
       "title": "Abdullah Kavukcu'dan olay açıklama!",
       "link": "https://www.haberturk.com/spor/abdullah-kavukcu-dan-olay-aciklama-kimse-galatasaray-dan-buyuk-degildir-3927820",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/ramsar-genel-sekreteri-mumba-burdur-da-3927755",
       "source": "Habertürk",
       "published_at": "2026-11-16T14:56:24Z"
-    },
-    {
-      "title": "\"Fon olayı faili meçhul kalmayacak\"",
-      "link": "https://www.haberturk.com/gundem/son-dakika-ak-parti-sozcusu-celik-ten-aciklamalar-3927717",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T14:53:12Z"
     }
   ]
 }
