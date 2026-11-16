@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:59:21.290975Z",
+  "generated_at": "2026-11-16T10:04:24.155551Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Korkunç kaza! Helezon makinesine düştü!",
+      "link": "https://www.haberturk.com/gundem/korkunc-kaza-helezon-makinesine-dustu-3927670",
+      "source": "Habertürk",
+      "published_at": "2026-11-16T10:00:49Z"
+    },
+    {
+      "title": "Yer: Antalya... Banyoyu tamir etmek için eve gelen tesisat ustasından iğrenç olay",
+      "link": "https://www.sozcu.com.tr/yer-antalya-banyoyu-tamir-etmek-icin-eve-gelen-tesisat-ustasindan-igrenc-olay-p381854",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T10:00:29Z"
+    },
+    {
+      "title": "Tekstil ve hazır giyimde binlerce kişi işsiz kaldı",
+      "link": "https://www.sozcu.com.tr/tekstil-ve-hazir-giyimde-binlerce-kisi-issiz-kaldi-p381853",
+      "source": "Sözcü",
+      "published_at": "2026-11-16T09:59:05Z"
+    },
     {
       "title": "TikTok’ta canlı yayın açan genç kızın acı sonu",
       "link": "https://www.sozcu.com.tr/tiktok-ta-canli-yayin-acan-genc-kizin-aci-sonu-p381852",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/koruyucu-ailelere-yonelik-odemeler-hesaplara-yatirildi-963392.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T07:05:00Z"
-    },
-    {
-      "title": "Peş peşe iki araç çarptı! Feci ölüm!",
-      "link": "https://www.haberturk.com/gundem/pes-pese-iki-arac-carpti-feci-olum-3927602",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T07:01:59Z"
-    },
-    {
-      "title": "Bu adam daha ne yapsın! Avrupa milli futbolcumuza hayran kaldı",
-      "link": "https://www.sozcu.com.tr/bu-adam-daha-ne-yapsin-avrupa-milli-futbolcumuza-hayran-kaldi-p381763",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T07:01:58Z"
-    },
-    {
-      "title": "Yeni başlangıç, eski sorun: 'Nasıl olsa Arda halleder'",
-      "link": "https://www.sozcu.com.tr/yeni-baslangic-eski-sorun-nasil-olsa-arda-halleder-p381776",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T06:58:43Z"
     }
   ]
 }
