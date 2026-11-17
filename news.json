@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:35:01.785992Z",
+  "generated_at": "2026-11-17T03:45:06.666953Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Filistin topraklarını gasbeden İsraillilerin saldırısında 1 kişi öldü, 10 kişi yaralandı",
+      "link": "https://www.trthaber.com/haber/dunya/filistin-topraklarini-gasbeden-israillilerin-saldirisinda-1-kisi-oldu-10-kisi-yaralandi-963477.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T03:27:00Z"
+    },
     {
       "title": "'Yüzde 80 indirim kampanyasında tarih detayı cezayla sonuçlandı",
       "link": "https://www.trthaber.com/haber/ekonomi/yuzde-80-indirim-kampanyasinda-tarih-detayi-cezayla-sonuclandi-963476.html",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/turkiye-nin-de-uretim-ortagi-oldugu-dev-ucaktan-16-tane-daha-alacaklar-p381989",
       "source": "Sözcü",
       "published_at": "2026-11-16T17:19:28Z"
-    },
-    {
-      "title": "Ömer Sarıgül ek ifade verdi",
-      "link": "https://www.haberturk.com/gundem/omer-sarigul-ek-ifade-verdi-3927782",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T17:18:27Z"
     }
   ]
 }
