@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:14:47.227729Z",
+  "generated_at": "2026-11-17T22:29:57.626781Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Tartus'ta Suriye güvenlik güçlerine saldırı: 1 ölü, 4 yaralı",
+      "link": "https://www.haberturk.com/dunya/tartus-ta-suriye-guvenlik-guclerine-saldiri-1-olu-4-yarali-3928092",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T22:22:19Z"
+    },
     {
       "title": "Roland Sallai'den kötü haber!",
       "link": "https://www.haberturk.com/spor/roland-sallai-den-galatasaray-a-kotu-haber-macaristan-milli-takimi-nda-sakatlandi-3928079",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sirnak-ta-ev-coktu-2-arac-zarar-gordu-3928029",
       "source": "Habertürk",
       "published_at": "2026-11-17T14:51:45Z"
-    },
-    {
-      "title": "Sağlık Bakanlığı 38 bin personel alımı ne zaman?",
-      "link": "https://www.haberturk.com/bilgi/foto/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-saglik-bakanligi-personel-alimi-basvurusu-nasil-yapilir-sartlari-nelerdir-3927400",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T14:45:45Z"
     }
   ]
 }
