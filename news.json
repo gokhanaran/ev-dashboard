@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:45:06.666953Z",
+  "generated_at": "2026-11-17T03:50:09.534796Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Makas atan otomobil minibüsün devrilmesine neden oldu: 1 ölü, 20 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/makas-atan-otomobil-minibusun-devrilmesine-neden-oldu-1-olu-20-yarali-963478.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T03:45:00Z"
+    },
     {
       "title": "Filistin topraklarını gasbeden İsraillilerin saldırısında 1 kişi öldü, 10 kişi yaralandı",
       "link": "https://www.trthaber.com/haber/dunya/filistin-topraklarini-gasbeden-israillilerin-saldirisinda-1-kisi-oldu-10-kisi-yaralandi-963477.html",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/cevre/bakan-kurum-belem-15-derece-misyonunu-cok-onemsiyorum-963450.html",
       "source": "TRT Haber",
       "published_at": "2026-11-16T17:26:00Z"
-    },
-    {
-      "title": "Türkiye'nin de üretim ortağı olduğu dev uçaktan 16 tane daha alacaklar",
-      "link": "https://www.sozcu.com.tr/turkiye-nin-de-uretim-ortagi-oldugu-dev-ucaktan-16-tane-daha-alacaklar-p381989",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T17:19:28Z"
     }
   ]
 }
