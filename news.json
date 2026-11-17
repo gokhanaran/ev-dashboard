@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:04:38.972719Z",
+  "generated_at": "2026-11-17T22:09:43.311732Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "İşte Uluslar Ligi'nde gecenin sonuçları",
+      "link": "https://www.haberturk.com/spor/iste-uefa-uluslar-ligi-nde-6-haftanin-sonuclari-3928091",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T22:02:13Z"
+    },
+    {
       "title": "Salyangozlardan kurtulmak için getirdikleri solucanlar başlarına dert oldu",
       "link": "https://www.sozcu.com.tr/salyangozlardan-kurtulmak-icin-getirdikleri-solucanlar-baslarina-dert-oldu-p382297",
       "source": "Sözcü",
@@ -70,6 +76,12 @@
       "link": "https://www.sozcu.com.tr/halil-umut-meler-in-karari-haaland-ve-arkadaslarini-ceyrek-finale-cikartti-danimarka-da-unutulmaz-p382295",
       "source": "Sözcü",
       "published_at": "2026-11-17T21:53:04Z"
+    },
+    {
+      "title": "Düzce'de feci kaza: Otomobil tırın altına girdi",
+      "link": "https://www.trthaber.com/haber/turkiye/duzcede-feci-kaza-otomobil-tirin-altina-girdi-963614.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T21:47:00Z"
     },
     {
       "title": "İngiltere'de Rus casusluğu suçlamasıyla gözaltına alınan Amerikan askeri, ABD ordusuna teslim edildi",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/bmden-tehlikeli-deniz-gecislerindeki-olum-ve-kayiplara-karsi-cagri-963589.html",
       "source": "TRT Haber",
       "published_at": "2026-11-17T14:45:00Z"
-    },
-    {
-      "title": "AIFD'den \"Geleceğin İlacı Gençlikte\" projesi",
-      "link": "https://www.haberturk.com/saglik/aifd-den-gelecegin-ilaci-genclikte-projesi-3928027",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T14:42:31Z"
-    },
-    {
-      "title": "ABD'nin İsrail Büyükelçisi Huckabee: İran'a karşı askeri seçenek masada",
-      "link": "https://www.trthaber.com/haber/dunya/abdnin-israil-buyukelcisi-huckabee-irana-karsi-askeri-secenek-masada-963588.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-17T14:41:00Z"
     }
   ]
 }
