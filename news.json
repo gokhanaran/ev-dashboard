@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:33:25.838027Z",
+  "generated_at": "2026-11-17T13:38:29.026195Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Juventus'tan Kenan Yıldız paylaşımı!",
+      "link": "https://www.haberturk.com/spor/juventus-tan-kenan-yildiz-paylasimi-3928008",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T13:36:10Z"
+    },
+    {
+      "title": "Haydarpaşa ve Sirkeci yaşayan kültür merkezlerine dönüşecek",
+      "link": "https://www.haberturk.com/kultur-sanat/haydarpasa-ve-sirkeci-yasayan-kultur-merkezlerine-donusecek-3928004",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T13:36:02Z"
+    },
+    {
+      "title": "Kuzey Ege'de bazı feribot seferleri iptal edildi",
+      "link": "https://www.trthaber.com/haber/turkiye/kuzey-egede-bazi-feribot-seferleri-iptal-edildi-963577.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T13:30:00Z"
+    },
     {
       "title": "De Bruyne için ilk teklif PSV'den: Napoli kabul etmedi",
       "link": "https://www.sozcu.com.tr/de-bruyne-icin-ilk-teklif-psvden-napoli-kabul-etmedi-p382211",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/denizleasing-ve-ebrdden-yesil-donusume-75-milyon-euroluk-finansman-3927940",
       "source": "Habertürk",
       "published_at": "2026-11-17T10:07:53Z"
-    },
-    {
-      "title": "Futbol Zirvesi başladı",
-      "link": "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-basladi-3927939",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T09:58:04Z"
-    },
-    {
-      "title": "AJet’ten yurt içi bilet kampanyası",
-      "link": "https://www.haberturk.com/ekonomi/ajetten-yurt-ici-bilet-kampanyasi-3927937",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T09:52:29Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz, Özbekistan'a gidiyor",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-ozbekistana-gidiyor-963547.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-17T09:52:00Z"
     }
   ]
 }
