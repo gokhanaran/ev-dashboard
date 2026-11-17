@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:38:29.026195Z",
+  "generated_at": "2026-11-17T13:43:32.643774Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Meteoroloji'den uyarı: Yurdun büyük bölümünde yağış bekleniyor",
+      "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-uyari-yurdun-buyuk-bolumunde-yagis-bekleniyor-963578.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T13:39:00Z"
+    },
+    {
+      "title": "İstanbul'da silahlı saldırı! 1 kişi öldü!",
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-silahli-saldiri-1-kisi-oldu-3928009",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T13:37:26Z"
+    },
+    {
+      "title": "Deutsche Bank’ta Rusya ve Epstein iddiaları",
+      "link": "https://www.haberturk.com/ekonomi/deutsche-bank-belgelerinde-rusya-plani-ve-epstein-transferleri-3928001",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T13:37:25Z"
+    },
     {
       "title": "Juventus'tan Kenan Yıldız paylaşımı!",
       "link": "https://www.haberturk.com/spor/juventus-tan-kenan-yildiz-paylasimi-3928008",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/ispanyada-makinistlerin-grevi-tren-ulasiminda-kaos-yaratti-963548.html",
       "source": "TRT Haber",
       "published_at": "2026-11-17T10:12:00Z"
-    },
-    {
-      "title": "270 yıllık değirmene Japon eli!",
-      "link": "https://www.haberturk.com/yasam/japon-eli-degen-asirlik-su-degirmeni-yeniden-hayat-buldu-3927936",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T10:09:08Z"
-    },
-    {
-      "title": "Marmara Denizi'nde müsilaj görüntülendi!",
-      "link": "https://www.haberturk.com/gundem/marmara-denizi-nde-musilaj-goruntulendi-3927934",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T10:08:27Z"
-    },
-    {
-      "title": "DenizLeasing ve EBRD’den yeşil dönüşüme 75 milyon Euro’luk finansman",
-      "link": "https://www.haberturk.com/ekonomi/denizleasing-ve-ebrdden-yesil-donusume-75-milyon-euroluk-finansman-3927940",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T10:07:53Z"
     }
   ]
 }
