@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:13:11.990786Z",
+  "generated_at": "2026-11-17T13:18:15.598973Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Galatasaray'ın zemin talebine UEFA ve Aston Villa'dan onay",
+      "link": "https://www.sozcu.com.tr/galatasarayin-zemin-talebine-uefa-ve-aston-villadan-onay-p382204",
+      "source": "Sözcü",
+      "published_at": "2026-11-17T13:15:05Z"
+    },
+    {
       "title": "Koç Holding öncülüğünde FireAId ile orman yangınlarına karşı veriye dayalı mücadele",
       "link": "https://www.haberturk.com/ekonomi/koc-holding-onculugunde-fireaid-ile-orman-yanginlarina-karsi-veriye-dayali-mucadele-3927995",
       "source": "Habertürk",
@@ -52,12 +58,6 @@
       "link": "https://www.sozcu.com.tr/brezilyadan-7-gollu-sov-vinicius-21-dakikada-hattrick-yapti-p382205",
       "source": "Sözcü",
       "published_at": "2026-11-17T13:02:18Z"
-    },
-    {
-      "title": "Galatasaray'ın zemin talebine UEFA ve Aston Villa'dan onay",
-      "link": "https://www.sozcu.com.tr/galatasarayin-zemin-talebine-uefa-ve-aston-villadan-onay-p382204",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T13:00:47Z"
     },
     {
       "title": "\"Öcalan için sekretarya güçlendirildi\"",
@@ -100,6 +100,12 @@
       "link": "https://www.haberturk.com/ekonomi/ab-den-cop31-in-35-e-35-hedefine-destek-3927992",
       "source": "Habertürk",
       "published_at": "2026-11-17T12:44:14Z"
+    },
+    {
+      "title": "Kırım Köprüsü'nde tren seferleri tek hat üzerinden yeniden başladı",
+      "link": "https://www.trthaber.com/haber/dunya/kirim-koprusunde-tren-seferleri-tek-hat-uzerinden-yeniden-basladi-963571.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T12:44:00Z"
     },
     {
       "title": "Yeni ilişki açıklaması",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-mhp-lideri-bahceli-den-aciklamalar-3927865",
       "source": "Habertürk",
       "published_at": "2026-11-17T09:23:51Z"
-    },
-    {
-      "title": "33 saatlik Doğu Doğu Ekspresi'nin masalsı rotası",
-      "link": "https://www.haberturk.com/yasam/foto/dogu-ekspresi-nin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-3927917",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T09:22:59Z"
     }
   ]
 }
