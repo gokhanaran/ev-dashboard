@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:09:43.311732Z",
+  "generated_at": "2026-11-17T22:14:47.227729Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Roland Sallai'den kötü haber!",
+      "link": "https://www.haberturk.com/spor/roland-sallai-den-galatasaray-a-kotu-haber-macaristan-milli-takimi-nda-sakatlandi-3928079",
+      "source": "Habertürk",
+      "published_at": "2026-11-17T22:06:14Z"
+    },
     {
       "title": "İşte Uluslar Ligi'nde gecenin sonuçları",
       "link": "https://www.haberturk.com/spor/iste-uefa-uluslar-ligi-nde-6-haftanin-sonuclari-3928091",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-saglik-bakanligi-personel-alimi-basvurusu-nasil-yapilir-sartlari-nelerdir-3927400",
       "source": "Habertürk",
       "published_at": "2026-11-17T14:45:45Z"
-    },
-    {
-      "title": "BM'den tehlikeli deniz geçişlerindeki ölüm ve kayıplara karşı çağrı",
-      "link": "https://www.trthaber.com/haber/dunya/bmden-tehlikeli-deniz-gecislerindeki-olum-ve-kayiplara-karsi-cagri-963589.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-17T14:45:00Z"
     }
   ]
 }
