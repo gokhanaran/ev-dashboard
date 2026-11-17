@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:10:17.665562Z",
+  "generated_at": "2026-11-17T04:15:20.600076Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "ABD'li United Airlines, uçuşlarını etkileyen sistem sorununu giderdi",
+      "link": "https://www.trthaber.com/haber/dunya/abdli-united-airlines-ucuslarini-etkileyen-sistem-sorununu-giderdi-963483.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T04:09:00Z"
+    },
+    {
+      "title": "İngiltere Başbakanı Burnham: Brexit'te kazandığımızdan çoğunu kaybettik",
+      "link": "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-brexitte-kazandigimizdan-cogunu-kaybettik-963482.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-17T04:05:00Z"
+    },
     {
       "title": "OpenAI'a yapay zeka modellerinin geliştirme sürecindeki güvenlik eksiklikleri nedeniyle dava açıldı",
       "link": "https://www.trthaber.com/haber/dunya/openaia-yapay-zeka-modellerinin-gelistirme-surecindeki-guvenlik-eksiklikleri-nedeniyle-dava-acildi-963481.html",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/halil-umut-meler-e-uluslar-ligi-nde-zorlu-gorev-p381992",
       "source": "Sözcü",
       "published_at": "2026-11-16T17:30:14Z"
-    },
-    {
-      "title": "Hamilelik pozları",
-      "link": "https://www.haberturk.com/magazin/foto/merve-dizdar-dan-hamilelik-pozlari-3927783",
-      "source": "Habertürk",
-      "published_at": "2026-11-16T17:30:00Z"
-    },
-    {
-      "title": "Infantino'nun karşısına sürpriz aday! FFF Başkanı Philippe Diallo adaylığa hazırlanıyor",
-      "link": "https://www.sozcu.com.tr/diallo-infantinoya-karsi-adaylik-davetini-kabul-etti-p381991",
-      "source": "Sözcü",
-      "published_at": "2026-11-16T17:28:16Z"
     }
   ]
 }
