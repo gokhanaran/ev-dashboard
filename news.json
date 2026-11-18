@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:11:31.979165Z",
+  "generated_at": "2026-11-18T13:16:35.607924Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Tam 80 yılda bir yaşanıyor: Geri sayım başladı",
+      "link": "https://www.sozcu.com.tr/tam-80-yilda-bir-yasaniyor-geri-sayim-basladi-p382501",
+      "source": "Sözcü",
+      "published_at": "2026-11-18T13:12:29Z"
+    },
+    {
       "title": "Fatma Betül Sayan Kaya koğuşunda rahatsızlandı",
       "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-kogusunda-rahatsizlandi-p382500",
       "source": "Sözcü",
       "published_at": "2026-11-18T13:10:32Z"
+    },
+    {
+      "title": "İzleme Komisyonu'nda Yeni Parti olmayacak",
+      "link": "https://www.haberturk.com/gundem/son-dakika-izleme-komisyonu-nda-yeni-parti-olmayacak-3928272",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T13:08:21Z"
     },
     {
       "title": "Aktaş davasında gerekçeli karar",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/arzuyu-146-makas-darbesiyle-olduren-sanik-tahliye-istedi-p382424",
       "source": "Sözcü",
       "published_at": "2026-11-18T09:31:25Z"
-    },
-    {
-      "title": "Yılın kelimesi halk oylaması ile belirlenecek",
-      "link": "https://www.trthaber.com/haber/kultur-sanat/yilin-kelimesi-halk-oylamasi-ile-belirlenecek-963676.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-18T09:27:00Z"
-    },
-    {
-      "title": "Sanayiye dev destek: 532 milyar liralık 85 projenin önü açıldı",
-      "link": "https://www.trthaber.com/haber/ekonomi/sanayiye-dev-destek-532-milyar-liralik-85-projenin-onu-acildi-963675.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-18T09:22:00Z"
     }
   ]
 }
