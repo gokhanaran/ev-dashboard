@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:00:02.298231Z",
+  "generated_at": "2026-11-18T04:05:05.010007Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,12 +35,6 @@
     }
   ],
   "items": [
-    {
-      "title": "Kuveyt ve Bahreyn'de saldırı alarmı",
-      "link": "https://www.haberturk.com/dunya/kuveyt-ve-bahreyn-de-saldiri-alarmi-3928095",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T03:58:08Z"
-    },
     {
       "title": "Yanlış yer seçimi milyarları götürdü",
       "link": "https://www.sozcu.com.tr/yanlis-yer-secimi-milyarlari-goturdu-p382307",
@@ -106,6 +100,12 @@
       "link": "https://www.trthaber.com/haber/turkiye/polisten-kacan-alkollu-surucuye-200-bin-lira-ceza-963620.html",
       "source": "TRT Haber",
       "published_at": "2026-11-18T03:16:00Z"
+    },
+    {
+      "title": "Kuveyt ve Bahreyn'de saldırı alarmı",
+      "link": "https://www.haberturk.com/dunya/kuveyt-ve-bahreyn-de-saldiri-alarmi-3928095",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T03:12:43Z"
     },
     {
       "title": "Tokat'ta ambulans ve minibüs çarpıştı: 20 yaralı",
