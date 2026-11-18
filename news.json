@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:10:06.919215Z",
+  "generated_at": "2026-11-18T04:15:09.071381Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'da fırtına alarmı! Saat verildi, hızı 60 kilometreye kadar çıkacak",
+      "link": "https://www.sozcu.com.tr/istanbul-da-firtina-alarmi-saat-verildi-hizi-60-kilometreye-kadar-cikacak-p382309",
+      "source": "Sözcü",
+      "published_at": "2026-11-18T04:09:35Z"
+    },
+    {
+      "title": "Zayıflama iğnelerini aniden bırakan iki hasta psikoz nedeniyle hastaneye kaldırıldı",
+      "link": "https://www.trthaber.com/haber/dunya/zayiflama-ignelerini-aniden-birakan-iki-hasta-psikoz-nedeniyle-hastaneye-kaldirildi-963630.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-18T04:08:00Z"
+    },
+    {
+      "title": "12 il için sarı kod! 2 bölgede fırtına, 4 bölgede sağanak var",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-12-il-icin-sari-kod-2-bolgede-firtina-4-bolgede-saganak-var-18-kasim-hava-durumu-3928100",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T04:03:03Z"
+    },
     {
       "title": "FBI: Siber saldırıları otomatikleştirmek için ARTEX kullanıldı",
       "link": "https://www.trthaber.com/haber/dunya/fbi-siber-saldirilari-otomatiklestirmek-icin-artex-kullanildi-963629.html",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/ispanyol-ekibi-muriqi-icin-devrede-kiralik-formulu-masada-p382246",
       "source": "Sözcü",
       "published_at": "2026-11-17T16:49:54Z"
-    },
-    {
-      "title": "ABD'de bu kez iletişim krizi yaşanıyor",
-      "link": "https://www.sozcu.com.tr/abdde-bu-kez-iletisim-krizi-yasaniyor-p382243",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T16:43:54Z"
-    },
-    {
-      "title": "Bakan Gürlek: Fon soruşturmasında 129 şüpheli tutuklu bulunmaktadır",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-17T16:42:00Z"
-    },
-    {
-      "title": "Yanardağın zirvesi şişmeye başladı",
-      "link": "https://www.sozcu.com.tr/yanardagin-zirvesi-sismeye-basladi-p382245",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T16:41:53Z"
     }
   ]
 }
