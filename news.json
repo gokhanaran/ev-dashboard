@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:40:24.192495Z",
+  "generated_at": "2026-11-18T21:55:31.676998Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "BUDO'nun 12 seferi iptal edildi",
+      "link": "https://www.haberturk.com/gundem/budo-nun-12-seferi-iptal-edildi-3928352",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T21:42:14Z"
+    },
     {
       "title": "İSTANBUL DEFTERDARLIĞI/GÜNEŞLİ VERGİ DAİRESİ MÜDÜRLÜĞÜ",
       "link": "https://www.haberturk.com/resmi-ilanlar/istanbul-defterdarligigunesli-vergi-dairesi-mudurlugu-3928219",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/trt-akademi/radyo-tiyatrosu-dunyasina-yolculuk-basliyor-963711.html",
       "source": "TRT Haber",
       "published_at": "2026-11-18T14:24:00Z"
-    },
-    {
-      "title": "Real Madrid'in eski yıldızı RAMS Park'ı unutamıyor",
-      "link": "https://www.sozcu.com.tr/real-madridin-eski-yildizi-rams-parki-unutamiyor-p382511",
-      "source": "Sözcü",
-      "published_at": "2026-11-18T14:20:28Z"
     }
   ]
 }
