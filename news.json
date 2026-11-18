@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:21:38.494782Z",
+  "generated_at": "2026-11-18T13:26:41.666676Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika: AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıldı",
+      "link": "https://www.sozcu.com.tr/akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-p382476",
+      "source": "Sözcü",
+      "published_at": "2026-11-18T13:25:53Z"
+    },
     {
       "title": "NATO, 5G, 6G ve uydu iletişiminin askeri kullanımı için ilk stratejisini yayımladı",
       "link": "https://www.trthaber.com/haber/dunya/nato-5g-6g-ve-uydu-iletisiminin-askeri-kullanimi-icin-ilk-stratejisini-yayimladi-963701.html",
@@ -214,12 +220,6 @@
       "link": "https://www.trthaber.com/haber/gundem/gurcistandan-6-firari-turkiyeye-iade-edildi-963696.html",
       "source": "TRT Haber",
       "published_at": "2026-11-18T12:30:00Z"
-    },
-    {
-      "title": "Son dakika: AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıldı",
-      "link": "https://www.sozcu.com.tr/akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-p382476",
-      "source": "Sözcü",
-      "published_at": "2026-11-18T12:29:15Z"
     },
     {
       "title": "Euro Bölgesi'nde enflasyon ekimde yüzde 4'e yükseldi",
