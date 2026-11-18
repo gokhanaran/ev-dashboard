@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:41:52.997958Z",
+  "generated_at": "2026-11-18T13:46:56.775495Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Nejat Uygur mezarı başında anıldı",
+      "link": "https://www.haberturk.com/magazin/nejat-uygur-mezari-basinda-anildi-3928277",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T13:38:46Z"
+    },
+    {
+      "title": "COP31'de katılımcılara yerli muz ikram edildi",
+      "link": "https://www.trthaber.com/haber/gundem/cop31de-katilimcilara-yerli-muz-ikram-edildi-963705.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-18T13:38:00Z"
+    },
     {
       "title": "Et sektöründe hedef fiyat istikrarı ve ihracat",
       "link": "https://www.haberturk.com/ekonomi/tuketicinin-kirmizi-ete-daha-uygun-fiyatlarla-ulasmasi-icin-yeni-adimlara-odaklanildi-3928275",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/askeri-ucak-pistlerini-yapan-sirket-iflas-etti-p382444",
       "source": "Sözcü",
       "published_at": "2026-11-18T10:04:23Z"
-    },
-    {
-      "title": "BM raportörleri: İsrail Batı Şeria'da etnik temizlik yaparken insan hakları savunucularını hedef alıyor",
-      "link": "https://www.trthaber.com/haber/dunya/bm-raportorleri-israil-bati-seriada-etnik-temizlik-yaparken-insan-haklari-savunucularini-hedef-aliyor-963679.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-18T10:00:00Z"
-    },
-    {
-      "title": "Bu köyde fındıkla cenaze hizmetleri ücretsiz",
-      "link": "https://www.haberturk.com/gundem/bu-koyde-findikla-cenaze-hizmetleri-ucretsiz-3928199",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T09:58:24Z"
     }
   ]
 }
