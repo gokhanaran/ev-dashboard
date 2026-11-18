@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:44:54.145474Z",
+  "generated_at": "2026-11-18T03:54:59.864548Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Akdeniz peş peşe sallandı!",
+      "link": "https://www.haberturk.com/bilgi/foto/akdeniz-pes-pese-sallandi-afad-ve-kandilli-18-kasim-2026-son-depremler-listesi-ile-az-once-deprem-mi-oldu-nerede-deprem-oldu-3928098",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T03:44:41Z"
+    },
     {
       "title": "Cambridge Sözlüğü 2026 yılının kelimesini açıkladı",
       "link": "https://www.trthaber.com/haber/dunya/cambridge-sozlugu-2026-yilinin-kelimesini-acikladi-963625.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/besiktas-savunmadaki-problemini-pochettino-nun-dusunmedigi-matthijs-de-ligt-ile-cozmek-istiyor-3928040",
       "source": "Habertürk",
       "published_at": "2026-11-17T16:13:02Z"
-    },
-    {
-      "title": "İstanbul'da yoğun trafik, araçlar güçlükle ilerliyor",
-      "link": "https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T16:05:39Z"
     }
   ]
 }
