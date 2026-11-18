@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:35:20.709437Z",
+  "generated_at": "2026-11-18T21:40:24.192495Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İSTANBUL DEFTERDARLIĞI/GÜNEŞLİ VERGİ DAİRESİ MÜDÜRLÜĞÜ",
+      "link": "https://www.haberturk.com/resmi-ilanlar/istanbul-defterdarligigunesli-vergi-dairesi-mudurlugu-3928219",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T21:33:58Z"
+    },
+    {
+      "title": "T.C. KAYSERİ 8. SULH HUKUK MAHKEMESİ",
+      "link": "https://www.haberturk.com/resmi-ilanlar/tc-kayseri-8-sulh-hukuk-mahkemesi-3928259",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T21:32:50Z"
+    },
     {
       "title": "T.C. BÜYÜKÇEKMECE 6. ASLİYE HUKUK MAHKEMESİ",
       "link": "https://www.haberturk.com/resmi-ilanlar/tcbuyukcekmece-6-asliye-hukuk-mahkemesi-3927742",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/real-madridin-eski-yildizi-rams-parki-unutamiyor-p382511",
       "source": "Sözcü",
       "published_at": "2026-11-18T14:20:28Z"
-    },
-    {
-      "title": "Maltepe'de toprak kayması: Yol çöktü",
-      "link": "https://www.haberturk.com/gundem/maltepe-de-toprak-kaymasi-arac-insaat-alanina-dustu-3928285",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T14:19:46Z"
-    },
-    {
-      "title": "Kurtulmuş, parti ziyaretlerini değerlendirecek",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kurtulmus-parti-ziyaretlerini-degerlendirecek-3928284",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T14:19:33Z"
     }
   ]
 }
