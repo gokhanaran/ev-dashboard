@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:05:38.317962Z",
+  "generated_at": "2026-11-18T22:10:41.600280Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Prens Harry: Orduya katılabilirim",
+      "link": "https://www.haberturk.com/dunya/prens-harry-orduya-katilabilirim-3928353",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T22:09:07Z"
+    },
     {
       "title": "Tarihi kulenin temelinde 1400 yıllık altın kutu bulundu",
       "link": "https://www.sozcu.com.tr/tarihi-kulenin-temelinde-1400-yillik-altin-kutu-bulundu-p382574",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/volkan-demirel-in-gaziantep-fk-daki-hedefi-ust-siralar-3928291",
       "source": "Habertürk",
       "published_at": "2026-11-18T14:27:45Z"
-    },
-    {
-      "title": "Acun Ilıcalı abonelik fiyatını ilginç bir örnekle açıkladı! 'İki Big Mac fiyatına Şampiyonlar Ligi'",
-      "link": "https://www.sozcu.com.tr/acun-ilicali-abonelik-fiyatini-ilginc-bir-ornekle-acikladi-iki-big-mac-fiyatina-sampiyonlar-ligi-p382510",
-      "source": "Sözcü",
-      "published_at": "2026-11-18T14:27:09Z"
     }
   ]
 }
