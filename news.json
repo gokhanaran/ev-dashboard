@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:05:05.010007Z",
+  "generated_at": "2026-11-18T04:10:06.919215Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "FBI: Siber saldırıları otomatikleştirmek için ARTEX kullanıldı",
+      "link": "https://www.trthaber.com/haber/dunya/fbi-siber-saldirilari-otomatiklestirmek-icin-artex-kullanildi-963629.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-18T04:03:00Z"
+    },
+    {
+      "title": "Waymo'nun sürücüsüz araçlarının California otoyollarına çıkışı yasaklandı",
+      "link": "https://www.trthaber.com/haber/dunya/waymonun-surucusuz-araclarinin-california-otoyollarina-cikisi-yasaklandi-963628.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-18T04:01:00Z"
+    },
+    {
+      "title": "Kuveyt ve Bahreyn'de saldırı alarmı",
+      "link": "https://www.haberturk.com/dunya/kuveyt-ve-bahreyn-de-saldiri-alarmi-3928095",
+      "source": "Habertürk",
+      "published_at": "2026-11-18T03:58:08Z"
+    },
+    {
       "title": "Yanlış yer seçimi milyarları götürdü",
       "link": "https://www.sozcu.com.tr/yanlis-yer-secimi-milyarlari-goturdu-p382307",
       "source": "Sözcü",
@@ -46,6 +64,12 @@
       "link": "https://www.sozcu.com.tr/caykur-un-borcu-33-milyar-liraya-dayandi-p382305",
       "source": "Sözcü",
       "published_at": "2026-11-18T03:57:57Z"
+    },
+    {
+      "title": "LeBron James, yapay zeka destekli spor bahis uygulaması yapımcılarına dava açtı",
+      "link": "https://www.trthaber.com/haber/dunya/lebron-james-yapay-zeka-destekli-spor-bahis-uygulamasi-yapimcilarina-dava-acti-963627.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-18T03:57:00Z"
     },
     {
       "title": "Polisten kaçan aday sürücüye 431 bin lira ceza ve ehliyet iptali",
@@ -100,12 +124,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/polisten-kacan-alkollu-surucuye-200-bin-lira-ceza-963620.html",
       "source": "TRT Haber",
       "published_at": "2026-11-18T03:16:00Z"
-    },
-    {
-      "title": "Kuveyt ve Bahreyn'de saldırı alarmı",
-      "link": "https://www.haberturk.com/dunya/kuveyt-ve-bahreyn-de-saldiri-alarmi-3928095",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T03:12:43Z"
     },
     {
       "title": "Tokat'ta ambulans ve minibüs çarpıştı: 20 yaralı",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/yanardagin-zirvesi-sismeye-basladi-p382245",
       "source": "Sözcü",
       "published_at": "2026-11-17T16:41:53Z"
-    },
-    {
-      "title": "Fenerbahçe'de 20 yıllık dönem sona erdi! Zeki Murat Göle'den veda mesajı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-de-20-yillik-donem-sona-erdi-veda-mesaji-yayinladi-p382244",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T16:38:06Z"
-    },
-    {
-      "title": "Borsa günü düşüşle tamamladı",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3928045",
-      "source": "Habertürk",
-      "published_at": "2026-11-17T16:29:32Z"
-    },
-    {
-      "title": "Rusya'da askeri nakliye uçağı düştü",
-      "link": "https://www.sozcu.com.tr/rusya-da-askeri-ucak-dustu-p382234",
-      "source": "Sözcü",
-      "published_at": "2026-11-17T16:29:24Z"
     }
   ]
 }
