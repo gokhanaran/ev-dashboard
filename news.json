@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:02:03.991287Z",
+  "generated_at": "2026-11-19T03:07:17.386254Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 2
+      "items": 3
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son Dakika... 2026 KPSS ortaöğretim sonuçları açıklandı",
+      "link": "https://www.sozcu.com.tr/2026-kpss-ortaogretim-sonuclari-aciklandi-p382582",
+      "source": "Sözcü",
+      "published_at": "2026-11-19T03:04:53Z"
+    },
     {
       "title": "KPSS Ortaöğretim sonuçları açıklandı!",
       "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sonuclari-aciklandi-2026-osym-kpss-lise-sonuc-sorgulama-ekrani-3928364",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-18-kasim-2026-haberleri-cumhurbaskani-erdogandan-emekli-maasi-aciklamasi-mustafa-yazici-ifadeye-cagrildi-sahap-kavciogluna-sorustu/923480",
       "source": "Habertürk",
       "published_at": "2026-11-18T14:54:04Z"
-    },
-    {
-      "title": "İzleme Komisyonu'nda Yeni Parti olmayacak",
-      "link": "https://www.haberturk.com/gundem/son-dakika-izleme-komisyonu-nda-yeni-parti-olmayacak-3928272",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T14:47:19Z"
     }
   ]
 }
