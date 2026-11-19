@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:44:02.811781Z",
+  "generated_at": "2026-11-19T11:49:07.087769Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Erdoğan rozetlerini taktı: 9 belediye başkanı AKP'ye katıldı",
+      "link": "https://www.sozcu.com.tr/akp-ye-mi-geciyorlar-p382694",
+      "source": "Sözcü",
+      "published_at": "2026-11-19T11:47:00Z"
+    },
     {
       "title": "Toyota Corolla 60 yıl sonra model değiştiriyor: Artık sedan olmayacak",
       "link": "https://www.sozcu.com.tr/toyota-corolla-60-yil-sonra-model-degistiriyor-artik-sedan-olmayacak-p382765",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/e-ticarette-yasakli-urunlerin-yeniden-satisina-gecit-verilmeyecek-963791.html",
       "source": "TRT Haber",
       "published_at": "2026-11-19T08:32:00Z"
-    },
-    {
-      "title": "COP31 katılımcılarına 25 ton elma, 200 bin adet çikolata ikram edildi",
-      "link": "https://www.trthaber.com/haber/turkiye/cop31-katilimcilarina-25-ton-elma-200-bin-adet-cikolata-ikram-edildi-963790.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-19T08:31:00Z"
     }
   ]
 }
