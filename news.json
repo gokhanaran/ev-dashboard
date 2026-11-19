@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:24:50.448960Z",
+  "generated_at": "2026-11-19T20:29:53.745265Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "Donald Trump'tan İran açıklaması: Acele karar almıyorum",
+      "link": "https://www.ensonhaber.com/donald-trumptan-iran-aciklamasi-acele-karar-almiyorum-h1583946",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-19T20:27:12Z"
+    },
+    {
+      "title": "GTA 6 Türkçe altyazı nasıl yapılır: İşte GTA 6'yı Türkçe oynamanın yolu",
+      "link": "https://www.ensonhaber.com/gta-6-turkce-altyazi-nasil-yapilir-iste-gta-6yi-turkce-oynamanin-yolu-h1583945",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-19T20:27:11Z"
+    },
+    {
+      "title": "ABD'den Orta Doğu'daki vatandaşlarına yüksek teyakkuz uyarısı",
+      "link": "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi-963874.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-19T20:24:00Z"
+    },
     {
       "title": "Trump'tan Netanyahu'ya İran şoku: Tarih vererek açıkladı",
       "link": "https://www.sozcu.com.tr/trump-tan-netanyahu-ya-iran-soku-tarih-vererek-acikladi-p382871",
@@ -736,24 +754,6 @@
       "link": "https://www.ensonhaber.com/erzincanda-hayatini-kaybeden-uzman-cavusa-veda-h1583914",
       "source": "Ensonhaber",
       "published_at": "2026-11-19T14:47:08Z"
-    },
-    {
-      "title": "Zehirli tırtıllar şehre yayılmaya başladı",
-      "link": "https://www.sozcu.com.tr/zehirli-tirtillar-sehre-yayilmaya-basladi-p382828",
-      "source": "Sözcü",
-      "published_at": "2026-11-19T14:46:47Z"
-    },
-    {
-      "title": "Ameliyatı ertelendi",
-      "link": "https://www.haberturk.com/magazin/foto/yavuz-bingolun-ameliyati-ertelendi-3928589",
-      "source": "Habertürk",
-      "published_at": "2026-11-19T14:45:01Z"
-    },
-    {
-      "title": "Hatay'da erkek cesedi bulundu",
-      "link": "https://www.ensonhaber.com/hatayda-erkek-cesedi-bulundu-h1583863",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-19T14:44:55Z"
     }
   ]
 }
