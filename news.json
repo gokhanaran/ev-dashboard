@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:55:12.077425Z",
+  "generated_at": "2026-11-19T21:00:15.605227Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 8
+      "items": 6
     },
     {
       "source": "Sözcü",
@@ -36,16 +36,22 @@
   ],
   "items": [
     {
-      "title": "Ünlü psikiyatrist Arif Verimli'nin seans ücreti ortaya çıktı",
-      "link": "https://www.ensonhaber.com/unlu-psikiyatrist-arif-verimlinin-seans-ucreti-ortaya-cikti-h1583950",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-19T20:46:36Z"
+      "title": "\"Bizde kalmak isteyen birini kimse alamaz\"",
+      "link": "https://www.haberturk.com/spor/foto/ertugrul-dogan-trabzonspor-da-kalmak-isteyen-birini-kimse-alamaz-3928635",
+      "source": "Habertürk",
+      "published_at": "2026-11-19T20:50:45Z"
     },
     {
       "title": "Bilal Erdoğan'dan Al Nassr'a ziyaret",
       "link": "https://www.haberturk.com/spor/dunya-etnospor-birligi-baskani-necmeddin-bilal-erdogan-al-nassr-i-ziyaret-etti-3928621",
       "source": "Habertürk",
-      "published_at": "2026-11-19T20:44:06Z"
+      "published_at": "2026-11-19T20:50:26Z"
+    },
+    {
+      "title": "Ünlü psikiyatrist Arif Verimli'nin seans ücreti ortaya çıktı",
+      "link": "https://www.ensonhaber.com/unlu-psikiyatrist-arif-verimlinin-seans-ucreti-ortaya-cikti-h1583950",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-19T20:46:36Z"
     },
     {
       "title": "Avrupa'nın dev kulüpleri Fenerbahçeli yıldız için yarışa girdi! Gözler ocak ayına çevrildi",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/buca-da-bitmeyen-copluk-yangini-tepkisi-3928593",
       "source": "Habertürk",
       "published_at": "2026-11-19T15:04:02Z"
-    },
-    {
-      "title": "Devlet Bahçeli: Türkiye ve Cumhurbaşkanı Erdoğan görmezden gelinemez",
-      "link": "https://www.ensonhaber.com/devlet-bahceli-turkiye-ve-cumhurbaskani-erdogan-gormezden-gelinemez-h1583919",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-19T15:01:39Z"
     }
   ]
 }
