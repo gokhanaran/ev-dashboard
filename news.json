@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:05:19.048696Z",
+  "generated_at": "2026-11-19T21:10:22.589222Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti",
+      "link": "https://www.sozcu.com.tr/kar-kalinligi-20-santimetreyi-asti-ekipler-alarma-gecti-p382875",
+      "source": "Sözcü",
+      "published_at": "2026-11-19T21:06:22Z"
+    },
+    {
       "title": "İstanbul Bağcılar’da midibüs ile minibüs çarpıştı: 18 yaralı",
       "link": "https://www.ensonhaber.com/istanbul-bagcilarda-midibus-ile-minibus-carpisti-18-yarali-h1583951",
       "source": "Ensonhaber",
@@ -46,6 +52,12 @@
       "link": "https://www.sozcu.com.tr/istanbul-b-b-bsk-satin-alma-daire-bsk-ihale-isleri-sube-p382747",
       "source": "Sözcü",
       "published_at": "2026-11-19T21:00:18Z"
+    },
+    {
+      "title": "Rusya'nın Kiev'e saldırılarında Avusturya ve Hollanda büyükelçilikleri hasar gördü",
+      "link": "https://www.trthaber.com/haber/dunya/rusyanin-kieve-saldirilarinda-avusturya-ve-hollanda-buyukelcilikleri-hasar-gordu-963878.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-19T21:00:00Z"
     },
     {
       "title": "\"Bizde kalmak isteyen birini kimse alamaz\"",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/izmir-anafartalar-da-tarihi-donusum-basladi-3928595",
       "source": "Habertürk",
       "published_at": "2026-11-19T15:11:55Z"
-    },
-    {
-      "title": "Darüşşafaka, World’s Best School Prizes 2026’da Türkiye’ye bir ilki yaşattı",
-      "link": "https://www.haberturk.com/gundem/darussafaka-worlds-best-school-prizes-2026da-turkiyeye-bir-ilki-yasatti-3928592",
-      "source": "Habertürk",
-      "published_at": "2026-11-19T15:09:01Z"
-    },
-    {
-      "title": "Kırmızı bültenle aranan 2 firari Bulgaristan'da yakalanarak Türkiye'ye getirildi",
-      "link": "https://www.trthaber.com/haber/gundem/kirmizi-bultenle-aranan-2-firari-bulgaristanda-yakalanarak-turkiyeye-getirildi-963855.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-19T15:07:00Z"
     }
   ]
 }
