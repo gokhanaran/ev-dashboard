@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:00:15.605227Z",
+  "generated_at": "2026-11-19T21:05:19.048696Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul Bağcılar’da midibüs ile minibüs çarpıştı: 18 yaralı",
+      "link": "https://www.ensonhaber.com/istanbul-bagcilarda-midibus-ile-minibus-carpisti-18-yarali-h1583951",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-19T21:03:58Z"
+    },
+    {
+      "title": "İSTANBUL B. B. BŞK. SATIN ALMA DAİRE BŞK. İHALE İŞLERİ ŞUBE",
+      "link": "https://www.sozcu.com.tr/istanbul-b-b-bsk-satin-alma-daire-bsk-ihale-isleri-sube-p382747",
+      "source": "Sözcü",
+      "published_at": "2026-11-19T21:00:18Z"
+    },
     {
       "title": "\"Bizde kalmak isteyen birini kimse alamaz\"",
       "link": "https://www.haberturk.com/spor/foto/ertugrul-dogan-trabzonspor-da-kalmak-isteyen-birini-kimse-alamaz-3928635",
@@ -232,6 +244,12 @@
       "link": "https://www.haberturk.com/magazin/defne-samyeli-ve-derin-talu-metroda-3928628",
       "source": "Habertürk",
       "published_at": "2026-11-19T19:20:15Z"
+    },
+    {
+      "title": "Haiti'de 34 çete üyesi etkisiz hale getirildi",
+      "link": "https://www.sozcu.com.tr/haiti-de-34-cete-uyesi-etkisiz-hale-getirildi-p382864",
+      "source": "Sözcü",
+      "published_at": "2026-11-19T19:19:11Z"
     },
     {
       "title": "Otomobil ile tır kavşakta çarpıştı: 1 ölü, 4 yaralı",
@@ -736,24 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/kirmizi-bultenle-aranan-2-firari-bulgaristanda-yakalanarak-turkiyeye-getirildi-963855.html",
       "source": "TRT Haber",
       "published_at": "2026-11-19T15:07:00Z"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli: Mazlumların şemsiyesi Türkiye yok sayılamaz",
-      "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceli-mazlumlarin-semsiyesi-turkiye-yok-sayilamaz-963854.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-19T15:06:00Z"
-    },
-    {
-      "title": "Bisküvi kutusunun ağırlığı ele verdi: İçinden servet çıktı",
-      "link": "https://www.ensonhaber.com/biskuvi-kutusunun-agirligi-ele-verdi-icinden-servet-cikti-h1583920",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-19T15:05:30Z"
-    },
-    {
-      "title": "Buca'da bitmeyen çöplük yangını tepkisi",
-      "link": "https://www.haberturk.com/gundem/buca-da-bitmeyen-copluk-yangini-tepkisi-3928593",
-      "source": "Habertürk",
-      "published_at": "2026-11-19T15:04:02Z"
     }
   ]
 }
