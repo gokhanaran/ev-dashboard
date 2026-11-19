@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:29:53.745265Z",
+  "generated_at": "2026-11-19T20:34:57.159079Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Mersin'de oto tamirhanesinde patlama: 2 yaralı",
+      "link": "https://www.ensonhaber.com/mersinde-oto-tamirhanesinde-patlama-2-yarali-h1583947",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-19T20:30:45Z"
+    },
     {
       "title": "Donald Trump'tan İran açıklaması: Acele karar almıyorum",
       "link": "https://www.ensonhaber.com/donald-trumptan-iran-aciklamasi-acele-karar-almiyorum-h1583946",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/ingiltere-den-myanmar-a-soykirim-cezasi-sinir-disi-ediliyor-p382827",
       "source": "Sözcü",
       "published_at": "2026-11-19T14:47:49Z"
-    },
-    {
-      "title": "Erzincan'da hayatını kaybeden uzman çavuşa veda",
-      "link": "https://www.ensonhaber.com/erzincanda-hayatini-kaybeden-uzman-cavusa-veda-h1583914",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-19T14:47:08Z"
     }
   ]
 }
