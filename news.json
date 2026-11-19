@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:37:44.497910Z",
+  "generated_at": "2026-11-19T03:42:48.800064Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Van Gogh tablosu, Nazi dönemi geçmişine ilişkin tartışmanın ardından 190,4 milyon dolarla rekor fiyata satıldı",
+      "link": "https://www.trthaber.com/haber/dunya/van-gogh-tablosu-nazi-donemi-gecmisine-iliskin-tartismanin-ardindan-1904-milyon-dolarla-rekor-fiyata-satildi-963748.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-19T03:35:00Z"
+    },
+    {
       "title": "Lukaku kararı İzmir'de verdi: Bu takımda bir daha oynamam",
       "link": "https://www.sozcu.com.tr/lukaku-karari-izmir-de-verdi-bu-takimda-bir-daha-oynamam-p382584",
       "source": "Sözcü",
       "published_at": "2026-11-19T03:34:19Z"
+    },
+    {
+      "title": "Yapay zeka devi Anthropic, borsa çıkışı öncesinde 1,5 trilyon dolara kadar değerlemeye ulaştı",
+      "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-devi-anthropic-borsa-cikisi-oncesinde-15-trilyon-dolara-kadar-degerlemeye-ulasti-963747.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-19T03:34:00Z"
     },
     {
       "title": "KPSS Ortaöğretim atama puanları",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/sinop-ta-tarihi-yapi-kutuphaneye-donusuyor-3928303",
       "source": "Habertürk",
       "published_at": "2026-11-18T15:28:45Z"
-    },
-    {
-      "title": "F.Bahçe set vermeden Dörtlü Final'de!",
-      "link": "https://www.haberturk.com/spor/fenerbahce-medicana-3-turk-hava-yollari-0-mac-sonucu-3928301",
-      "source": "Habertürk",
-      "published_at": "2026-11-18T15:23:40Z"
-    },
-    {
-      "title": "Borsa günü düşüşle kapattı",
-      "link": "https://www.trthaber.com/haber/ekonomi/borsa-gunu-dususle-kapatti-963717.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-18T15:23:00Z"
     }
   ]
 }
