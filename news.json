@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:15:43.699712Z",
+  "generated_at": "2026-11-20T11:20:46.521486Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,46 @@
   ],
   "items": [
     {
+      "title": "Irak ordusu, 12 yıl aradan sonra Curf el-Sahar'a girdi",
+      "link": "https://www.ensonhaber.com/irak-ordusu-12-yil-aradan-sonra-curf-el-sahara-girdi-h1584136",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T11:20:23Z"
+    },
+    {
+      "title": "İstanbul için akşam çağrısı: Saat 17.00'den önce köprüyü geçin",
+      "link": "https://www.sozcu.com.tr/saat-17-00-den-once-kopruyu-gecin-cagrisi-p383009",
+      "source": "Sözcü",
+      "published_at": "2026-11-20T11:19:20Z"
+    },
+    {
+      "title": "MKE'nin mayın temizleme sistemi ALPAY-D'nin saha testleri tamamlandı",
+      "link": "https://www.ensonhaber.com/mkenin-mayin-temizleme-sistemi-alpay-dnin-saha-testleri-tamamlandi-h1584135",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T11:18:51Z"
+    },
+    {
+      "title": "Anthropic halka açıldı: Her bir çalışan 40 milyon dolar kazandı",
+      "link": "https://www.ensonhaber.com/anthropic-halka-acildi-her-bir-calisan-40-milyon-dolar-kazandi-h1584134",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T11:18:10Z"
+    },
+    {
+      "title": "İstanbul’da kira getirisi en yüksek ve en düşük ilçeler belli oldu",
+      "link": "https://www.sozcu.com.tr/istanbul-da-kira-getirisi-en-yuksek-ve-en-dusuk-ilceler-belli-oldu-p383049",
+      "source": "Sözcü",
+      "published_at": "2026-11-20T11:16:28Z"
+    },
+    {
       "title": "5 bin 100 kişi sabah işe gitti, öğleden sonra hepsi milyoner oldu",
       "link": "https://www.sozcu.com.tr/halka-arz-kapiyi-araladi5-bin-calisan-bir-gecede-milyoner-oldu-p382931",
       "source": "Sözcü",
       "published_at": "2026-11-20T11:12:56Z"
+    },
+    {
+      "title": "Tunceli'de Terörsüz Türkiye toplantısı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-tunceli-de-terorsuz-turkiye-toplantisi-3928785",
+      "source": "Habertürk",
+      "published_at": "2026-11-20T11:12:24Z"
     },
     {
       "title": "İklim değişikliği, Akdeniz'deki deniz kaplumbağalarının geleceğini tehdit ediyor",
@@ -94,12 +130,6 @@
       "link": "https://www.ensonhaber.com/balik-yemi-ararken-servet-buldu-devlet-19-milyon-lira-odeyecek-h1584126",
       "source": "Ensonhaber",
       "published_at": "2026-11-20T11:01:42Z"
-    },
-    {
-      "title": "Tunceli'de Terörsüz Türkiye toplantısı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-tunceli-de-terorsuz-turkiye-toplantisi-3928785",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T11:01:10Z"
     },
     {
       "title": "Her gün kullanıyoruz ama kimse bilmiyor",
@@ -724,36 +754,6 @@
       "link": "https://www.sozcu.com.tr/otomotiv-sektorunu-ele-gecirdiler-pazar-paylari-yuzde-73-e-cikti-p383016",
       "source": "Sözcü",
       "published_at": "2026-11-20T08:59:45Z"
-    },
-    {
-      "title": "Kışın peteklerin üzerine sakın kıyafet asmayın",
-      "link": "https://www.sozcu.com.tr/kisin-peteklerin-uzerine-sakin-kiyafet-asmayin-p383014",
-      "source": "Sözcü",
-      "published_at": "2026-11-20T08:58:45Z"
-    },
-    {
-      "title": "AKOM'dan bugün ve yarın için uyarı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-akom-dan-istanbul-icin-kuvvetli-saganak-uyarisi-3928751",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T08:58:25Z"
-    },
-    {
-      "title": "Turkcell, COP31’de yeşil dönüşüm vizyonunu dünya ile paylaştı",
-      "link": "https://www.haberturk.com/ekonomi/turkcell-cop31de-yesil-donusum-vizyonunu-dunya-ile-paylasti-3928750",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T08:58:14Z"
-    },
-    {
-      "title": "Bursa semalarında UFO sanılan görüntü",
-      "link": "https://www.haberturk.com/bilgi/bursa-semalarinda-gizemli-goruntu-ufo-sanildi-gercek-bambaska-cikti-3928742",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T08:54:32Z"
-    },
-    {
-      "title": "Cengiz Enerji'den Pakistan'da yeni yatırım hamlesi",
-      "link": "https://www.haberturk.com/ekonomi/cengiz-enerji-den-pakistan-da-yeni-yatirim-hamlesi-3928748",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T08:53:22Z"
     }
   ]
 }
