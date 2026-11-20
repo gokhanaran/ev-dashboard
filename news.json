@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:10:40.504021Z",
+  "generated_at": "2026-11-20T11:15:43.699712Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "5 bin 100 kişi sabah işe gitti, öğleden sonra hepsi milyoner oldu",
+      "link": "https://www.sozcu.com.tr/halka-arz-kapiyi-araladi5-bin-calisan-bir-gecede-milyoner-oldu-p382931",
+      "source": "Sözcü",
+      "published_at": "2026-11-20T11:12:56Z"
+    },
+    {
+      "title": "İklim değişikliği, Akdeniz'deki deniz kaplumbağalarının geleceğini tehdit ediyor",
+      "link": "https://www.ensonhaber.com/iklim-degisikligi-akdenizdeki-deniz-kaplumbagalarinin-gelecegini-tehdit-ediyor-h1584133",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T11:11:28Z"
+    },
     {
       "title": "Burhanettin Duran'dan Oruç Reis mesajı: Milli kabiliyetlerimizi yeni coğrafyalara taşıyoruz",
       "link": "https://www.ensonhaber.com/burhanettin-durandan-oruc-reis-mesaji-milli-kabiliyetlerimizi-yeni-cografyalara-tasiyoruz-h1584132",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/cengiz-enerji-den-pakistan-da-yeni-yatirim-hamlesi-3928748",
       "source": "Habertürk",
       "published_at": "2026-11-20T08:53:22Z"
-    },
-    {
-      "title": "Rusya: Ukrayna'nın NATO üyeliğine yakın bir statü kazanması dahi kabul edilemez",
-      "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynanin-nato-uyeligine-yakin-bir-statu-kazanmasi-dahi-kabul-edilemez-963951.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-20T08:53:00Z"
-    },
-    {
-      "title": "Saat 17.00'den önce köprüyü geçin çağrısı",
-      "link": "https://www.sozcu.com.tr/saat-17-00-den-once-kopruyu-gecin-cagrisi-p383009",
-      "source": "Sözcü",
-      "published_at": "2026-11-20T08:52:05Z"
     }
   ]
 }
