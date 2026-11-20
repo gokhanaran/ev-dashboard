@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:20:01.612179Z",
+  "generated_at": "2026-11-20T02:30:07.453953Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "BUDO'da bazı seferler iptal",
+      "link": "https://www.haberturk.com/gundem/budo-da-bazi-seferler-iptal-3928654",
+      "source": "Habertürk",
+      "published_at": "2026-11-20T02:22:06Z"
+    },
     {
       "title": "Diyarbakır'da sağanakta debisi yükselen dere üzerindeki beton köprü çöktü",
       "link": "https://www.ensonhaber.com/diyarbakirda-saganakta-debisi-yukselen-dere-uzerindeki-beton-kopru-coktu-h1583966",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html",
       "source": "TRT Haber",
       "published_at": "2026-11-19T17:25:00Z"
-    },
-    {
-      "title": "TEM Otoyolu'nda zincirleme trafik kazası: 18 yaralı",
-      "link": "https://www.trthaber.com/haber/turkiye/tem-otoyolunda-zincirleme-trafik-kazasi-18-yarali-963862.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-19T17:18:00Z"
     }
   ]
 }
