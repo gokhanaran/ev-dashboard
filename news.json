@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:11:05.862749Z",
+  "generated_at": "2026-11-20T20:16:08.912245Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Balıkesir'de kedinin gözünü kör eden şüpheli, savcılığın itirazıyla tutuklandı",
+      "link": "https://www.ensonhaber.com/balikesirde-kedinin-gozunu-kor-eden-supheli-savciligin-itiraziyla-tutuklandi-h1584221",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T20:15:01Z"
+    },
+    {
+      "title": "Serdar Dursun'un Osimhen yorumu olay oldu! 'Son vuruşlarım ondan daha iyi'",
+      "link": "https://www.sozcu.com.tr/serdar-dursun-un-osimhen-yorumu-olay-oldu-son-vuruslarim-ondan-daha-iyi-p383122",
+      "source": "Sözcü",
+      "published_at": "2026-11-20T20:14:22Z"
+    },
     {
       "title": "Trump'tan ABD'li şirketlere gözdağı: İhlal edene ağır vergi getiriyor",
       "link": "https://www.sozcu.com.tr/trump-tan-abd-li-sirketlere-gozdagi-ihlal-edene-agir-vergi-getiriyor-p383123",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/minik-tuna-sulama-havuzuna-dustu-3928866",
       "source": "Habertürk",
       "published_at": "2026-11-20T14:44:11Z"
-    },
-    {
-      "title": "Çinli batarya devi CATL, Türkiye'deki ilk servis merkezini Tuzla'da açtı",
-      "link": "https://www.ensonhaber.com/cinli-batarya-devi-catl-turkiyedeki-ilk-servis-merkezini-tuzlada-acti-h1584191",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-20T14:43:50Z"
-    },
-    {
-      "title": "Hakkari'de zirvede kış, yamaçta sonbahar güzelliği",
-      "link": "https://www.ensonhaber.com/hakkaride-zirvede-kis-yamacta-sonbahar-guzelligi-h1584190",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-20T14:43:42Z"
     }
   ]
 }
