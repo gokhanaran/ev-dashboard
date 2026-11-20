@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:30:07.453953Z",
+  "generated_at": "2026-11-20T02:40:12.760505Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Avrupa ülkelerinden Rusya'ya kış boyunca enerji ateşkesi çağrısı",
+      "link": "https://www.ensonhaber.com/avrupa-ulkelerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi-h1583967",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T02:39:09Z"
+    },
     {
       "title": "BUDO'da bazı seferler iptal",
       "link": "https://www.haberturk.com/gundem/budo-da-bazi-seferler-iptal-3928654",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/49-kisinin-planini-tek-bir-hamle-bozdu-hic-beklemedikleri-anda-yakalandilar-p382852",
       "source": "Sözcü",
       "published_at": "2026-11-19T17:38:59Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Bugün bir büyük hayalin gerçeğe dönüştüğü tarihi bir gün",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-19T17:25:00Z"
     }
   ]
 }
