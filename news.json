@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:09:55.838475Z",
+  "generated_at": "2026-11-20T02:20:01.612179Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Diyarbakır'da sağanakta debisi yükselen dere üzerindeki beton köprü çöktü",
+      "link": "https://www.ensonhaber.com/diyarbakirda-saganakta-debisi-yukselen-dere-uzerindeki-beton-kopru-coktu-h1583966",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-20T02:19:24Z"
+    },
     {
       "title": "Hafta sonu yurdun büyük bölümünde sağanak yağış görülecek",
       "link": "https://www.ensonhaber.com/hafta-sonu-yurdun-buyuk-bolumunde-saganak-yagis-gorulecek-h1583965",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/tem-otoyolunda-zincirleme-trafik-kazasi-18-yarali-963862.html",
       "source": "TRT Haber",
       "published_at": "2026-11-19T17:18:00Z"
-    },
-    {
-      "title": "Bağcılar TEM Otoyolu'nda zincirleme kaza! 18 kişi yaralandı",
-      "link": "https://www.sozcu.com.tr/bagcilar-tem-otoyolu-nda-zincirleme-kaza-18-kisi-yaralandi-p382847",
-      "source": "Sözcü",
-      "published_at": "2026-11-19T17:15:47Z"
     }
   ]
 }
