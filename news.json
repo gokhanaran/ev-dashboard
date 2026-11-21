@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:17:07.741361Z",
+  "generated_at": "2026-11-21T23:22:11.546880Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,13 +39,19 @@
       "title": "Kurum: Dünya bizden sonuç bekliyor",
       "link": "https://www.haberturk.com/gundem/kurum-dunya-bizden-sonuc-bekliyor-3929138",
       "source": "Habertürk",
-      "published_at": "2026-11-21T23:12:25Z"
+      "published_at": "2026-11-21T23:12:49Z"
     },
     {
       "title": "Hatay'da zincirleme kaza: 9 yaşındaki Elif hayatını kaybetti, 10 kişi yaralandı",
       "link": "https://www.ensonhaber.com/hatayda-zincirleme-kaza-9-yasindaki-elif-hayatini-kaybetti-10-kisi-yaralandi-h1584523",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T23:10:37Z"
+    },
+    {
+      "title": "Hatay'da zincirleme trafik kazası: 1 ölü 10 yaralı",
+      "link": "https://www.trthaber.com/haber/turkiye/hatayda-zincirleme-trafik-kazasi-1-olu-10-yarali-964105.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T23:07:00Z"
     },
     {
       "title": "COP31 Başkanı Kurum: Son metin diyeceğimiz metni sekretaryaya gönderdik",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/tottenham-ipswich-town-karsisinda-iki-golle-guldu-h1584484",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:11:26Z"
-    },
-    {
-      "title": "Galatasaray maçı öncesi kayıp! Aston Villa ile Sunderland yenişemedi",
-      "link": "https://www.ensonhaber.com/galatasaray-maci-oncesi-kayip-aston-villa-ile-sunderland-yenisemedi-h1584483",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T17:09:28Z"
     }
   ]
 }
