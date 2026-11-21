@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:48:25.499039Z",
+  "generated_at": "2026-11-21T09:53:27.705948Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Yeni metro için tarih verildi: Ümraniye-Göztepe 21 dakikaya düşecek",
+      "link": "https://www.sozcu.com.tr/umraniyegoztepe-metrosu-icin-19-aralik-tarihi-verildi-p383221",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T09:51:12Z"
+    },
+    {
+      "title": "Donald Trump: Şehirlerimiz iğrenç",
+      "link": "https://www.ensonhaber.com/donald-trump-sehirlerimiz-igrenc-h1584334",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T09:50:58Z"
+    },
+    {
+      "title": "TVF Başkanı Üstündağ’ın FIVB 40. Dünya Kongresi’ndeki sunumuna ilgi",
+      "link": "https://www.haberturk.com/spor/tvf-baskani-ustundagin-fivb-40-dunya-kongresindeki-sunumuna-buyuk-ilgi-ve-alkis-3928996",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T09:47:02Z"
+    },
+    {
       "title": "Ne doğal gaz ne kömür: Kışın topraktan blok blok kesip bedava ısınıyorlar",
       "link": "https://www.sozcu.com.tr/ne-dogal-gaz-ne-komur-kisin-topraktan-blok-blok-kesip-bedava-isiniyorlar-p383220",
       "source": "Sözcü",
       "published_at": "2026-11-21T09:45:05Z"
+    },
+    {
+      "title": "Devamsızlık nedeniyle işten çıkarılan işçinin tazminat talebine Yargıtay'dan ret",
+      "link": "https://www.trthaber.com/haber/gundem/devamsizlik-nedeniyle-isten-cikarilan-iscinin-tazminat-talebine-yargitaydan-ret-964052.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T09:44:00Z"
     },
     {
       "title": "Süper Lig devlerinin peşinde olduğu Van Dijk'tan veda açıklaması",
@@ -730,30 +754,6 @@
       "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-imzaladi-milletlerarasi-anlasmalar-resmi-gazetede-h1584290",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T07:23:04Z"
-    },
-    {
-      "title": "Taksim’de 'Huzur İstanbul' denetimi",
-      "link": "https://www.ensonhaber.com/taksimde-huzur-istanbul-denetimi-h1584286",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T07:22:56Z"
-    },
-    {
-      "title": "Moody's'ten Türkiye değerlendirmesi",
-      "link": "https://www.haberturk.com/ekonomi/moody-s-ten-turkiye-aciklamasi-fon-sorusturmasi-kredi-notunu-etkiler-mi-3928958",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T07:21:50Z"
-    },
-    {
-      "title": "BlackBox’ta Aralık ayı buluşmaları",
-      "link": "https://www.haberturk.com/kultur-sanat/blackboxta-aralik-ayi-bulusmalari-3928957",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T07:20:14Z"
-    },
-    {
-      "title": "Cenaze taşıyan midibüs devrildi: 31 yaralı",
-      "link": "https://www.trthaber.com/haber/turkiye/cenaze-tasiyan-midibus-devrildi-31-yarali-964038.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-21T07:19:00Z"
     }
   ]
 }
