@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:40:10.738170Z",
+  "generated_at": "2026-11-21T17:45:13.613981Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fenerbahçe, Spor Toto'ya set vermedi",
+      "link": "https://www.ensonhaber.com/fenerbahce-spor-totoya-set-vermedi-54861-h1584489",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T17:43:17Z"
+    },
     {
       "title": "Kırmızı bültenle aranıyordu: 3 ton kokainin arkasındaki isim İstanbul’da yakalandı",
       "link": "https://www.sozcu.com.tr/kirmizi-bultenle-araniyordu-3-ton-kokainin-arkasindaki-isim-istanbul-da-yakalandi-p383300",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/somer-sivrioglundan-turk-mutfagi-aciklamasi-sozlerim-carpitildi-h1584437",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T14:20:56Z"
-    },
-    {
-      "title": "Bakan Bayraktar, Irak Devlet Bakanı Ağa ile görüştü",
-      "link": "https://www.haberturk.com/ekonomi/bakan-bayraktar-irak-devlet-bakani-aga-ile-enerji-isbirligini-gorustu-3929064",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T14:16:31Z"
     }
   ]
 }
