@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:25:18.382060Z",
+  "generated_at": "2026-11-21T01:35:23.489666Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Karaman’da motosikletle hafif ticari araç çarpıştı: 1 ölü",
+      "link": "https://www.ensonhaber.com/karamanda-motosikletle-hafif-ticari-arac-carpisti-1-olu-h1584240",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T01:31:00Z"
+    },
     {
       "title": "Emekli zammında 40 bin lira altına kademeli artış gündemde",
       "link": "https://www.sozcu.com.tr/emekli-zamminda-40-bin-lira-altina-kademeli-artis-gundemde-p383139",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/foto/aytac-sasmaz-ile-serra-ariturk-ten-yeni-paylasim-3928887",
       "source": "Habertürk",
       "published_at": "2026-11-20T16:49:40Z"
-    },
-    {
-      "title": "Doktoru bıçakla rehin aldı",
-      "link": "https://www.haberturk.com/gundem/doktoru-bicakla-rehin-aldi-3928886",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T16:49:19Z"
     }
   ]
 }
