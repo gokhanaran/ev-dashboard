@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:12:04.643145Z",
+  "generated_at": "2026-11-21T23:17:07.741361Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kurum: Dünya bizden sonuç bekliyor",
+      "link": "https://www.haberturk.com/gundem/kurum-dunya-bizden-sonuc-bekliyor-3929138",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T23:12:25Z"
+    },
     {
       "title": "Hatay'da zincirleme kaza: 9 yaşındaki Elif hayatını kaybetti, 10 kişi yaralandı",
       "link": "https://www.ensonhaber.com/hatayda-zincirleme-kaza-9-yasindaki-elif-hayatini-kaybetti-10-kisi-yaralandi-h1584523",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/galatasaray-maci-oncesi-kayip-aston-villa-ile-sunderland-yenisemedi-h1584483",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:09:28Z"
-    },
-    {
-      "title": "İstanbul'da gök gürültülü sağanak! Çatalca'da dolu yağdı, yollar göle döndü",
-      "link": "https://www.sozcu.com.tr/istanbul-da-gok-gurultulu-saganak-yagis-basladi-p383294",
-      "source": "Sözcü",
-      "published_at": "2026-11-21T17:03:56Z"
     }
   ]
 }
