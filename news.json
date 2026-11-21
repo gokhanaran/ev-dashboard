@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:56:57.037581Z",
+  "generated_at": "2026-11-21T23:12:04.643145Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Hatay'da zincirleme kaza: 9 yaşındaki Elif hayatını kaybetti, 10 kişi yaralandı",
+      "link": "https://www.ensonhaber.com/hatayda-zincirleme-kaza-9-yasindaki-elif-hayatini-kaybetti-10-kisi-yaralandi-h1584523",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T23:10:37Z"
+    },
+    {
       "title": "COP31 Başkanı Kurum: Son metin diyeceğimiz metni sekretaryaya gönderdik",
       "link": "https://www.ensonhaber.com/cop31-baskani-kurum-son-metin-diyecegimiz-metni-sekretaryaya-gonderdik-h1584522",
       "source": "Ensonhaber",
@@ -52,6 +58,12 @@
       "link": "https://www.haberturk.com/ekonomi/bitcoinin-fiyati-yeniden-yukseldi-3929137",
       "source": "Habertürk",
       "published_at": "2026-11-21T22:38:16Z"
+    },
+    {
+      "title": "Bakan Kurum: Antalya Mutabakatını çıkarmak için tüm gücümüzle çalışıyoruz",
+      "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-antalya-mutabakatini-cikarmak-icin-tum-gucumuzle-calisiyoruz-964104.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T22:38:00Z"
     },
     {
       "title": "Bitcoin yeniden 60 bin doların üzerine yükseldi",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-gok-gurultulu-saganak-yagis-basladi-p383294",
       "source": "Sözcü",
       "published_at": "2026-11-21T17:03:56Z"
-    },
-    {
-      "title": "Okan Buruk kızardı, derbide yok!",
-      "link": "https://www.haberturk.com/spor/son-dakika-okan-buruk-kizardi-derbide-yok-3929079",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T17:00:27Z"
-    },
-    {
-      "title": "Ozan Kabak kırmızı gördü! Eintracht Frankfurt, Hoffenheim'ı yendi",
-      "link": "https://www.ensonhaber.com/ozan-kabak-kirmizi-gordu-eintracht-frankfurt-hoffenheimi-yendi-h1584481",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T16:54:34Z"
     }
   ]
 }
