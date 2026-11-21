@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:14:56.276040Z",
+  "generated_at": "2026-11-21T17:19:58.792168Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,34 @@
   ],
   "items": [
     {
+      "title": "Bahçeşehir Koleji, Körfez Basket'i rahat geçti",
+      "link": "https://www.ensonhaber.com/bahcesehir-koleji-korfez-basketi-rahat-gecti-h1584487",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T17:19:16Z"
+    },
+    {
+      "title": "Chelsea, Leeds United'a boyun eğdi!",
+      "link": "https://www.ensonhaber.com/chelsea-leeds-uniteda-boyun-egdi-h1584486",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T17:15:36Z"
+    },
+    {
+      "title": "Canlı | Kocaelispor-Fenerbahçe maçı canlı anlatım",
+      "link": "https://www.sozcu.com.tr/canli-veya-kocaelispor-fenerbahce-maci-canli-anlatim-p383267",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T17:14:45Z"
+    },
+    {
       "title": "İstanbul Kadıköy'de denizde erkek cesedi bulundu",
       "link": "https://www.ensonhaber.com/istanbul-kadikoyde-denizde-erkek-cesedi-bulundu-h1584485",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:13:44Z"
+    },
+    {
+      "title": "Kadıköy iskelesinde erkek cesedi bulundu",
+      "link": "https://www.sozcu.com.tr/kadikoy-iskelesinde-erkek-cesedi-bulundu-p383299",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T17:13:14Z"
     },
     {
       "title": "Tottenham, Ipswich Town karşısında iki golle güldü",
@@ -52,12 +76,6 @@
       "link": "https://www.ensonhaber.com/galatasaray-maci-oncesi-kayip-aston-villa-ile-sunderland-yenisemedi-h1584483",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:09:28Z"
-    },
-    {
-      "title": "Canlı | Kocaelispor-Fenerbahçe maçı canlı anlatım",
-      "link": "https://www.sozcu.com.tr/canli-veya-kocaelispor-fenerbahce-maci-canli-anlatim-p383267",
-      "source": "Sözcü",
-      "published_at": "2026-11-21T17:09:17Z"
     },
     {
       "title": "Maçta heyecan sürüyor",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/spor/genclerbirligi-nde-bernd-storck-bu-galibiyeti-hak-ettik-3929062",
       "source": "Habertürk",
       "published_at": "2026-11-21T14:11:02Z"
-    },
-    {
-      "title": "Beşiktaş'ın Konyaspor kadrosu açıklandı!",
-      "link": "https://www.haberturk.com/spor/besiktas-in-konyaspor-kadrosu-aciklandi-3929061",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T14:10:31Z"
-    },
-    {
-      "title": "\"301,3 milyar liradan fazla teşvik sağladık\"",
-      "link": "https://www.haberturk.com/ekonomi/bakan-isikhan-301-3-milyar-liradan-fazla-tesvik-sagladik-3929060",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T14:08:17Z"
-    },
-    {
-      "title": "Anthropic çalışanı Türk matematikçi, 167 yıldır çözülemeyen problemi yapay zekayla çözdüğünü iddia etti",
-      "link": "https://www.trthaber.com/haber/dunya/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti-964075.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-21T14:03:00Z"
     }
   ]
 }
