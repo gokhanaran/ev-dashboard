@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:50:16.394635Z",
+  "generated_at": "2026-11-21T17:55:19.056539Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Donald Trump'tan İran ile anlaşmayla ilgili açıklama",
+      "link": "https://www.ensonhaber.com/donald-trumptan-iran-ile-anlasmayla-ilgili-aciklama-h1584490",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T17:53:56Z"
+    },
+    {
       "title": "Tanju Özcan'a adli kontrol şartı ile tahliye",
       "link": "https://www.sozcu.com.tr/tanju-ozcan-a-adli-kontrol-sarti-ile-tahliye-p383301",
       "source": "Sözcü",
       "published_at": "2026-11-21T17:48:30Z"
+    },
+    {
+      "title": "Fidan ve Kalın, Dibeybe ile görüştü",
+      "link": "https://www.haberturk.com/dunya/bakan-fidan-ve-mit-baskani-kalin-libya-basbakani-dibeybe-yle-gorustu-3929109",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T17:47:56Z"
     },
     {
       "title": "Fenerbahçe, Spor Toto'ya set vermedi",
@@ -742,18 +754,6 @@
       "link": "https://www.ensonhaber.com/elazigda-dag-kecileri-goruntulendi-h1584438",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T14:21:46Z"
-    },
-    {
-      "title": "Eczacıbaşı, Kuzeyboru'ya set vermedi",
-      "link": "https://www.sozcu.com.tr/eczacibasi-kuzeyboruya-set-vermedi-p383281",
-      "source": "Sözcü",
-      "published_at": "2026-11-21T14:21:39Z"
-    },
-    {
-      "title": "Sağlık durumu hakkında açıklama",
-      "link": "https://www.haberturk.com/magazin/killa-hakan-in-saglik-durumuyla-ilgili-aciklama-3929033",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T14:21:03Z"
     }
   ]
 }
