@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:45:13.613981Z",
+  "generated_at": "2026-11-21T17:50:16.394635Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 12
+      "items": 13
     },
     {
       "source": "Sözcü",
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Tanju Özcan'a adli kontrol şartı ile tahliye",
+      "link": "https://www.sozcu.com.tr/tanju-ozcan-a-adli-kontrol-sarti-ile-tahliye-p383301",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T17:48:30Z"
+    },
+    {
       "title": "Fenerbahçe, Spor Toto'ya set vermedi",
       "link": "https://www.ensonhaber.com/fenerbahce-spor-totoya-set-vermedi-54861-h1584489",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:43:17Z"
+    },
+    {
+      "title": "Maçta heyecan sürüyor",
+      "link": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3928949",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T17:39:18Z"
     },
     {
       "title": "Kırmızı bültenle aranıyordu: 3 ton kokainin arkasındaki isim İstanbul’da yakalandı",
@@ -58,12 +70,6 @@
       "link": "https://www.ensonhaber.com/antalyada-uyusturucu-operasyonu-3-tutuklama-h1584482",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:34:52Z"
-    },
-    {
-      "title": "Maçta heyecan sürüyor",
-      "link": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3928949",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T17:32:58Z"
     },
     {
       "title": "Galatasaray, Turgutlu Belediyespor'a fark attı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/killa-hakan-in-saglik-durumuyla-ilgili-aciklama-3929033",
       "source": "Habertürk",
       "published_at": "2026-11-21T14:21:03Z"
-    },
-    {
-      "title": "Somer Sivrioğlu'ndan Türk mutfağı açıklaması! Sözlerim çarpıtıldı",
-      "link": "https://www.ensonhaber.com/somer-sivrioglundan-turk-mutfagi-aciklamasi-sozlerim-carpitildi-h1584437",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T14:20:56Z"
     }
   ]
 }
