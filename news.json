@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:35:07.603841Z",
+  "generated_at": "2026-11-21T17:40:10.738170Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,28 @@
   ],
   "items": [
     {
+      "title": "Kırmızı bültenle aranıyordu: 3 ton kokainin arkasındaki isim İstanbul’da yakalandı",
+      "link": "https://www.sozcu.com.tr/kirmizi-bultenle-araniyordu-3-ton-kokainin-arkasindaki-isim-istanbul-da-yakalandi-p383300",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T17:39:15Z"
+    },
+    {
       "title": "Canlı | Kocaelispor-Fenerbahçe maçı canlı anlatım",
       "link": "https://www.sozcu.com.tr/canli-veya-kocaelispor-fenerbahce-maci-canli-anlatim-p383267",
       "source": "Sözcü",
-      "published_at": "2026-11-21T17:30:58Z"
+      "published_at": "2026-11-21T17:37:18Z"
+    },
+    {
+      "title": "Antalya'da uyuşturucu operasyonu: 3 tutuklama",
+      "link": "https://www.ensonhaber.com/antalyada-uyusturucu-operasyonu-3-tutuklama-h1584482",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T17:34:52Z"
+    },
+    {
+      "title": "Maçta heyecan sürüyor",
+      "link": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3928949",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T17:32:58Z"
     },
     {
       "title": "Galatasaray, Turgutlu Belediyespor'a fark attı",
@@ -48,16 +66,16 @@
       "published_at": "2026-11-21T17:30:37Z"
     },
     {
+      "title": "DMM'den eğitimde eşitlik açıklaması",
+      "link": "https://www.haberturk.com/gundem/dmm-turkiye-de-egitimde-esitsizligin-derinlestigi-iddialarini-verilerle-yalanladi-3929108",
+      "source": "Habertürk",
+      "published_at": "2026-11-21T17:29:38Z"
+    },
+    {
       "title": "Sağanak yağış etkili oldu, yollar göle döndü",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-saganak-yagis-etkili-oldu-yollar-gole-dondu-3929025",
       "source": "Habertürk",
       "published_at": "2026-11-21T17:22:32Z"
-    },
-    {
-      "title": "Maçta heyecan sürüyor",
-      "link": "https://www.haberturk.com/spor/kocaelispor-fenerbahce-maci-canli-anlatim-kocaeli-fb-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3928949",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T17:22:16Z"
     },
     {
       "title": "\"Bulunduğumuz yeri hak etmiyoruz\"",
@@ -118,12 +136,6 @@
       "link": "https://www.sozcu.com.tr/istanbul-da-gok-gurultulu-saganak-yagis-basladi-p383294",
       "source": "Sözcü",
       "published_at": "2026-11-21T17:03:56Z"
-    },
-    {
-      "title": "Antalya'da uyuşturucu operasyonu: 3 tutuklama",
-      "link": "https://www.ensonhaber.com/antalyada-uyusturucu-operasyonu-3-tutuklama-h1584482",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T17:01:51Z"
     },
     {
       "title": "Okan Buruk kızardı, derbide yok!",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/bakan-bayraktar-irak-devlet-bakani-aga-ile-enerji-isbirligini-gorustu-3929064",
       "source": "Habertürk",
       "published_at": "2026-11-21T14:16:31Z"
-    },
-    {
-      "title": "13 ülke araştırıldı! İstanbul’daki çocuklar daha stresli",
-      "link": "https://www.haberturk.com/saglik/13-ulke-arastirildi-istanbuldaki-cocuklar-daha-stresli-haberler-3928959",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T14:16:12Z"
-    },
-    {
-      "title": "Rusya'dan Ukrayna'nın kritik kentine saldırı!",
-      "link": "https://www.sozcu.com.tr/rusya-dan-ukrayna-nin-kritik-kentine-saldiri-p383279",
-      "source": "Sözcü",
-      "published_at": "2026-11-21T14:15:42Z"
     }
   ]
 }
