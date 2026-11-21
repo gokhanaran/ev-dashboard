@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:35:23.489666Z",
+  "generated_at": "2026-11-21T01:45:28.294958Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.ensonhaber.com/karamanda-motosikletle-hafif-ticari-arac-carpisti-1-olu-h1584240",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T01:31:00Z"
+    },
+    {
+      "title": "Nevşehir'de kazanın ardından 3 dakikada 3 şoför değişti",
+      "link": "https://www.trthaber.com/haber/turkiye/nevsehirde-kazanin-ardindan-3-dakikada-3-sofor-degisti-964026.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T01:23:00Z"
     },
     {
       "title": "Emekli zammında 40 bin lira altına kademeli artış gündemde",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-hakkindaki-iddialari-yalanladi-963998.html",
       "source": "TRT Haber",
       "published_at": "2026-11-20T16:52:00Z"
-    },
-    {
-      "title": "Aşıklardan yeni paylaşım",
-      "link": "https://www.haberturk.com/magazin/foto/aytac-sasmaz-ile-serra-ariturk-ten-yeni-paylasim-3928887",
-      "source": "Habertürk",
-      "published_at": "2026-11-20T16:49:40Z"
     }
   ]
 }
