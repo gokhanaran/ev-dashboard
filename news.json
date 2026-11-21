@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:22:11.546880Z",
+  "generated_at": "2026-11-21T23:42:21.206178Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Muş'ta şiddetli rüzgar yaşamı olumsuz etkiledi",
+      "link": "https://www.ensonhaber.com/musta-siddetli-ruzgar-yasami-olumsuz-etkiledi-h1584524",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-21T23:41:45Z"
+    },
+    {
       "title": "Kurum: Dünya bizden sonuç bekliyor",
       "link": "https://www.haberturk.com/gundem/kurum-dunya-bizden-sonuc-bekliyor-3929138",
       "source": "Habertürk",
@@ -45,7 +51,7 @@
       "title": "Hatay'da zincirleme kaza: 9 yaşındaki Elif hayatını kaybetti, 10 kişi yaralandı",
       "link": "https://www.ensonhaber.com/hatayda-zincirleme-kaza-9-yasindaki-elif-hayatini-kaybetti-10-kisi-yaralandi-h1584523",
       "source": "Ensonhaber",
-      "published_at": "2026-11-21T23:10:37Z"
+      "published_at": "2026-11-21T23:11:20Z"
     },
     {
       "title": "Hatay'da zincirleme trafik kazası: 1 ölü 10 yaralı",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/besnik-hasi-maci-iyi-analiz-edip-reaksiyon-almamiz-gerekiyor-3929105",
       "source": "Habertürk",
       "published_at": "2026-11-21T17:12:22Z"
-    },
-    {
-      "title": "Tottenham, Ipswich Town karşısında iki golle güldü",
-      "link": "https://www.ensonhaber.com/tottenham-ipswich-town-karsisinda-iki-golle-guldu-h1584484",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T17:11:26Z"
     }
   ]
 }
