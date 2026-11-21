@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:50:31.344013Z",
+  "generated_at": "2026-11-21T02:10:40.310503Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Park yeri tartışmasında aracından inen sürücüye 180 bin lira ceza",
+      "link": "https://www.trthaber.com/haber/turkiye/park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-964027.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T01:55:00Z"
+    },
     {
       "title": "Aydın'da uyuşturucu operasyonları: 12 tutuklama",
       "link": "https://www.ensonhaber.com/aydinda-uyusturucu-operasyonlari-12-tutuklama-h1584242",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/gundem/hava-durumu-istanbul-son-dakika-hava-durumu-hafta-sonu-hava-durumu-nasil-olacak-3928774",
       "source": "Habertürk",
       "published_at": "2026-11-20T16:53:44Z"
-    },
-    {
-      "title": "Alparslan Bayraktar, Pakistan Başbakanı Şahbaz Şerif ile görüştü",
-      "link": "https://www.ensonhaber.com/alparslan-bayraktar-pakistan-basbakani-sahbaz-serif-ile-gorustu-h1584209",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-20T16:52:46Z"
     }
   ]
 }
