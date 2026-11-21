@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:15:13.261532Z",
+  "generated_at": "2026-11-21T01:25:18.382060Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 9
+      "items": 10
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Emekli zammında 40 bin lira altına kademeli artış gündemde",
+      "link": "https://www.sozcu.com.tr/emekli-zamminda-40-bin-lira-altina-kademeli-artis-gundemde-p383139",
+      "source": "Sözcü",
+      "published_at": "2026-11-21T01:21:52Z"
+    },
+    {
+      "title": "Peru'da 6,7 büyüklüğünde deprem",
+      "link": "https://www.trthaber.com/haber/dunya/peruda-67-buyuklugunde-deprem-964025.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-21T01:16:00Z"
+    },
     {
       "title": "Peru'da 6,7 büyüklüğünde deprem meydana geldi",
       "link": "https://www.sozcu.com.tr/peruda-67-buyuklugunde-deprem-meydana-geldi-p383138",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/gundem/doktoru-bicakla-rehin-aldi-3928886",
       "source": "Habertürk",
       "published_at": "2026-11-20T16:49:19Z"
-    },
-    {
-      "title": "Sibel Kekilli’den yıllar sonra gelen itiraf: Tek pişmanlığını açıkladı",
-      "link": "https://www.sozcu.com.tr/sibel-kekilli-den-yillar-sonra-gelen-itiraf-tek-pismanligini-acikladi-p383109",
-      "source": "Sözcü",
-      "published_at": "2026-11-20T16:49:09Z"
-    },
-    {
-      "title": "Gazze Barış Kurulundan işgalci İsraile: Planı uygula, yoksa maliyetini öde",
-      "link": "https://www.trthaber.com/haber/dunya/gazze-baris-kurulundan-isgalci-israile-plani-uygula-yoksa-maliyetini-ode-963997.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-20T16:48:00Z"
     }
   ]
 }
