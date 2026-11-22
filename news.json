@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:37:30.655375Z",
+  "generated_at": "2026-11-22T18:42:33.359011Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kayseri'de tartıştığı arkadaşı tarafından bıçaklandı",
+      "link": "https://www.ensonhaber.com/kayseride-tartistigi-arkadasi-tarafindan-bicaklandi-h1584777",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-22T18:38:27Z"
+    },
     {
       "title": "Bakan Çiftçi: Toplam 111 bin 904 ton insani yardım malzemesi Gazze'ye ulaştırıldı",
       "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-toplam-111-bin-904-ton-insani-yardim-malzemesi-gazzeye-ulastirildi-964152.html",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/juventus-venezia-mac-sonucu-ozeti-ve-golleri-italya-serie-a-3929223",
       "source": "Habertürk",
       "published_at": "2026-11-22T14:06:35Z"
-    },
-    {
-      "title": "Vlahovic durdurulamıyor! Şimdiden Beşiktaş tarihine geçti",
-      "link": "https://www.sozcu.com.tr/vlahovic-durdurulamiyor-simdiden-besiktas-tarihine-gecti-p383477",
-      "source": "Sözcü",
-      "published_at": "2026-11-22T14:04:00Z"
     }
   ]
 }
