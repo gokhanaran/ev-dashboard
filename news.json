@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:17:27.689740Z",
+  "generated_at": "2026-11-22T11:22:30.486718Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "İş yorgunluğu sandı, nadir görülen kalp hastalığı çıktı",
+      "link": "https://www.sozcu.com.tr/is-yorgunlugu-sandi-nadir-gorulen-kalp-hastaligi-cikti-p383443",
+      "source": "Sözcü",
+      "published_at": "2026-11-22T11:21:31Z"
+    },
+    {
+      "title": "NATO, Polonya hava sahasının ihlalini görüşmek üzere toplanıyor",
+      "link": "https://www.ensonhaber.com/nato-polonya-hava-sahasinin-ihlalini-gorusmek-uzere-toplaniyor-h1584650",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-22T11:18:31Z"
+    },
     {
       "title": "Burhanettin Duran paylaştı: 'Türkiye’nin Diplomasi Rotası: Dört Zirvede Lider Diplomasisi' belgeseli",
       "link": "https://www.ensonhaber.com/burhanettin-duran-paylasti-turkiyenin-diplomasi-rotasi-dort-zirvede-lider-diplomasisi-belg-h1584612",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/endonezyada-sekerleme-fabrikasinda-cikan-yangin-3-olu-36-kayip-964116.html",
       "source": "TRT Haber",
       "published_at": "2026-11-22T08:17:00Z"
-    },
-    {
-      "title": "Güçlü dolar ve yüksek faiz ihtimali piyasaları vurdu",
-      "link": "https://www.sozcu.com.tr/guclu-dolar-ve-yuksek-faiz-ihtimali-piyasalari-vurdu-p383404",
-      "source": "Sözcü",
-      "published_at": "2026-11-22T08:13:43Z"
-    },
-    {
-      "title": "\"Galatasaray zor kurtuldu\"",
-      "link": "https://www.haberturk.com/spor/foto/spor-yazarlarindan-galatasaray-samsunspor-maci-degerlendirmesi-3929166",
-      "source": "Habertürk",
-      "published_at": "2026-11-22T08:09:48Z"
     }
   ]
 }
