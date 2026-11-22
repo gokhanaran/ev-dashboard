@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:22:22.862713Z",
+  "generated_at": "2026-11-22T18:27:25.479849Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Liverpool, Manchester United'a 4 attı",
+      "link": "https://www.ensonhaber.com/liverpool-manchester-uniteda-4-atti-h1584776",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-22T18:23:08Z"
+    },
     {
       "title": "Türk Hava Yolları, Beşiktaş'a set vermedi",
       "link": "https://www.ensonhaber.com/turk-hava-yollari-besiktasa-set-vermedi-h1584775",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/gazze-seridinde-menenjit-vakalarinda-olagan-disi-artis-yasaniyor-964144.html",
       "source": "TRT Haber",
       "published_at": "2026-11-22T14:02:00Z"
-    },
-    {
-      "title": "Aziz Yıldırım'ın beraberlik sonrası sözleri gündem oldu",
-      "link": "https://www.sozcu.com.tr/aziz-yildirimin-beraberlik-sonrasi-sozleri-gundem-oldu-p383474",
-      "source": "Sözcü",
-      "published_at": "2026-11-22T14:01:30Z"
     }
   ]
 }
