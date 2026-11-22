@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:15:37.694929Z",
+  "generated_at": "2026-11-22T03:40:49.291297Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kurum: Dünya bizden sonuç bekliyor",
+      "link": "https://www.haberturk.com/gundem/kurum-dunya-bizden-sonuc-bekliyor-3929138",
+      "source": "Habertürk",
+      "published_at": "2026-11-22T03:36:57Z"
+    },
     {
       "title": "Son dakika... Türkiye-İran sınırında korkutan deprem",
       "link": "https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
@@ -136,12 +142,6 @@
       "link": "https://www.ensonhaber.com/musta-siddetli-ruzgar-yasami-olumsuz-etkiledi-h1584524",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T23:41:45Z"
-    },
-    {
-      "title": "Kurum: Dünya bizden sonuç bekliyor",
-      "link": "https://www.haberturk.com/gundem/kurum-dunya-bizden-sonuc-bekliyor-3929138",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T23:12:49Z"
     },
     {
       "title": "Hatay'da zincirleme kaza: 9 yaşındaki Elif hayatını kaybetti, 10 kişi yaralandı",
