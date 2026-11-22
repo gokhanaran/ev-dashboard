@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:05:32.700269Z",
+  "generated_at": "2026-11-22T03:15:37.694929Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika... Türkiye-İran sınırında korkutan deprem",
+      "link": "https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
+      "source": "Sözcü",
+      "published_at": "2026-11-22T03:11:16Z"
+    },
     {
       "title": "Iğdır’da fırtına ağaçları devirdi",
       "link": "https://www.ensonhaber.com/igdirda-firtina-agaclari-devirdi-h1584532",
@@ -154,12 +160,6 @@
       "link": "https://www.ensonhaber.com/cop31-baskani-kurum-son-metin-diyecegimiz-metni-sekretaryaya-gonderdik-h1584522",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T22:47:47Z"
-    },
-    {
-      "title": "Son dakika... Türkiye-İran sınırında korkutan deprem",
-      "link": "https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
-      "source": "Sözcü",
-      "published_at": "2026-11-21T22:39:50Z"
     },
     {
       "title": "Bitcoinin fiyatı yeniden yükseldi",
