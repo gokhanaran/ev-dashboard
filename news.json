@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:27:25.479849Z",
+  "generated_at": "2026-11-22T18:32:28.088889Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -100,6 +100,12 @@
       "link": "https://www.ensonhaber.com/bati-karadeniz-icin-firtina-uyarisi-ruzgar-75-kilometreye-ulasacak-h1584771",
       "source": "Ensonhaber",
       "published_at": "2026-11-22T17:55:37Z"
+    },
+    {
+      "title": "COP31'de uzlaşı çıkmadı: Murat Kurum son noktayı koydu",
+      "link": "https://www.sozcu.com.tr/cop31-de-uzlasi-cikmadi-murat-kurum-son-noktayi-koydu-p383523",
+      "source": "Sözcü",
+      "published_at": "2026-11-22T17:54:57Z"
     },
     {
       "title": "İstanbul Valiliği'nden uyarı: Kuvvetli yağış ve fırtına geliyor",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/stanimir-stoilov-cok-degerli-bir-galibiyet-aldik-3929221",
       "source": "Habertürk",
       "published_at": "2026-11-22T14:02:25Z"
-    },
-    {
-      "title": "Gazze Şeridi'nde menenjit vakalarında olağan dışı artış yaşanıyor",
-      "link": "https://www.trthaber.com/haber/dunya/gazze-seridinde-menenjit-vakalarinda-olagan-disi-artis-yasaniyor-964144.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-22T14:02:00Z"
     }
   ]
 }
