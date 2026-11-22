@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:55:27.552137Z",
+  "generated_at": "2026-11-22T03:05:32.700269Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Iğdır’da fırtına ağaçları devirdi",
+      "link": "https://www.ensonhaber.com/igdirda-firtina-agaclari-devirdi-h1584532",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-22T03:01:47Z"
+    },
+    {
+      "title": "Grip sezonu erken başladı! Çocukları nasıl koruyacağız?",
+      "link": "https://youtu.be/zcXD6TCe2M4?si=HkMknNC1iB2HWp9R",
+      "source": "Habertürk",
+      "published_at": "2026-11-22T02:57:52Z"
+    },
     {
       "title": "Malatya'da silahlı kavgada 2 kişi yaralandı",
       "link": "https://www.ensonhaber.com/malatyada-silahli-kavgada-2-kisi-yaralandi-91826-h1584531",
@@ -742,18 +754,6 @@
       "link": "https://www.ensonhaber.com/kocaelispor-fenerbahce-macinin-ilk-11leri-37955-h1584452",
       "source": "Ensonhaber",
       "published_at": "2026-11-21T17:56:07Z"
-    },
-    {
-      "title": "Tanju Özcan adli kontrol şartıyla tahliye edildi",
-      "link": "https://www.ensonhaber.com/tanju-ozcan-adli-kontrol-sartiyla-tahliye-edildi-h1584491",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-21T17:56:06Z"
-    },
-    {
-      "title": "Karagümrük ile Boluspor yenişemedi",
-      "link": "https://www.haberturk.com/spor/fatih-karagumruk-0-boluspor-0-mac-sonucu-ozeti-ve-golleri-3929110",
-      "source": "Habertürk",
-      "published_at": "2026-11-21T17:50:14Z"
     }
   ]
 }
