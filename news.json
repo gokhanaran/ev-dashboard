@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:32:35.097610Z",
+  "generated_at": "2026-11-22T11:37:38.048227Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -46,6 +46,12 @@
       "link": "https://www.ensonhaber.com/istanbul-beyogluda-3-midye-imalathanesine-baskin-2si-bakanliga-kayitli-degil-digeri-muhurl-h1584651",
       "source": "Ensonhaber",
       "published_at": "2026-11-22T11:28:20Z"
+    },
+    {
+      "title": "Belçika'da ulusal grev nedeniyle yarın tüm uçuşlar iptal edilecek",
+      "link": "https://www.trthaber.com/haber/dunya/belcikada-ulusal-grev-nedeniyle-yarin-tum-ucuslar-iptal-edilecek-964134.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-22T11:25:00Z"
     },
     {
       "title": "Kupayı kazanan Boca'da Paredes bayıldı!",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/mourinho-dan-arda-guler-aciklamasi-tukenmis-durumdalar-p383391",
       "source": "Sözcü",
       "published_at": "2026-11-22T08:29:05Z"
-    },
-    {
-      "title": "CİMER'e COP31 başvuruları: Tarihi bir dönüm noktası olarak hatırlansın",
-      "link": "https://www.trthaber.com/haber/gundem/cimere-cop31-basvurulari-tarihi-bir-donum-noktasi-olarak-hatirlansin-964117.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-22T08:24:00Z"
     }
   ]
 }
