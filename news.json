@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:23:47.320398Z",
+  "generated_at": "2026-11-23T21:28:52.000183Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,18 @@
   ],
   "items": [
     {
+      "title": "Kayseri'de bıçaklı kavga: 2 kardeş yaralandı",
+      "link": "https://www.ensonhaber.com/kayseride-bicakli-kavga-2-kardes-yaralandi-h1585082",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-23T21:28:17Z"
+    },
+    {
+      "title": "Yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
+      "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-2026-p383851",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T21:26:14Z"
+    },
+    {
       "title": "Moda ve sinemayı buluşturan festival başlıyor",
       "link": "https://www.haberturk.com/kultur-sanat/moda-ve-sinemayi-bulusturan-festival-basliyor-3929489",
       "source": "Habertürk",
@@ -70,12 +82,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/milli-piyango-yilbasi-ozel-cekilisi-bilet-fiyatlari-2027-tam-yarim-ceyrek-milli-piyango-bilet-fiyati-ne-kadar-kac-tl-3929539",
       "source": "Habertürk",
       "published_at": "2026-11-23T21:19:56Z"
-    },
-    {
-      "title": "Yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
-      "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-2026-p383851",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T21:19:25Z"
     },
     {
       "title": "Çılgın Sayısal Loto sonuçları açıklandı",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/besiktas-tan-ayrilacak-mi-orkun-kokcu-gelecegiyle-ilgili-konustu-p383813",
       "source": "Sözcü",
       "published_at": "2026-11-23T17:00:24Z"
-    },
-    {
-      "title": "Çorum'da hayvan pazarında çıkan silahlı kavgada bir kişi hayatını kaybetti",
-      "link": "https://www.ensonhaber.com/corumda-hayvan-pazarinda-cikan-silahli-kavgada-bir-kisi-hayatini-kaybetti-h1585062",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-23T16:56:34Z"
     }
   ]
 }
