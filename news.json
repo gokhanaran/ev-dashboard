@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:54:16.062454Z",
+  "generated_at": "2026-11-23T21:59:20.635470Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Zelenskiy’den ‘NATO’ açıklaması",
+      "link": "https://www.haberturk.com/dunya/ukrayna-devlet-baskani-zelenskiyden-nato-aciklamasi-3929581",
+      "source": "Habertürk",
+      "published_at": "2026-11-23T21:55:42Z"
+    },
     {
       "title": "ABD eski Başkanı Joe Biden, yürümekte zorlanırken görüntülendi",
       "link": "https://www.ensonhaber.com/abd-eski-baskani-joe-biden-yurumekte-zorlanirken-goruntulendi-h1585071",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/istanbulda-lodos-dev-dalgalar-sahile-carpti-h1585038",
       "source": "Ensonhaber",
       "published_at": "2026-11-23T17:29:42Z"
-    },
-    {
-      "title": "Ünlü futbolcunun annesi sosyal medyadan ateş püskürdü: Gol atmasın diye pas atmıyorlar",
-      "link": "https://www.sozcu.com.tr/unlu-futbolcunun-annesi-sosyal-medyadan-ates-puskurdu-gol-atmasin-diye-pas-atmiyorlar-p383817",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T17:29:40Z"
     }
   ]
 }
