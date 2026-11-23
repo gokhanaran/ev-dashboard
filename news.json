@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:13:38.258909Z",
+  "generated_at": "2026-11-23T21:18:42.816061Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama",
+      "link": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-964239.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-23T21:09:00Z"
+    },
     {
       "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
       "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-3-petrol-tankerinde-patlama-p383848",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nden-yeni-tanitim-3929521",
       "source": "Habertürk",
       "published_at": "2026-11-23T16:31:30Z"
-    },
-    {
-      "title": "Sarıyer'de aslanın görüldüğü mahallenin muhtarı, sosyal medyanın gündeminde",
-      "link": "https://www.ensonhaber.com/sariyerde-aslanin-goruldugu-mahallenin-muhtari-sosyal-medyanin-gundeminde-h1585061",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-23T16:29:11Z"
     }
   ]
 }
