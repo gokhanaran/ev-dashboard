@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:11:50.974468Z",
+  "generated_at": "2026-11-23T00:16:54.787466Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "T.C. KOCAALİ İCRA DAİRESİ",
+      "link": "https://www.haberturk.com/resmi-ilanlar/tckocaaliicra-dairesi-3928798",
+      "source": "Habertürk",
+      "published_at": "2026-11-23T00:14:20Z"
+    },
     {
       "title": "Bodrum açıklarında 4.2 büyüklüğünde deprem",
       "link": "https://www.sozcu.com.tr/flas-p383553",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/a-milli-kadin-futbol-takimi-kamerun-maclarinin-hazirliklarini-surdurdu-h1584768",
       "source": "Ensonhaber",
       "published_at": "2026-11-22T17:23:19Z"
-    },
-    {
-      "title": "Barcelona geriden gelerek kazandı!",
-      "link": "https://www.haberturk.com/spor/barcelona-villarreal-mac-sonucu-ozeti-ve-golleri-ispanya-la-liga-3929247",
-      "source": "Habertürk",
-      "published_at": "2026-11-22T17:22:30Z"
     }
   ]
 }
