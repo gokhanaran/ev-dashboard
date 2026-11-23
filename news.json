@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:03:28.738204Z",
+  "generated_at": "2026-11-23T21:08:33.910496Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 4
+      "items": 5
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+      "link": "https://www.sozcu.com.tr/hurmuz-bogazi-nda-3-petrol-tankerinde-patlama-p383848",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T21:07:56Z"
+    },
+    {
+      "title": "Kulüp tarihinin en farklı mağlubiyeti! Rekor kırdılar",
+      "link": "https://www.sozcu.com.tr/kulup-tarihinin-en-farkli-maglubiyeti-rekor-kirdilar-p383847",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T21:05:42Z"
+    },
+    {
+      "title": "Yeniden değerleme oranı Resmi Gazete'de: Yüzde 27,83",
+      "link": "https://www.ensonhaber.com/yeniden-degerleme-orani-resmi-gazetede-yuzde-2783-h1585081",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-23T21:03:57Z"
+    },
+    {
+      "title": "Bayğaralar suç örgütüne operasyon: 90 tutuklama",
+      "link": "https://www.ensonhaber.com/baygaralar-suc-orgutune-operasyon-90-tutuklama-h1585080",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-23T21:03:52Z"
+    },
     {
       "title": "NATO PA'nin yeni başkanı ABD'li Kongre Üyesi Brendan F. Boyle seçildi",
       "link": "https://www.trthaber.com/haber/dunya/nato-panin-yeni-baskani-abdli-kongre-uyesi-brendan-f-boyle-secildi-964238.html",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/spor/foto/besiktas-ta-orkun-kokcu-den-flas-sozler-hedef-sampiyonluk-ayrilmak-yok-milli-takim-kaptanligi-3929525",
       "source": "Habertürk",
       "published_at": "2026-11-23T16:28:55Z"
-    },
-    {
-      "title": "Koca treni arazisine getirip ev yaptı",
-      "link": "https://www.sozcu.com.tr/koca-treni-arazisine-getirip-ev-yapti-p383809",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T16:25:53Z"
-    },
-    {
-      "title": "Bu fotoğraf neredeyse diplomatik kriz çıkartacaktı: Gerçek sonradan ortaya çıktı",
-      "link": "https://www.sozcu.com.tr/sudanli-yetkilinin-rus-buyukelciyle-fotografi-ortaligi-karistirdi-gercek-daha-sonra-ortaya-cikti-p383808",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T16:21:41Z"
-    },
-    {
-      "title": "İstanbul için soğuk hava uyarısı",
-      "link": "https://www.haberturk.com/gundem/istanbul-valiligi-nden-soguk-hava-uyarisi-3929523",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T16:21:02Z"
-    },
-    {
-      "title": "Aston Villa’da kritik eksikler! Galatasaray maçı öncesi 4 futbolcu İstanbul’a getirilmedi",
-      "link": "https://www.sozcu.com.tr/aston-villa-da-kritik-eksikler-galatasaray-maci-oncesi-4-futbolcu-istanbul-a-getirilmedi-p383807",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T16:18:17Z"
     }
   ]
 }
