@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:39:00.883598Z",
+  "generated_at": "2026-11-23T21:44:06.189233Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,16 @@
   ],
   "items": [
     {
+      "title": "Kahramanmaraş'ta otomobil ile kepçe çarpıştı: 2'si çocuk 7 yaralı",
+      "link": "https://www.ensonhaber.com/kahramanmarasta-otomobil-ile-kepce-carpisti-2si-cocuk-7-yarali-h1585083",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-23T21:42:12Z"
+    },
+    {
       "title": "Yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
       "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-2026-p383851",
       "source": "Sözcü",
-      "published_at": "2026-11-23T21:37:50Z"
+      "published_at": "2026-11-23T21:40:36Z"
     },
     {
       "title": "İran ordusu duyurdu: Hürmüz'de 3 petrol tankerinde patlama",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/thy-istiraki-tgsden-yeni-yolcu-rekoru-964229.html",
       "source": "TRT Haber",
       "published_at": "2026-11-23T17:21:00Z"
-    },
-    {
-      "title": "Yunanistan ile Güney Kıbrıs arasında \"mali anlaşmazlık\" iddiası",
-      "link": "https://www.haberturk.com/dunya/yunanistan-ile-guney-kibris-arasinda-mali-anlasmazlik-iddiasi-3929530",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T17:19:44Z"
     }
   ]
 }
