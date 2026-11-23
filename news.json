@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:21:58.403771Z",
+  "generated_at": "2026-11-23T00:27:02.058763Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Futbol, aynasıdır bir ülkenin",
+      "link": "https://www.sozcu.com.tr/futbol-aynasidir-bir-ulkenin-p383549",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T00:23:22Z"
+    },
     {
       "title": "T.C. KOCAALİ İCRA DAİRESİ",
       "link": "https://www.haberturk.com/resmi-ilanlar/tckocaaliicra-dairesi-3928798",
@@ -82,12 +88,6 @@
       "link": "https://www.haberturk.com/dunya/libya-nin-bingazi-limani-nda-rus-gemisi-vuruldu-3929283",
       "source": "Habertürk",
       "published_at": "2026-11-22T23:26:33Z"
-    },
-    {
-      "title": "Futbol, aynasıdır bir ülkenin",
-      "link": "https://www.sozcu.com.tr/futbol-aynasidir-bir-ulkenin-p383549",
-      "source": "Sözcü",
-      "published_at": "2026-11-22T23:17:17Z"
     },
     {
       "title": "Netanyahu, Trump'ı İran'a yeni saldırı için ikna etmeye çalışıyor",
