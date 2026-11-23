@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:06:46.981864Z",
+  "generated_at": "2026-11-23T00:11:50.974468Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Bodrum açıklarında 4.2 büyüklüğünde deprem",
+      "link": "https://www.sozcu.com.tr/flas-p383553",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T00:10:24Z"
+    },
+    {
       "title": "Bingazi Limanı'nda vurulan Rus savaş gemisi battı",
       "link": "https://www.sozcu.com.tr/bingazi-limani-nda-vurulan-rus-savas-gemisi-batti-p383552",
       "source": "Sözcü",
       "published_at": "2026-11-23T00:03:39Z"
+    },
+    {
+      "title": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
+      "link": "https://www.trthaber.com/haber/turkiye/ege-denizinde-42-buyuklugunde-deprem-964162.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-23T00:01:00Z"
     },
     {
       "title": "Tekirdağ'da tarla sürümü sırasında traktör alev alev yandı",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/spor/barcelona-villarreal-mac-sonucu-ozeti-ve-golleri-ispanya-la-liga-3929247",
       "source": "Habertürk",
       "published_at": "2026-11-22T17:22:30Z"
-    },
-    {
-      "title": "Galatasaray, Aliağa Petkimspor'u mağlup etti",
-      "link": "https://www.ensonhaber.com/galatasaray-aliaga-petkimsporu-maglup-etti-68002-h1584767",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-22T17:21:19Z"
-    },
-    {
-      "title": "Uzun yaşam için egzersizden önce bunu yapın!",
-      "link": "https://www.haberturk.com/bilgi/foto/uzun-yasam-icin-egzersizden-once-bunu-yapin-mavi-bolgeler-uzmani-dan-buettner-uyardi-3929245",
-      "source": "Habertürk",
-      "published_at": "2026-11-22T17:20:46Z"
     }
   ]
 }
