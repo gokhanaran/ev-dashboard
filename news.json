@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:42:13.161317Z",
+  "generated_at": "2026-11-23T00:47:16.574935Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "İstanbul'a fırtına ve sağanak geliyor: Sıcaklık 12 derece düşecek",
+      "link": "https://www.sozcu.com.tr/istanbula-firtina-ve-saganak-geliyor-sicaklik-12-derece-dusecek-p383554",
+      "source": "Sözcü",
+      "published_at": "2026-11-23T00:44:15Z"
+    },
     {
       "title": "Ege Denizi'nde 4,2 büyüklüğünde deprem",
       "link": "https://www.haberturk.com/gundem/ege-denizi-nde-4-2-buyuklugunde-deprem-3929286",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/musta-yildirimin-isabet-eden-minare-yikildi-1-kisi-yaralandi-964150.html",
       "source": "TRT Haber",
       "published_at": "2026-11-22T17:31:00Z"
-    },
-    {
-      "title": "Hull City son anda kazandı, Acun Ilıcalı ve Ali Koç çılgınlar gibi sevindi",
-      "link": "https://www.sozcu.com.tr/hull-city-son-anda-kazandi-acun-ilicali-ve-ali-koc-cilginlar-gibi-sevindi-p383516",
-      "source": "Sözcü",
-      "published_at": "2026-11-22T17:28:53Z"
     }
   ]
 }
