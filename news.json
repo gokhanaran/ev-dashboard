@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:50:32.350559Z",
+  "generated_at": "2026-11-24T17:55:35.920814Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,46 @@
   ],
   "items": [
     {
+      "title": "MSB: Eskişehir'de askeri helikopter düştü",
+      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T17:54:51Z"
+    },
+    {
+      "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
+      "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T17:51:44Z"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan açıkladı: 15 bin öğretmen ataması yapılacak",
       "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-dan-onemli-aciklamalar-p384097",
       "source": "Sözcü",
-      "published_at": "2026-11-24T17:48:32Z"
+      "published_at": "2026-11-24T17:50:54Z"
+    },
+    {
+      "title": "Fenerbahçe, Vasas Obuda'ya set vermedi",
+      "link": "https://www.ensonhaber.com/fenerbahce-vasas-obudaya-set-vermedi-h1585341",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T17:50:26Z"
+    },
+    {
+      "title": "İletişim Başkanı Burhanettin Duran'dan Özgür Özel'e tepki",
+      "link": "https://www.sozcu.com.tr/iletisim-baskani-burhanettin-duran-dan-yeni-parti-lideri-ozel-e-tepki-p384108",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T17:49:08Z"
     },
     {
       "title": "MSB: Eskişehir'de askeri helikopter kaza kırıma uğradı",
       "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
       "source": "Sözcü",
       "published_at": "2026-11-24T17:48:24Z"
+    },
+    {
+      "title": "Heyecan sürüyor!",
+      "link": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-uefa-sampiyonlar-ligi-maci-kac-kac-mac-3929634",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T17:46:18Z"
     },
     {
       "title": "AK Parti'deki görevlerinden istifa eden Hayati Yazıcı, yazılı açıklama yayınladı",
@@ -64,12 +94,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-konusuyor-3929838",
       "source": "Habertürk",
       "published_at": "2026-11-24T17:44:47Z"
-    },
-    {
-      "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
-      "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T17:42:57Z"
     },
     {
       "title": "Binlerce plastik şişeyi bir araya getirip ev yaptılar",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/silopi-de-sulama-calismalari-suruyor-3929809",
       "source": "Habertürk",
       "published_at": "2026-11-24T14:49:18Z"
-    },
-    {
-      "title": "DSÖ: Gazze'de menenjit vakalarında bildirilen artışı yakından takip ediyoruz",
-      "link": "https://www.trthaber.com/haber/dunya/dso-gazzede-menenjit-vakalarinda-bildirilen-artisi-yakindan-takip-ediyoruz-964343.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-24T14:49:00Z"
-    },
-    {
-      "title": "Dünya listesinde 4 Türk kadın akademisyen",
-      "link": "https://www.haberturk.com/yasam/dunya-listesinde-4-turk-kadin-akademisyen-3929707",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:48:30Z"
-    },
-    {
-      "title": "\"Gönderilen ücreti hatırlamıyorum\"",
-      "link": "https://www.haberturk.com/magazin/yolsuzluk-davasinda-taniklik-yapan-sila-bana-gonderilen-ucreti-hatirlamiyorum-3929806",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:47:29Z"
-    },
-    {
-      "title": "Araç kamerası servis skandalını ortaya çıkardı! Müşteri kazıklama rezaletine bakanlık el attı",
-      "link": "https://www.sozcu.com.tr/arac-kamerasi-servis-skandalini-ortaya-cikardi-musteri-kaziklama-rezaletine-bakanlik-el-atti-p384027",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T14:47:15Z"
     }
   ]
 }
