@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:40:26.440768Z",
+  "generated_at": "2026-11-24T17:45:29.364035Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 13
+      "items": 14
     },
     {
       "source": "Sözcü",
@@ -39,13 +39,19 @@
       "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
       "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
       "source": "Sözcü",
-      "published_at": "2026-11-24T17:39:24Z"
+      "published_at": "2026-11-24T17:42:57Z"
     },
     {
       "title": "Burhanettin Duran, Özgür Özel'in Cumhurbaşkanı Erdoğan'ı hedef alan sözlerini kınadı",
       "link": "https://www.ensonhaber.com/burhanettin-duran-ozgur-ozelin-cumhurbaskani-erdogani-hedef-alan-sozlerini-kinadi-h1585339",
       "source": "Ensonhaber",
       "published_at": "2026-11-24T17:36:04Z"
+    },
+    {
+      "title": "Microsoft küresel kesintinin ardından 'Kırmızı Alarm' ilan etti",
+      "link": "https://www.trthaber.com/haber/dunya/microsoft-kuresel-kesintinin-ardindan-kirmizi-alarm-ilan-etti-964353.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T17:36:00Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/iski-istanbul-23-kasim-2026-baraj-doluluk-orani-istanbul-da-baraj-doluluk-orani-yuzde-kac-oldu-3929514",
       "source": "Habertürk",
       "published_at": "2026-11-24T14:42:00Z"
-    },
-    {
-      "title": "Süper Kunduz Dolunayı için geri sayım!",
-      "link": "https://www.haberturk.com/bilgi/foto/super-kunduz-dolunayi-ne-zaman-saat-kacta-2026-kasim-dolunayi-turkiye-den-gorulecek-mi-en-cok-bu-burclari-etkileyecek-3929607",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:41:22Z"
     }
   ]
 }
