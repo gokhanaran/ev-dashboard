@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:35:23.239110Z",
+  "generated_at": "2026-11-24T17:40:26.440768Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,34 @@
   ],
   "items": [
     {
-      "title": "MSB: Eskişehir'de askeri helikopter kaza kırıma uğradı",
-      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
+      "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
+      "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
       "source": "Sözcü",
-      "published_at": "2026-11-24T17:32:21Z"
+      "published_at": "2026-11-24T17:39:24Z"
+    },
+    {
+      "title": "Burhanettin Duran, Özgür Özel'in Cumhurbaşkanı Erdoğan'ı hedef alan sözlerini kınadı",
+      "link": "https://www.ensonhaber.com/burhanettin-duran-ozgur-ozelin-cumhurbaskani-erdogani-hedef-alan-sozlerini-kinadi-h1585339",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T17:36:04Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-konusuyor-3929838",
       "source": "Habertürk",
-      "published_at": "2026-11-24T17:29:55Z"
+      "published_at": "2026-11-24T17:35:55Z"
+    },
+    {
+      "title": "Hayati Yazıcı istifa etti",
+      "link": "https://www.haberturk.com/gundem/son-dakika-ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-3929839",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T17:34:57Z"
+    },
+    {
+      "title": "MSB: Eskişehir'de askeri helikopter kaza kırıma uğradı",
+      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T17:32:21Z"
     },
     {
       "title": "Eskişehir'de askeri helikopter düştü",
@@ -60,16 +78,16 @@
       "published_at": "2026-11-24T17:29:12Z"
     },
     {
-      "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
-      "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T17:28:27Z"
-    },
-    {
       "title": "Diyarbakır'da mağarada çok sayıda kafatası ve kemik bulundu",
       "link": "https://www.ensonhaber.com/diyarbakirda-magarada-cok-sayida-kafatasi-ve-kemik-bulundu-h1585283",
       "source": "Ensonhaber",
       "published_at": "2026-11-24T17:27:05Z"
+    },
+    {
+      "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı istifa etti",
+      "link": "https://www.trthaber.com/haber/gundem/ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-964352.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T17:27:00Z"
     },
     {
       "title": "Eğitim için havalanan helikopter Eskişehir'de düştü",
@@ -100,12 +118,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-konusuyor-3929838",
       "source": "Habertürk",
       "published_at": "2026-11-24T17:17:25Z"
-    },
-    {
-      "title": "Hayati Yazıcı istifa etti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-3929839",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T17:14:42Z"
     },
     {
       "title": "\"F.Bahçe maçı iki felsefenin çarpışması olacak\"",
@@ -240,6 +252,12 @@
       "published_at": "2026-11-24T16:34:18Z"
     },
     {
+      "title": "Galatasaray - Aston Villa - CANLI SKOR",
+      "link": "https://www.ensonhaber.com/galatasaray-aston-villa-macinin-ilk-11leri-h1585329",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T16:33:34Z"
+    },
+    {
       "title": "Galatasaray - Aston Villa maçının ilk 11'leri",
       "link": "https://www.ensonhaber.com/galatasaray-aston-villa-macinin-ilk-11leri-h1585329",
       "source": "Ensonhaber",
@@ -306,14 +324,20 @@
       "published_at": "2026-11-24T15:57:00Z"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Öğretmenimiz bu ülke için hayati önem arz ediyor",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ogretmenimiz-bu-ulke-icin-hayati-onem-arz-ediyor-964348.html",
+      "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu hafta içerisinde açıklanacak",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-15-bin-ogretmen-alim-duyurusu-hafta-icerisinde-aciklanacak-964348.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T15:57:00Z"
     },
     {
       "title": "İran: ABD, bölgede işlevsiz kalan askeri üslerini daha uzağa taşımaya çalışıyor",
       "link": "https://www.trthaber.com/haber/dunya/iran-abd-bolgede-islevsiz-kalan-askeri-uslerini-daha-uzaga-tasimaya-calisiyor-964347.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T15:57:00Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Öğretmenimiz bu ülke için hayati önem arz ediyor",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ogretmenimiz-bu-ulke-icin-hayati-onem-arz-ediyor-964348.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T15:57:00Z"
     },
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/super-kunduz-dolunayi-ne-zaman-saat-kacta-2026-kasim-dolunayi-turkiye-den-gorulecek-mi-en-cok-bu-burclari-etkileyecek-3929607",
       "source": "Habertürk",
       "published_at": "2026-11-24T14:41:22Z"
-    },
-    {
-      "title": "Çamaşırları 30 derecede yıkamak neyi değiştiriyor?",
-      "link": "https://www.haberturk.com/bilgi/camasirlari-30-derecede-yikamak-neyi-degistiriyor-elektrik-faturasina-etkisi-sasirtiyor-3929804",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:41:16Z"
-    },
-    {
-      "title": "Bugün Ne Oldu? 24 Kasım 2026 haberleri",
-      "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-24-kasim-2026-haberleri-fatma-betul-sayan-kayaya-ev-hapsi-sartiyla-tahliye-2027de-ehliyet-pasaport-imei-ve-ceza-ucretleri-ne-kada/924029",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:39:33Z"
-    },
-    {
-      "title": "Galatasaray’ın beklediği isim İstanbul’da! Her an görüşme olabilir",
-      "link": "https://www.sozcu.com.tr/galatasarayin-bekledigi-isim-istanbulda-her-an-gorusme-olabilir-p384075",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T14:38:22Z"
-    },
-    {
-      "title": "Montella sessizliğini bozdu! Milli Takım ve forvet sözleri",
-      "link": "https://www.sozcu.com.tr/montella-sessizligini-bozdu-milli-takim-ve-forvet-sozleri-p384074",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T14:38:09Z"
     }
   ]
 }
