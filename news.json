@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:00:39.453258Z",
+  "generated_at": "2026-11-24T18:05:42.360891Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 14
+      "items": 15
     },
     {
       "source": "Sözcü",
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "MSB: Eskişehir'de askeri helikopter düştü",
+      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T18:03:45Z"
+    },
+    {
       "title": "Eczacıbaşı, Tent Obrenovac karşısında zorlanmadı",
       "link": "https://www.ensonhaber.com/eczacibasi-tent-obrenovac-karsisinda-zorlanmadi-h1585342",
       "source": "Ensonhaber",
@@ -52,12 +58,6 @@
       "link": "https://www.sozcu.com.tr/arda-turandan-dikkat-ceken-fenerbahce-ve-emre-belozoglu-sozleri-p384107",
       "source": "Sözcü",
       "published_at": "2026-11-24T17:55:16Z"
-    },
-    {
-      "title": "MSB: Eskişehir'de askeri helikopter düştü",
-      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T17:54:51Z"
     },
     {
       "title": "İletişim Başkanı Duran'dan Özgür Özel'e tepki",
