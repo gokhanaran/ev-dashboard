@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:48:31.073578Z",
+  "generated_at": "2026-11-24T05:53:35.232470Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Rock dünyasının acı kaybı",
+      "link": "https://www.haberturk.com/magazin/foto/rock-dunyasinin-aci-kaybi-asena-ozcetin-hayatini-kaybetti-3929613",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T05:47:50Z"
+    },
+    {
       "title": "Kahramanmaraş'ta yatalak hasta, eşinin cesediyle 3 gün yaşamış",
       "link": "https://www.ensonhaber.com/kahramanmarasta-yatalak-hasta-esinin-cesediyle-3-gun-yasamis-h1585093",
       "source": "Ensonhaber",
       "published_at": "2026-11-24T05:47:29Z"
+    },
+    {
+      "title": "Kartal Belediyesine operasyon",
+      "link": "https://www.haberturk.com/gundem/son-dakika-kartal-belediyesine-operasyon-3929611",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T05:47:14Z"
     },
     {
       "title": "Galatasaray - Aston Villa: Muhtemel 11'ler",
@@ -124,12 +136,6 @@
       "link": "https://www.ensonhaber.com/kartal-belediyesine-operasyon-h1585107",
       "source": "Ensonhaber",
       "published_at": "2026-11-24T05:30:40Z"
-    },
-    {
-      "title": "Kartal Belediyesine operasyon",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kartal-belediyesine-operasyon-3929611",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T05:30:31Z"
     },
     {
       "title": "Kızının emaneti torunlarına sarıldı: Atilla Taş'tan yürek burkan kareler",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/kultur-sanat/bir-kultur-ortaminin-izinde-salt-beyoglunda-3929497",
       "source": "Habertürk",
       "published_at": "2026-11-23T21:23:15Z"
-    },
-    {
-      "title": "K-POP FEVER yeni yılda İstanbul'da",
-      "link": "https://www.haberturk.com/kultur-sanat/k-pop-fever-yeni-yilda-istanbul-da-3929504",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T21:22:34Z"
     }
   ]
 }
