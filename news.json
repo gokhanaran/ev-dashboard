@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:25:16.699631Z",
+  "generated_at": "2026-11-24T17:30:19.918884Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,16 +36,40 @@
   ],
   "items": [
     {
+      "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta yapılacak",
+      "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T17:29:12Z"
+    },
+    {
       "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
       "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
       "source": "Sözcü",
-      "published_at": "2026-11-24T17:21:51Z"
+      "published_at": "2026-11-24T17:28:27Z"
+    },
+    {
+      "title": "Diyarbakır'da mağarada çok sayıda kafatası ve kemik bulundu",
+      "link": "https://www.ensonhaber.com/diyarbakirda-magarada-cok-sayida-kafatasi-ve-kemik-bulundu-h1585283",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T17:27:05Z"
+    },
+    {
+      "title": "Eğitim için havalanan helikopter Eskişehir'de düştü",
+      "link": "https://www.trthaber.com/haber/gundem/egitim-icin-havalanan-helikopter-eskisehirde-dustu-964351.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T17:22:00Z"
     },
     {
       "title": "Jose Mourinho’nun flaş planını ortaya çıkardı! 'Onu satmak için oynatıyor'",
       "link": "https://www.sozcu.com.tr/jose-mourinhonun-flas-planini-ortaya-cikardi-onu-satmak-icin-oynatiyor-p384102",
       "source": "Sözcü",
       "published_at": "2026-11-24T17:19:34Z"
+    },
+    {
+      "title": "Soykırımcı İsrail'in Gazze'de ateşkesi 6 bin 405 kez ihlal ettiği, 1690 Filistinliyi öldürdüğü açıklandı",
+      "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazzede-ateskesi-6-bin-405-kez-ihlal-ettigi-1690-filistinliyi-oldurdugu-aciklandi-964350.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T17:19:00Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan konuşuyor",
@@ -156,12 +180,6 @@
       "published_at": "2026-11-24T16:55:20Z"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta yapılacak",
-      "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T16:53:20Z"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan, “Öğretmenlere Saygı Gecesi” Programı’nda konuşuyor",
       "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
       "source": "Ensonhaber",
@@ -270,14 +288,20 @@
       "published_at": "2026-11-24T15:57:00Z"
     },
     {
-      "title": "Cumhurbaşkanı Recep Tayyip Erdoğan konuşuyor",
-      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-recep-tayyip-erdogan-konusuyor-964348.html",
+      "title": "Cumhurbaşkanı Erdoğan: Öğretmenimiz bu ülke için hayati önem arz ediyor",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ogretmenimiz-bu-ulke-icin-hayati-onem-arz-ediyor-964348.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T15:57:00Z"
     },
     {
       "title": "İran: ABD, bölgede işlevsiz kalan askeri üslerini daha uzağa taşımaya çalışıyor",
       "link": "https://www.trthaber.com/haber/dunya/iran-abd-bolgede-islevsiz-kalan-askeri-uslerini-daha-uzaga-tasimaya-calisiyor-964347.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T15:57:00Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Recep Tayyip Erdoğan konuşuyor",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-recep-tayyip-erdogan-konusuyor-964348.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T15:57:00Z"
     },
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-tekirdag-da-korkunc-cinayet-gelinini-oldurdu-3929694",
       "source": "Habertürk",
       "published_at": "2026-11-24T14:25:43Z"
-    },
-    {
-      "title": "Altın, gün sonunda 6 milyon 140 bin liraya çıktı",
-      "link": "https://www.trthaber.com/haber/ekonomi/altin-gun-sonunda-6-milyon-140-bin-liraya-cikti-964341.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-24T14:24:00Z"
-    },
-    {
-      "title": "\"Bankacılığı ticaretin akışına yerleştiriyoruz\"",
-      "link": "https://www.haberturk.com/ekonomi/alper-bektas-bankaciligi-ticaretin-akisina-yerlestiriyoruz-3929798",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:21:06Z"
-    },
-    {
-      "title": "Rendelenmiş peyniri aylarca saklamanın sırrı!",
-      "link": "https://www.haberturk.com/bilgi/rendelediginiz-peyniri-hemen-tuketmek-zorunda-degilsiniz-bu-yontemle-aylarca-saklanabiliyor-3929800",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:20:47Z"
-    },
-    {
-      "title": "9 bin 400'den fazla Filistinli esir işkence ve açlık çekiyor",
-      "link": "https://www.trthaber.com/haber/dunya/9-bin-400den-fazla-filistinli-esir-iskence-ve-aclik-cekiyor-964340.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-24T14:19:00Z"
     }
   ]
 }
