@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:03:44.104424Z",
+  "generated_at": "2026-11-24T06:08:48.765388Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "İstanbul'da sokak ortasında dehşet: Kalbinden bıçakladı",
+      "link": "https://www.sozcu.com.tr/sokak-ortasinda-dehset-kalbinden-bicakladi-p383904",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T06:08:19Z"
+    },
+    {
+      "title": "Okan Buruk'tan Aston Villa maçında Osimhen'siz hücum planı",
+      "link": "https://www.sozcu.com.tr/okan-buruktan-osimhensiz-hucum-plani-p383910",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T06:06:26Z"
+    },
+    {
+      "title": "Fenerbahçe, Shakhtar Donetsk karşısına iki eksikle çıkacak",
+      "link": "https://www.sozcu.com.tr/fenerbahce-shakhtar-donetsk-karsisina-iki-eksikle-cikacak-p383912",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T06:06:04Z"
+    },
+    {
+      "title": "İran: Hürmüz Boğazı'nda 3 petrol tankeri deniz mayınlarına çarptı",
+      "link": "https://www.ensonhaber.com/iran-hurmuz-bogazinda-3-petrol-tankeri-deniz-mayinlarina-carpti-h1585117",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T06:04:59Z"
+    },
+    {
       "title": "Son dakika... Fon soruşturmasında 4 yeni tutuklama",
       "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-4-yeni-tutuklama-p383903",
       "source": "Sözcü",
@@ -52,6 +76,18 @@
       "link": "https://www.sozcu.com.tr/hiz-sinirini-ihlal-edene-32-bin-lira-ceza-p383899",
       "source": "Sözcü",
       "published_at": "2026-11-24T06:00:24Z"
+    },
+    {
+      "title": "\"Öğretmenlerimize minnettarız\"",
+      "link": "https://www.haberturk.com/gundem/siyasilerden-pes-pes-ogretmenler-gunu-mesajlari-3929609",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T06:00:13Z"
+    },
+    {
+      "title": "Batı Akdeniz için fırtına uyarısı",
+      "link": "https://www.trthaber.com/haber/turkiye/bati-akdeniz-icin-firtina-uyarisi-964252.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T06:00:00Z"
     },
     {
       "title": "Defne Samyeli ve kızlarından yeni fotoğraf! Pozları gündem oldu",
@@ -90,6 +126,12 @@
       "published_at": "2026-11-24T05:57:10Z"
     },
     {
+      "title": "Galatasaray bugün Aston Villa'yı ağırlayacak",
+      "link": "https://www.trthaber.com/haber/turkiye/galatasaray-bugun-aston-villayi-agirlayacak-964251.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T05:57:00Z"
+    },
+    {
       "title": "Kış kapıya dayandı: İstanbul'da sıcaklık 0 dereceye düşecek!",
       "link": "https://www.sozcu.com.tr/kis-kapiya-dayandi-istanbul-da-sicaklik-0-dereceye-dusecek-p383898",
       "source": "Sözcü",
@@ -118,6 +160,12 @@
       "link": "https://www.haberturk.com/magazin/foto/rock-dunyasinin-aci-kaybi-asena-ozcetin-hayatini-kaybetti-3929613",
       "source": "Habertürk",
       "published_at": "2026-11-24T05:54:30Z"
+    },
+    {
+      "title": "Fenerbahçe, Shakhtar Donetsk ile İngiltere'de karşılaşacak",
+      "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-shakhtar-donetsk-ile-ingilterede-karsilasacak-964250.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T05:54:00Z"
     },
     {
       "title": "Ailesi kayıp ihbarında bulundu... Öldüren define",
@@ -250,12 +298,6 @@
       "link": "https://www.haberturk.com/magazin/foto/guzide-duran-oglu-emir-e-kavustu-3929564",
       "source": "Habertürk",
       "published_at": "2026-11-24T05:20:04Z"
-    },
-    {
-      "title": "\"Öğretmenlerimize minnettarız\"",
-      "link": "https://www.haberturk.com/gundem/siyasilerden-pes-pes-ogretmenler-gunu-mesajlari-3929609",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T05:17:14Z"
     },
     {
       "title": "Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı dikkat çekti",
@@ -712,48 +754,6 @@
       "link": "https://www.haberturk.com/gundem/mhp-lideri-bahceli-den-24-kasim-ogretmenler-gunu-mesaji-3929582",
       "source": "Habertürk",
       "published_at": "2026-11-23T22:04:23Z"
-    },
-    {
-      "title": "Girne açıklarında batan Filo Jet gemisi 400 TL'lik yapıştırıcıyla tamir edildi",
-      "link": "https://www.ensonhaber.com/girne-aciklarinda-batan-filo-jet-gemisi-400-tllik-yapistiriciyla-tamir-edildi-h1585078",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-23T22:01:11Z"
-    },
-    {
-      "title": "Zelenskiy’den ‘NATO’ açıklaması",
-      "link": "https://www.haberturk.com/dunya/ukrayna-devlet-baskani-zelenskiyden-nato-aciklamasi-3929581",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T21:55:42Z"
-    },
-    {
-      "title": "ABD eski Başkanı Joe Biden, yürümekte zorlanırken görüntülendi",
-      "link": "https://www.ensonhaber.com/abd-eski-baskani-joe-biden-yurumekte-zorlanirken-goruntulendi-h1585071",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-23T21:51:51Z"
-    },
-    {
-      "title": "Yollar göle döndü! İş yerlerini su bastı",
-      "link": "https://www.haberturk.com/gundem/balikesir-de-saganak-yagista-asfalt-coktu-3-kamyon-ve-1-kamyonet-cukura-dustu-3929579",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T21:47:15Z"
-    },
-    {
-      "title": "Devlet Bahçeli'den 24 Kasım Öğretmenler Günü mesajı",
-      "link": "https://www.trthaber.com/haber/gundem/devlet-bahceliden-24-kasim-ogretmenler-gunu-mesaji-964242.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-23T21:47:00Z"
-    },
-    {
-      "title": "Arda Güler o listede zirveye çıktı! Galatasaraylı Batrakov takipte",
-      "link": "https://www.sozcu.com.tr/arda-guler-o-listede-zirveye-cikti-galatasarayli-batrakov-takipte-p383852",
-      "source": "Sözcü",
-      "published_at": "2026-11-23T21:43:54Z"
-    },
-    {
-      "title": "Suudi Arabistan'ın Cazan ve Abha kentlerinde erken uyarı sistemi devreye alındı",
-      "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-cazan-ve-abha-kentlerinde-erken-uyari-sistemi-devreye-alindi-964241.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-23T21:43:00Z"
     }
   ]
 }
