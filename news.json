@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:13:52.913690Z",
+  "generated_at": "2026-11-24T06:18:57.637195Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "İran: Hürmüz Boğazı'nda 3 petrol tankeri deniz mayınlarına çarptı",
+      "link": "https://www.ensonhaber.com/iran-hurmuz-bogazinda-3-petrol-tankeri-deniz-mayinlarina-carpti-h1585117",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T06:17:10Z"
+    },
+    {
+      "title": "ABD'de helikopter düştü: 2 ölü",
+      "link": "https://www.ensonhaber.com/abdde-helikopter-dustu-2-olu-h1585122",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T06:16:15Z"
+    },
+    {
+      "title": "3 ilde tefecilik operasyonu: 28 gözaltı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-merkezli-3-ilde-tefecilik-operasyonu-28-gozalti-3929617",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T06:12:55Z"
+    },
     {
       "title": "Belözoğlu talimatı verdi! Fenerbahçe Arsenal'in stoperini istiyor",
       "link": "https://www.sozcu.com.tr/belozoglu-talimati-verdi-fenerbahce-arsenalin-stoperini-istiyor-p383915",
@@ -72,6 +90,12 @@
       "published_at": "2026-11-24T06:10:44Z"
     },
     {
+      "title": "Resmi Gazete'de yayımlandı: Yurt dışı çıkış harcına zam geldi",
+      "link": "https://www.ensonhaber.com/resmi-gazetede-yayinlandi-yurt-disi-cikis-harcina-zam-geldi-h1585118",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T06:09:01Z"
+    },
+    {
       "title": "Resmi Gazete'de yayınlandı: Yurt dışı çıkış harcına zam geldi",
       "link": "https://www.ensonhaber.com/resmi-gazetede-yayinlandi-yurt-disi-cikis-harcina-zam-geldi-h1585118",
       "source": "Ensonhaber",
@@ -82,6 +106,18 @@
       "link": "https://www.sozcu.com.tr/sokak-ortasinda-dehset-kalbinden-bicakladi-p383904",
       "source": "Sözcü",
       "published_at": "2026-11-24T06:08:19Z"
+    },
+    {
+      "title": "Şanlıurfa'da yem makinesine düşen çoban öldü",
+      "link": "https://www.trthaber.com/haber/turkiye/sanliurfada-yem-makinesine-dusen-coban-oldu-964254.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T06:07:00Z"
+    },
+    {
+      "title": "\"Öğretmenlerimize minnettarız\"",
+      "link": "https://www.haberturk.com/gundem/siyasilerden-pes-pes-ogretmenler-gunu-mesajlari-3929609",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T06:06:32Z"
     },
     {
       "title": "Okan Buruk'tan Aston Villa maçında Osimhen'siz hücum planı",
@@ -96,10 +132,10 @@
       "published_at": "2026-11-24T06:06:04Z"
     },
     {
-      "title": "İran: Hürmüz Boğazı'nda 3 petrol tankeri deniz mayınlarına çarptı",
-      "link": "https://www.ensonhaber.com/iran-hurmuz-bogazinda-3-petrol-tankeri-deniz-mayinlarina-carpti-h1585117",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T06:04:59Z"
+      "title": "Jensen Huang'ın Nvidia'ya dönüşü piyasalara nefes aldırdı",
+      "link": "https://www.trthaber.com/haber/ekonomi/jensen-huangin-nvidiaya-donusu-piyasalara-nefes-aldirdi-964253.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T06:04:00Z"
     },
     {
       "title": "Son dakika... Fon soruşturmasında 4 yeni tutuklama",
@@ -118,12 +154,6 @@
       "link": "https://www.sozcu.com.tr/hiz-sinirini-ihlal-edene-32-bin-lira-ceza-p383899",
       "source": "Sözcü",
       "published_at": "2026-11-24T06:00:24Z"
-    },
-    {
-      "title": "\"Öğretmenlerimize minnettarız\"",
-      "link": "https://www.haberturk.com/gundem/siyasilerden-pes-pes-ogretmenler-gunu-mesajlari-3929609",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T06:00:13Z"
     },
     {
       "title": "Batı Akdeniz için fırtına uyarısı",
@@ -724,36 +754,6 @@
       "link": "https://www.ensonhaber.com/greenwood-paris-saint-germainin-listesine-girdi-h1585087",
       "source": "Ensonhaber",
       "published_at": "2026-11-23T23:19:20Z"
-    },
-    {
-      "title": "İşgalci İsrailin Gazze Şeridine düzenlediği saldırılarda 2 Filistinli hayatını kaybetti",
-      "link": "https://www.trthaber.com/haber/dunya/isgalci-israilin-gazze-seridine-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti-964243.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-23T23:15:00Z"
-    },
-    {
-      "title": "AÖL sınavları ne zaman yapılacak?",
-      "link": "https://www.haberturk.com/bilgi/foto/aol-sinav-tarihleri-2026-acik-lise-aol-sinavlari-ne-zaman-giris-belgesi-yayinlandi-mi-3929588",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T23:03:26Z"
-    },
-    {
-      "title": "Arap Koalisyonu: Husilerin İHA saldırısı engellendi",
-      "link": "https://www.haberturk.com/dunya/arap-koalisyonu-husilerin-iha-saldirisi-engellendi-3929587",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T22:59:15Z"
-    },
-    {
-      "title": "Yeniden değerleme oranı açıklandı! Vergi, harç ve cezalar ne kadar oldu?",
-      "link": "https://www.haberturk.com/bilgi/foto/yeniden-degerleme-orani-aciklandi-vergi-harc-ve-cezalar-ne-kadar-oldu-3929583",
-      "source": "Habertürk",
-      "published_at": "2026-11-23T22:40:31Z"
-    },
-    {
-      "title": "Güney Kıbrıs basınından itiraf: Türkiye'nin askeri gücüyle yarışamayız",
-      "link": "https://www.ensonhaber.com/guney-kibris-basinindan-itiraf-turkiyenin-askeri-gucuyle-yarisamayiz-h1585086",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-23T22:40:13Z"
     }
   ]
 }
