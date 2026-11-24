@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:05:42.360891Z",
+  "generated_at": "2026-11-24T18:10:45.264072Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -39,19 +39,61 @@
       "title": "MSB: Eskişehir'de askeri helikopter düştü",
       "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
       "source": "Sözcü",
-      "published_at": "2026-11-24T18:03:45Z"
+      "published_at": "2026-11-24T18:09:29Z"
+    },
+    {
+      "title": "Samed Ağırbaş, BM İklim Değişikliği İcra Sekreteri Simon Stiell ile görüştü",
+      "link": "https://www.ensonhaber.com/samed-agirbas-bm-iklim-degisikligi-icra-sekreteri-simon-stiell-ile-gorustu-h1585344",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T18:08:58Z"
+    },
+    {
+      "title": "Donald Trump duyurdu: ABD, 2031 FIFA Kadınlar Dünya Kupası’na ev sahipliği yapacak",
+      "link": "https://www.ensonhaber.com/donald-trump-duyurdu-abd-2031-fifa-kadinlar-dunya-kupasina-ev-sahipligi-yapacak-h1585343",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-24T18:08:39Z"
+    },
+    {
+      "title": "\"Ukrayna'nın dirençli olduğunu gözüküyor\"",
+      "link": "https://www.haberturk.com/spor/shakhtar-donetsk-sponsoru-metinvest-group-strateji-ve-is-gelistirme-direktoru-ildar-saleev-ht-spor-a-konustu-3929848",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T18:05:23Z"
+    },
+    {
+      "title": "Eskişehir'de askeri helikopter düştü",
+      "link": "https://www.haberturk.com/gundem/son-dakika-eskisehir-de-askeri-helikopter-dustu-3929841",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T18:05:21Z"
+    },
+    {
+      "title": "Galatasaray-Aston Villa UEFA Şampiyonlar Ligi maçı (Canlı)",
+      "link": "https://www.sozcu.com.tr/galatasaray-aston-villa-uefa-sampiyonlar-ligi-maci-canli-p384084",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T18:05:21Z"
+    },
+    {
+      "title": "Heyecan sürüyor!",
+      "link": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-uefa-sampiyonlar-ligi-maci-kac-kac-mac-3929634",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T18:02:51Z"
+    },
+    {
+      "title": "Fenerbahçe Medicana set vermedi!",
+      "link": "https://www.haberturk.com/spor/fenerbahce-medicana-3-vasas-obuda-0-mac-sonucu-3929847",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T18:01:20Z"
+    },
+    {
+      "title": "NBC: Trump yönetimi yetkilileri İranlı üst düzey isimlere suikastı değerlendiriyor",
+      "link": "https://www.trthaber.com/haber/dunya/nbc-trump-yonetimi-yetkilileri-iranli-ust-duzey-isimlere-suikasti-degerlendiriyor-964355.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-24T18:00:00Z"
     },
     {
       "title": "Eczacıbaşı, Tent Obrenovac karşısında zorlanmadı",
       "link": "https://www.ensonhaber.com/eczacibasi-tent-obrenovac-karsisinda-zorlanmadi-h1585342",
       "source": "Ensonhaber",
       "published_at": "2026-11-24T17:59:45Z"
-    },
-    {
-      "title": "Galatasaray-Aston Villa UEFA Şampiyonlar Ligi maçı (Canlı)",
-      "link": "https://www.sozcu.com.tr/galatasaray-aston-villa-uefa-sampiyonlar-ligi-maci-canli-p384084",
-      "source": "Sözcü",
-      "published_at": "2026-11-24T17:55:41Z"
     },
     {
       "title": "Arda Turan’dan dikkat çeken Fenerbahçe ve Emre Belözoğlu sözleri",
@@ -70,12 +112,6 @@
       "link": "https://www.sozcu.com.tr/hayati-yazici-istifa-etti-p384100",
       "source": "Sözcü",
       "published_at": "2026-11-24T17:51:44Z"
-    },
-    {
-      "title": "Eskişehir'de askeri helikopter düştü",
-      "link": "https://www.haberturk.com/gundem/son-dakika-eskisehir-de-askeri-helikopter-dustu-3929841",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T17:51:19Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan açıkladı: 15 bin öğretmen ataması yapılacak",
@@ -100,12 +136,6 @@
       "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
       "source": "Sözcü",
       "published_at": "2026-11-24T17:48:24Z"
-    },
-    {
-      "title": "Heyecan sürüyor!",
-      "link": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-uefa-sampiyonlar-ligi-maci-kac-kac-mac-3929634",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T17:46:18Z"
     },
     {
       "title": "AK Parti'deki görevlerinden istifa eden Hayati Yazıcı, yazılı açıklama yayınladı",
@@ -724,36 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/halkbanktan-kadin-girisimcilere-160-milyar-tl-finansman-3929808",
       "source": "Habertürk",
       "published_at": "2026-11-24T14:56:46Z"
-    },
-    {
-      "title": "Prens William ve Prenses Middleton'ın kır evine hırsız girdi",
-      "link": "https://www.ensonhaber.com/prens-william-ve-prenses-middletonin-kir-evine-hirsiz-girdi-h1585292",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T14:55:15Z"
-    },
-    {
-      "title": "Sevda Türküsev, Sıla'nın sahne kıyafetini yorumladı: Bu dekolte değil",
-      "link": "https://www.ensonhaber.com/sevda-turkusev-silanin-sahne-kiyafetini-yorumladi-bu-dekolte-degil-h1585291",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T14:54:49Z"
-    },
-    {
-      "title": "Adıyaman'da otomobil, hafriyat kamyonuna çarptı: 1’i ağır, 2 yaralı",
-      "link": "https://www.ensonhaber.com/adiyamanda-otomobil-hafriyat-kamyonuna-carpti-1i-agir-2-yarali-h1585290",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T14:54:46Z"
-    },
-    {
-      "title": "9 kuruyemişi tek tek incelediler: İşte en sağlıklısı",
-      "link": "https://www.ensonhaber.com/9-kuruyemisi-tek-tek-incelediler-iste-en-sagliklisi-h1585289",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T14:53:45Z"
-    },
-    {
-      "title": "Shakhtar, Fenerbahçe maçına hazır!",
-      "link": "https://www.haberturk.com/spor/shakhtar-donetsk-fenerbahce-macina-hazir-3929812",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:53:04Z"
     }
   ]
 }
