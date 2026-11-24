@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:30:19.918884Z",
+  "generated_at": "2026-11-24T17:35:23.239110Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,24 @@
   ],
   "items": [
     {
+      "title": "MSB: Eskişehir'de askeri helikopter kaza kırıma uğradı",
+      "link": "https://www.sozcu.com.tr/eskisehir-de-helikopter-dustu-p384104",
+      "source": "Sözcü",
+      "published_at": "2026-11-24T17:32:21Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-konusuyor-3929838",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T17:29:55Z"
+    },
+    {
+      "title": "Eskişehir'de askeri helikopter düştü",
+      "link": "https://www.haberturk.com/gundem/son-dakika-eskisehir-de-askeri-helikopter-dustu-3929841",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T17:29:38Z"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta yapılacak",
       "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-ogretmenlere-saygi-gecesi-programinda-konusuyor-h1585331",
       "source": "Ensonhaber",
@@ -60,6 +78,12 @@
       "published_at": "2026-11-24T17:22:00Z"
     },
     {
+      "title": "Hüseyin Yayman'dan Özgür Özel'e tepki",
+      "link": "https://www.haberturk.com/gundem/huseyin-yayman-dan-ozgur-ozel-e-tepki-3929840",
+      "source": "Habertürk",
+      "published_at": "2026-11-24T17:21:42Z"
+    },
+    {
       "title": "Jose Mourinho’nun flaş planını ortaya çıkardı! 'Onu satmak için oynatıyor'",
       "link": "https://www.sozcu.com.tr/jose-mourinhonun-flas-planini-ortaya-cikardi-onu-satmak-icin-oynatiyor-p384102",
       "source": "Sözcü",
@@ -76,12 +100,6 @@
       "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-konusuyor-3929838",
       "source": "Habertürk",
       "published_at": "2026-11-24T17:17:25Z"
-    },
-    {
-      "title": "Eskişehir'de askeri helikopter düştü",
-      "link": "https://www.ensonhaber.com/eskisehirde-askeri-helikopter-dustu-h1585338",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T17:16:45Z"
     },
     {
       "title": "Hayati Yazıcı istifa etti",
@@ -736,24 +754,6 @@
       "link": "https://www.sozcu.com.tr/montella-sessizligini-bozdu-milli-takim-ve-forvet-sozleri-p384074",
       "source": "Sözcü",
       "published_at": "2026-11-24T14:38:09Z"
-    },
-    {
-      "title": "Ramazan ne zaman, ilk sahur hangi güne denk geliyor?",
-      "link": "https://www.haberturk.com/bilgi/foto/ramazan-ne-zaman-ilk-sahur-hangi-gune-denk-geliyor-2027-diyanet-takvimi-ile-ramazan-ayi-ne-zaman-basliyor-ve-bitiyor-3929802",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:33:41Z"
-    },
-    {
-      "title": "Eski TBMM Başkanı Hikmet Çetin yaşamını yitirdi",
-      "link": "https://www.trthaber.com/haber/gundem/eski-tbmm-baskani-hikmet-cetin-yasamini-yitirdi-964342.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-24T14:29:00Z"
-    },
-    {
-      "title": "Tekirdağ'da korkunç cinayet! Gelinini öldürdü!",
-      "link": "https://www.haberturk.com/gundem/son-dakika-tekirdag-da-korkunc-cinayet-gelinini-oldurdu-3929694",
-      "source": "Habertürk",
-      "published_at": "2026-11-24T14:25:43Z"
     }
   ]
 }
