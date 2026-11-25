@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:52:07.775015Z",
+  "generated_at": "2026-11-25T22:57:13.163674Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Chelsea'den paylaşım: Kante Bridge'e döndü",
+      "link": "https://www.haberturk.com/spor/shakhtar-donetsk-fenerbahce-maci-sonrasi-chelsea-den-n-golo-kante-paylasimi-3930176",
+      "source": "Habertürk",
+      "published_at": "2026-11-25T22:52:22Z"
+    },
     {
       "title": "Emre Belözoğlu: Oyunculara inanıyorum, gelme sebeplerimden biri bu",
       "link": "https://www.sozcu.com.tr/emre-belozoglu-oyunculara-inaniyorum-gelme-sebeplerimden-biri-bu-p384443",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/emlak-konut-bourges-baskete-fark-atti-h1585634",
       "source": "Ensonhaber",
       "published_at": "2026-11-25T18:15:50Z"
-    },
-    {
-      "title": "Trump seçmenlerinin yüzde 78'i İsrail'e desteğin azaltılmasını istiyor",
-      "link": "https://www.trthaber.com/haber/dunya/trump-secmenlerinin-yuzde-78i-israile-destegin-azaltilmasini-istiyor-964471.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-25T18:13:00Z"
     }
   ]
 }
