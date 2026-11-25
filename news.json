@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:11:56.723153Z",
+  "generated_at": "2026-11-25T02:52:19.531883Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kastamonu'da kar yağışı etkili oldu",
+      "link": "https://www.ensonhaber.com/kastamonuda-kar-yagisi-etkili-oldu-19834-h1585391",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-25T02:50:35Z"
+    },
     {
       "title": "Gazze'de 1,76 milyon Filistinliye soğuk hava tehdidi",
       "link": "https://www.ensonhaber.com/gazzede-176-milyon-filistinliye-soguk-hava-tehdidi-h1585390",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/abd-ordusunda-gorev-yapan-bir-asker-cine-gizli-bilgileri-sattigini-itiraf-etti-964359.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T19:12:00Z"
-    },
-    {
-      "title": "Yatırım fonlarındaki ara ödemelerin son kısmı 27 Kasım'da tamamlanacak",
-      "link": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarindaki-ara-odemelerin-son-kismi-27-kasimda-tamamlanacak-964360.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-24T19:08:00Z"
     }
   ]
 }
