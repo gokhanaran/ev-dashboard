@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:57:13.163674Z",
+  "generated_at": "2026-11-25T23:07:21.081703Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Fenerbahçe, Devler Ligi'nde 22 yıl sonra deplasmanda kazandı",
+      "link": "https://www.ensonhaber.com/fenerbahce-devler-liginde-22-yil-sonra-deplasmanda-kazandi-h1585671",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-25T23:06:10Z"
+    },
     {
       "title": "Chelsea'den paylaşım: Kante Bridge'e döndü",
       "link": "https://www.haberturk.com/spor/shakhtar-donetsk-fenerbahce-maci-sonrasi-chelsea-den-n-golo-kante-paylasimi-3930176",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/thomas-reisten-konferans-ligi-aciklamasi-h1585627",
       "source": "Ensonhaber",
       "published_at": "2026-11-25T18:17:10Z"
-    },
-    {
-      "title": "Emlak Konut, Bourges Basket'e fark attı",
-      "link": "https://www.ensonhaber.com/emlak-konut-bourges-baskete-fark-atti-h1585634",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-25T18:15:50Z"
     }
   ]
 }
