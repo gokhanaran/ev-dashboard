@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:07:21.081703Z",
+  "generated_at": "2026-11-25T23:12:25.237218Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 5
+      "items": 6
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Milyonlarca kişinin borcu siliniyor! Düzenleme Meclis'te",
+      "link": "https://www.sozcu.com.tr/gss-borclarinin-tahsilinden-vazgecilmesini-ongoren-teklif-mecliste-p384441",
+      "source": "Sözcü",
+      "published_at": "2026-11-25T23:08:56Z"
+    },
     {
       "title": "Fenerbahçe, Devler Ligi'nde 22 yıl sonra deplasmanda kazandı",
       "link": "https://www.ensonhaber.com/fenerbahce-devler-liginde-22-yil-sonra-deplasmanda-kazandi-h1585671",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-suudi-arabistana-saldiriya-tepki-964472.html",
       "source": "TRT Haber",
       "published_at": "2026-11-25T18:20:00Z"
-    },
-    {
-      "title": "Thomas Reis'ten Konferans Ligi açıklaması",
-      "link": "https://www.ensonhaber.com/thomas-reisten-konferans-ligi-aciklamasi-h1585627",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-25T18:17:10Z"
     }
   ]
 }
