@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:06:52.445687Z",
+  "generated_at": "2026-11-25T02:11:56.723153Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Gazze'de 1,76 milyon Filistinliye soğuk hava tehdidi",
+      "link": "https://www.ensonhaber.com/gazzede-176-milyon-filistinliye-soguk-hava-tehdidi-h1585390",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-25T02:09:04Z"
+    },
     {
       "title": "NATO'dan Türkiye'ye taziye mesajı",
       "link": "https://www.ensonhaber.com/natodan-turkiyeye-taziye-mesaji-56754-h1585389",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarindaki-ara-odemelerin-son-kismi-27-kasimda-tamamlanacak-964360.html",
       "source": "TRT Haber",
       "published_at": "2026-11-24T19:08:00Z"
-    },
-    {
-      "title": "Abdulkadir Uraloğlu: HGS'de usule uygun yapılmayan ödemeler iade edilecek",
-      "link": "https://www.ensonhaber.com/abdulkadir-uraloglu-hgsde-usule-uygun-yapilmayan-odemeler-iade-edilecek-h1585353",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-24T19:06:51Z"
     }
   ]
 }
