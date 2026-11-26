@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:30:06.522594Z",
+  "generated_at": "2026-11-26T05:35:11.045996Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Nasdaq'ta 23 saatlik işlem dönemi: Başlangıç tarihi belli oldu",
+      "link": "https://www.sozcu.com.tr/nasdaqta-23-saatlik-islem-donemi-baslangic-tarihi-belli-oldu-p384486",
+      "source": "Sözcü",
+      "published_at": "2026-11-26T05:28:55Z"
+    },
     {
       "title": "Melisa Döngel'den evliliğe yeşil ışık: Aile kursam fena olmaz",
       "link": "https://www.ensonhaber.com/melisa-dongelden-evlilige-yesil-isik-aile-kursam-fena-olmaz-h1585687",
@@ -748,12 +754,6 @@
       "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-2-balistik-fuze-imha-edildi-964484.html",
       "source": "TRT Haber",
       "published_at": "2026-11-25T21:35:00Z"
-    },
-    {
-      "title": "İzmir'de \"sahte Mehdi\" operasyonu: 4 tutuklama",
-      "link": "https://www.haberturk.com/gundem/izmir-de-sahte-mehdi-operasyonu-4-tutuklama-3930167",
-      "source": "Habertürk",
-      "published_at": "2026-11-25T21:32:21Z"
     }
   ]
 }
