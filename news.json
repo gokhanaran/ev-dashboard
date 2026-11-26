@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:03:04.334763Z",
+  "generated_at": "2026-11-26T15:08:08.386700Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Iğdır'da akrabalar arasında bıçaklı kavga: 1 ölü",
+      "link": "https://www.ensonhaber.com/igdirda-akrabalar-arasinda-bicakli-kavga-1-olu-h1585938",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-26T15:07:56Z"
+    },
+    {
+      "title": "Amedspor'da şok ayrılık! Diagne yollar resmen ayrıldı",
+      "link": "https://www.sozcu.com.tr/amedspor-da-sok-ayrilik-resmen-aciklandi-p384683",
+      "source": "Sözcü",
+      "published_at": "2026-11-26T15:03:24Z"
+    },
     {
       "title": "Ceyhun Kazancı: A Milli Takım, yeniden ayağa kalkabilecek güçte",
       "link": "https://www.ensonhaber.com/ceyhun-kazanci-a-milli-takim-yeniden-ayaga-kalkabilecek-gucte-h1585937",
@@ -742,18 +754,6 @@
       "link": "https://www.sozcu.com.tr/libya-dan-turkiye-ye-ust-duzey-ziyaret-sonrasi-yunan-misir-hattinda-acil-telefon-trafigi-p384651",
       "source": "Sözcü",
       "published_at": "2026-11-26T12:54:17Z"
-    },
-    {
-      "title": "Tüm Galatasaraylılar bu haberi bekliyordu! Derbi öncesi müjdeli haber",
-      "link": "https://www.sozcu.com.tr/tum-galatasaraylilar-bu-haberi-bekliyordu-derbi-oncesi-mujdeli-haber-p384648",
-      "source": "Sözcü",
-      "published_at": "2026-11-26T12:53:14Z"
-    },
-    {
-      "title": "Bulgaristan ve Türkiye iş dünyası Sofya'da buluştu",
-      "link": "https://www.trthaber.com/haber/ekonomi/bulgaristan-ve-turkiye-is-dunyasi-sofyada-bulustu-964551.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-26T12:53:00Z"
     }
   ]
 }
