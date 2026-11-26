@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:37:40.584060Z",
+  "generated_at": "2026-11-26T23:47:47.357888Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Gürcistan İçişleri Bakanlığı: 16 gözaltı, 3 görevli yaralı",
+      "link": "https://www.sozcu.com.tr/besiktasin-batumdaki-macinda-olaylar-16-gozalti-3-gorevli-yarali-p384752",
+      "source": "Sözcü",
+      "published_at": "2026-11-26T23:43:26Z"
+    },
     {
       "title": "Mekke Anlaşması onaylandı: Resmi Gazete'de yayımlandı",
       "link": "https://www.ensonhaber.com/mekke-anlasmasi-onaylandi-resmi-gazetede-yayimlandi-h1586014",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/spor/cimsa-cbk-mersin-93-baxi-ferrol-57-mac-sonucu-3930435",
       "source": "Habertürk",
       "published_at": "2026-11-26T19:10:24Z"
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz ve Bakanlardan fon açıklaması",
-      "link": "https://www.haberturk.com/ekonomi/cumhurbaskani-yardimcisi-cevdet-yilmaz-ve-bakanlardan-fon-aciklamasi-3930401",
-      "source": "Habertürk",
-      "published_at": "2026-11-26T19:09:59Z"
     }
   ]
 }
