@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:47:47.357888Z",
+  "generated_at": "2026-11-26T23:52:51.194923Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Kayseri'de haber alınamayan adam ölü bulundu",
+      "link": "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-26T23:50:10Z"
+    },
     {
       "title": "Gürcistan İçişleri Bakanlığı: 16 gözaltı, 3 görevli yaralı",
       "link": "https://www.sozcu.com.tr/besiktasin-batumdaki-macinda-olaylar-16-gozalti-3-gorevli-yarali-p384752",
@@ -748,12 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/bakan-simsek-spk-donusum-projesi-kapsaminda-yapay-zeka-destekli-manipulasyona-karsi-erken-uyari-sistemi-kurulacak-3930414",
       "source": "Habertürk",
       "published_at": "2026-11-26T19:13:17Z"
-    },
-    {
-      "title": "ÇBK Mersin 5'te 5 yaptı!",
-      "link": "https://www.haberturk.com/spor/cimsa-cbk-mersin-93-baxi-ferrol-57-mac-sonucu-3930435",
-      "source": "Habertürk",
-      "published_at": "2026-11-26T19:10:24Z"
     }
   ]
 }
