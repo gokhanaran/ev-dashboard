@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:52:51.194923Z",
+  "generated_at": "2026-11-26T23:57:54.692145Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Çorum'da aynı iş yeri ikinci kez kurşunlandı: 1 yaralı",
+      "link": "https://www.ensonhaber.com/corumda-ayni-is-yeri-ikinci-kez-kursunlandi-1-yarali-h1586016",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-26T23:55:52Z"
+    },
+    {
       "title": "Kayseri'de haber alınamayan adam ölü bulundu",
       "link": "https://www.ensonhaber.com/kayseride-haber-alinamayan-adam-olu-bulundu-h1586015",
       "source": "Ensonhaber",
       "published_at": "2026-11-26T23:50:10Z"
+    },
+    {
+      "title": "Gürcistan'dan yaşanan olaylara ilişkin açıklama",
+      "link": "https://www.haberturk.com/gundem/gurcistan-dan-yasanan-olaylara-iliskin-aciklama-3930467",
+      "source": "Habertürk",
+      "published_at": "2026-11-26T23:48:39Z"
     },
     {
       "title": "Gürcistan İçişleri Bakanlığı: 16 gözaltı, 3 görevli yaralı",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-gurcu-mevkidasi-ile-gorustu-964589.html",
       "source": "TRT Haber",
       "published_at": "2026-11-26T19:19:00Z"
-    },
-    {
-      "title": "Hapoel Beer Sheva'ya karşı Beşiktaşlı taraftarlar: Ya Allah Bismillah, Allahu Ekber",
-      "link": "https://www.ensonhaber.com/hapoel-beer-shevaya-karsi-besiktasli-taraftarlar-ya-allah-bismillah-allahu-ekber-h1585979",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-26T19:17:07Z"
-    },
-    {
-      "title": "Bakan Şimşek, SPK dönüşüm projesini açıkladı",
-      "link": "https://www.haberturk.com/ekonomi/bakan-simsek-spk-donusum-projesi-kapsaminda-yapay-zeka-destekli-manipulasyona-karsi-erken-uyari-sistemi-kurulacak-3930414",
-      "source": "Habertürk",
-      "published_at": "2026-11-26T19:13:17Z"
     }
   ]
 }
