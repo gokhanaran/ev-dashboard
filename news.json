@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:19:21.936200Z",
+  "generated_at": "2026-11-27T18:24:24.941925Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "İtalya, BM raportörü Albanese için devreye girdi",
+      "link": "https://www.trthaber.com/haber/dunya/italya-bm-raportoru-albanese-icin-devreye-girdi-964689.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T18:17:00Z"
+    },
+    {
       "title": "4 İBB Meclis üyesi daha AK Parti’ye katıldı",
       "link": "https://www.ensonhaber.com/4-ibb-meclis-uyesi-daha-ak-partiye-katildi-h1586258",
       "source": "Ensonhaber",
       "published_at": "2026-11-27T18:16:52Z"
+    },
+    {
+      "title": "Fas'ta camilerde yağmur duası yapıldı",
+      "link": "https://www.trthaber.com/haber/dunya/fasta-camilerde-yagmur-duasi-yapildi-964688.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T18:15:00Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan yarın Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
@@ -742,18 +754,6 @@
       "link": "https://www.trthaber.com/haber/ekonomi/helal-pazari-gunluk-hayatin-her-alanina-yayiliyor-964673.html",
       "source": "TRT Haber",
       "published_at": "2026-11-27T13:54:00Z"
-    },
-    {
-      "title": "Hafızaları yaşlarına meydan okuyor!",
-      "link": "https://www.haberturk.com/bilgi/80-yasinda-olup-gencler-kadar-guclu-hafizaya-sahip-insanlarin-sirri-ne-3930662",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T13:53:53Z"
-    },
-    {
-      "title": "MIKA İstanbul'a geliyor",
-      "link": "https://www.haberturk.com/magazin/pop-yildizi-mika-istanbul-a-geliyor-3930659",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T13:52:41Z"
     }
   ]
 }
