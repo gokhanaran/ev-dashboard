@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:08:00.597722Z",
+  "generated_at": "2026-11-27T00:28:12.288914Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Iğdır'da iki aile arasında kavga: 5 yaralı",
+      "link": "https://www.ensonhaber.com/igdirda-iki-aile-arasinda-kavga-5-yarali-h1586018",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-27T00:27:16Z"
+    },
+    {
+      "title": "Yargıtay üyeliklerine seçme kararı Resmi Gazete'de",
+      "link": "https://www.trthaber.com/haber/turkiye/yargitay-uyeliklerine-secme-karari-resmi-gazetede-964602.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T00:20:00Z"
+    },
     {
       "title": "Zonguldak'ta maden ocağında iş kazası: 2 yaralı",
       "link": "https://www.ensonhaber.com/zonguldakta-maden-ocaginda-is-kazasi-2-yarali-h1586017",
@@ -742,18 +754,6 @@
       "link": "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
       "source": "Ensonhaber",
       "published_at": "2026-11-26T19:21:45Z"
-    },
-    {
-      "title": "Beşiktaş'a destek yağıyor! UEFA'nın çifte standardına büyük tepki",
-      "link": "https://www.sozcu.com.tr/besiktas-a-destek-yagiyor-uefa-nin-cifte-standardina-buyuk-tepki-p384710",
-      "source": "Sözcü",
-      "published_at": "2026-11-26T19:20:13Z"
-    },
-    {
-      "title": "TFF’den Beşiktaş açıklaması: UEFA nezdinde girişimde bulunacağız",
-      "link": "https://www.sozcu.com.tr/tffden-besiktas-aciklamasi-uefa-nezdinde-girisimde-bulunacagiz-p384718",
-      "source": "Sözcü",
-      "published_at": "2026-11-26T19:19:04Z"
     }
   ]
 }
