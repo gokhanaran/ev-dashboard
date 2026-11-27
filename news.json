@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:28:12.288914Z",
+  "generated_at": "2026-11-27T00:33:15.997131Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Gürcü polisinin maç öncesi orantısız müdahalesi kameralara yansıdı",
+      "link": "https://www.sozcu.com.tr/gurcu-polisinin-mac-oncesi-orantisiz-mudahalesi-kameralara-yansidi-p384753",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T00:30:30Z"
+    },
     {
       "title": "Iğdır'da iki aile arasında kavga: 5 yaralı",
       "link": "https://www.ensonhaber.com/igdirda-iki-aile-arasinda-kavga-5-yarali-h1586018",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/besiktastan-olaylar-sonrasi-ilk-aciklama-cumhurbaskanimiza-sukranlarimizi-sunariz-h1585981",
       "source": "Ensonhaber",
       "published_at": "2026-11-26T19:24:13Z"
-    },
-    {
-      "title": "Dışişleri Bakanı Hakan Fidan Gürcistan Dışişleri Bakanı ile görüştü",
-      "link": "https://www.ensonhaber.com/disisleri-bakani-hakan-fidan-gurcistan-disisleri-bakani-ile-gorustu-h1585980",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-26T19:21:45Z"
     }
   ]
 }
