@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:34:30.771102Z",
+  "generated_at": "2026-11-27T18:39:33.419000Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 22
+      "items": 23
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Son dakika...2027 bütçesi Meclis komisyonundan geçti",
+      "link": "https://www.sozcu.com.tr/son-dakika-2027-butcesi-meclis-komisyonundan-gecti-p384985",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T18:38:08Z"
+    },
+    {
+      "title": "Yanıltıcı reklam yapan firmaya rekor ceza",
+      "link": "https://www.haberturk.com/ekonomi/yaniltici-reklam-yapan-firmaya-rekor-ceza-3930714",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T18:33:57Z"
+    },
+    {
+      "title": "Gazze'de yağmur yeni bir felaketin habercisi",
+      "link": "https://www.trthaber.com/haber/dunya/gazzede-yagmur-yeni-bir-felaketin-habercisi-964692.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T18:31:00Z"
+    },
+    {
+      "title": "Edebiyatın kalbi Kahramanmaraş'ta attı",
+      "link": "https://www.haberturk.com/kultur-sanat/unesco-edebiyat-sehri-kahramanmaras-16-ulkeden-sair-ve-yazarlari-agirladi-3930712",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T18:30:23Z"
+    },
     {
       "title": "Ünlü isimlerin test sonuçları belli oldu: 3 isim pozitif çıktı",
       "link": "https://www.sozcu.com.tr/unlu-sorusturmasinda-yeni-pozitifler-27-kasim-2026-p384977",
@@ -64,6 +88,12 @@
       "link": "https://www.sozcu.com.tr/pfdk-den-4-super-lig-kulubune-para-cezasi-p384984",
       "source": "Sözcü",
       "published_at": "2026-11-27T18:27:20Z"
+    },
+    {
+      "title": "Kalp krizi geçirenlerin yüzde 99'unda aynı 4 risk",
+      "link": "https://www.trthaber.com/haber/dunya/kalp-krizi-gecirenlerin-yuzde-99unda-ayni-4-risk-964691.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T18:26:00Z"
     },
     {
       "title": "Beethoven'ın saçları ölümünün ardındaki sırrı ortaya çıkardı",
@@ -724,36 +754,6 @@
       "link": "https://www.ensonhaber.com/ramazan-ayi-icin-geri-sayim-basladi-uc-aylar-baslangic-tarihi-2026-2027-h1586225",
       "source": "Ensonhaber",
       "published_at": "2026-11-27T14:08:44Z"
-    },
-    {
-      "title": "Daltonlar'a yeni operasyon: Belgeseldeki lüks araçlar kiralık çıktı",
-      "link": "https://www.sozcu.com.tr/daltonlar-a-yeni-operasyon-belgeseldeki-araclar-kiralik-cikti-p384953",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T14:07:07Z"
-    },
-    {
-      "title": "Beşiktaş derbi için erteleme başvurusunda bulunacak mı? İlk ağızdan açıklama geldi",
-      "link": "https://www.sozcu.com.tr/besiktas-derbi-icin-erteleme-basvurusunda-bulunacak-mi-ilk-agizdan-aciklama-geldi-p384949",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T14:05:09Z"
-    },
-    {
-      "title": "Beşiktaş derbi için erteleme başvurusunda bulunacak mı? Açıklama geldi...",
-      "link": "https://www.ensonhaber.com/derbi-ertelenecek-mi-besiktas-cephesinden-aciklama-geldi-h1586224",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T14:02:20Z"
-    },
-    {
-      "title": "Fransa'da polisin gösterilerde ses bombası kullanması yasaklandı",
-      "link": "https://www.ensonhaber.com/fransada-polisin-gosterilerde-ses-bombasi-kullanmasi-yasaklandi-h1586223",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T14:01:20Z"
-    },
-    {
-      "title": "Hatay'da otomobilin üzerindeki çantanın çalındığı anlar kamerada",
-      "link": "https://www.ensonhaber.com/hatayda-otomobilin-uzerindeki-cantanin-calindigi-anlar-kamerada-h1586222",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T14:00:36Z"
     }
   ]
 }
