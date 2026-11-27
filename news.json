@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:57:54.692145Z",
+  "generated_at": "2026-11-27T00:08:00.597722Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,12 @@
     }
   ],
   "items": [
+    {
+      "title": "Zonguldak'ta maden ocağında iş kazası: 2 yaralı",
+      "link": "https://www.ensonhaber.com/zonguldakta-maden-ocaginda-is-kazasi-2-yarali-h1586017",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-27T00:05:15Z"
+    },
     {
       "title": "Çorum'da aynı iş yeri ikinci kez kurşunlandı: 1 yaralı",
       "link": "https://www.ensonhaber.com/corumda-ayni-is-yeri-ikinci-kez-kursunlandi-1-yarali-h1586016",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/tffden-besiktas-aciklamasi-uefa-nezdinde-girisimde-bulunacagiz-p384718",
       "source": "Sözcü",
       "published_at": "2026-11-26T19:19:04Z"
-    },
-    {
-      "title": "Bakan Fidan, Gürcü mevkidaşı ile görüştü",
-      "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-gurcu-mevkidasi-ile-gorustu-964589.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-26T19:19:00Z"
     }
   ]
 }
