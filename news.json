@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:04:13.208407Z",
+  "generated_at": "2026-11-27T18:09:16.203838Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -13,7 +13,7 @@
       "source": "Sözcü",
       "url": "https://www.sozcu.com.tr/feeds-son-dakika",
       "ok": true,
-      "items": 21
+      "items": 22
     },
     {
       "source": "Sözcü",
@@ -35,6 +35,36 @@
     }
   ],
   "items": [
+    {
+      "title": "Cumhurbaşkanı Erdoğan yarın Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
+      "link": "https://www.sozcu.com.tr/cumhurbaskani-erdogan-tasulas-ile-gorusecek-p384983",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T18:09:01Z"
+    },
+    {
+      "title": "Evlendiler",
+      "link": "https://www.haberturk.com/magazin/foto/yunus-akgun-ve-tugce-alaca-evlendi-3930698",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T18:01:11Z"
+    },
+    {
+      "title": "Kupada 5. tur kurası 4 Aralık’ta!",
+      "link": "https://www.haberturk.com/spor/ziraat-turkiye-kupasi-5-tur-kurasi-4-aralikta-yapilacak-3930708",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T17:59:37Z"
+    },
+    {
+      "title": "2027 bütçesi komisyondan geçti",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-2027-butcesi-komisyondan-gecti-3930707",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T17:57:56Z"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan yarın Tasulas ile görüşecek",
+      "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yarin-tasulas-ile-gorusecek-964687.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T17:54:00Z"
+    },
     {
       "title": "Galatasaraylı futbolcu Yunus Akgün ve Tuğçe Alaca dünyaevine girdi",
       "link": "https://www.sozcu.com.tr/galatasarayli-futbolcu-yunus-akgun-ve-tugce-alaca-dunyaevine-girdi-p384981",
@@ -58,12 +88,6 @@
       "link": "https://www.sozcu.com.tr/iran-dan-abd-ye-tehdit-dusman-havada-ve-denizde-eylemimizi-beklesin-p384974",
       "source": "Sözcü",
       "published_at": "2026-11-27T17:50:44Z"
-    },
-    {
-      "title": "Evlendiler",
-      "link": "https://www.haberturk.com/magazin/foto/yunus-akgun-ve-tugce-alaca-evlendi-3930698",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T17:50:14Z"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan, Yunan mevkidaşı ile görüşecek",
@@ -730,30 +754,6 @@
       "link": "https://www.haberturk.com/yasam/corum-un-tandir-kebabi-tescillendi-3930661",
       "source": "Habertürk",
       "published_at": "2026-11-27T13:50:14Z"
-    },
-    {
-      "title": "DEİK, Helal Expo 2026da TürkiyeYemen İş Forumu düzenledi",
-      "link": "https://www.trthaber.com/haber/ekonomi/deik-helal-expo-2026da-turkiye-yemen-is-forumu-duzenledi-964672.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-27T13:50:00Z"
-    },
-    {
-      "title": "Yapay zeka su kıtlığı mı yaratacak?",
-      "link": "https://www.haberturk.com/gundem/yapay-zeka-su-kitligi-mi-yaratacak-3930656",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T13:49:58Z"
-    },
-    {
-      "title": "Dağlarda kendi kendine yetişiyor: Kilosu 600 lira",
-      "link": "https://www.sozcu.com.tr/daglarda-kendi-kendine-yetisiyor-kilosu-600-lira-p384951",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T13:49:09Z"
-    },
-    {
-      "title": "2 saatlik yolu 2 dakikaya indirdi, 3,3 milyon kişi köprüyü görmeye geldi",
-      "link": "https://www.ensonhaber.com/2-saatlik-yolu-2-dakikaya-indirdi-33-milyon-kisi-kopruyu-gormeye-geldi-h1586219",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T13:47:43Z"
     }
   ]
 }
