@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:50:49.809839Z",
+  "generated_at": "2026-11-27T07:55:53.262774Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,30 @@
   ],
   "items": [
     {
+      "title": "Türkiye'de elektrikli araç şarj istasyonu sayısı artıyor",
+      "link": "https://www.ensonhaber.com/turkiyede-elektrikli-arac-sarj-istasyonu-sayisi-artiyor-h1586094",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-27T07:54:18Z"
+    },
+    {
+      "title": "Batman'da suça özendirici paylaşımlara operasyon: 6 gözaltı",
+      "link": "https://www.ensonhaber.com/batmanda-suca-ozendirici-paylasimlara-operasyon-6-gozalti-h1586093",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-27T07:53:10Z"
+    },
+    {
+      "title": "SGK Uzmanı canlı yayında kuruşu kuruşuna hesapladı: Asgari ücret ve en düşük emekli aylığı ne kadar olacak?",
+      "link": "https://www.sozcu.com.tr/sgk-uzmani-canli-yayinda-kurusu-kurusuna-hesapladi-asgari-ucret-ve-en-dusuk-emekli-ayligi-ne-kadar-p384847",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T07:52:36Z"
+    },
+    {
+      "title": "Duyan ‘Ölümsüzlük suyu’ için bu ilimize akın ediyor: Tam 7,5 metre genişliğinde",
+      "link": "https://www.sozcu.com.tr/duyan-olumsuzluk-suyu-icin-bu-ilimize-akin-ediyor-tam-7-5-metre-genisliginde-p384845",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T07:51:42Z"
+    },
+    {
       "title": "Japonya'dan Fatma Şahin'e Türkiye-Japonya dostluğuna katkılarından dolayı nişan",
       "link": "https://www.ensonhaber.com/japonyadan-fatma-sahine-turkiye-japonya-dostluguna-katkilarindan-dolayi-nisan-h1586059",
       "source": "Ensonhaber",
@@ -48,6 +72,12 @@
       "published_at": "2026-11-27T07:46:34Z"
     },
     {
+      "title": "Başarısız kaçma girişimi",
+      "link": "https://www.haberturk.com/magazin/ahu-yagtu-ile-sevgilisinin-basarisiz-kacma-girisimi-magazin-haberleri-3795924",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T07:45:54Z"
+    },
+    {
       "title": "Galatasaray'da Zaha dönemi kapandı",
       "link": "https://www.sozcu.com.tr/galatasarayda-zaha-donemi-kapandi-p384840",
       "source": "Sözcü",
@@ -58,6 +88,12 @@
       "link": "https://www.ensonhaber.com/cafer-mahiroglu-sorusturmasinda-yeni-dalga-h1586073",
       "source": "Ensonhaber",
       "published_at": "2026-11-27T07:45:11Z"
+    },
+    {
+      "title": "Hem okuyan hem çalışan gençlik",
+      "link": "https://www.haberturk.com/gundem/hem-okuyan-hem-calisan-genclik-3930524",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T07:45:00Z"
     },
     {
       "title": "İzmir'de uyuşturucu satıcılarına suçüstü: 2 gözaltı",
@@ -76,6 +112,12 @@
       "link": "https://www.sozcu.com.tr/iki-bozayi-vurularak-oldurulmustu-soguksu-milli-park-muduru-gorevden-alindi-p384831",
       "source": "Sözcü",
       "published_at": "2026-11-27T07:43:16Z"
+    },
+    {
+      "title": "Cani annenin cezası belli oldu! Bebek canlıymış",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cani-annenin-cezasi-belli-oldu-bebek-canliymis-samsun-haberleri-3930477",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T07:42:51Z"
     },
     {
       "title": "Öldürdüğü arkadaşının hesabından borçlarını ödedi",
@@ -570,12 +612,6 @@
       "published_at": "2026-11-27T06:55:55Z"
     },
     {
-      "title": "Cani annenin cezası belli oldu! Bebek canlıymış",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cani-annenin-cezasi-belli-oldu-bebek-canliymis-samsun-haberleri-3930477",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T06:54:48Z"
-    },
-    {
       "title": "Arda Güler'den Beşiktaş'a sosyal medyada destek",
       "link": "https://www.sozcu.com.tr/arda-gulerden-besiktasa-sosyal-medyada-destek-p384815",
       "source": "Sözcü",
@@ -718,42 +754,6 @@
       "link": "https://www.trthaber.com/haber/turkiye/istanbulda-unlulere-yonelik-uyusturucu-sorusturmasinda-3-zanli-tutuklandi-964611.html",
       "source": "TRT Haber",
       "published_at": "2026-11-27T06:28:00Z"
-    },
-    {
-      "title": "Herkes bunu konuşuyor! TRT spikerinin maç sonu mesajı gündem oldu",
-      "link": "https://www.sozcu.com.tr/herkes-bunu-konusuyor-trt-spikerinin-mac-sonu-mesaji-gundem-oldu-p384808",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T06:26:10Z"
-    },
-    {
-      "title": "Fon soruşturmasında 1 şüpheli daha tutuklandı",
-      "link": "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-1-supheli-daha-tutuklandi-964610.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-27T06:26:00Z"
-    },
-    {
-      "title": "Fon soruşturması: Kemal Akkaya serbest bırakıldı, 1 kişi tutuklandı",
-      "link": "https://www.ensonhaber.com/fon-sorusturmasi-kemal-akkaya-serbest-birakildi-3-kisi-tutuklandi-h1586057",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T06:25:06Z"
-    },
-    {
-      "title": "Hindistan'da bir garip dilek ritüeli: Fil heykelinin altında sıkışıp kaldı",
-      "link": "https://www.ensonhaber.com/hindistanda-bir-garip-dilek-ritueli-fil-heykelinin-altinda-sikisip-kaldi-h1586056",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T06:24:27Z"
-    },
-    {
-      "title": "Fon soruşturmasında üçüncü kez gözaltına alınan isim serbest bırakıldı",
-      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-ucuncu-kez-gozaltina-alinan-isim-serbest-birakildi-p384809",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T06:24:09Z"
-    },
-    {
-      "title": "Erzincan Ergan Dağı’nda kurtarma operasyonu",
-      "link": "https://www.ensonhaber.com/erzincan-ergan-daginda-kurtarma-operasyonu-h1586055",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T06:22:56Z"
     }
   ]
 }
