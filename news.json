@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:24:24.941925Z",
+  "generated_at": "2026-11-27T18:29:27.718377Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,24 @@
     }
   ],
   "items": [
+    {
+      "title": "PFDK'den 4 Süper Lig kulübüne para cezası",
+      "link": "https://www.sozcu.com.tr/pfdk-den-4-super-lig-kulubune-para-cezasi-p384984",
+      "source": "Sözcü",
+      "published_at": "2026-11-27T18:27:20Z"
+    },
+    {
+      "title": "Beethoven'ın saçları ölümünün ardındaki sırrı ortaya çıkardı",
+      "link": "https://www.trthaber.com/haber/dunya/beethovenin-saclari-olumunun-ardindaki-sirri-ortaya-cikardi-964690.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-27T18:21:00Z"
+    },
+    {
+      "title": "Ünlülerin uyuşturucu testleri sonuçlandı",
+      "link": "https://www.haberturk.com/gundem/uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-12-kisinin-negatif-cikti-3930710",
+      "source": "Habertürk",
+      "published_at": "2026-11-27T18:20:55Z"
+    },
     {
       "title": "İtalya, BM raportörü Albanese için devreye girdi",
       "link": "https://www.trthaber.com/haber/dunya/italya-bm-raportoru-albanese-icin-devreye-girdi-964689.html",
@@ -736,24 +754,6 @@
       "link": "https://www.haberturk.com/ekonomi/bursa-ya-yht-icin-tarih-belli-oldu-3930658",
       "source": "Habertürk",
       "published_at": "2026-11-27T13:57:20Z"
-    },
-    {
-      "title": "Rekabet'ten Xiaomi'ye soruşturma",
-      "link": "https://www.haberturk.com/ekonomi/rekabet-kurumu-ndan-xiaomi-ve-infinix-telefonlarina-yonelik-fiyat-sorusturmasi-fiyatlar-dusecek-mi-3930548",
-      "source": "Habertürk",
-      "published_at": "2026-11-27T13:55:22Z"
-    },
-    {
-      "title": "Galatasaray'da Beşiktaş derbisi mesaisi sürüyor",
-      "link": "https://www.sozcu.com.tr/galatasarayda-besiktas-derbisi-mesaisi-suruyor-p384954",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T13:54:04Z"
-    },
-    {
-      "title": "Helal pazarı günlük hayatın her alanına yayılıyor",
-      "link": "https://www.trthaber.com/haber/ekonomi/helal-pazari-gunluk-hayatin-her-alanina-yayiliyor-964673.html",
-      "source": "TRT Haber",
-      "published_at": "2026-11-27T13:54:00Z"
     }
   ]
 }
