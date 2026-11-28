@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:26:50.883642Z",
+  "generated_at": "2026-11-28T10:31:55.317230Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -40,6 +40,12 @@
       "link": "https://www.ensonhaber.com/aksarayda-kaybolan-kopegi-getirene-100-bin-tl-odul-h1586394",
       "source": "Ensonhaber",
       "published_at": "2026-11-28T10:22:23Z"
+    },
+    {
+      "title": "Özgür Özel ve 4 milletvekili için fezleke talebi",
+      "link": "https://www.trthaber.com/haber/gundem/ozgur-ozel-ve-4-milletvekili-icin-fezleke-talebi-964742.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-28T10:22:00Z"
     },
     {
       "title": "Karın ağrısıyla hastaneye giden 10 yaşındaki çocuğun içinden fetüs iskeleti çıktı",
@@ -748,12 +754,6 @@
       "link": "https://www.ensonhaber.com/ahmet-cakar-besiktas-galatasaray-derbisi-icin-tahminini-acikladi-h1586344",
       "source": "Ensonhaber",
       "published_at": "2026-11-28T07:56:22Z"
-    },
-    {
-      "title": "Blok3 63 milyon liralık cipini bu plakayla kullanacak",
-      "link": "https://www.sozcu.com.tr/blok3-63-milyon-liralik-cipini-bu-plakayla-kullanacak-p385054",
-      "source": "Sözcü",
-      "published_at": "2026-11-28T07:54:52Z"
     }
   ]
 }
