@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:20:21.832240Z",
+  "generated_at": "2026-11-28T01:30:26.782116Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -35,6 +35,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Kayseri'de boğazına yemek kaçan öğrenciyi Heimlich manevrasıyla kurtardılar",
+      "link": "https://www.ensonhaber.com/kayseride-bogazina-yemek-kacan-ogrenciyi-heimlich-manevrasiyla-kurtardilar-h1586283",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-28T01:29:36Z"
+    },
+    {
+      "title": "Bolu'da kaybolan 10 çocuk ve 3 personel bulundu! Bakanlıktan açıklama geldi",
+      "link": "https://www.sozcu.com.tr/bolu-da-arac-kayboldu-p384993",
+      "source": "Sözcü",
+      "published_at": "2026-11-28T01:27:13Z"
+    },
     {
       "title": "IMF'den Türkiye'ye açıklaması",
       "link": "https://www.sozcu.com.tr/imfden-turkiyeye-aciklamasi-p385004",
@@ -742,18 +754,6 @@
       "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyalari-2026-kasim-ayinda-en-yuksek-emekli-promosyon-veren-banka-hangisi-sartlari-neler-3930667",
       "source": "Habertürk",
       "published_at": "2026-11-27T17:23:06Z"
-    },
-    {
-      "title": "Fenerbahçe, Erzurumspor FK hazırlıklarına başladı",
-      "link": "https://www.sozcu.com.tr/fenerbahce-erzurumspor-fk-hazirliklarina-basladi-p384980",
-      "source": "Sözcü",
-      "published_at": "2026-11-27T17:19:33Z"
-    },
-    {
-      "title": "Fon tasfiye sürecinde ödemeler tamamlandı",
-      "link": "https://www.ensonhaber.com/fon-tasfiye-surecinde-odemeler-tamamlandi-h1586256",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-27T17:17:59Z"
     }
   ]
 }
