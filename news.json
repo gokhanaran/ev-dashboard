@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:21:46.291936Z",
+  "generated_at": "2026-11-28T10:26:50.883642Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,10 +36,22 @@
   ],
   "items": [
     {
+      "title": "Aksaray'da kaybolan köpeği getirene 100 bin TL ödül",
+      "link": "https://www.ensonhaber.com/aksarayda-kaybolan-kopegi-getirene-100-bin-tl-odul-h1586394",
+      "source": "Ensonhaber",
+      "published_at": "2026-11-28T10:22:23Z"
+    },
+    {
       "title": "Karın ağrısıyla hastaneye giden 10 yaşındaki çocuğun içinden fetüs iskeleti çıktı",
       "link": "https://www.sozcu.com.tr/karin-agrisiyla-hastaneye-giden-10-yasindaki-oglanin-icinden-fetus-iskeleti-cikti-p385092",
       "source": "Sözcü",
       "published_at": "2026-11-28T10:18:03Z"
+    },
+    {
+      "title": "Yedigöller'de bataklığa saplandılar! Böyle kurtarıldılar",
+      "link": "https://www.haberturk.com/gundem/foto/son-dakika-haberi-yedigoller-de-batakliga-saplandilar-boyle-kurtarildilar-3930783",
+      "source": "Habertürk",
+      "published_at": "2026-11-28T10:18:01Z"
     },
     {
       "title": "Bakan Göktaş'ın çocukların kurtarıldığını öğrendiği an",
@@ -438,12 +450,6 @@
       "published_at": "2026-11-28T09:00:21Z"
     },
     {
-      "title": "Yedigöller'de bataklığa saplandılar! Böyle kurtarıldılar",
-      "link": "https://www.haberturk.com/gundem/foto/son-dakika-haberi-yedigoller-de-batakliga-saplandilar-boyle-kurtarildilar-3930783",
-      "source": "Habertürk",
-      "published_at": "2026-11-28T09:00:12Z"
-    },
-    {
       "title": "Akın Gürlek: Seçilmiş veya atanmış olmak kimseye imtiyaz sağlamaz",
       "link": "https://www.ensonhaber.com/akin-gurlek-secilmis-veya-atanmis-olmak-kimseye-imtiyaz-saglamaz-h1586371",
       "source": "Ensonhaber",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/blok3-63-milyon-liralik-cipini-bu-plakayla-kullanacak-p385054",
       "source": "Sözcü",
       "published_at": "2026-11-28T07:54:52Z"
-    },
-    {
-      "title": "Ankara'da uyuşturucu ve fuhuş soruşturmasında 22 tutuklama",
-      "link": "https://www.ensonhaber.com/ankarada-uyusturucu-ve-fuhus-sorusturmasinda-22-tutuklama-h1586355",
-      "source": "Ensonhaber",
-      "published_at": "2026-11-28T07:53:42Z"
     }
   ]
 }
