@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:47:09.069659Z",
+  "generated_at": "2026-11-28T10:52:13.455975Z",
   "window_hours": 48,
   "count": 120,
   "sources": [
@@ -36,6 +36,12 @@
   ],
   "items": [
     {
+      "title": "Sarıgül soruşturmasında Özgür Özel'e fezleke",
+      "link": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
+      "source": "Habertürk",
+      "published_at": "2026-11-28T10:46:09Z"
+    },
+    {
       "title": "ASELSAN'ın ANTIDOT sistemi 10 bin saatlik uçuş süresini geride bıraktı",
       "link": "https://www.ensonhaber.com/aselsanin-antidot-sistemi-10-bin-saatlik-ucus-suresini-geride-birakti-h1586391",
       "source": "Ensonhaber",
@@ -66,6 +72,12 @@
       "published_at": "2026-11-28T10:41:06Z"
     },
     {
+      "title": "Rusya: Moskova bölgesi 462 İHA'yla hedef alındı",
+      "link": "https://www.trthaber.com/haber/dunya/rusya-moskova-bolgesi-462-ihayla-hedef-alindi-964744.html",
+      "source": "TRT Haber",
+      "published_at": "2026-11-28T10:41:00Z"
+    },
+    {
       "title": "Son dakika... Sarıgül soruşturmasında yeni gelişme: Özgür Özel ve 4 YENİ Partili vekilin dosyası Ankara'ya gönderildi",
       "link": "https://www.sozcu.com.tr/son-dakika-sarigul-sorusturmasinda-yeni-gelisme-ozgur-ozel-dahil-5-yeni-partili-vekilin-dosyasi-p385090",
       "source": "Sözcü",
@@ -88,12 +100,6 @@
       "link": "https://www.ensonhaber.com/aksarayda-kaybolan-kopegi-getirene-100-bin-tl-odul-h1586394",
       "source": "Ensonhaber",
       "published_at": "2026-11-28T10:22:23Z"
-    },
-    {
-      "title": "Sarıgül soruşturmasında Özgür Özel'e fezleke",
-      "link": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
-      "source": "Habertürk",
-      "published_at": "2026-11-28T10:22:10Z"
     },
     {
       "title": "Özgür Özel ve 4 milletvekili için fezleke talebi",
@@ -748,12 +754,6 @@
       "link": "https://www.sozcu.com.tr/super-el-nino-bitiyor-guclu-la-nina-geliyor-2027-kisi-icin-yuzde-90-lik-soguk-hava-uyarisi-p385060",
       "source": "Sözcü",
       "published_at": "2026-11-28T08:10:27Z"
-    },
-    {
-      "title": "ABD'yi fırtına vurdu: 216 binden fazla hane elektriksiz",
-      "link": "https://www.haberturk.com/dunya/abd-yi-sukran-gunu-nde-vuran-firtinanin-ardindan-216-binden-fazla-haneye-hala-elektrik-verilemiyor-3930787",
-      "source": "Habertürk",
-      "published_at": "2026-11-28T08:10:07Z"
     }
   ]
 }
